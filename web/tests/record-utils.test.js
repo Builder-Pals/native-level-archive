@@ -78,6 +78,7 @@ async function run() {
     rootPlaceId: 12345,
     universeId: 67890,
     name: "Example place",
+    evidenceDetail: "The archived title and badges identify this place.",
     preferred: true,
   };
 
@@ -94,18 +95,42 @@ async function run() {
     status: "verified",
     confidence: "high",
     reviewed: true,
+    evidence: [
+      {
+        kind: "manual",
+        value: "12345",
+        detail: "The archived title and badges identify this place.",
+      },
+    ],
   });
   assert.equal(associated.preferred, true);
   assert.equal(utils.isPublishableRecord(associated), true);
 
   associated.source.description = "Retained metadata";
-  associated.match.evidence = [{ kind: "manual", value: "12345" }];
+  associated.match.evidence.unshift({ kind: "badge", value: "987", detail: "Badge evidence" });
   const retained = utils.planPlaceAssociation([associated], associated.id, {
     ...association,
     name: "Updated name",
+    evidenceDetail: "Reviewed the title and badge evidence again.",
   }).updates[0].record;
   assert.equal(retained.source.description, "Retained metadata");
-  assert.deepEqual(retained.match.evidence, [{ kind: "manual", value: "12345" }]);
+  assert.deepEqual(retained.match.evidence, [
+    { kind: "badge", value: "987", detail: "Badge evidence" },
+    {
+      kind: "manual",
+      value: "12345",
+      detail: "Reviewed the title and badge evidence again.",
+    },
+  ]);
+
+  assert.deepEqual(utils.knownPlaceAssociation([associated], 12345), {
+    rootPlaceId: 12345,
+    universeId: 67890,
+    name: "Example place",
+    recordCount: 1,
+    preferredId: associated.id,
+  });
+  assert.equal(utils.knownPlaceAssociation([associated], 99999), null);
 
   const existingPreferred = withId(associated, idFor("b"));
   const replacesPreferred = utils.planPlaceAssociation(
@@ -148,6 +173,7 @@ async function run() {
         rootPlaceId: 22222,
         universeId: 33333,
         name: "New place",
+        evidenceDetail: "Manual review linked this snapshot to the new place.",
         preferred: true,
       }),
     /replacement preferred snapshot/,
@@ -156,6 +182,7 @@ async function run() {
     rootPlaceId: 22222,
     universeId: 33333,
     name: "New place",
+    evidenceDetail: "Manual review linked this snapshot to the new place.",
     preferred: true,
     oldPreferredRecordId: oldVariant.id,
   });
@@ -172,6 +199,19 @@ async function run() {
         universeId: 99999,
       }),
     /Universe ID does not match/,
+  );
+
+  assert.throws(
+    () => utils.planPlaceAssociation([record], record.id, { ...association, evidenceDetail: "" }),
+    /Review evidence is required/,
+  );
+
+  const invalidSource = JSON.parse(JSON.stringify(associated));
+  invalidSource.source.root_place_id = 0;
+  invalidSource.source.universe_id = 0;
+  assert.ok(
+    utils.validateRecord(invalidSource).filter((error) => error.includes("positive integer"))
+      .length >= 2,
   );
 
   console.log("record-utils tests passed");

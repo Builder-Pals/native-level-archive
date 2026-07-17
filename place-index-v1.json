@@ -485,6 +485,15 @@
       },
       "variants": [
         {
+          "record_id": "nla_9e4f05af76b5c21ba1bca1db7d20868e",
+          "title": "#5 - Work at a Pizza Place (2020 version)",
+          "snapshot_date": "2020-01-01",
+          "sha256": "af0d7f912f1286c82037e2c0543381f61ea875a2f8e30b38a94b2f4436204fe2",
+          "size_bytes": 5508836,
+          "path": "levels/sha256/af/af0d7f912f1286c82037e2c0543381f61ea875a2f8e30b38a94b2f4436204fe2.rbxl",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/af/af0d7f912f1286c82037e2c0543381f61ea875a2f8e30b38a94b2f4436204fe2.rbxl"
+        },
+        {
           "record_id": "nla_10578d7d191e2983353c07f2f8261ed1",
           "title": "Work at a Pizza Place (2014L)",
           "snapshot_date": "2014-01-01",

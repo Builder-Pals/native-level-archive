@@ -238,6 +238,33 @@
     return JSON.parse(JSON.stringify(value));
   }
 
+  function knownPlaceAssociation(records, rootPlaceId, excludeId = null) {
+    if (!Array.isArray(records) || !Number.isSafeInteger(rootPlaceId) || rootPlaceId <= 0) {
+      return null;
+    }
+    const matches = records.filter(
+      (record) =>
+        record?.id !== excludeId &&
+        isPublishableRecord(record) &&
+        record.source.root_place_id === rootPlaceId,
+    );
+    if (matches.length === 0) {
+      return null;
+    }
+    const universeIds = new Set(matches.map((record) => record.source.universe_id));
+    if (universeIds.size !== 1) {
+      throw new Error(`Existing records disagree about the universe for place ${rootPlaceId}.`);
+    }
+    const representative = matches.find((record) => record.preferred) || matches[0];
+    return {
+      rootPlaceId,
+      universeId: representative.source.universe_id,
+      name: representative.source.name,
+      recordCount: matches.length,
+      preferredId: matches.find((record) => record.preferred)?.id || null,
+    };
+  }
+
   function planPlaceAssociation(records, selectedId, association) {
     if (!Array.isArray(records)) {
       throw new Error("Records must be an array.");
@@ -253,6 +280,8 @@
     const rootPlaceId = association?.rootPlaceId;
     const universeId = association?.universeId;
     const name = typeof association?.name === "string" ? association.name.trim() : "";
+    const evidenceDetail =
+      typeof association?.evidenceDetail === "string" ? association.evidenceDetail.trim() : "";
     if (!Number.isSafeInteger(rootPlaceId) || rootPlaceId <= 0) {
       throw new Error("Root place ID must be a positive integer.");
     }
@@ -261,6 +290,9 @@
     }
     if (name === "") {
       throw new Error("Place name is required.");
+    }
+    if (evidenceDetail === "") {
+      throw new Error("Review evidence is required for a manual place association.");
     }
 
     const existingTargetRecords = records.filter(
@@ -300,6 +332,18 @@
       status: "verified",
       confidence: "high",
       reviewed: true,
+      evidence: [
+        ...(Array.isArray(selected.match?.evidence)
+          ? selected.match.evidence.filter(
+              (item) => !(item?.kind === "manual" && item?.value === String(rootPlaceId)),
+            )
+          : []),
+        {
+          kind: "manual",
+          value: String(rootPlaceId),
+          detail: evidenceDetail,
+        },
+      ],
     };
     selected.preferred = Boolean(association.preferred);
 
@@ -447,11 +491,11 @@
       if (!isObject(record.source)) {
         errors.push("source must be an object when present.");
       } else {
-        if (!isSafeInteger(record.source.root_place_id)) {
-          errors.push("source.root_place_id must be a non-negative integer.");
+        if (!Number.isSafeInteger(record.source.root_place_id) || record.source.root_place_id <= 0) {
+          errors.push("source.root_place_id must be a positive integer.");
         }
-        if (!isSafeInteger(record.source.universe_id)) {
-          errors.push("source.universe_id must be a non-negative integer.");
+        if (!Number.isSafeInteger(record.source.universe_id) || record.source.universe_id <= 0) {
+          errors.push("source.universe_id must be a positive integer.");
         }
         if (typeof record.source.name !== "string" || record.source.name.trim() === "") {
           errors.push("source.name must be a non-empty string.");
@@ -514,6 +558,7 @@
     deepEqual,
     inspectPlace,
     isPublishableRecord,
+    knownPlaceAssociation,
     parseSnapshot,
     planPlaceAssociation,
     recordSearchText,

@@ -68,15 +68,24 @@
         <p id="association-record"></p>
         <label>
           Root place ID
-          <input id="association-place-id" type="number" min="1" step="1" required>
+          <input id="association-place-id" type="number" min="1" step="1" list="known-place-ids" required>
+          <datalist id="known-place-ids"></datalist>
         </label>
+        <div class="association-tools">
+          <button id="use-known-place" type="button" hidden>Use metadata from linked snapshots</button>
+          <a id="association-place-link" href="https://www.roblox.com/games/" target="_blank" rel="noreferrer" hidden>Open place on Roblox</a>
+        </div>
         <label>
-          Universe ID
+          Universe ID (filled automatically when already known)
           <input id="association-universe-id" type="number" min="1" step="1" required>
         </label>
         <label>
           Place name
           <input id="association-name" type="text" required>
+        </label>
+        <label>
+          Review evidence
+          <textarea id="association-evidence" rows="3" required placeholder="Explain how this archive entry was matched to the root place."></textarea>
         </label>
         <label class="checkbox-label">
           <input id="association-preferred" type="checkbox">
@@ -89,8 +98,9 @@
         </label>
         <pre id="association-errors" class="error" hidden></pre>
         <p>
-          Saving marks this association as manually reviewed and verified. Existing evidence is
-          retained; enriched source metadata is retained when the IDs do not change.
+          Saving records the review evidence and marks this association as manually reviewed and
+          verified. Existing evidence is retained; enriched source metadata is retained when the
+          IDs do not change.
         </p>
         <div>
           <button id="cancel-association" type="button">Cancel</button>

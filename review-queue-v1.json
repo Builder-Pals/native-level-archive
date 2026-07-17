@@ -12147,39 +12147,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_9e4f05af76b5c21ba1bca1db7d20868e",
-    "title": "#5 - Work at a Pizza Place (2020 version)",
-    "snapshot": {
-      "label": "2020 version",
-      "date": "2020-01-01",
-      "precision": "year"
-    },
-    "blob": {
-      "sha256": "af0d7f912f1286c82037e2c0543381f61ea875a2f8e30b38a94b2f4436204fe2",
-      "path": "levels/sha256/af/af0d7f912f1286c82037e2c0543381f61ea875a2f8e30b38a94b2f4436204fe2.rbxl",
-      "format": "binary",
-      "size_bytes": 5508836,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/af/af0d7f912f1286c82037e2c0543381f61ea875a2f8e30b38a94b2f4436204fe2.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "#5 - Work at a Pizza Place (2020 version).rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_9f0ac9c17356bde4e96f3a3157fa3226",
     "title": "BouyertheDestroyer's The Best Pirates of the Robloxian Clone Ever!",
     "snapshot": {},

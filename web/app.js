@@ -7,10 +7,12 @@
     addForm: document.querySelector("#add-form"),
     associatePlace: document.querySelector("#associate-place"),
     associationDialog: document.querySelector("#association-dialog"),
+    associationEvidence: document.querySelector("#association-evidence"),
     associationErrors: document.querySelector("#association-errors"),
     associationForm: document.querySelector("#association-form"),
     associationName: document.querySelector("#association-name"),
     associationPlaceId: document.querySelector("#association-place-id"),
+    associationPlaceLink: document.querySelector("#association-place-link"),
     associationPreferred: document.querySelector("#association-preferred"),
     associationRecord: document.querySelector("#association-record"),
     associationTargetSummary: document.querySelector("#association-target-summary"),
@@ -27,6 +29,7 @@
     message: document.querySelector("#message"),
     newEntry: document.querySelector("#new-entry"),
     newTitle: document.querySelector("#new-title"),
+    knownPlaceIds: document.querySelector("#known-place-ids"),
     openRepository: document.querySelector("#open-repository"),
     originalPath: document.querySelector("#original-path"),
     oldPreferredField: document.querySelector("#old-preferred-field"),
@@ -38,6 +41,7 @@
     revert: document.querySelector("#revert"),
     save: document.querySelector("#save"),
     search: document.querySelector("#search"),
+    useKnownPlace: document.querySelector("#use-known-place"),
     validationErrors: document.querySelector("#validation-errors"),
   };
 
@@ -47,6 +51,9 @@
     rootDirectory: null,
     selected: null,
     originalEditorText: "",
+    associationPlaceId: null,
+    associationUniverseManuallyEdited: false,
+    associationNameManuallyEdited: false,
   };
 
   function setMessage(text, kind = "") {
@@ -290,6 +297,61 @@
     );
   }
 
+  function loadedRecordData() {
+    return state.records.filter((item) => item.data).map((item) => item.data);
+  }
+
+  function knownAssociation(placeId) {
+    return utils.knownPlaceAssociation(
+      loadedRecordData(),
+      placeId,
+      state.selected?.data?.id || null,
+    );
+  }
+
+  function fillKnownAssociationMetadata(force = false) {
+    const placeId = numericInputValue(elements.associationPlaceId);
+    const known = knownAssociation(placeId);
+    if (!known) {
+      return false;
+    }
+    if (force || !state.associationUniverseManuallyEdited) {
+      elements.associationUniverseId.value = known.universeId;
+    }
+    if (force || !state.associationNameManuallyEdited) {
+      elements.associationName.value = known.name;
+    }
+    return true;
+  }
+
+  function renderKnownPlaceOptions() {
+    const known = new Map();
+    for (const item of state.records) {
+      const source = item.data?.source;
+      if (utils.isPublishableRecord(item.data) && source && !known.has(source.root_place_id)) {
+        known.set(source.root_place_id, source.name);
+      }
+    }
+    const discovery = state.selected?.data?.discovery || {};
+    for (const placeId of [
+      ...(discovery.place_ids || []),
+      ...(discovery.teleport_place_ids || []),
+    ]) {
+      if (Number.isSafeInteger(placeId) && placeId > 0 && !known.has(placeId)) {
+        known.set(placeId, "discovered in this place file");
+      }
+    }
+    const options = Array.from(known.entries())
+      .sort((left, right) => left[0] - right[0])
+      .map(([placeId, label]) => {
+        const option = document.createElement("option");
+        option.value = String(placeId);
+        option.label = label;
+        return option;
+      });
+    elements.knownPlaceIds.replaceChildren(...options);
+  }
+
   function renderAssociationContext() {
     if (!state.selected?.data) {
       return;
@@ -299,13 +361,19 @@
       ? associationRecordsForPlace(newPlaceId, true)
       : [];
     const targetPreferred = targetRecords.find((item) => item.data.preferred);
+    const known = Number.isSafeInteger(newPlaceId) ? knownAssociation(newPlaceId) : null;
+    elements.useKnownPlace.hidden = !known;
+    elements.associationPlaceLink.hidden = !Number.isSafeInteger(newPlaceId) || newPlaceId <= 0;
+    if (!elements.associationPlaceLink.hidden) {
+      elements.associationPlaceLink.href = `https://www.roblox.com/games/${newPlaceId}`;
+    }
     if (targetRecords.length === 0) {
       elements.associationTargetSummary.textContent =
-        "No other publishable snapshots currently use this place ID.";
+        "No other publishable snapshots currently use this place ID. Enter the universe ID manually.";
     } else if (elements.associationPreferred.checked) {
       elements.associationTargetSummary.textContent = targetPreferred
-        ? `${targetRecords.length} other snapshot(s) use this place ID. ${targetPreferred.data.title} will no longer be preferred.`
-        : `${targetRecords.length} other snapshot(s) use this place ID; none is currently preferred.`;
+        ? `${targetRecords.length} other snapshot(s) use this place ID (universe ${known.universeId}). ${targetPreferred.data.title} will no longer be preferred.`
+        : `${targetRecords.length} other snapshot(s) use this place ID (universe ${known.universeId}); none is currently preferred.`;
     } else {
       elements.associationTargetSummary.textContent = targetPreferred
         ? `${targetPreferred.data.title} will remain the preferred snapshot.`
@@ -361,12 +429,19 @@
     elements.associationPlaceId.value = record.source?.root_place_id ?? "";
     elements.associationUniverseId.value = record.source?.universe_id ?? "";
     elements.associationName.value = record.source?.name ?? record.title;
+    elements.associationEvidence.value = Array.isArray(record.match?.evidence)
+      ? record.match.evidence.at(-1)?.detail || ""
+      : "";
+    state.associationPlaceId = record.source?.root_place_id ?? null;
+    state.associationUniverseManuallyEdited = Boolean(record.source);
+    state.associationNameManuallyEdited = Boolean(record.source);
     const existingTarget = record.source
       ? associationRecordsForPlace(record.source.root_place_id, true)
       : [];
     elements.associationPreferred.checked = record.source
       ? record.preferred || !existingTarget.some((item) => item.data.preferred)
       : true;
+    renderKnownPlaceOptions();
     renderAssociationContext();
     elements.associationDialog.showModal();
   }
@@ -441,12 +516,13 @@
     elements.associationErrors.hidden = true;
     try {
       const plan = utils.planPlaceAssociation(
-        state.records.filter((item) => item.data).map((item) => item.data),
+        loadedRecordData(),
         state.selected.data.id,
         {
           rootPlaceId: numericInputValue(elements.associationPlaceId),
           universeId: numericInputValue(elements.associationUniverseId),
           name: elements.associationName.value,
+          evidenceDetail: elements.associationEvidence.value,
           preferred: elements.associationPreferred.checked,
           oldPreferredRecordId: elements.oldPreferredRecord.value || null,
         },
@@ -616,7 +692,30 @@
     elements.associatePlace.addEventListener("click", openAssociationDialog);
     elements.cancelAssociation.addEventListener("click", closeAssociationDialog);
     elements.associationForm.addEventListener("submit", saveAssociation);
-    elements.associationPlaceId.addEventListener("input", renderAssociationContext);
+    elements.associationPlaceId.addEventListener("input", () => {
+      const placeId = numericInputValue(elements.associationPlaceId);
+      if (placeId !== state.associationPlaceId) {
+        state.associationPlaceId = placeId;
+        state.associationUniverseManuallyEdited = false;
+        state.associationNameManuallyEdited = false;
+        elements.associationUniverseId.value = "";
+        elements.associationName.value = state.selected?.data?.title || "";
+      }
+      fillKnownAssociationMetadata();
+      renderAssociationContext();
+    });
+    elements.associationUniverseId.addEventListener("input", () => {
+      state.associationUniverseManuallyEdited = true;
+    });
+    elements.associationName.addEventListener("input", () => {
+      state.associationNameManuallyEdited = true;
+    });
+    elements.useKnownPlace.addEventListener("click", () => {
+      fillKnownAssociationMetadata(true);
+      state.associationUniverseManuallyEdited = false;
+      state.associationNameManuallyEdited = false;
+      renderAssociationContext();
+    });
     elements.associationPreferred.addEventListener("change", renderAssociationContext);
     elements.newEntry.addEventListener("click", openAddDialog);
     elements.cancelAdd.addEventListener("click", closeAddDialog);

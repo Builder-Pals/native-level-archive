@@ -13,9 +13,13 @@ jobs:
         with:
           components: rustfmt, clippy
       - uses: Swatinem/rust-cache@v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
       - run: cargo fmt --check
       - run: cargo clippy --all-targets -- -D warnings
       - run: cargo test
+      - run: node --test web/tests/record-utils.test.js
       - run: cargo run --release -- build
       - run: cargo run --release -- verify
       - run: pip install check-jsonschema

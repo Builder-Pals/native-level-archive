@@ -28,8 +28,12 @@ access. The editor verifies the root by looking for `Cargo.toml` and `catalog/re
 - Editing an entry writes only its `catalog/records/<record-id>.json` source file. The record ID and
   immutable blob reference are protected from changes in the editor.
 - **Associate place** provides a guided way to add or correct the selected record's root place ID,
-  universe ID, and Roblox name. It marks the match as manually reviewed and verified, generates the
-  canonical Roblox URL, and enforces one preferred snapshot per affected place. If the selected
+  universe ID, Roblox name, and review evidence. For place IDs already linked elsewhere in the
+  repository, the universe ID and name are filled automatically; either value can still be entered
+  manually. Unknown place IDs require a manual universe ID because the editor remains offline. The
+  form also suggests IDs discovered in the selected place file. It marks the match as manually
+  reviewed and verified, generates the canonical Roblox URL, and enforces one preferred snapshot
+  per affected place. If the selected
   record replaces another preferred snapshot—or moves away from an old place—the related source
   records are updated together and earlier writes are rolled back if a later write fails. Existing
   match evidence is retained; optional enriched source metadata is retained only while the place

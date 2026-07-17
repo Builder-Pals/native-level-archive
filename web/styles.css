@@ -74,9 +74,17 @@ dialog form {
 
 dialog input[type="text"],
 dialog input[type="number"],
+dialog textarea,
 dialog select {
   width: 100%;
   box-sizing: border-box;
+}
+
+.association-tools {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
 }
 
 .checkbox-label {
