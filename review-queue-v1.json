@@ -11549,39 +11549,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_95d615f0d72f536076a1d86b906b021d",
-    "title": "Sword Fights on the Heights IV (2009M, authentic)",
-    "snapshot": {
-      "label": "2009M, authentic",
-      "date": "2009-01-01",
-      "precision": "year"
-    },
-    "blob": {
-      "sha256": "770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811",
-      "path": "levels/sha256/77/770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811.rbxlx",
-      "format": "xml",
-      "size_bytes": 2661589,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/77/770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811.rbxlx"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Sword Fights on the Heights IV (2009M, authentic).rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_9668e7b7d7a010f66d23fa95375aea19",
     "title": "Bloxopoly",
     "snapshot": {},
@@ -12016,35 +11983,6 @@
         "The Pit (September 18th, 2009).rbxl"
       ],
       "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
-    "id": "nla_9ccef3f6e2fc2347900c5ab2ed72543d",
-    "title": "97 - Terror in Bikini Bottom",
-    "snapshot": {},
-    "blob": {
-      "sha256": "fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e",
-      "path": "levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl",
-      "format": "binary",
-      "size_bytes": 532529,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/97 - Terror in Bikini Bottom.rbxl"
-      ],
-      "collection": "Meteorite"
     },
     "discovery": {},
     "match": {
@@ -21415,39 +21353,6 @@
     "provenance": {
       "original_paths": [
         "Galleons (v6.2b, May 23rd, 2014).rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
-    "id": "nla_e12fb3a166954682f5c07662d1a15329",
-    "title": "Survival 303 (April 9th, 2014)",
-    "snapshot": {
-      "label": "April 9th, 2014",
-      "date": "2014-04-09",
-      "precision": "day"
-    },
-    "blob": {
-      "sha256": "617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd",
-      "path": "levels/sha256/61/617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd.rbxl",
-      "format": "binary",
-      "size_bytes": 150221,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/61/617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Survival 303 (April 9th, 2014).rbxl"
       ],
       "collection": "root"
     },

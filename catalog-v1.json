@@ -22422,10 +22422,23 @@
         "collection": "root"
       },
       "discovery": {},
+      "source": {
+        "root_place_id": 47324,
+        "universe_id": 156639,
+        "name": "Sword Fights on the Heights IV",
+        "roblox_url": "https://www.roblox.com/games/47324"
+      },
       "match": {
-        "status": "unresolved",
-        "confidence": "none",
-        "reviewed": false
+        "status": "verified",
+        "confidence": "high",
+        "reviewed": true,
+        "evidence": [
+          {
+            "kind": "manual",
+            "value": "47324",
+            "detail": "Sourced from Roblox. Place file pending review."
+          }
+        ]
       },
       "preferred": false
     },
@@ -23316,12 +23329,25 @@
         "collection": "Meteorite"
       },
       "discovery": {},
-      "match": {
-        "status": "unresolved",
-        "confidence": "none",
-        "reviewed": false
+      "source": {
+        "root_place_id": 31500456,
+        "universe_id": 21419273,
+        "name": "Terror in Bikini Bottom",
+        "roblox_url": "https://www.roblox.com/games/31500456"
       },
-      "preferred": false
+      "match": {
+        "status": "verified",
+        "confidence": "high",
+        "reviewed": true,
+        "evidence": [
+          {
+            "kind": "manual",
+            "value": "31500456",
+            "detail": "Place ID sourced from the Roblox Fandom Wik: https://roblox.fandom.com/wiki/Player:Bobbysayhi/Terror_in_Bikini_Bottom"
+          }
+        ]
+      },
+      "preferred": true
     },
     {
       "schema_version": 1,
@@ -39145,12 +39171,25 @@
         "collection": "root"
       },
       "discovery": {},
-      "match": {
-        "status": "unresolved",
-        "confidence": "none",
-        "reviewed": false
+      "source": {
+        "root_place_id": 4321846,
+        "universe_id": 475192,
+        "name": "Survival 303 (April 9th, 2014)",
+        "roblox_url": "https://www.roblox.com/games/4321846"
       },
-      "preferred": false
+      "match": {
+        "status": "verified",
+        "confidence": "high",
+        "reviewed": true,
+        "evidence": [
+          {
+            "kind": "manual",
+            "value": "4321846",
+            "detail": "ID provided by the Roblox Fandom Wiki: https://roblox.fandom.com/wiki/Player:Yorick/Yorick%27s_Resting_Place"
+          }
+        ]
+      },
+      "preferred": true
     },
     {
       "schema_version": 1,

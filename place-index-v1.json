@@ -949,6 +949,27 @@
         }
       ]
     },
+    "31500456": {
+      "universe_id": 21419273,
+      "preferred": {
+        "record_id": "nla_9ccef3f6e2fc2347900c5ab2ed72543d",
+        "title": "97 - Terror in Bikini Bottom",
+        "sha256": "fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e",
+        "size_bytes": 532529,
+        "path": "levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl",
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl"
+      },
+      "variants": [
+        {
+          "record_id": "nla_9ccef3f6e2fc2347900c5ab2ed72543d",
+          "title": "97 - Terror in Bikini Bottom",
+          "sha256": "fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e",
+          "size_bytes": 532529,
+          "path": "levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl"
+        }
+      ]
+    },
     "32355875": {
       "universe_id": 18591749,
       "preferred": {
@@ -1192,6 +1213,29 @@
         }
       ]
     },
+    "4321846": {
+      "universe_id": 475192,
+      "preferred": {
+        "record_id": "nla_e12fb3a166954682f5c07662d1a15329",
+        "title": "Survival 303 (April 9th, 2014)",
+        "snapshot_date": "2014-04-09",
+        "sha256": "617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd",
+        "size_bytes": 150221,
+        "path": "levels/sha256/61/617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd.rbxl",
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/61/617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd.rbxl"
+      },
+      "variants": [
+        {
+          "record_id": "nla_e12fb3a166954682f5c07662d1a15329",
+          "title": "Survival 303 (April 9th, 2014)",
+          "snapshot_date": "2014-04-09",
+          "sha256": "617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd",
+          "size_bytes": 150221,
+          "path": "levels/sha256/61/617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd.rbxl",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/61/617136a8830da108a343479e22141f9f73fe12e98bbe81df8a4dd85903d25ecd.rbxl"
+        }
+      ]
+    },
     "44079082": {
       "universe_id": 63854515,
       "preferred": {
@@ -1300,6 +1344,15 @@
           "size_bytes": 2669982,
           "path": "levels/sha256/38/385c5cba2e796c6c0f2c45cd3e19718b23104a534ec114857d741b2da1fc36bb.rbxlx",
           "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/38/385c5cba2e796c6c0f2c45cd3e19718b23104a534ec114857d741b2da1fc36bb.rbxlx"
+        },
+        {
+          "record_id": "nla_95d615f0d72f536076a1d86b906b021d",
+          "title": "Sword Fights on the Heights IV (2009M, authentic)",
+          "snapshot_date": "2009-01-01",
+          "sha256": "770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811",
+          "size_bytes": 2661589,
+          "path": "levels/sha256/77/770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811.rbxlx",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/77/770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811.rbxlx"
         }
       ]
     },
