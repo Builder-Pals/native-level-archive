@@ -4,6 +4,9 @@ This is a dependency-free, offline editor for the archive's source records. It u
 File System Access API to read and write a repository directory selected by the user. It does not
 send files or metadata over the network.
 
+The editor is deployed to
+<https://builder-pals.github.io/native-level-archive/> from the `main` branch by GitHub Actions.
+
 ## Run it
 
 Use a current Chromium-based browser such as Chrome or Edge. You can first try opening
