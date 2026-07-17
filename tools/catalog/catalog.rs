@@ -212,6 +212,68 @@ pub fn clean_legacy(root: &Path, revision: &str, apply: bool) -> Result<()> {
     Ok(())
 }
 
+pub fn restore_blobs(root: &Path, revision: &str, apply: bool) -> Result<()> {
+    let entries: HashMap<_, _> = git::list_tree(root, revision)?
+        .into_iter()
+        .map(|entry| (entry.path.clone(), entry))
+        .collect();
+    let records = load_records(root)?;
+    let mut checked = BTreeSet::new();
+    let mut repairs = Vec::new();
+
+    for record in &records {
+        if !checked.insert(record.blob.path.clone()) {
+            continue;
+        }
+        if record.blob.path.contains("..") || Path::new(&record.blob.path).is_absolute() {
+            bail!("record {} has an unsafe blob path", record.id);
+        }
+        let path = root.join(&record.blob.path);
+        let current =
+            fs::read(&path).with_context(|| format!("missing blob {}", path.display()))?;
+        if current.len() as u64 == record.blob.size_bytes
+            && sha256_hex(&current) == record.blob.sha256
+        {
+            continue;
+        }
+
+        let mut replacement = None;
+        for original_path in &record.provenance.original_paths {
+            let Some(entry) = entries.get(original_path) else {
+                continue;
+            };
+            let bytes = git::read_blob(root, &entry.oid)?;
+            if bytes.len() as u64 == record.blob.size_bytes
+                && sha256_hex(&bytes) == record.blob.sha256
+            {
+                replacement = Some(bytes);
+                break;
+            }
+        }
+        let bytes = replacement.with_context(|| {
+            format!(
+                "no historical blob in {revision} matches {}",
+                record.blob.path
+            )
+        })?;
+        repairs.push((path, bytes));
+    }
+
+    if !apply {
+        eprintln!(
+            "would restore {} blobs from {revision}; rerun with --apply",
+            repairs.len()
+        );
+        return Ok(());
+    }
+    let repair_count = repairs.len();
+    for (path, bytes) in repairs {
+        fs::write(&path, bytes).with_context(|| format!("failed to restore {}", path.display()))?;
+    }
+    eprintln!("restored {repair_count} blobs from {revision}");
+    Ok(())
+}
+
 fn load_legacy_metadata(
     root: &Path,
     entries: &[git::TreeEntry],
