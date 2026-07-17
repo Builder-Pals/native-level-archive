@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_5ddb8384ca2630e23de712b01a39ae33",
+  "title": "Demolishion Derby Racing (July 11th, 2008)",
+  "snapshot": {
+    "label": "July 11th, 2008",
+    "date": "2008-07-11",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "c0e3269320fc89d4d7c246f5c5597387946c210ac840fff2dc70f36bb4c9a822",
+    "path": "levels/sha256/c0/c0e3269320fc89d4d7c246f5c5597387946c210ac840fff2dc70f36bb4c9a822.rbxlx",
+    "format": "xml",
+    "size_bytes": 5691334,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c0/c0e3269320fc89d4d7c246f5c5597387946c210ac840fff2dc70f36bb4c9a822.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Demolishion Derby Racing (July 11th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

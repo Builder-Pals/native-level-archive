@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_722bd8606b2e48d576075ff0e089a09a",
+  "title": "roblox drag racing",
+  "snapshot": {},
+  "blob": {
+    "sha256": "9a45943878314c71319bdce95eb5d1421575cf833c010d96fb776fc3ce949d38",
+    "path": "levels/sha256/9a/9a45943878314c71319bdce95eb5d1421575cf833c010d96fb776fc3ce949d38.rbxlx",
+    "format": "xml",
+    "size_bytes": 1527234,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/9a/9a45943878314c71319bdce95eb5d1421575cf833c010d96fb776fc3ce949d38.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "roblox drag racing.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

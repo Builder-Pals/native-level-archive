@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "id": "nla_6c4869ff14d35eefe0535b6ed6c6312a",
+  "title": "City of Roblox",
+  "snapshot": {},
+  "blob": {
+    "sha256": "03649a17ab30058747a40bdf6da8c8587f0a3d666878cfaf9bb742d81416dd7f",
+    "path": "levels/sha256/03/03649a17ab30058747a40bdf6da8c8587f0a3d666878cfaf9bb742d81416dd7f.rbxlx",
+    "format": "xml",
+    "size_bytes": 31027894,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/03/03649a17ab30058747a40bdf6da8c8587f0a3d666878cfaf9bb742d81416dd7f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "City of Roblox.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "City of Roblox.meta.json",
+    "legacy_creator": "PlaceCheckers101"
+  },
+  "badges": [
+    {
+      "id": 36142135,
+      "name": "Robloxaville Halloween Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 41299034,
+      "name": "Robloxaville Winter VIP Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 73736664,
+      "name": "Welcome To City of Roblox!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 73834541,
+      "name": "You Met PlaceCheckers101!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      36142135,
+      41299034,
+      73736664,
+      73834541
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "36142135",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "41299034",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "73736664",
+        "detail": "badge resolves to universe 7874866 and root place 44347636"
+      }
+    ]
+  },
+  "preferred": false
+}

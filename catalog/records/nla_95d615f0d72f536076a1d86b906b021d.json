@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_95d615f0d72f536076a1d86b906b021d",
+  "title": "Sword Fights on the Heights IV (2009M, authentic)",
+  "snapshot": {
+    "label": "2009M, authentic",
+    "date": "2009-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811",
+    "path": "levels/sha256/77/770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811.rbxlx",
+    "format": "xml",
+    "size_bytes": 2661589,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/77/770d14b1ac23dea26b632268821a4ada4886f63665d9f8feca875db499614811.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sword Fights on the Heights IV (2009M, authentic).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_f5c62f1eefa81f747b5c0ee59fd35e17",
+  "title": "Mystery City Downtown (March 6th, 2013)",
+  "snapshot": {
+    "label": "March 6th, 2013",
+    "date": "2013-03-06",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "baada58b3fadb7d4788b4aeb407d4180196e0ba63489db9c1f3abe49dfd97421",
+    "path": "levels/sha256/ba/baada58b3fadb7d4788b4aeb407d4180196e0ba63489db9c1f3abe49dfd97421.rbxlx",
+    "format": "xml",
+    "size_bytes": 6141415,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ba/baada58b3fadb7d4788b4aeb407d4180196e0ba63489db9c1f3abe49dfd97421.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Mystery City Downtown (March 6th, 2013).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

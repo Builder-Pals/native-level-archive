@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_99654dc571bf47657eb78bdb552ef0ea",
+  "title": "Demonstration-Facility-94",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e1a131af04bb5814529ef5d5c329285e3bf57a090aed1a63ff0a10717128082c",
+    "path": "levels/sha256/e1/e1a131af04bb5814529ef5d5c329285e3bf57a090aed1a63ff0a10717128082c.rbxl",
+    "format": "binary",
+    "size_bytes": 444747,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e1/e1a131af04bb5814529ef5d5c329285e3bf57a090aed1a63ff0a10717128082c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Demonstration-Facility-94.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

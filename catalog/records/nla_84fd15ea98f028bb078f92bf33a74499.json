@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_84fd15ea98f028bb078f92bf33a74499",
+  "title": "2066 - asdas",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a9a7c1ecaa5d4b0d6193d5f01b8b0da37a52e129df2077186865d6fa34103821",
+    "path": "levels/sha256/a9/a9a7c1ecaa5d4b0d6193d5f01b8b0da37a52e129df2077186865d6fa34103821.rbxl",
+    "format": "binary",
+    "size_bytes": 10138,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a9/a9a7c1ecaa5d4b0d6193d5f01b8b0da37a52e129df2077186865d6fa34103821.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2066 - asdas.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

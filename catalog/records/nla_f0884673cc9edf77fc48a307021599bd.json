@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_f0884673cc9edf77fc48a307021599bd",
+  "title": "Seatroads V2 (2010M)",
+  "snapshot": {
+    "label": "2010M",
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "eda6d8b621de56f74bc98d954ae605f46d35f72cb6743aaadced803cbffd2053",
+    "path": "levels/sha256/ed/eda6d8b621de56f74bc98d954ae605f46d35f72cb6743aaadced803cbffd2053.rbxlx",
+    "format": "xml",
+    "size_bytes": 4126097,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ed/eda6d8b621de56f74bc98d954ae605f46d35f72cb6743aaadced803cbffd2053.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Seatroads V2 (2010M).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

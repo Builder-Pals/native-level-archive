@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Builder-Pals/native-level-archive/catalog/schema/record-v1.schema.json",
+  "title": "Native Level Archive record v1",
+  "type": "object",
+  "required": ["schema_version", "id", "title", "snapshot", "blob", "validation", "provenance", "discovery", "match", "preferred"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "id": { "type": "string", "pattern": "^nla_[0-9a-f]{32}$" },
+    "title": { "type": "string", "minLength": 1 },
+    "aliases": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "snapshot": { "type": "object" },
+    "blob": {
+      "type": "object",
+      "required": ["sha256", "path", "format", "size_bytes", "download_url"],
+      "properties": {
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "path": { "type": "string", "pattern": "^(levels|quarantine)/sha256/[0-9a-f]{2}/[0-9a-f]{64}\\.(rbxl|rbxlx|bin)$" },
+        "format": { "enum": ["xml", "binary", "invalid"] },
+        "size_bytes": { "type": "integer", "minimum": 0 },
+        "download_url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    },
+    "validation": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {
+        "status": { "enum": ["valid", "invalid"] },
+        "reason": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "provenance": { "type": "object" },
+    "badges": { "type": "array" },
+    "discovery": { "type": "object" },
+    "source": { "type": "object" },
+    "match": { "type": "object" },
+    "preferred": { "type": "boolean" }
+  },
+  "additionalProperties": false
+}

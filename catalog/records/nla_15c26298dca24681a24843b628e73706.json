@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_15c26298dca24681a24843b628e73706",
+  "title": "Black Magic (October 2014)",
+  "snapshot": {
+    "label": "October 2014",
+    "date": "2014-10-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "c1e0c5ce3c322d9571e2958d25db6c625bc991cdd618c86fa57906f5d39f26bf",
+    "path": "levels/sha256/c1/c1e0c5ce3c322d9571e2958d25db6c625bc991cdd618c86fa57906f5d39f26bf.rbxl",
+    "format": "binary",
+    "size_bytes": 5035375,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c1/c1e0c5ce3c322d9571e2958d25db6c625bc991cdd618c86fa57906f5d39f26bf.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Black Magic (October 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

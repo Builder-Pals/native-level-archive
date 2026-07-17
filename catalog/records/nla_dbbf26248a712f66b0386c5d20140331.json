@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "id": "nla_dbbf26248a712f66b0386c5d20140331",
+  "title": "Last Strike",
+  "snapshot": {},
+  "blob": {
+    "sha256": "630304ca50631cba9fe115a8b0a780b8cb617334728be2bbcf40ba30d05e090d",
+    "path": "levels/sha256/63/630304ca50631cba9fe115a8b0a780b8cb617334728be2bbcf40ba30d05e090d.rbxl",
+    "format": "binary",
+    "size_bytes": 2862166,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/63/630304ca50631cba9fe115a8b0a780b8cb617334728be2bbcf40ba30d05e090d.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Last Strike.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Last Strike.meta.json",
+    "legacy_creator": "NetherGames"
+  },
+  "badges": [
+    {
+      "id": 196934409,
+      "name": "Met The MLG Master",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 190536116,
+      "name": "Enlisted",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 190536489,
+      "name": "Streaker",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 190536629,
+      "name": "Pro",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 190536858,
+      "name": "Team Player",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 190536986,
+      "name": "Elite",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 155121843,
+    "universe_id": 84528370,
+    "name": "NEW Last Strike",
+    "roblox_url": "https://www.roblox.com/games/155121843"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "196934409",
+        "detail": "badge resolves to universe 84528370 and root place 155121843"
+      },
+      {
+        "kind": "badge",
+        "value": "190536116",
+        "detail": "badge resolves to universe 84528370 and root place 155121843"
+      },
+      {
+        "kind": "badge",
+        "value": "190536489",
+        "detail": "badge resolves to universe 84528370 and root place 155121843"
+      },
+      {
+        "kind": "badge",
+        "value": "190536629",
+        "detail": "badge resolves to universe 84528370 and root place 155121843"
+      },
+      {
+        "kind": "badge",
+        "value": "190536858",
+        "detail": "badge resolves to universe 84528370 and root place 155121843"
+      },
+      {
+        "kind": "badge",
+        "value": "190536986",
+        "detail": "badge resolves to universe 84528370 and root place 155121843"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "nla_08db1ebae52074f01cd41fa477af8ea3",
+  "title": "Truss and Slate and Badges Demo",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b7cd5f3e88f8f2ce6467770cfd5abb6326bd301689fe38858b114cc831aad160",
+    "path": "levels/sha256/b7/b7cd5f3e88f8f2ce6467770cfd5abb6326bd301689fe38858b114cc831aad160.rbxlx",
+    "format": "xml",
+    "size_bytes": 5241518,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b7/b7cd5f3e88f8f2ce6467770cfd5abb6326bd301689fe38858b114cc831aad160.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Truss and Slate and Badges Demo.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Truss and Slate and Badges Demo.meta.json",
+    "legacy_creator": "Shedletsky"
+  },
+  "badges": [
+    {
+      "id": 14441056,
+      "name": "Badger Badger Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14441321,
+      "name": "Mushroom! Mushroom!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14441056,
+      14441321
+    ]
+  },
+  "source": {
+    "root_place_id": 2382748,
+    "universe_id": 1089938,
+    "name": "Truss and Slate and Badges Demo",
+    "roblox_url": "https://www.roblox.com/games/2382748",
+    "description": "Just messing around. Not copylocked. Building regens every 7 or 8 minutes.",
+    "creator": {
+      "id": 261,
+      "name": "Shedletsky",
+      "type": "User"
+    },
+    "created_at": "2008-06-12T19:30:14.74Z",
+    "updated_at": "2009-08-13T17:34:42.433Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14441056",
+        "detail": "badge resolves to universe 1089938 and root place 2382748"
+      },
+      {
+        "kind": "badge",
+        "value": "14441321",
+        "detail": "badge resolves to universe 1089938 and root place 2382748"
+      }
+    ]
+  },
+  "preferred": true
+}

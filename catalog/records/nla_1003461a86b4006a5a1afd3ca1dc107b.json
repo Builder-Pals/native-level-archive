@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_1003461a86b4006a5a1afd3ca1dc107b",
+  "title": "Tornado Alley",
+  "snapshot": {},
+  "blob": {
+    "sha256": "127e74513fd922009f187d7f04b9d8364d53dd054fce8add7f2bfb525caf73c9",
+    "path": "levels/sha256/12/127e74513fd922009f187d7f04b9d8364d53dd054fce8add7f2bfb525caf73c9.rbxlx",
+    "format": "xml",
+    "size_bytes": 6732620,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/12/127e74513fd922009f187d7f04b9d8364d53dd054fce8add7f2bfb525caf73c9.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Tornado Alley.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

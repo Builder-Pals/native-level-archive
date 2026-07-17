@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_d055ce5519c9a86658292950cc9673e0",
+  "title": "stormer's cart (2012M)",
+  "snapshot": {
+    "label": "2012M",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "847e6405bf844ab03c7f1936e8a6bbbc5ff8a4f07a1c50ca261d636aa0d170d4",
+    "path": "levels/sha256/84/847e6405bf844ab03c7f1936e8a6bbbc5ff8a4f07a1c50ca261d636aa0d170d4.rbxlx",
+    "format": "xml",
+    "size_bytes": 864337,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/84/847e6405bf844ab03c7f1936e8a6bbbc5ff8a4f07a1c50ca261d636aa0d170d4.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "stormer's cart (2012M).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

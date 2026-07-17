@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_c01e589753db1c992c5d57a092e92fa4",
+  "title": "Reason 2 Die (October 27th, 2009)",
+  "snapshot": {
+    "label": "October 27th, 2009",
+    "date": "2009-10-27",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "48f7b4f6f5f1cfb49d1246e5cfe1d8a5b18152d9b523f4bb0fc73b8af751ed2e",
+    "path": "levels/sha256/48/48f7b4f6f5f1cfb49d1246e5cfe1d8a5b18152d9b523f4bb0fc73b8af751ed2e.rbxlx",
+    "format": "xml",
+    "size_bytes": 11288031,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/48/48f7b4f6f5f1cfb49d1246e5cfe1d8a5b18152d9b523f4bb0fc73b8af751ed2e.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Reason 2 Die (October 27th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

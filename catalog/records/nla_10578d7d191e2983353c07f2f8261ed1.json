@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "id": "nla_10578d7d191e2983353c07f2f8261ed1",
+  "title": "Work at a Pizza Place (2014L)",
+  "snapshot": {
+    "label": "2014L",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "ec24026ce37407f6ed0a61fc317057c3ac3ffcf95ef086452730b03ece567de7",
+    "path": "levels/sha256/ec/ec24026ce37407f6ed0a61fc317057c3ac3ffcf95ef086452730b03ece567de7.rbxl",
+    "format": "binary",
+    "size_bytes": 846487,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ec/ec24026ce37407f6ed0a61fc317057c3ac3ffcf95ef086452730b03ece567de7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Work at a Pizza Place (2014L).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Work at a Pizza Place (2014L).meta.json",
+    "legacy_creator": "Dued1"
+  },
+  "badges": [
+    {
+      "id": 176685508,
+      "name": "Manager",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176685982,
+      "name": "Cook",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176686088,
+      "name": "Cashier",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176685667,
+      "name": "Supplier",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176685798,
+      "name": "Delivery",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176685910,
+      "name": "Pizza Boxer",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 192800,
+    "universe_id": 47545,
+    "name": "🍕Work at a Pizza Place",
+    "roblox_url": "https://www.roblox.com/games/192800",
+    "description": "🤝Work as a team to fulfill food orders.\n🏠Use your work earnings to upgrade your house and buy furniture.\n\nDon't forget to 👍 and ⭐! It really helps!",
+    "creator": {
+      "id": 82471,
+      "name": "Dued1",
+      "type": "User"
+    },
+    "created_at": "2008-03-28T18:12:42.6Z",
+    "updated_at": "2026-07-09T05:56:44.343Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "176685508",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "176685982",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "176686088",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "176685667",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "176685798",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "176685910",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_a8c36ef3c7a3fc5cb302eee53dbbaafb",
+  "title": "2014 Anaminus Script Builder",
+  "snapshot": {
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "5b1d9fde62cad67e2aecd3a457a59ce71a3a780025dfbba28d49b0816b0d3534",
+    "path": "levels/sha256/5b/5b1d9fde62cad67e2aecd3a457a59ce71a3a780025dfbba28d49b0816b0d3534.rbxl",
+    "format": "binary",
+    "size_bytes": 54910,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5b/5b1d9fde62cad67e2aecd3a457a59ce71a3a780025dfbba28d49b0816b0d3534.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "2014 Anaminus Script Builder.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

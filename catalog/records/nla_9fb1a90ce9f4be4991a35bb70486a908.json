@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_9fb1a90ce9f4be4991a35bb70486a908",
+  "title": "265 - A Totally Normal House",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a6408658c47ecdb30f6632d6511e6dc6084993c5324879da9d8fa406e2fa26a9",
+    "path": "levels/sha256/a6/a6408658c47ecdb30f6632d6511e6dc6084993c5324879da9d8fa406e2fa26a9.rbxl",
+    "format": "binary",
+    "size_bytes": 361105,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a6/a6408658c47ecdb30f6632d6511e6dc6084993c5324879da9d8fa406e2fa26a9.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/265 - A Totally Normal House.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

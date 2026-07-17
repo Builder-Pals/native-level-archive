@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "nla_d991196e8fe8c654f4c6bd8f807e20ce",
+  "title": "Hole in the Wall (2011)",
+  "snapshot": {
+    "label": "2011",
+    "date": "2011-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "77b02b020fce8abce30205e35c9b8b7e2fa21bcb3879cf2e502c7e9de5470faa",
+    "path": "levels/sha256/77/77b02b020fce8abce30205e35c9b8b7e2fa21bcb3879cf2e502c7e9de5470faa.rbxlx",
+    "format": "xml",
+    "size_bytes": 3629203,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/77/77b02b020fce8abce30205e35c9b8b7e2fa21bcb3879cf2e502c7e9de5470faa.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Hole in the Wall (2011).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 46969746,
+      "name": "You Won on the Blue Team!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      46969746
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "46969746",
+        "detail": "badge resolves to universe 8726258 and root place 11970456"
+      }
+    ]
+  },
+  "preferred": false
+}

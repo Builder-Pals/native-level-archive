@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_cefeb68c5e043113032061b4c192ed89",
+  "title": "galleons aug 2012",
+  "snapshot": {
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "37bef91611fa6ed3aac48054dcc51e706467810da787f072d92474e976aabb9a",
+    "path": "levels/sha256/37/37bef91611fa6ed3aac48054dcc51e706467810da787f072d92474e976aabb9a.rbxlx",
+    "format": "xml",
+    "size_bytes": 3716333,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/37/37bef91611fa6ed3aac48054dcc51e706467810da787f072d92474e976aabb9a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "galleons aug 2012.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

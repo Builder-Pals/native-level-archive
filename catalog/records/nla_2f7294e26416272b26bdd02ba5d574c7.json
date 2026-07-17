@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_2f7294e26416272b26bdd02ba5d574c7",
+  "title": "F3X Building Game (2015E)",
+  "snapshot": {
+    "label": "2015E",
+    "date": "2015-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "62fcf75234d515325ba1b57bc1d7729251e142d8bf23b7ab78522386b4bd7e5b",
+    "path": "levels/sha256/62/62fcf75234d515325ba1b57bc1d7729251e142d8bf23b7ab78522386b4bd7e5b.rbxl",
+    "format": "binary",
+    "size_bytes": 179218,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/62/62fcf75234d515325ba1b57bc1d7729251e142d8bf23b7ab78522386b4bd7e5b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "F3X Building Game (2015E).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

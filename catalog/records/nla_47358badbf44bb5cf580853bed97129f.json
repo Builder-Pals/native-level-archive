@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_47358badbf44bb5cf580853bed97129f",
+  "title": "2011 Grave Yard",
+  "snapshot": {
+    "date": "2011-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "76c1cffbe4185134788747f9d38e1d66647185384a6f17818c8a7f9e90f14e88",
+    "path": "levels/sha256/76/76c1cffbe4185134788747f9d38e1d66647185384a6f17818c8a7f9e90f14e88.rbxlx",
+    "format": "xml",
+    "size_bytes": 58012,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/76/76c1cffbe4185134788747f9d38e1d66647185384a6f17818c8a7f9e90f14e88.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "2011 Grave Yard.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

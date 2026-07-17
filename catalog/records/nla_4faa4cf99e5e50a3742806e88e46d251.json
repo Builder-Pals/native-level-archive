@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_4faa4cf99e5e50a3742806e88e46d251",
+  "title": "Girls and Boys Hangout",
+  "snapshot": {},
+  "blob": {
+    "sha256": "eedf699ed1893d8c5d89ccab4bcf0b4dfba7bc3f281f19217b41536544de6aa8",
+    "path": "levels/sha256/ee/eedf699ed1893d8c5d89ccab4bcf0b4dfba7bc3f281f19217b41536544de6aa8.rbxlx",
+    "format": "xml",
+    "size_bytes": 14464559,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ee/eedf699ed1893d8c5d89ccab4bcf0b4dfba7bc3f281f19217b41536544de6aa8.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Girls and Boys Hangout.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

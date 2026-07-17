@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "nla_e98d39caa8535a63d399578972e14f40",
+  "title": "Deathrun 2 2014+",
+  "snapshot": {
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "9399e0c543ce6b9ee1707319701db81e12ecbc30bc2d89392792e56ab2f13082",
+    "path": "levels/sha256/93/9399e0c543ce6b9ee1707319701db81e12ecbc30bc2d89392792e56ab2f13082.rbxl",
+    "format": "binary",
+    "size_bytes": 972592,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/93/9399e0c543ce6b9ee1707319701db81e12ecbc30bc2d89392792e56ab2f13082.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Deathrun 2 2014+.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Deathrun 2 2014+.meta.json",
+    "legacy_creator": "erikwesley96"
+  },
+  "badges": [
+    {
+      "id": 64435096,
+      "name": "You met the Creator",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138396523,
+      "name": "Badge of Bad luck",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138396754,
+      "name": "Dangerous Treasure",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138397067,
+      "name": "Scrooge McDuck",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138397314,
+      "name": "Gold Digger",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138397226,
+      "name": "Coin Collector",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138755222,
+      "name": "Addicted",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 138755272,
+      "name": "More ways to die",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 152279414,
+      "name": "Weapon Customization",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 6602652,
+    "universe_id": 26146551,
+    "name": "Deathrun 2",
+    "roblox_url": "https://www.roblox.com/games/6602652",
+    "description": "This game is now closed due to various bugs breaking the game.. sorry\r\n\r\nPlay the newest version of Deathrun here:\r\nhttps://www.roblox.com/games/206640076/Roblox-Deathrun",
+    "creator": {
+      "id": 1852246,
+      "name": "Wsly",
+      "type": "User"
+    },
+    "created_at": "2008-12-26T14:17:06.1Z",
+    "updated_at": "2021-11-04T11:54:34.36Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "64435096",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138396523",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138396754",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138397067",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138397314",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138397226",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138755222",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "138755272",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "152279414",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      }
+    ]
+  },
+  "preferred": true
+}

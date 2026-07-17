@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "nla_93da38267de53b3125925fffe2526a14",
+  "title": "Bloxxers in Arms (March 29th, 2014)",
+  "snapshot": {
+    "label": "March 29th, 2014",
+    "date": "2014-03-29",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "83aae36638b5e243f7e81833683668c22367abb43df8a3c6b4b721bc0889a2b4",
+    "path": "levels/sha256/83/83aae36638b5e243f7e81833683668c22367abb43df8a3c6b4b721bc0889a2b4.rbxl",
+    "format": "binary",
+    "size_bytes": 750915,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/83/83aae36638b5e243f7e81833683668c22367abb43df8a3c6b4b721bc0889a2b4.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Bloxxers in Arms (March 29th, 2014).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Bloxxers in Arms (March 29th, 2014).meta.json",
+    "legacy_creator": "Bobbysayhi"
+  },
+  "badges": [
+    {
+      "id": 95101537,
+      "name": "First Kill!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 95107830,
+      "name": "Ten Down!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 95108959,
+      "name": "Twenty Five!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 95111792,
+      "name": "Master Attacker",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 95111944,
+      "name": "The Deadliest Warrior",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 129778527,
+      "name": "Overseer of Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 151306616,
+      "name": "Killed by a Guest",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 3075513,
+    "universe_id": 1285961,
+    "name": "Bloxxers in Arms",
+    "roblox_url": "https://www.roblox.com/games/3075513",
+    "description": "Welcome to Bloxxers in Arms, a game where 38 ROBLOX warriors battle to the death to see who is the strongest!\r\n\r\nPick from classes that include the Redcliff Warriors to Ninjas and even Noobs. \r\n\r\nFind your favorite and fight to the death against 18 other players!",
+    "creator": {
+      "id": 641139,
+      "name": "Bobbysayhi",
+      "type": "User"
+    },
+    "created_at": "2008-07-22T03:55:49.757Z",
+    "updated_at": "2022-07-27T17:29:52.693Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "95101537",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      },
+      {
+        "kind": "badge",
+        "value": "95107830",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      },
+      {
+        "kind": "badge",
+        "value": "95108959",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      },
+      {
+        "kind": "badge",
+        "value": "95111792",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      },
+      {
+        "kind": "badge",
+        "value": "95111944",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      },
+      {
+        "kind": "badge",
+        "value": "129778527",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      },
+      {
+        "kind": "badge",
+        "value": "151306616",
+        "detail": "badge resolves to universe 1285961 and root place 3075513"
+      }
+    ]
+  },
+  "preferred": true
+}

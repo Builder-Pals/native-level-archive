@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_2ba64e40f3ae81024cd5ecd2bd0dfac9",
+  "title": "Tank Warz CTF (May 10th, 2009)",
+  "snapshot": {
+    "label": "May 10th, 2009",
+    "date": "2009-05-10",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "d0c12ff967be4da892f789425becb06a03def447024ba54ed223d5883ece39c3",
+    "path": "levels/sha256/d0/d0c12ff967be4da892f789425becb06a03def447024ba54ed223d5883ece39c3.rbxlx",
+    "format": "xml",
+    "size_bytes": 3718413,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d0/d0c12ff967be4da892f789425becb06a03def447024ba54ed223d5883ece39c3.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Tank Warz CTF (May 10th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

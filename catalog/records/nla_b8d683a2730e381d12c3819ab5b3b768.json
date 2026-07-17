@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_b8d683a2730e381d12c3819ab5b3b768",
+  "title": "1831 - The Petting Room",
+  "snapshot": {},
+  "blob": {
+    "sha256": "34e804292fb256863a122689dddaf6742ba45b1a67201b11c7892d0242572b85",
+    "path": "levels/sha256/34/34e804292fb256863a122689dddaf6742ba45b1a67201b11c7892d0242572b85.rbxl",
+    "format": "binary",
+    "size_bytes": 2015679,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/34/34e804292fb256863a122689dddaf6742ba45b1a67201b11c7892d0242572b85.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1831 - The Petting Room.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

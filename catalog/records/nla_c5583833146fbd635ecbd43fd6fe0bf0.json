@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c5583833146fbd635ecbd43fd6fe0bf0",
+  "title": "Royal Palace of Laeken in Belgium",
+  "snapshot": {},
+  "blob": {
+    "sha256": "86ccb208e03c4dc974d6e82fae49710dc59e079fa6739df931687957fa46098c",
+    "path": "levels/sha256/86/86ccb208e03c4dc974d6e82fae49710dc59e079fa6739df931687957fa46098c.rbxlx",
+    "format": "xml",
+    "size_bytes": 44170493,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/86/86ccb208e03c4dc974d6e82fae49710dc59e079fa6739df931687957fa46098c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Royal Palace of Laeken in Belgium.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

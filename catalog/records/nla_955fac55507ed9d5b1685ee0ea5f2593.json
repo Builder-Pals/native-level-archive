@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_955fac55507ed9d5b1685ee0ea5f2593",
+  "title": "Miked's Minigame World (0.64)",
+  "snapshot": {
+    "label": "0.64"
+  },
+  "blob": {
+    "sha256": "d9d4a81bcedc8d61ea039c320f527c1e73522a48c545b8be60ff45eea393821a",
+    "path": "levels/sha256/d9/d9d4a81bcedc8d61ea039c320f527c1e73522a48c545b8be60ff45eea393821a.rbxlx",
+    "format": "xml",
+    "size_bytes": 2027525,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d9/d9d4a81bcedc8d61ea039c320f527c1e73522a48c545b8be60ff45eea393821a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Miked's Minigame World (0.64).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

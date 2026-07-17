@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_70e3f302a5ba716e53241da7eeabe0f1",
+  "title": "WPBC Gingerbread House",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6feafb59b8fdca73c0503265921e55da93d623e804faa4783cd107d9b113500b",
+    "path": "levels/sha256/6f/6feafb59b8fdca73c0503265921e55da93d623e804faa4783cd107d9b113500b.rbxlx",
+    "format": "xml",
+    "size_bytes": 4156405,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6f/6feafb59b8fdca73c0503265921e55da93d623e804faa4783cd107d9b113500b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "WPBC Gingerbread House.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

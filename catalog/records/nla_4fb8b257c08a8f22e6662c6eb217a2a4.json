@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_4fb8b257c08a8f22e6662c6eb217a2a4",
+  "title": "2216 - Red Cinema!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "57b3372eb2dbd6bebe5ba4ab3a701258db57bf81afe69bba2906287103f035ca",
+    "path": "levels/sha256/57/57b3372eb2dbd6bebe5ba4ab3a701258db57bf81afe69bba2906287103f035ca.rbxl",
+    "format": "binary",
+    "size_bytes": 1079984,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/57/57b3372eb2dbd6bebe5ba4ab3a701258db57bf81afe69bba2906287103f035ca.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2216 - Red Cinema!.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

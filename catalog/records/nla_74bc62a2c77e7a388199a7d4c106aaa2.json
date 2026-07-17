@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_74bc62a2c77e7a388199a7d4c106aaa2",
+  "title": "221 - METEORITE PAINTBALL TOURNAMENT",
+  "snapshot": {},
+  "blob": {
+    "sha256": "76dae4611db06987cb8882ce79171a6c8d331075c1f19174e080705083d777eb",
+    "path": "levels/sha256/76/76dae4611db06987cb8882ce79171a6c8d331075c1f19174e080705083d777eb.rbxl",
+    "format": "binary",
+    "size_bytes": 361182,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/76/76dae4611db06987cb8882ce79171a6c8d331075c1f19174e080705083d777eb.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/221 - METEORITE PAINTBALL TOURNAMENT.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

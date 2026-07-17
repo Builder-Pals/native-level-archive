@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_bcbf98488853e9848a9e454cf3130cfe",
+  "title": "799 - Trick or treat",
+  "snapshot": {},
+  "blob": {
+    "sha256": "924101dc496708d78669b94fe857828af5b590c2830aef487c93c9c5e53f23f6",
+    "path": "levels/sha256/92/924101dc496708d78669b94fe857828af5b590c2830aef487c93c9c5e53f23f6.rbxl",
+    "format": "binary",
+    "size_bytes": 3827192,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/92/924101dc496708d78669b94fe857828af5b590c2830aef487c93c9c5e53f23f6.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/799 - Trick or treat.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

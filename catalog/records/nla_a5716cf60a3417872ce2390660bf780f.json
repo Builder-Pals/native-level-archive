@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a5716cf60a3417872ce2390660bf780f",
+  "title": "Elevator Source",
+  "snapshot": {},
+  "blob": {
+    "sha256": "72a9870847bba990e2e8aed248dbcea366525a135f6d0ac63463b8c21e5f27ab",
+    "path": "levels/sha256/72/72a9870847bba990e2e8aed248dbcea366525a135f6d0ac63463b8c21e5f27ab.rbxl",
+    "format": "binary",
+    "size_bytes": 1629235,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/72/72a9870847bba990e2e8aed248dbcea366525a135f6d0ac63463b8c21e5f27ab.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Elevator Source.rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

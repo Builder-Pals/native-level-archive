@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_f21c368d4fee1fde23c7cb6ea8550a81",
+  "title": "Down Hill Smash (July 8th, 2008)",
+  "snapshot": {
+    "label": "July 8th, 2008",
+    "date": "2008-07-08",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "8f5df2180e899fd6945cceced91fbc253c56adf7b6068a8ffae478de3ad1af61",
+    "path": "levels/sha256/8f/8f5df2180e899fd6945cceced91fbc253c56adf7b6068a8ffae478de3ad1af61.rbxlx",
+    "format": "xml",
+    "size_bytes": 1358140,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8f/8f5df2180e899fd6945cceced91fbc253c56adf7b6068a8ffae478de3ad1af61.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Down Hill Smash (July 8th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_4e97ac56e00542f1e560223081197d30",
+  "title": "Chamber",
+  "snapshot": {},
+  "blob": {
+    "sha256": "48334f73225ee758c1067bb7dbbdbd9dd265d9b215bfb9f2b5c4d0d9804a04ad",
+    "path": "levels/sha256/48/48334f73225ee758c1067bb7dbbdbd9dd265d9b215bfb9f2b5c4d0d9804a04ad.rbxlx",
+    "format": "xml",
+    "size_bytes": 697106,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/48/48334f73225ee758c1067bb7dbbdbd9dd265d9b215bfb9f2b5c4d0d9804a04ad.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Chamber.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

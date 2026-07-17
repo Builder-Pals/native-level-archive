@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_f60832b64ab6efeb4d442cf34d7ae487",
+  "title": "Zombie Desert Defense Tycoon aug 2011",
+  "snapshot": {
+    "date": "2011-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "f4f8cae5f11e99510f2ae81e08b41c4e28d1197741065fe0beb588a6b13f2cb9",
+    "path": "levels/sha256/f4/f4f8cae5f11e99510f2ae81e08b41c4e28d1197741065fe0beb588a6b13f2cb9.rbxlx",
+    "format": "xml",
+    "size_bytes": 4643656,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f4/f4f8cae5f11e99510f2ae81e08b41c4e28d1197741065fe0beb588a6b13f2cb9.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zombie Desert Defense Tycoon aug 2011.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

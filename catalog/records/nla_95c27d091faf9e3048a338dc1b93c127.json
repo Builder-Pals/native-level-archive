@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_95c27d091faf9e3048a338dc1b93c127",
+  "title": "Pinewood Computer Core",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c09cd71a330d1bb12e50e1f8f60cb2c6b03e3f55a9c7fc70f10282e25f108785",
+    "path": "levels/sha256/c0/c09cd71a330d1bb12e50e1f8f60cb2c6b03e3f55a9c7fc70f10282e25f108785.rbxl",
+    "format": "binary",
+    "size_bytes": 1307433,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c0/c09cd71a330d1bb12e50e1f8f60cb2c6b03e3f55a9c7fc70f10282e25f108785.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Pinewood Computer Core.rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

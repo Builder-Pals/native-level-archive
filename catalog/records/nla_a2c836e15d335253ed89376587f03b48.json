@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_a2c836e15d335253ed89376587f03b48",
+  "title": "Minigame Madness Update (July 13th, 2016)",
+  "snapshot": {
+    "label": "July 13th, 2016",
+    "date": "2016-07-13",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "152950204cbfbf796981fbf418055f1942a1b922b2bc68b636f58c874300c109",
+    "path": "levels/sha256/15/152950204cbfbf796981fbf418055f1942a1b922b2bc68b636f58c874300c109.rbxl",
+    "format": "binary",
+    "size_bytes": 333561,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/15/152950204cbfbf796981fbf418055f1942a1b922b2bc68b636f58c874300c109.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Minigame Madness Update (July 13th, 2016).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

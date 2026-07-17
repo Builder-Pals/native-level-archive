@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_324c77873b61627dfd7dba94e99f1a0a",
+  "title": "The Pit (February 9th, 2012)",
+  "snapshot": {
+    "label": "February 9th, 2012",
+    "date": "2012-02-09",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "34bf2ccc646e35917c1eb8dbc908e29b3d9e3cc20e46310233eef72d6df3480d",
+    "path": "levels/sha256/34/34bf2ccc646e35917c1eb8dbc908e29b3d9e3cc20e46310233eef72d6df3480d.rbxlx",
+    "format": "xml",
+    "size_bytes": 1251417,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/34/34bf2ccc646e35917c1eb8dbc908e29b3d9e3cc20e46310233eef72d6df3480d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Pit (February 9th, 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

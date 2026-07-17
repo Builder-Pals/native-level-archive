@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_afa892caca7a3ebbfbab24ac1bcec511",
+  "title": "santas village",
+  "snapshot": {},
+  "blob": {
+    "sha256": "f182c40e6985fbde9663e547106f0f4dd3234750c12728ba9eb254c7126e9a5c",
+    "path": "levels/sha256/f1/f182c40e6985fbde9663e547106f0f4dd3234750c12728ba9eb254c7126e9a5c.rbxlx",
+    "format": "xml",
+    "size_bytes": 8813915,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f1/f182c40e6985fbde9663e547106f0f4dd3234750c12728ba9eb254c7126e9a5c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "santas village.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "id": "nla_7406fd4b6a649348756e4421b81cc8a3",
+  "title": "#1 - Work at a Pizza Place (May 2010 version)",
+  "snapshot": {
+    "label": "May 2010 version",
+    "date": "2010-05-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "5c3cde1e96883dd14679f3f2a23dd0dc63643a6abe3ca18c00c4fcdd1f8ec64e",
+    "path": "levels/sha256/5c/5c3cde1e96883dd14679f3f2a23dd0dc63643a6abe3ca18c00c4fcdd1f8ec64e.rbxlx",
+    "format": "xml",
+    "size_bytes": 7134467,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5c/5c3cde1e96883dd14679f3f2a23dd0dc63643a6abe3ca18c00c4fcdd1f8ec64e.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "#1 - Work at a Pizza Place (May 2010 version).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 14677914,
+      "name": "Cashier Expert",
+      "origin": "embedded"
+    },
+    {
+      "id": 14677969,
+      "name": "Cooking Expert",
+      "origin": "embedded"
+    },
+    {
+      "id": 14678075,
+      "name": "Boxing Expert",
+      "origin": "embedded"
+    },
+    {
+      "id": 14678118,
+      "name": "Delivery Expert",
+      "origin": "embedded"
+    },
+    {
+      "id": 14678224,
+      "name": "Supplying Expert",
+      "origin": "embedded"
+    },
+    {
+      "id": 15902941,
+      "name": "Pizza Pro",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14677914,
+      14677969,
+      14678075,
+      14678118,
+      14678224,
+      15902941
+    ]
+  },
+  "source": {
+    "root_place_id": 192800,
+    "universe_id": 47545,
+    "name": "🍕Work at a Pizza Place",
+    "roblox_url": "https://www.roblox.com/games/192800",
+    "description": "🤝Work as a team to fulfill food orders.\n🏠Use your work earnings to upgrade your house and buy furniture.\n\nDon't forget to 👍 and ⭐! It really helps!",
+    "creator": {
+      "id": 82471,
+      "name": "Dued1",
+      "type": "User"
+    },
+    "created_at": "2008-03-28T18:12:42.6Z",
+    "updated_at": "2026-07-09T05:56:44.343Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14677914",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "14677969",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "14678075",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "14678118",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "14678224",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      },
+      {
+        "kind": "badge",
+        "value": "15902941",
+        "detail": "badge resolves to universe 47545 and root place 192800"
+      }
+    ]
+  },
+  "preferred": false
+}

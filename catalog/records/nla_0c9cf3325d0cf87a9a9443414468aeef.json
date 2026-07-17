@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_0c9cf3325d0cf87a9a9443414468aeef",
+  "title": "Nebula Script Builder 2016",
+  "snapshot": {
+    "date": "2016-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "8afe6543194f5496b5b73b897fc8c06ad1c75720391bd3c24f86eee18a7355f1",
+    "path": "levels/sha256/8a/8afe6543194f5496b5b73b897fc8c06ad1c75720391bd3c24f86eee18a7355f1.rbxl",
+    "format": "binary",
+    "size_bytes": 7345547,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8a/8afe6543194f5496b5b73b897fc8c06ad1c75720391bd3c24f86eee18a7355f1.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Nebula Script Builder 2016.rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

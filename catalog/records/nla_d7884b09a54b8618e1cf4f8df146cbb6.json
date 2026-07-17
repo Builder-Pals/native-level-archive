@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_d7884b09a54b8618e1cf4f8df146cbb6",
+  "title": "3041 - starbucks (frappe v1)",
+  "snapshot": {
+    "label": "frappe v1"
+  },
+  "blob": {
+    "sha256": "e5a78d6e962b70878cb1a2fb90ce7a7331a8d7dd8652e11f0a994dde5ad957f8",
+    "path": "levels/sha256/e5/e5a78d6e962b70878cb1a2fb90ce7a7331a8d7dd8652e11f0a994dde5ad957f8.rbxl",
+    "format": "binary",
+    "size_bytes": 608293,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e5/e5a78d6e962b70878cb1a2fb90ce7a7331a8d7dd8652e11f0a994dde5ad957f8.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3041 - starbucks (frappe v1).rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

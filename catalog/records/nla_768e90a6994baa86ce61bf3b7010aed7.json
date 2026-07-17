@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_768e90a6994baa86ce61bf3b7010aed7",
+  "title": "Thrillville park (theme park!) V3.3 (August 14th 2007)",
+  "snapshot": {
+    "label": "August 14th 2007",
+    "date": "2007-08-14",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "80c5324a7cabc02a1cd34f3e011887babd51b2239442bb0727bba5665d1f1666",
+    "path": "levels/sha256/80/80c5324a7cabc02a1cd34f3e011887babd51b2239442bb0727bba5665d1f1666.rbxlx",
+    "format": "xml",
+    "size_bytes": 27981330,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/80/80c5324a7cabc02a1cd34f3e011887babd51b2239442bb0727bba5665d1f1666.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Thrillville park (theme park!) V3.3 (August 14th 2007).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

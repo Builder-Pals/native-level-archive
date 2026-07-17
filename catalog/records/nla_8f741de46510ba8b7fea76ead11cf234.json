@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_8f741de46510ba8b7fea76ead11cf234",
+  "title": "712 - The Future",
+  "snapshot": {},
+  "blob": {
+    "sha256": "30bcafb805df4c0ccb7714d7eb6e82f4faf8db7900830eacf736ba0b961ff1f2",
+    "path": "levels/sha256/30/30bcafb805df4c0ccb7714d7eb6e82f4faf8db7900830eacf736ba0b961ff1f2.rbxl",
+    "format": "binary",
+    "size_bytes": 243297,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/30/30bcafb805df4c0ccb7714d7eb6e82f4faf8db7900830eacf736ba0b961ff1f2.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/712 - The Future.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

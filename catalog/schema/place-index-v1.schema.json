@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Builder-Pals/native-level-archive/catalog/schema/place-index-v1.schema.json",
+  "title": "Native Level Archive place index v1",
+  "type": "object",
+  "required": ["schema_version", "places"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "places": {
+      "type": "object",
+      "patternProperties": {
+        "^[1-9][0-9]*$": {
+          "type": "object",
+          "required": ["universe_id", "preferred", "variants"],
+          "properties": {
+            "universe_id": { "type": "integer", "minimum": 1 },
+            "preferred": { "$ref": "#/$defs/variant" },
+            "variants": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/variant" } }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "variant": {
+      "type": "object",
+      "required": ["record_id", "title", "sha256", "size_bytes", "path", "download_url"],
+      "properties": {
+        "record_id": { "type": "string", "pattern": "^nla_[0-9a-f]{32}$" },
+        "title": { "type": "string" },
+        "snapshot_date": { "type": "string" },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "size_bytes": { "type": "integer", "minimum": 1 },
+        "path": { "type": "string" },
+        "download_url": { "type": "string", "format": "uri" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

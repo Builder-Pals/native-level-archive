@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "id": "nla_2664ba86e7eb5a41beeccf8a5a26f894",
+  "title": "Sword Fighting Tournament (2010, December)",
+  "snapshot": {
+    "label": "2010, December",
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "7f96eeb9412906a9c3cf4399fc83ab29787ef10cf5834833e7da994d8732efe4",
+    "path": "levels/sha256/7f/7f96eeb9412906a9c3cf4399fc83ab29787ef10cf5834833e7da994d8732efe4.rbxlx",
+    "format": "xml",
+    "size_bytes": 3738975,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7f/7f96eeb9412906a9c3cf4399fc83ab29787ef10cf5834833e7da994d8732efe4.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sword Fighting Tournament (2010, December).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Sword Fighting Tournament (2010, December).meta.json",
+    "legacy_creator": "TheGamer101"
+  },
+  "badges": [
+    {
+      "id": 33993365,
+      "name": "5 Wins",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 33993393,
+      "name": "10 Wins",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 33993442,
+      "name": "Expert guesser.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 33993472,
+      "name": "Met the creator!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34311645,
+      "origin": "embedded"
+    },
+    {
+      "id": 35406394,
+      "name": "2 V 2 Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 35610803,
+      "origin": "embedded"
+    },
+    {
+      "id": 35790293,
+      "name": "Cookie",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 35874966,
+      "name": "Survival round winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 35878923,
+      "name": "Tournament Winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 35881190,
+      "name": "3 V 1 Winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 36534462,
+      "name": "Team Deathmatch winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 36535184,
+      "name": "Super Badge!!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 36635169,
+      "name": "Juggernaut winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 36693675,
+      "origin": "embedded"
+    },
+    {
+      "id": 37248386,
+      "name": "The Golden One winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37726940,
+      "name": "2 V 2 V 2 Winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 38037123,
+      "name": "Juggernaut winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 40452683,
+      "name": "King of the hill.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41917825,
+      "name": "Sword Progression Winner.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42712552,
+      "name": "You are a V.I.P!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42712773,
+      "name": "You are an Insane V.I.P",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42712876,
+      "name": "You are a Mini V.I.P",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43815817,
+      "name": "5 Practice Kills",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43815894,
+      "name": "10 Practice Kills.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44611972,
+      "name": "5 Practice Killstreak.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44612059,
+      "name": "Money Saver.",
+      "origin": "embedded"
+    },
+    {
+      "id": 44800899,
+      "name": "Elimination Bonus Round Winner.",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      33993365,
+      33993393,
+      33993442,
+      33993472,
+      34311645,
+      35406394,
+      35610803,
+      35790293,
+      35874966,
+      35878923,
+      35881190,
+      36534462,
+      36535184,
+      36635169,
+      36693675,
+      37248386,
+      37726940,
+      38037123,
+      40452683,
+      41917825,
+      42712552,
+      42712773,
+      42712876,
+      43815817,
+      43815894,
+      44611972,
+      44612059,
+      44800899
+    ]
+  },
+  "source": {
+    "root_place_id": 14375697,
+    "universe_id": 42070800,
+    "name": "Sword Fighting Tournament",
+    "roblox_url": "https://www.roblox.com/games/14375697",
+    "description": "Welcome to Sword Fighting Tournament, ROBLOX's most popular sword fighting game. Blox your friends, or your enemies, in a variety of different game modes and of course the tournament.",
+    "creator": {
+      "id": 2231221,
+      "name": "TheGamer101",
+      "type": "User"
+    },
+    "created_at": "2009-08-12T09:26:33.307Z",
+    "updated_at": "2025-01-18T00:12:53.09Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "33993365",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "33993393",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "33993442",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "33993472",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "35406394",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "35790293",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "35874966",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "35878923",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "35881190",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "36534462",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "36535184",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "36635169",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "37248386",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "37726940",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "38037123",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "40452683",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "41917825",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "42712552",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "42712773",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "42712876",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "43815817",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "43815894",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "44611972",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "44612059",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      },
+      {
+        "kind": "badge",
+        "value": "44800899",
+        "detail": "badge resolves to universe 42070800 and root place 14375697"
+      }
+    ]
+  },
+  "preferred": false
+}

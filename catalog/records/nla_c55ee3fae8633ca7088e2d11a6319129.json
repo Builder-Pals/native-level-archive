@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_c55ee3fae8633ca7088e2d11a6319129",
+  "title": "2010M Hangout V25",
+  "snapshot": {
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "b4bc7fc8264e795b96fe9f2ced1e5629bcaf1888cece0494de509ab7febe4b19",
+    "path": "levels/sha256/b4/b4bc7fc8264e795b96fe9f2ced1e5629bcaf1888cece0494de509ab7febe4b19.rbxlx",
+    "format": "xml",
+    "size_bytes": 9182651,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b4/b4bc7fc8264e795b96fe9f2ced1e5629bcaf1888cece0494de509ab7febe4b19.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "2010M Hangout V25.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

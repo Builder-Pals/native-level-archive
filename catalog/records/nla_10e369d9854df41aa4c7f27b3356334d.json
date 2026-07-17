@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_10e369d9854df41aa4c7f27b3356334d",
+  "title": "22 - Meteorite Plains Experience",
+  "snapshot": {},
+  "blob": {
+    "sha256": "ff0e030dcf5a4b36c105fa574148dd075092620754dcbe05046e6d5d5e937f10",
+    "path": "levels/sha256/ff/ff0e030dcf5a4b36c105fa574148dd075092620754dcbe05046e6d5d5e937f10.rbxl",
+    "format": "binary",
+    "size_bytes": 234474,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ff/ff0e030dcf5a4b36c105fa574148dd075092620754dcbe05046e6d5d5e937f10.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/22 - Meteorite Plains Experience.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

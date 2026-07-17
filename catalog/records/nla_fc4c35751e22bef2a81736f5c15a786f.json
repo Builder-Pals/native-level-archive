@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "nla_fc4c35751e22bef2a81736f5c15a786f",
+  "title": "Heli Wars Desert Attack (ST2, 2012)",
+  "snapshot": {
+    "label": "ST2, 2012",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "ea565ef05564e310e1d275f3c15c2e525735aa17cf5d810a6bb317733eea358f",
+    "path": "levels/sha256/ea/ea565ef05564e310e1d275f3c15c2e525735aa17cf5d810a6bb317733eea358f.rbxlx",
+    "format": "xml",
+    "size_bytes": 3243843,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ea/ea565ef05564e310e1d275f3c15c2e525735aa17cf5d810a6bb317733eea358f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Heli Wars Desert Attack (ST2, 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 2546452,
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      2546452
+    ]
+  },
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

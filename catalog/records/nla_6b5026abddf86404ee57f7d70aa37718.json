@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_6b5026abddf86404ee57f7d70aa37718",
+  "title": "Nulliffied (2012E)",
+  "snapshot": {
+    "label": "2012E",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "d9470eb5981701303eabfa5cef7d18770d91d871972d0f7ab7fd88e7bcb6879f",
+    "path": "levels/sha256/d9/d9470eb5981701303eabfa5cef7d18770d91d871972d0f7ab7fd88e7bcb6879f.rbxlx",
+    "format": "xml",
+    "size_bytes": 480829,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d9/d9470eb5981701303eabfa5cef7d18770d91d871972d0f7ab7fd88e7bcb6879f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Nulliffied (2012E).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "nla_43daba3d6061044b03b29483987be5f3",
+  "title": "Teamwork Minigames",
+  "snapshot": {},
+  "blob": {
+    "sha256": "136fb3c4ac84cbda82d5da0b156130dffb59c204ca6e097cb7c3011cb694bf46",
+    "path": "levels/sha256/13/136fb3c4ac84cbda82d5da0b156130dffb59c204ca6e097cb7c3011cb694bf46.rbxlx",
+    "format": "xml",
+    "size_bytes": 2510239,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/13/136fb3c4ac84cbda82d5da0b156130dffb59c204ca6e097cb7c3011cb694bf46.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Teamwork Minigames.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 53368197,
+      "name": "I'm a contestant!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      53368197
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "53368197",
+        "detail": "badge resolves to universe 22201270 and root place 51358387"
+      }
+    ]
+  },
+  "preferred": false
+}

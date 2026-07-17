@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "nla_acb2b751d949de02e0950fd7af224781",
+  "title": "Four_Corners",
+  "snapshot": {},
+  "blob": {
+    "sha256": "7d0c9288be127ba773479725504fa50d97cdccfd823f014613f260d7b0805a86",
+    "path": "levels/sha256/7d/7d0c9288be127ba773479725504fa50d97cdccfd823f014613f260d7b0805a86.rbxlx",
+    "format": "xml",
+    "size_bytes": 539706,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7d/7d0c9288be127ba773479725504fa50d97cdccfd823f014613f260d7b0805a86.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Four_Corners.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Four Corners.meta.json",
+    "legacy_creator": "alexnewtron"
+  },
+  "badges": [
+    {
+      "id": 26636599,
+      "name": "I'm It!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      26636599
+    ]
+  },
+  "source": {
+    "root_place_id": 19683798,
+    "universe_id": 23529667,
+    "name": "ROBLOX Ware Minigames! (work in progress)",
+    "roblox_url": "https://www.roblox.com/games/19683798",
+    "description": "Total Minigames : 6 (Goal: 15)\r\nThe fun fast-paced mini-games now on ROBLOX! Take part against other players in this fan-made version of Wario Ware on ROBLOX!",
+    "creator": {
+      "id": 123247,
+      "name": "alexnewtron",
+      "type": "User"
+    },
+    "created_at": "2009-12-23T22:33:24.75Z",
+    "updated_at": "2015-08-18T02:23:33.973Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "26636599",
+        "detail": "badge resolves to universe 23529667 and root place 19683798"
+      }
+    ]
+  },
+  "preferred": false
+}

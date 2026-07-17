@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_3106c6c928bd6b21a0088170add8e8b2",
+  "title": "gt_construct",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a206b082d69a3bb9fec8bf113aae446d81cbea822bbe1776ae97fdee6eb1e6a3",
+    "path": "levels/sha256/a2/a206b082d69a3bb9fec8bf113aae446d81cbea822bbe1776ae97fdee6eb1e6a3.rbxlx",
+    "format": "xml",
+    "size_bytes": 3087811,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a2/a206b082d69a3bb9fec8bf113aae446d81cbea822bbe1776ae97fdee6eb1e6a3.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "gt_construct.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

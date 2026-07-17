@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_51e969e2d2289d59832d70029192a472",
+  "title": "abdillahi504's small (2008)",
+  "snapshot": {
+    "label": "2008",
+    "date": "2008-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "7dc8754e342e62dba4fc12a683d186eac7aa72ea7bd0edf43bfe53585cb3c203",
+    "path": "levels/sha256/7d/7dc8754e342e62dba4fc12a683d186eac7aa72ea7bd0edf43bfe53585cb3c203.rbxlx",
+    "format": "xml",
+    "size_bytes": 1060912,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7d/7dc8754e342e62dba4fc12a683d186eac7aa72ea7bd0edf43bfe53585cb3c203.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "abdillahi504's small (2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

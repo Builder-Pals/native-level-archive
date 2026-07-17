@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c85b8a8608b632e85607057fccf9bf1a",
+  "title": "Luas-Require-Script-Executor",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6e15712e98ae8e21ed9bdfebc8cbc76985cecb76326a2ff9379bcb6924856073",
+    "path": "levels/sha256/6e/6e15712e98ae8e21ed9bdfebc8cbc76985cecb76326a2ff9379bcb6924856073.rbxl",
+    "format": "binary",
+    "size_bytes": 511023,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6e/6e15712e98ae8e21ed9bdfebc8cbc76985cecb76326a2ff9379bcb6924856073.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Luas-Require-Script-Executor.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

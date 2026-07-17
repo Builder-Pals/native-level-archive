@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_b0837efcc59d1aad3c65162e8e0b9e74",
+  "title": "X-101st Legion Franneh III [Updated] (August 23rd, 2012)",
+  "snapshot": {
+    "label": "August 23rd, 2012",
+    "date": "2012-08-23",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "1f5e6f269b0aa2f092f2d35794af50b76e8cfc952d0c669dfcb31e08dcba9e3d",
+    "path": "levels/sha256/1f/1f5e6f269b0aa2f092f2d35794af50b76e8cfc952d0c669dfcb31e08dcba9e3d.rbxlx",
+    "format": "xml",
+    "size_bytes": 10134446,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1f/1f5e6f269b0aa2f092f2d35794af50b76e8cfc952d0c669dfcb31e08dcba9e3d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "X-101st Legion Franneh III [Updated] (August 23rd, 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

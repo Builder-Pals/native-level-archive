@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_889c12f3858eb1f915b3f6d039770777",
+  "title": "Paintball (early 2012 version, authentic)",
+  "snapshot": {
+    "label": "early 2012 version, authentic",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "1376be3b0ae2d8f42a1e4e6b37262b0aadf3124866425eb5d55ebd945e632741",
+    "path": "levels/sha256/13/1376be3b0ae2d8f42a1e4e6b37262b0aadf3124866425eb5d55ebd945e632741.rbxlx",
+    "format": "xml",
+    "size_bytes": 8664592,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/13/1376be3b0ae2d8f42a1e4e6b37262b0aadf3124866425eb5d55ebd945e632741.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Paintball (early 2012 version, authentic).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

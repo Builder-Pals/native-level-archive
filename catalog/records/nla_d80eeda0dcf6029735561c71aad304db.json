@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "nla_d80eeda0dcf6029735561c71aad304db",
+  "title": "SCP Containment Breach",
+  "snapshot": {},
+  "blob": {
+    "sha256": "ffde748012933cdbd9516a2e7a0e34b49976e09c6b8c8065f27528d2fdff1989",
+    "path": "levels/sha256/ff/ffde748012933cdbd9516a2e7a0e34b49976e09c6b8c8065f27528d2fdff1989.rbxlx",
+    "format": "xml",
+    "size_bytes": 13508294,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ff/ffde748012933cdbd9516a2e7a0e34b49976e09c6b8c8065f27528d2fdff1989.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "SCP Containment Breach.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 96176826,
+      "name": "○ Death by SCP-173 ○",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      96176826
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "96176826",
+        "detail": "badge resolves to universe 87549296 and root place 91625417"
+      }
+    ]
+  },
+  "preferred": false
+}

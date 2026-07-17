@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_9f0ac9c17356bde4e96f3a3157fa3226",
+  "title": "BouyertheDestroyer's The Best Pirates of the Robloxian Clone Ever!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "68ef78eaf7e7c3f21d2aa363dc545f41fbbc452b0c41ce357a69df04f89d6cce",
+    "path": "levels/sha256/68/68ef78eaf7e7c3f21d2aa363dc545f41fbbc452b0c41ce357a69df04f89d6cce.rbxlx",
+    "format": "xml",
+    "size_bytes": 22412521,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/68/68ef78eaf7e7c3f21d2aa363dc545f41fbbc452b0c41ce357a69df04f89d6cce.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "BouyertheDestroyer's The Best Pirates of the Robloxian Clone Ever!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_85f2bfd08c89898b4ae67dc549d5594d",
+  "title": "Surf",
+  "snapshot": {},
+  "blob": {
+    "sha256": "bbda7994b3e2b8f4bc7c6995ffb64b069de705dcdaa60d5a3ce6c3f50fa778d2",
+    "path": "levels/sha256/bb/bbda7994b3e2b8f4bc7c6995ffb64b069de705dcdaa60d5a3ce6c3f50fa778d2.rbxl",
+    "format": "binary",
+    "size_bytes": 348521,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/bb/bbda7994b3e2b8f4bc7c6995ffb64b069de705dcdaa60d5a3ce6c3f50fa778d2.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Surf.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

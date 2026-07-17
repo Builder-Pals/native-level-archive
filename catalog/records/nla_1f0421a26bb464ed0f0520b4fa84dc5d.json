@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_1f0421a26bb464ed0f0520b4fa84dc5d",
+  "title": "Crossroads (Nov 2006 - Restored)",
+  "snapshot": {
+    "label": "Nov 2006 - Restored",
+    "date": "2006-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "0181e3a2884e863f9f8184131e3687140ba31d7e633ea978f823a2fc225310e7",
+    "path": "levels/sha256/01/0181e3a2884e863f9f8184131e3687140ba31d7e633ea978f823a2fc225310e7.rbxlx",
+    "format": "xml",
+    "size_bytes": 3999502,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/01/0181e3a2884e863f9f8184131e3687140ba31d7e633ea978f823a2fc225310e7.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Crossroads (Nov 2006 - Restored).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

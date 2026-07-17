@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "nla_9756e1b389a58b3a18fe9a29d6bb5b22",
+  "title": "Ultimate Laser Tag CTF",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e2b76a1dbf8246f066398a6279f1680c1cec288dcd6d030e6fab264e9ebe2717",
+    "path": "levels/sha256/e2/e2b76a1dbf8246f066398a6279f1680c1cec288dcd6d030e6fab264e9ebe2717.rbxlx",
+    "format": "xml",
+    "size_bytes": 4045979,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e2/e2b76a1dbf8246f066398a6279f1680c1cec288dcd6d030e6fab264e9ebe2717.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Ultimate Laser Tag CTF.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Ultimate Laser Tag CTF.meta.json",
+    "legacy_creator": "Krash9999"
+  },
+  "badges": [
+    {
+      "id": 14433789,
+      "name": "I Found The \"Hidden\" Badge",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14433789
+    ]
+  },
+  "source": {
+    "root_place_id": 9757619,
+    "universe_id": 16164943,
+    "name": "Ultimate Laser Tag CTF",
+    "roblox_url": "https://www.roblox.com/games/9757619",
+    "description": "Map here:\r\nhttp://www.roblox.com/Laser-Tag-Map-item?id=20022709",
+    "creator": {
+      "id": 1359364,
+      "name": "Krash9999",
+      "type": "User"
+    },
+    "created_at": "2009-04-11T21:12:56.457Z",
+    "updated_at": "2013-03-30T19:04:48.917Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14433789",
+        "detail": "badge resolves to universe 16164943 and root place 9757619"
+      }
+    ]
+  },
+  "preferred": true
+}

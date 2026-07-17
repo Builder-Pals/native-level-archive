@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_6428787b4b7f20771e3516ca3c12f62b",
+  "title": "Forest Warz!!! Grand Opening! (August 23rd, 2008)",
+  "snapshot": {
+    "label": "August 23rd, 2008",
+    "date": "2008-08-23",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "447d46a9231e10d7d8e915c840dcb8294e8d6bbc46e4f66ab7ad5bf5625d5dbb",
+    "path": "levels/sha256/44/447d46a9231e10d7d8e915c840dcb8294e8d6bbc46e4f66ab7ad5bf5625d5dbb.rbxlx",
+    "format": "xml",
+    "size_bytes": 15116272,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/44/447d46a9231e10d7d8e915c840dcb8294e8d6bbc46e4f66ab7ad5bf5625d5dbb.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Forest Warz!!! Grand Opening! (August 23rd, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

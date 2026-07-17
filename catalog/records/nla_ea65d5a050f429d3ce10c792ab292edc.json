@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_ea65d5a050f429d3ce10c792ab292edc",
+  "title": "Crossroads (December 16th, 2008)",
+  "snapshot": {
+    "label": "December 16th, 2008",
+    "date": "2008-12-16",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "b713f1fe9b57c1d1c187572eefe7ee42335a0574aa7da9d64873be169494a9c0",
+    "path": "levels/sha256/b7/b713f1fe9b57c1d1c187572eefe7ee42335a0574aa7da9d64873be169494a9c0.rbxlx",
+    "format": "xml",
+    "size_bytes": 4203624,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b7/b713f1fe9b57c1d1c187572eefe7ee42335a0574aa7da9d64873be169494a9c0.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Crossroads (December 16th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

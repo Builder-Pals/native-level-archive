@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_69c43acbf4c766fd90d5b4aa17faca5c",
+  "title": "Noob Destruction Facility 2 (August 16th, 2009)",
+  "snapshot": {
+    "label": "August 16th, 2009",
+    "date": "2009-08-16",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "0565c18279d9d0aac0f951039459c0fdcffd55571cc0b1af87aff3682befdc2a",
+    "path": "levels/sha256/05/0565c18279d9d0aac0f951039459c0fdcffd55571cc0b1af87aff3682befdc2a.rbxlx",
+    "format": "xml",
+    "size_bytes": 36196209,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/05/0565c18279d9d0aac0f951039459c0fdcffd55571cc0b1af87aff3682befdc2a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Noob Destruction Facility 2 (August 16th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

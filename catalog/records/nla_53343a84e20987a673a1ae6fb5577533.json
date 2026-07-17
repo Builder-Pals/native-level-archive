@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_53343a84e20987a673a1ae6fb5577533",
+  "title": "Sanatorium (2014S)",
+  "snapshot": {
+    "label": "2014S",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "c20d3e9e3e3df4ae501901b306b1f1b291e7ab95708ca315731f620914e1d498",
+    "path": "levels/sha256/c2/c20d3e9e3e3df4ae501901b306b1f1b291e7ab95708ca315731f620914e1d498.rbxl",
+    "format": "binary",
+    "size_bytes": 575553,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c2/c20d3e9e3e3df4ae501901b306b1f1b291e7ab95708ca315731f620914e1d498.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sanatorium (2014S).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

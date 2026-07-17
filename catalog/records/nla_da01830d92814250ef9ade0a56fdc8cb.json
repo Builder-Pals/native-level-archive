@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_da01830d92814250ef9ade0a56fdc8cb",
+  "title": "Fantasy Kingdom",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b5c6fe3334fc60cb8971ad8276ab5a17ccf85179c257ecc14806b906cdad3788",
+    "path": "levels/sha256/b5/b5c6fe3334fc60cb8971ad8276ab5a17ccf85179c257ecc14806b906cdad3788.rbxlx",
+    "format": "xml",
+    "size_bytes": 4220581,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b5/b5c6fe3334fc60cb8971ad8276ab5a17ccf85179c257ecc14806b906cdad3788.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Fantasy Kingdom.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

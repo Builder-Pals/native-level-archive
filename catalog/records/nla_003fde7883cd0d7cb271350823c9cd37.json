@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_003fde7883cd0d7cb271350823c9cd37",
+  "title": "Armored Patrol v5.2 (November 27th, 2009)",
+  "snapshot": {
+    "label": "November 27th, 2009",
+    "date": "2009-11-27",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "f06670c2da2f70b571bf74decabcc818ca05dca08ccaeebd492a1ff5c7fd44d3",
+    "path": "levels/sha256/f0/f06670c2da2f70b571bf74decabcc818ca05dca08ccaeebd492a1ff5c7fd44d3.rbxlx",
+    "format": "xml",
+    "size_bytes": 3400793,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f0/f06670c2da2f70b571bf74decabcc818ca05dca08ccaeebd492a1ff5c7fd44d3.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Armored Patrol v5.2 (November 27th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

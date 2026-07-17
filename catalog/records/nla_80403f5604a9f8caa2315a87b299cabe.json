@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "nla_80403f5604a9f8caa2315a87b299cabe",
+  "title": "Power Up for Your Next Mission",
+  "snapshot": {},
+  "blob": {
+    "sha256": "65cd9ce9e9351bbbae253657676e9a7fd2708c831b2a79cd6ab1d98d7f4db3f6",
+    "path": "levels/sha256/65/65cd9ce9e9351bbbae253657676e9a7fd2708c831b2a79cd6ab1d98d7f4db3f6.rbxlx",
+    "format": "xml",
+    "size_bytes": 22444888,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/65/65cd9ce9e9351bbbae253657676e9a7fd2708c831b2a79cd6ab1d98d7f4db3f6.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Power Up for Your Next Mission.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 56639921,
+      "name": "Jump in, they said",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      56639921
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "56639921",
+        "detail": "badge resolves to universe 26188192 and root place 6590174"
+      }
+    ]
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_7365eada05eda917b05ba9d7264c7844",
+  "title": "Sanicball-Uncopylocked",
+  "snapshot": {},
+  "blob": {
+    "sha256": "fa60ccf2abd86e6cd1cafeb85fdf16a2b8d724f122f2eca5db172c51c611c2a7",
+    "path": "levels/sha256/fa/fa60ccf2abd86e6cd1cafeb85fdf16a2b8d724f122f2eca5db172c51c611c2a7.rbxl",
+    "format": "binary",
+    "size_bytes": 613058,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fa/fa60ccf2abd86e6cd1cafeb85fdf16a2b8d724f122f2eca5db172c51c611c2a7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sanicball-Uncopylocked.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

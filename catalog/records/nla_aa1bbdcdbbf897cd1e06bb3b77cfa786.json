@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_aa1bbdcdbbf897cd1e06bb3b77cfa786",
+  "title": "10 - The Plaza",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a1a1e17d1d8e322a8b8d20adb10f49cbea44be177505a1490e3fffd13076a7c9",
+    "path": "levels/sha256/a1/a1a1e17d1d8e322a8b8d20adb10f49cbea44be177505a1490e3fffd13076a7c9.rbxl",
+    "format": "binary",
+    "size_bytes": 2764129,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a1/a1a1e17d1d8e322a8b8d20adb10f49cbea44be177505a1490e3fffd13076a7c9.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/10 - The Plaza.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

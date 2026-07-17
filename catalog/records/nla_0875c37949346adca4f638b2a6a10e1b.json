@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_0875c37949346adca4f638b2a6a10e1b",
+  "title": "Fierce [Battle Royal] (2014S)",
+  "snapshot": {
+    "label": "2014S",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "730fd3639727e6370375b591a31a74288ce25e829b27b75e742c38020ef52a57",
+    "path": "levels/sha256/73/730fd3639727e6370375b591a31a74288ce25e829b27b75e742c38020ef52a57.rbxl",
+    "format": "binary",
+    "size_bytes": 3859628,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/73/730fd3639727e6370375b591a31a74288ce25e829b27b75e742c38020ef52a57.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Fierce [Battle Royal] (2014S).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

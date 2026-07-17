@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_20ec0e9faca644192c2b8b4b5b10c5d0",
+  "title": "A Lucid Dream",
+  "snapshot": {},
+  "blob": {
+    "sha256": "37f3534ddf9e2c6ae49c8e32e84f64bbd98e71ff2ecedfe3159e1d2ae349e2ee",
+    "path": "levels/sha256/37/37f3534ddf9e2c6ae49c8e32e84f64bbd98e71ff2ecedfe3159e1d2ae349e2ee.rbxl",
+    "format": "binary",
+    "size_bytes": 2367329,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/37/37f3534ddf9e2c6ae49c8e32e84f64bbd98e71ff2ecedfe3159e1d2ae349e2ee.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "A Lucid Dream.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

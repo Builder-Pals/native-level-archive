@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_0092cfe2d926711b546c918015d209f7",
+  "title": "[ Martial Arts Tournament ]",
+  "snapshot": {},
+  "blob": {
+    "sha256": "cdf3292dcf2f5badffa74100ee3b54008132bcb65e317e5ffc1129016258fe68",
+    "path": "levels/sha256/cd/cdf3292dcf2f5badffa74100ee3b54008132bcb65e317e5ffc1129016258fe68.rbxlx",
+    "format": "xml",
+    "size_bytes": 5433968,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cd/cdf3292dcf2f5badffa74100ee3b54008132bcb65e317e5ffc1129016258fe68.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "[ Martial Arts Tournament ].rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

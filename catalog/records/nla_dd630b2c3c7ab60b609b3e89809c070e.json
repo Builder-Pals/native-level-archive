@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_dd630b2c3c7ab60b609b3e89809c070e",
+  "title": "Ultimate Paintball (July 2007)",
+  "snapshot": {
+    "label": "July 2007",
+    "date": "2007-07-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "fde3c1d98d07dfd6ce5fc53aaeed8001ac2c8221b5fde1fb108373968035728a",
+    "path": "levels/sha256/fd/fde3c1d98d07dfd6ce5fc53aaeed8001ac2c8221b5fde1fb108373968035728a.rbxlx",
+    "format": "xml",
+    "size_bytes": 8564200,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fd/fde3c1d98d07dfd6ce5fc53aaeed8001ac2c8221b5fde1fb108373968035728a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Ultimate Paintball (July 2007).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

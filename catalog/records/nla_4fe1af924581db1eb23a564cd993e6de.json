@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_4fe1af924581db1eb23a564cd993e6de",
+  "title": "Ultimate Paintball (June 16th, 2012)",
+  "snapshot": {
+    "label": "June 16th, 2012",
+    "date": "2012-06-16",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "93b51ca0b9f06668bf29cf297cd0f0c63df6ae40f4ebbf48def90ae9e25dcc8d",
+    "path": "levels/sha256/93/93b51ca0b9f06668bf29cf297cd0f0c63df6ae40f4ebbf48def90ae9e25dcc8d.rbxlx",
+    "format": "xml",
+    "size_bytes": 2931653,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/93/93b51ca0b9f06668bf29cf297cd0f0c63df6ae40f4ebbf48def90ae9e25dcc8d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Ultimate Paintball (June 16th, 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_9fac199c0444b35d1b419c8e9126c87e",
+  "title": "bombroads 2.0 (2012, any version)",
+  "snapshot": {
+    "label": "2012, any version",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "4f6840c79e2c576381409d046b9e8cdd325212d5949973762178349386bf49fd",
+    "path": "levels/sha256/4f/4f6840c79e2c576381409d046b9e8cdd325212d5949973762178349386bf49fd.rbxlx",
+    "format": "xml",
+    "size_bytes": 3980388,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/4f/4f6840c79e2c576381409d046b9e8cdd325212d5949973762178349386bf49fd.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "bombroads 2.0 (2012, any version).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

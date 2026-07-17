@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_f9f611c27473fe99c3953793d27d593b",
+  "title": "PROTOTYPECROSS2-Leak",
+  "snapshot": {},
+  "blob": {
+    "sha256": "07c4f18e40e29dfefb839fc799d588b6c7b4eb020293d40e0a7e4cc1ce23f201",
+    "path": "levels/sha256/07/07c4f18e40e29dfefb839fc799d588b6c7b4eb020293d40e0a7e4cc1ce23f201.rbxl",
+    "format": "binary",
+    "size_bytes": 194224,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/07/07c4f18e40e29dfefb839fc799d588b6c7b4eb020293d40e0a7e4cc1ce23f201.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "PROTOTYPECROSS2-Leak.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_97bcac446b00f58dfe96de90af7c9d00",
+  "title": "1912 - Test idk",
+  "snapshot": {},
+  "blob": {
+    "sha256": "47e44accc646c2b60db4a11e90b017bb8bca98e37c56224fff8466f8669d72ca",
+    "path": "levels/sha256/47/47e44accc646c2b60db4a11e90b017bb8bca98e37c56224fff8466f8669d72ca.rbxl",
+    "format": "binary",
+    "size_bytes": 1288480,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/47/47e44accc646c2b60db4a11e90b017bb8bca98e37c56224fff8466f8669d72ca.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1912 - Test idk.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

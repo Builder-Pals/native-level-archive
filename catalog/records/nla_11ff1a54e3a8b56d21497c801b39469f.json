@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_11ff1a54e3a8b56d21497c801b39469f",
+  "title": "Voidacity's Script Builder (Place 2)",
+  "snapshot": {
+    "label": "Place 2"
+  },
+  "blob": {
+    "sha256": "fc2e0cb3d1e81453ea482e8cbd01ab0487941c39f5a89472feb034a63937d77e",
+    "path": "levels/sha256/fc/fc2e0cb3d1e81453ea482e8cbd01ab0487941c39f5a89472feb034a63937d77e.rbxl",
+    "format": "binary",
+    "size_bytes": 24529,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fc/fc2e0cb3d1e81453ea482e8cbd01ab0487941c39f5a89472feb034a63937d77e.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Voidacity's Script Builder (Place 2).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

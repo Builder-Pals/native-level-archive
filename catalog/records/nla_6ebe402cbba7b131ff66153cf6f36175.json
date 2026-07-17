@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "id": "nla_6ebe402cbba7b131ff66153cf6f36175",
+  "title": "ROBLOX Battle - 2013",
+  "snapshot": {
+    "date": "2013-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "f442f7cfb6fc8b0b2a414a62cc2fbdeba46ac764c04c492eb67513fa9d443174",
+    "path": "levels/sha256/f4/f442f7cfb6fc8b0b2a414a62cc2fbdeba46ac764c04c492eb67513fa9d443174.rbxl",
+    "format": "binary",
+    "size_bytes": 302606,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f4/f442f7cfb6fc8b0b2a414a62cc2fbdeba46ac764c04c492eb67513fa9d443174.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX Battle - 2013.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "ROBLOX Battle - 2013.meta.json",
+    "legacy_creator": "Games"
+  },
+  "badges": [
+    {
+      "id": 119925991,
+      "name": "Dress for Success",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 119926071,
+      "name": "Explosive Results",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 119926179,
+      "name": "Ricochet",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 119926346,
+      "name": "Saved by the Ball",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 119926417,
+      "name": "In All its Glory",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 121133205,
+      "name": "Coins",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 121268871,
+      "name": "Coins, Coins",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 121269086,
+      "name": "Coins, Coins, Coins",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 121269358,
+      "name": "Coins, Coins, Coins... Coins!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 123236471,
+      "name": "Shining Achievement",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 96623001,
+    "universe_id": 20514875,
+    "name": "ROBLOX Battle [OPEN]",
+    "roblox_url": "https://www.roblox.com/games/96623001",
+    "description": "OPEN SOURCE!\r\nFeel free to check out how we made this game and ask us about it!\r\n\r\nHello all! Now the light body armor is a free item for you to inspect! http://www.roblox.com/LightBodyArmorWithSpeedMod-item?id=123893316 Now you can make items for Battle too! Inspect the item and make different colored armor for us! Anyone who gets their armor into the game will receive that item for free forever. P.S. Your armor needs to consist of less than 20 parts.\r\n\r\nNEW MODE: DODGEBALL!\r\nNEW MAP: THE DEPTHS!\r\nNEW MODE: SWORD ELIMINATION!\r\n\r\nJoin the ROBLOX Battlegroup!\r\nhttp://www.roblox.com/My/Groups.aspx?gid=899187\r\n\r\n-----------------------------------------------\r\n\r\nNew 3D Inventory! Click on the shield to see it! \r\n\r\nNew Bulletin Board feature: see the latest additions to Battle when you join!\r\n\r\nTWO NEW GAMETYPES! A NEW MAP!\r\nCheck out the new gametypes, Back Blast and Sword Swept, and play them on the new map, Skylands!",
+    "creator": {
+      "id": 21557,
+      "name": "Games",
+      "type": "User"
+    },
+    "created_at": "2012-11-01T22:47:47.95Z",
+    "updated_at": "2015-05-19T21:03:40.01Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "119925991",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "119926071",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "119926179",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "119926346",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "119926417",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "121133205",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "121268871",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "121269086",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "121269358",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      },
+      {
+        "kind": "badge",
+        "value": "123236471",
+        "detail": "badge resolves to universe 20514875 and root place 96623001"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "nla_1db3c81b48c2f026f88d7b20967e76a0",
+  "title": "Can you survive a tornado",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c4e1e19df50f82f30de50c73e349cd08c13ce337d9dc88d28ba26471d8cc6da5",
+    "path": "levels/sha256/c4/c4e1e19df50f82f30de50c73e349cd08c13ce337d9dc88d28ba26471d8cc6da5.rbxlx",
+    "format": "xml",
+    "size_bytes": 8681125,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c4/c4e1e19df50f82f30de50c73e349cd08c13ce337d9dc88d28ba26471d8cc6da5.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Can you survive a tornado.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Can you survive a tornado.meta.json",
+    "legacy_creator": "ZackZak"
+  },
+  "badges": [
+    {
+      "id": 26923261,
+      "name": "Twister",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26962877,
+      "name": "Tangler",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 26858042,
+    "universe_id": 38560393,
+    "name": "Tornado",
+    "roblox_url": "https://www.roblox.com/games/26858042",
+    "description": "I made Tornado 2, but due to ROBLOX's glitchyness it doesn't work very well..",
+    "creator": {
+      "id": 3909279,
+      "name": "ZackZak",
+      "type": "User"
+    },
+    "created_at": "2010-05-09T03:17:48.653Z",
+    "updated_at": "2011-05-26T04:40:17.67Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "26923261",
+        "detail": "badge resolves to universe 38560393 and root place 26858042"
+      },
+      {
+        "kind": "badge",
+        "value": "26962877",
+        "detail": "badge resolves to universe 38560393 and root place 26858042"
+      }
+    ]
+  },
+  "preferred": true
+}

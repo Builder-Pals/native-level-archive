@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_3d17acfb93d83143a3db72679ce1d3c9",
+  "title": "Finobe's Flood Escape",
+  "snapshot": {},
+  "blob": {
+    "sha256": "10f5e9faba5fbb0ec320f43ab8a0c8b4e6ab927a7133598b77bc4b216e216ae2",
+    "path": "levels/sha256/10/10f5e9faba5fbb0ec320f43ab8a0c8b4e6ab927a7133598b77bc4b216e216ae2.rbxl",
+    "format": "binary",
+    "size_bytes": 38031,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/10/10f5e9faba5fbb0ec320f43ab8a0c8b4e6ab927a7133598b77bc4b216e216ae2.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Finobe's Flood Escape.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

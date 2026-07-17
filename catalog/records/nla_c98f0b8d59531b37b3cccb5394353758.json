@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c98f0b8d59531b37b3cccb5394353758",
+  "title": "UNCOPYLOCKED-ok3y11s-Old-Laboratory",
+  "snapshot": {},
+  "blob": {
+    "sha256": "7a2dcfde66a4dc85e457ee19bf3557f476e2ceeb34e6dffec2c076cb8967a560",
+    "path": "levels/sha256/7a/7a2dcfde66a4dc85e457ee19bf3557f476e2ceeb34e6dffec2c076cb8967a560.rbxl",
+    "format": "binary",
+    "size_bytes": 487597,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7a/7a2dcfde66a4dc85e457ee19bf3557f476e2ceeb34e6dffec2c076cb8967a560.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "UNCOPYLOCKED-ok3y11s-Old-Laboratory.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

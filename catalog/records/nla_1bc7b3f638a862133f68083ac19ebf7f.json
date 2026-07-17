@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_1bc7b3f638a862133f68083ac19ebf7f",
+  "title": "3052 - Escape The Shipyard",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e1957a4f4797b5d47aa429245f775dbfdfb15eedce96e3973a21cd59834d1b04",
+    "path": "levels/sha256/e1/e1957a4f4797b5d47aa429245f775dbfdfb15eedce96e3973a21cd59834d1b04.rbxl",
+    "format": "binary",
+    "size_bytes": 679107,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e1/e1957a4f4797b5d47aa429245f775dbfdfb15eedce96e3973a21cd59834d1b04.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3052 - Escape The Shipyard.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,869 @@
+{
+  "schema_version": 1,
+  "id": "nla_d93a6844e958876c8cd7ed5b62145034",
+  "title": "The Complex may 2012",
+  "snapshot": {
+    "date": "2012-05-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "47a76b7a51e07707064d75c2bdf760a18c4797a20f3b3ba3f0cfe89053c1ea35",
+    "path": "levels/sha256/47/47a76b7a51e07707064d75c2bdf760a18c4797a20f3b3ba3f0cfe89053c1ea35.rbxlx",
+    "format": "xml",
+    "size_bytes": 29135007,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/47/47a76b7a51e07707064d75c2bdf760a18c4797a20f3b3ba3f0cfe89053c1ea35.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Complex may 2012.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 13259,
+      "origin": "embedded"
+    },
+    {
+      "id": 43918676,
+      "name": "Hidden Badge 2",
+      "origin": "embedded"
+    },
+    {
+      "id": 44828635,
+      "name": "Hidden Badge 5",
+      "origin": "embedded"
+    },
+    {
+      "id": 69318681,
+      "name": "WELCOME BADGE",
+      "origin": "embedded"
+    },
+    {
+      "id": 69318881,
+      "name": "zardmaster hidden badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 69319312,
+      "name": "Week 1 Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 69437612,
+      "name": "saza55 hidden badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 69550595,
+      "name": "Week 2",
+      "origin": "embedded"
+    },
+    {
+      "id": 70007728,
+      "name": "Week 3 Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 70444764,
+      "name": "V.I,P. Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 70565677,
+      "name": "Week 4 Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 71060242,
+      "name": "week 5 Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 71621822,
+      "name": " Badge 6",
+      "origin": "embedded"
+    },
+    {
+      "id": 71791721,
+      "name": " Badge 7",
+      "origin": "embedded"
+    },
+    {
+      "id": 72038528,
+      "name": "badge 8",
+      "origin": "embedded"
+    },
+    {
+      "id": 72205071,
+      "name": "Badge 9",
+      "origin": "embedded"
+    },
+    {
+      "id": 72462617,
+      "name": "Badge 10",
+      "origin": "embedded"
+    },
+    {
+      "id": 72659025,
+      "name": "Badge 11",
+      "origin": "embedded"
+    },
+    {
+      "id": 72869704,
+      "name": "Badge 12",
+      "origin": "embedded"
+    },
+    {
+      "id": 73082838,
+      "name": "Badge 13",
+      "origin": "embedded"
+    },
+    {
+      "id": 73486910,
+      "name": "Badge 14",
+      "origin": "embedded"
+    },
+    {
+      "id": 73822499,
+      "name": "Badge 15",
+      "origin": "embedded"
+    },
+    {
+      "id": 74115345,
+      "name": "Badge 16",
+      "origin": "embedded"
+    },
+    {
+      "id": 74471575,
+      "name": "Badge 17",
+      "origin": "embedded"
+    },
+    {
+      "id": 74701877,
+      "name": "Badge 18",
+      "origin": "embedded"
+    },
+    {
+      "id": 75056827,
+      "name": "Badge 19",
+      "origin": "embedded"
+    },
+    {
+      "id": 75313061,
+      "name": "Badge 20",
+      "origin": "embedded"
+    },
+    {
+      "id": 75689512,
+      "name": "Badge 21",
+      "origin": "embedded"
+    },
+    {
+      "id": 75883441,
+      "name": "Badge 22",
+      "origin": "embedded"
+    },
+    {
+      "id": 76176437,
+      "name": "Badge 23",
+      "origin": "embedded"
+    },
+    {
+      "id": 76411052,
+      "name": "Badge 24",
+      "origin": "embedded"
+    },
+    {
+      "id": 76411092,
+      "name": "Badge 25",
+      "origin": "embedded"
+    },
+    {
+      "id": 76722150,
+      "name": "Badge 26",
+      "origin": "embedded"
+    },
+    {
+      "id": 76722168,
+      "name": "Badge27",
+      "origin": "embedded"
+    },
+    {
+      "id": 76760624,
+      "name": "Special Badge 1",
+      "origin": "embedded"
+    },
+    {
+      "id": 76760722,
+      "name": "Special Badge 2",
+      "origin": "embedded"
+    },
+    {
+      "id": 76760798,
+      "name": "Special Badge 3",
+      "origin": "embedded"
+    },
+    {
+      "id": 77028845,
+      "name": "Badge 28",
+      "origin": "embedded"
+    },
+    {
+      "id": 77028868,
+      "name": "Badge 29",
+      "origin": "embedded"
+    },
+    {
+      "id": 77233760,
+      "name": "Badge 30",
+      "origin": "embedded"
+    },
+    {
+      "id": 77233792,
+      "name": "Badge 31",
+      "origin": "embedded"
+    },
+    {
+      "id": 77262003,
+      "name": "Special badge 4",
+      "origin": "embedded"
+    },
+    {
+      "id": 77262073,
+      "name": "Special badge 5",
+      "origin": "embedded"
+    },
+    {
+      "id": 77262133,
+      "name": "Special Badge 6",
+      "origin": "embedded"
+    },
+    {
+      "id": 77680609,
+      "name": "Badge 32",
+      "origin": "embedded"
+    },
+    {
+      "id": 77680659,
+      "name": "Badge 33",
+      "origin": "embedded"
+    },
+    {
+      "id": 77980857,
+      "name": "Badge 34",
+      "origin": "embedded"
+    },
+    {
+      "id": 77980887,
+      "name": "Badge 35",
+      "origin": "embedded"
+    },
+    {
+      "id": 78279084,
+      "name": "Badge 36",
+      "origin": "embedded"
+    },
+    {
+      "id": 78279196,
+      "name": "Badge 37",
+      "origin": "embedded"
+    },
+    {
+      "id": 79081737,
+      "name": "Badge 40",
+      "origin": "embedded"
+    },
+    {
+      "id": 79081788,
+      "name": "Badge 41",
+      "origin": "embedded"
+    },
+    {
+      "id": 79082080,
+      "name": "Special 8",
+      "origin": "embedded"
+    },
+    {
+      "id": 79324334,
+      "name": "Special 7",
+      "origin": "embedded"
+    },
+    {
+      "id": 79324358,
+      "name": "Badge 42",
+      "origin": "embedded"
+    },
+    {
+      "id": 79324373,
+      "name": "Badge 43",
+      "origin": "embedded"
+    },
+    {
+      "id": 79684572,
+      "name": "Badge 44",
+      "origin": "embedded"
+    },
+    {
+      "id": 79684590,
+      "name": "Badge 45",
+      "origin": "embedded"
+    },
+    {
+      "id": 79684598,
+      "name": "Badge 46",
+      "origin": "embedded"
+    },
+    {
+      "id": 79685948,
+      "name": "Badge 47",
+      "origin": "embedded"
+    },
+    {
+      "id": 80351798,
+      "name": "Badge 48",
+      "origin": "embedded"
+    },
+    {
+      "id": 80351821,
+      "name": "Badge 49",
+      "origin": "embedded"
+    },
+    {
+      "id": 80351839,
+      "name": "Badge 50",
+      "origin": "embedded"
+    },
+    {
+      "id": 80351863,
+      "name": "Badge 51",
+      "origin": "embedded"
+    },
+    {
+      "id": 80894097,
+      "name": "Badge 52",
+      "origin": "embedded"
+    },
+    {
+      "id": 80894127,
+      "name": "Badge 53",
+      "origin": "embedded"
+    },
+    {
+      "id": 80894143,
+      "name": "Badge 54",
+      "origin": "embedded"
+    },
+    {
+      "id": 80894161,
+      "name": "Badge 55",
+      "origin": "embedded"
+    },
+    {
+      "id": 81057511,
+      "name": "Badge 56",
+      "origin": "embedded"
+    },
+    {
+      "id": 81057558,
+      "name": "Badge 57",
+      "origin": "embedded"
+    },
+    {
+      "id": 81057624,
+      "name": "badge 58",
+      "origin": "embedded"
+    },
+    {
+      "id": 81057677,
+      "name": "Badge 59",
+      "origin": "embedded"
+    },
+    {
+      "id": 81387725,
+      "name": "Badge 60",
+      "origin": "embedded"
+    },
+    {
+      "id": 81387743,
+      "name": "Badge 61",
+      "origin": "embedded"
+    },
+    {
+      "id": 81387756,
+      "name": "Badge 62",
+      "origin": "embedded"
+    },
+    {
+      "id": 81387768,
+      "name": "Badge 63",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      13259,
+      43918676,
+      44828635,
+      69318681,
+      69318881,
+      69319312,
+      69437612,
+      69550595,
+      70007728,
+      70444764,
+      70565677,
+      71060242,
+      71621822,
+      71791721,
+      72038528,
+      72205071,
+      72462617,
+      72659025,
+      72869704,
+      73082838,
+      73486910,
+      73822499,
+      74115345,
+      74471575,
+      74701877,
+      75056827,
+      75313061,
+      75689512,
+      75883441,
+      76176437,
+      76411052,
+      76411092,
+      76722150,
+      76722168,
+      76760624,
+      76760722,
+      76760798,
+      77028845,
+      77028868,
+      77233760,
+      77233792,
+      77262003,
+      77262073,
+      77262133,
+      77680609,
+      77680659,
+      77980857,
+      77980887,
+      78279084,
+      78279196,
+      79081737,
+      79081788,
+      79082080,
+      79324334,
+      79324358,
+      79324373,
+      79684572,
+      79684590,
+      79684598,
+      79685948,
+      80351798,
+      80351821,
+      80351839,
+      80351863,
+      80894097,
+      80894127,
+      80894143,
+      80894161,
+      81057511,
+      81057558,
+      81057624,
+      81057677,
+      81387725,
+      81387743,
+      81387756,
+      81387768
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "43918676",
+        "detail": "badge resolves to universe 21070355 and root place 31610786"
+      },
+      {
+        "kind": "badge",
+        "value": "44828635",
+        "detail": "badge resolves to universe 21070355 and root place 31610786"
+      },
+      {
+        "kind": "badge",
+        "value": "69318681",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "69318881",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "69319312",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "69437612",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "69550595",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "70007728",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "70444764",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "70565677",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "71060242",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "71621822",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "71791721",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "72038528",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "72205071",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "72462617",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "72659025",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "72869704",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "73082838",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "73486910",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "73822499",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "74115345",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "74471575",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "74701877",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "75056827",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "75313061",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "75689512",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "75883441",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76176437",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76411052",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76411092",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76722150",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76722168",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76760624",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76760722",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "76760798",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77028845",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77028868",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77233760",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77233792",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77262003",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77262073",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77262133",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77680609",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77680659",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77980857",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "77980887",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "78279084",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "78279196",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79081737",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79081788",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79082080",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79324334",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79324358",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79324373",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79684572",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79684590",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79684598",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "79685948",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80351798",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80351821",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80351839",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80351863",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80894097",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80894127",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80894143",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "80894161",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81057511",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81057558",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81057624",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81057677",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81387725",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81387743",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81387756",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      },
+      {
+        "kind": "badge",
+        "value": "81387768",
+        "detail": "badge resolves to universe 17175612 and root place 63014010"
+      }
+    ]
+  },
+  "preferred": false
+}

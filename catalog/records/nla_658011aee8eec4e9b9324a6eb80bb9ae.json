@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_658011aee8eec4e9b9324a6eb80bb9ae",
+  "title": "Fencing",
+  "snapshot": {},
+  "blob": {
+    "sha256": "edc2bb293ca4a17cb1142200c33d68acff1dba69893010cd9265be15ab0a4d35",
+    "path": "levels/sha256/ed/edc2bb293ca4a17cb1142200c33d68acff1dba69893010cd9265be15ab0a4d35.rbxl",
+    "format": "binary",
+    "size_bytes": 26420,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ed/edc2bb293ca4a17cb1142200c33d68acff1dba69893010cd9265be15ab0a4d35.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Fencing.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_e23b12617cdad0b380cf7d5981c5cfce",
+  "title": "70 - Escape The Witch",
+  "snapshot": {},
+  "blob": {
+    "sha256": "93f97d703ba3b5b257929832432e6b36395f27edd31b7f17ee75cd0b5dfd9eb2",
+    "path": "levels/sha256/93/93f97d703ba3b5b257929832432e6b36395f27edd31b7f17ee75cd0b5dfd9eb2.rbxl",
+    "format": "binary",
+    "size_bytes": 222535,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/93/93f97d703ba3b5b257929832432e6b36395f27edd31b7f17ee75cd0b5dfd9eb2.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/70 - Escape The Witch.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

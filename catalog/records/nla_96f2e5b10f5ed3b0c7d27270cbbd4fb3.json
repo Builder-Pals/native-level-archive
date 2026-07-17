@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "nla_96f2e5b10f5ed3b0c7d27270cbbd4fb3",
+  "title": "Skate down a Rainbow to VIP!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "3d5ce49c7c3639a485e1e3cb20f151df42437ef40deaa9bca22afa1642b80f88",
+    "path": "levels/sha256/3d/3d5ce49c7c3639a485e1e3cb20f151df42437ef40deaa9bca22afa1642b80f88.rbxlx",
+    "format": "xml",
+    "size_bytes": 6201277,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3d/3d5ce49c7c3639a485e1e3cb20f151df42437ef40deaa9bca22afa1642b80f88.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Skate down a Rainbow to VIP!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 1234567,
+      "origin": "embedded"
+    },
+    {
+      "id": 42590771,
+      "name": "You visited!",
+      "origin": "embedded"
+    },
+    {
+      "id": 42591348,
+      "name": "You met the creator",
+      "origin": "embedded"
+    },
+    {
+      "id": 42595838,
+      "name": "You won!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      1234567,
+      42590771,
+      42591348,
+      42595838
+    ]
+  },
+  "source": {
+    "root_place_id": 21430708,
+    "universe_id": 17065635,
+    "name": "Skate down a Rainbow to VIP! ™ - Please favorite!",
+    "roblox_url": "https://www.roblox.com/games/21430708",
+    "description": "Alright guys, im leaving roblox so this wont be updated, I apreciate all the support I got from you guys and I wont forget each and every one of you:) <3  INTRO: Like rainbows? like to skate? Well then  play this game! Thanks every one of the place visits I have. I would also apriciate it if you favorite this game. Oh, and people that say I used free models, I did not. I build everything from SCRATCH The only free models are the givers and a few ramps in skate park I built. If you like this game, try some of my other games, im sure you will like them. ;)-But overall.. Thanks :)",
+    "creator": {
+      "id": 5430380,
+      "name": "crew1234567",
+      "type": "User"
+    },
+    "created_at": "2010-01-29T22:47:29.633Z",
+    "updated_at": "2014-04-20T12:23:08.483Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "42590771",
+        "detail": "badge resolves to universe 17065635 and root place 21430708"
+      },
+      {
+        "kind": "badge",
+        "value": "42591348",
+        "detail": "badge resolves to universe 17065635 and root place 21430708"
+      },
+      {
+        "kind": "badge",
+        "value": "42595838",
+        "detail": "badge resolves to universe 17065635 and root place 21430708"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "nla_2a092d0151bbbbe6ba82e7af821c4380",
+  "title": "Wheel of Fortune",
+  "snapshot": {},
+  "blob": {
+    "sha256": "133ad96ab2eccad9ca7736327e9f6703bb823ef91576de373fb771a01d8addf4",
+    "path": "levels/sha256/13/133ad96ab2eccad9ca7736327e9f6703bb823ef91576de373fb771a01d8addf4.rbxlx",
+    "format": "xml",
+    "size_bytes": 1133114,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/13/133ad96ab2eccad9ca7736327e9f6703bb823ef91576de373fb771a01d8addf4.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Wheel of Fortune.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 53368197,
+      "name": "I'm a contestant!",
+      "origin": "embedded"
+    },
+    {
+      "id": 56670029,
+      "name": "Wheel of Fortune!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      53368197,
+      56670029
+    ],
+    "teleport_place_ids": [
+      19683989
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "53368197",
+        "detail": "badge resolves to universe 22201270 and root place 51358387"
+      },
+      {
+        "kind": "badge",
+        "value": "56670029",
+        "detail": "badge resolves to universe 23529889 and root place 19683741"
+      }
+    ]
+  },
+  "preferred": false
+}

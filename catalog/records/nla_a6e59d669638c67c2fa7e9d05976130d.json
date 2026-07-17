@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "id": "nla_a6e59d669638c67c2fa7e9d05976130d",
+  "title": "Trade Hangout (1.0, May 25th, 2013)",
+  "snapshot": {
+    "label": "1.0, May 25th, 2013",
+    "date": "2013-05-25",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "0cab7fa1153c378572267d5c2f87c087948c0556693d20c1c186b7603671f9e2",
+    "path": "levels/sha256/0c/0cab7fa1153c378572267d5c2f87c087948c0556693d20c1c186b7603671f9e2.rbxlx",
+    "format": "xml",
+    "size_bytes": 5681960,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0c/0cab7fa1153c378572267d5c2f87c087948c0556693d20c1c186b7603671f9e2.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Trade Hangout (1.0, May 25th, 2013).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 92938845,
+      "origin": "embedded"
+    },
+    {
+      "id": 92992644,
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      92938845,
+      92992644
+    ]
+  },
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "nla_f51361bc26ad97388598ea01a075476b",
+  "title": "Roblox Jr High School may 2012",
+  "snapshot": {
+    "date": "2012-05-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "a8d57cb67a3e36ebaed20ff5ca30ea5eb0d5a778648f3590488a49046182ed6c",
+    "path": "levels/sha256/a8/a8d57cb67a3e36ebaed20ff5ca30ea5eb0d5a778648f3590488a49046182ed6c.rbxlx",
+    "format": "xml",
+    "size_bytes": 15484114,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a8/a8d57cb67a3e36ebaed20ff5ca30ea5eb0d5a778648f3590488a49046182ed6c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Roblox Jr High School may 2012.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Roblox Jr High School may 2012.meta.json",
+    "legacy_creator": "jjsword"
+  },
+  "badges": [
+    {
+      "id": 25563706,
+      "name": "ROBLOX Jr. High VIP badge",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      25563706
+    ]
+  },
+  "source": {
+    "root_place_id": 12594364,
+    "universe_id": 6586932,
+    "name": "Roblox Jr High School™ Happy Halloween ",
+    "roblox_url": "https://www.roblox.com/games/12594364"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "25563706",
+        "detail": "badge resolves to universe 6586932 and root place 12594364"
+      }
+    ]
+  },
+  "preferred": true
+}

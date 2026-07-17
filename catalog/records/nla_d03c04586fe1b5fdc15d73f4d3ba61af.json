@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "nla_d03c04586fe1b5fdc15d73f4d3ba61af",
+  "title": "Build a Raft and Ride it to VIP!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "7334d5294024878f4f9d2a700ad0fb9ea8242bb8a4ae3e97888499610ba40df2",
+    "path": "levels/sha256/73/7334d5294024878f4f9d2a700ad0fb9ea8242bb8a4ae3e97888499610ba40df2.rbxlx",
+    "format": "xml",
+    "size_bytes": 2335577,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/73/7334d5294024878f4f9d2a700ad0fb9ea8242bb8a4ae3e97888499610ba40df2.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Build a Raft and Ride it to VIP!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 34275751,
+      "name": "Get to the end of Build a Boat and ride it!",
+      "origin": "embedded"
+    },
+    {
+      "id": 34286169,
+      "name": "I bought VIP to Build a Boat and ride it!",
+      "origin": "embedded"
+    },
+    {
+      "id": 34288618,
+      "name": "I played Build a Boat and ride it!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      34275751,
+      34286169,
+      34288618
+    ]
+  },
+  "source": {
+    "root_place_id": 31437369,
+    "universe_id": 21621585,
+    "name": "Build a Raft and Ride it to VIP! FREE VIP TODAY! ",
+    "roblox_url": "https://www.roblox.com/games/31437369",
+    "description": "ADMIN TO MY PLACES:\r\nhttp://www.roblox.com/Admin-To-ALL-my-Games-item?id=34249515\r\n__________________________\r\nVip Link: http://www.roblox.com/Classic-VIP-for-Build-a-boat-and-ride-it-item?id=34253789 __________________________________ Super Vip: \r\nInsane VIP here: http://www.roblox.com/Insane-VIP-to-Build-a-boat-and-ride-it-item?id=34278544 __________________________________ Admin Command's Link: http://www.roblox.com/Admin-To-ALL-my-Games-item?id=34249515__________________________________ Epic Vip Link:  http://www.roblox.com/Insane-Ultra-VIP-to-Build-a-boat-and-ride-it-item?id=34278610__________________________________ Mega VIP:  http://www.roblox.com/Mega-Ultra-Insane-VIP-to-Build-a-boat-and-ride-it-item?id=34278587",
+    "creator": {
+      "id": 9300736,
+      "name": "Nemexus",
+      "type": "User"
+    },
+    "created_at": "2010-07-25T17:25:25.103Z",
+    "updated_at": "2010-10-27T00:59:58.317Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "34275751",
+        "detail": "badge resolves to universe 21621585 and root place 31437369"
+      },
+      {
+        "kind": "badge",
+        "value": "34286169",
+        "detail": "badge resolves to universe 21621585 and root place 31437369"
+      },
+      {
+        "kind": "badge",
+        "value": "34288618",
+        "detail": "badge resolves to universe 21621585 and root place 31437369"
+      }
+    ]
+  },
+  "preferred": true
+}

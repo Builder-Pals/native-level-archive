@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_6ec5f53005a42e8e1d6d2842c9e64557",
+  "title": "School Detective (May 13th, 2013)",
+  "snapshot": {
+    "label": "May 13th, 2013",
+    "date": "2013-05-13",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "3148c7dd50171053e0b058a62b156ce0202a5eddd4d723bbb355012fdbca458c",
+    "path": "levels/sha256/31/3148c7dd50171053e0b058a62b156ce0202a5eddd4d723bbb355012fdbca458c.rbxlx",
+    "format": "xml",
+    "size_bytes": 16926989,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/31/3148c7dd50171053e0b058a62b156ce0202a5eddd4d723bbb355012fdbca458c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "School Detective (May 13th, 2013).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

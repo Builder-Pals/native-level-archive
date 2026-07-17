@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_d4a83f314f159f2da0a9fee1c78e5a89",
+  "title": "The Legend of The Paradise Islands",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6845c40daa8916f05fdbfe99865f0acf76fcbc6cc350eb98b89f7a550551d366",
+    "path": "levels/sha256/68/6845c40daa8916f05fdbfe99865f0acf76fcbc6cc350eb98b89f7a550551d366.rbxlx",
+    "format": "xml",
+    "size_bytes": 36917692,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/68/6845c40daa8916f05fdbfe99865f0acf76fcbc6cc350eb98b89f7a550551d366.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Legend of The Paradise Islands.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

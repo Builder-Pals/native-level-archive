@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "nla_b421ace7e03af12b3c9da975e4380124",
+  "title": "Disaster Hotel v2.9.0 (June 2010)",
+  "snapshot": {
+    "label": "June 2010",
+    "date": "2010-06-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "ba8dbbc082356edc51e81d691a740bca1370330d0f489f2e3dc5cb609216f21c",
+    "path": "levels/sha256/ba/ba8dbbc082356edc51e81d691a740bca1370330d0f489f2e3dc5cb609216f21c.rbxlx",
+    "format": "xml",
+    "size_bytes": 11860338,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ba/ba8dbbc082356edc51e81d691a740bca1370330d0f489f2e3dc5cb609216f21c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Disaster Hotel v2.9.0 (June 2010).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Disaster Hotel v2.9.0 (June 2010).meta.json",
+    "legacy_creator": "Radioaktiivinen"
+  },
+  "badges": [
+    {
+      "id": 28605972,
+      "name": "You survived 1337 seconds",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 28606010,
+      "name": "You met the owner!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 28606122,
+      "name": "On Top Of The World!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 28606182,
+      "name": "Vip badge!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      28605972,
+      28606010,
+      28606122,
+      28606182
+    ]
+  },
+  "source": {
+    "root_place_id": 28603739,
+    "universe_id": 32032556,
+    "name": "Disaster hotel",
+    "roblox_url": "https://www.roblox.com/games/28603739",
+    "description": "The original disaster hotel. Apparently its still playable, but dont be surprised if something is buggy.",
+    "creator": {
+      "id": 2890689,
+      "name": "Waterlimon",
+      "type": "User"
+    },
+    "created_at": "2010-06-10T17:42:17.057Z",
+    "updated_at": "2022-02-19T21:33:32.817Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "28605972",
+        "detail": "badge resolves to universe 32032556 and root place 28603739"
+      },
+      {
+        "kind": "badge",
+        "value": "28606010",
+        "detail": "badge resolves to universe 32032556 and root place 28603739"
+      },
+      {
+        "kind": "badge",
+        "value": "28606122",
+        "detail": "badge resolves to universe 32032556 and root place 28603739"
+      },
+      {
+        "kind": "badge",
+        "value": "28606182",
+        "detail": "badge resolves to universe 32032556 and root place 28603739"
+      }
+    ]
+  },
+  "preferred": false
+}

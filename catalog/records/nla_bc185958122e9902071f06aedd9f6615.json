@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_bc185958122e9902071f06aedd9f6615",
+  "title": "Phantom Forces",
+  "snapshot": {},
+  "blob": {
+    "sha256": "d7e818af5b454076090a144b1f5af684eb3dea9b2901e525c7ea6e08562f0dba",
+    "path": "levels/sha256/d7/d7e818af5b454076090a144b1f5af684eb3dea9b2901e525c7ea6e08562f0dba.rbxl",
+    "format": "binary",
+    "size_bytes": 5648328,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d7/d7e818af5b454076090a144b1f5af684eb3dea9b2901e525c7ea6e08562f0dba.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Phantom Forces.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

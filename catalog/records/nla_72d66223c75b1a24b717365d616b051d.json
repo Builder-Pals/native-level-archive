@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "nla_72d66223c75b1a24b717365d616b051d",
+  "title": "Laundromat",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1f6cd990a7514fa58310a9654ac82e7991311369a90a48e76a535a5f561c8400",
+    "path": "levels/sha256/1f/1f6cd990a7514fa58310a9654ac82e7991311369a90a48e76a535a5f561c8400.rbxlx",
+    "format": "xml",
+    "size_bytes": 6429965,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1f/1f6cd990a7514fa58310a9654ac82e7991311369a90a48e76a535a5f561c8400.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Laundromat.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Laundromat.meta.json",
+    "legacy_creator": "Diddleshot"
+  },
+  "badges": [
+    {
+      "id": 36090956,
+      "name": "You Visited!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 36091105,
+      "name": "Secret Badge",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      36090956,
+      36091105
+    ]
+  },
+  "source": {
+    "root_place_id": 17541212,
+    "universe_id": 31874694,
+    "name": "Pinewood Laundromat",
+    "roblox_url": "https://www.roblox.com/games/17541212",
+    "description": "Head on over to the Laundromat to wash your clothes! As well as gear, hats, your friends... With multiple machine wash settings: steam, super wash, super spin to satisfy your every washing need!\n\nThere is also a town and beach to explore!\n\nPress [Backspace] to drop gear and laundry while holding it, and use the mop to clean up any spillages from open washers!\n",
+    "creator": {
+      "id": 390939,
+      "name": "Tokaisho",
+      "type": "User"
+    },
+    "created_at": "2009-10-31T11:38:54.573Z",
+    "updated_at": "2025-08-22T00:14:05.473Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "36090956",
+        "detail": "badge resolves to universe 31874694 and root place 17541212"
+      },
+      {
+        "kind": "badge",
+        "value": "36091105",
+        "detail": "badge resolves to universe 31874694 and root place 17541212"
+      }
+    ]
+  },
+  "preferred": true
+}

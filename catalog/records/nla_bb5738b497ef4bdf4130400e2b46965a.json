@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "id": "nla_bb5738b497ef4bdf4130400e2b46965a",
+  "title": "Flood Escape (May 12th, 2012, V1.2)",
+  "snapshot": {
+    "label": "May 12th, 2012, V1.2",
+    "date": "2012-05-12",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "11a36ec82fd38c7e4764c2c14465f994f8cc82a419e5e8fa140b56ea2cbce4e7",
+    "path": "levels/sha256/11/11a36ec82fd38c7e4764c2c14465f994f8cc82a419e5e8fa140b56ea2cbce4e7.rbxlx",
+    "format": "xml",
+    "size_bytes": 4561046,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/11/11a36ec82fd38c7e4764c2c14465f994f8cc82a419e5e8fa140b56ea2cbce4e7.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Flood Escape (May 12th, 2012, V1.2).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Flood Escape (May 12th, 2012, V1.2).meta.json",
+    "legacy_creator": "Crazyblox"
+  },
+  "badges": [
+    {
+      "id": 80657326,
+      "name": "Easy Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657425,
+      "name": "Medium Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657485,
+      "name": "Hard Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657611,
+      "name": "From the Moon",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657745,
+      "name": "Visitor",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657851,
+      "name": "Standard Agility",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657940,
+      "name": "Improved Agility",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80658039,
+      "name": "Impressive Agility",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80658172,
+      "name": "Trainee",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      80657326,
+      80657425,
+      80657485,
+      80657611,
+      80657745,
+      80657851,
+      80657940,
+      80658039,
+      80658172
+    ]
+  },
+  "source": {
+    "root_place_id": 32990482,
+    "universe_id": 16600266,
+    "name": "Flood Escape: Classic",
+    "roblox_url": "https://www.roblox.com/games/32990482",
+    "description": "Locked in a flooding facility, you and your team must work together to push buttons, find the way out, crack the code and escape before the flood takes you!\n\nFlood Escape Classic started development in September 2011, and is what kickstarted the Flood Escape series.\n\nFEC persisted through many of Roblox's fundamental changes; Mobile Support, Dynamic Lighting, Filtering Enabled and many more.\n\nWhile the game doesn't get updated often now due to focus on FE2, FEC's continued community and player count shows that the game continues to offer a solid experience for obby enthusiasts.\n\nFlood Escape © Crazyblox Games 2011 - 2024",
+    "creator": {
+      "id": 247535,
+      "name": "Crazyblox",
+      "type": "User"
+    },
+    "created_at": "2010-08-15T06:37:02.143Z",
+    "updated_at": "2026-05-12T21:43:36.028Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "80657326",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657425",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657485",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657611",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657745",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657851",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657940",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80658039",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80658172",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      }
+    ]
+  },
+  "preferred": false
+}

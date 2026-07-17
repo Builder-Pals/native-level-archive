@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_fde7e1e4a0df4fd95e52b7d593a9333f",
+  "title": "2225 - EDFDevil's Epik!!! Cinema",
+  "snapshot": {},
+  "blob": {
+    "sha256": "08fe4fb62f2bd81338ba3d42063927e7bfa5bab8c5ab8c52de19ca884816ca8f",
+    "path": "levels/sha256/08/08fe4fb62f2bd81338ba3d42063927e7bfa5bab8c5ab8c52de19ca884816ca8f.rbxl",
+    "format": "binary",
+    "size_bytes": 210330,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/08/08fe4fb62f2bd81338ba3d42063927e7bfa5bab8c5ab8c52de19ca884816ca8f.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2225 - EDFDevil's Epik!!! Cinema.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

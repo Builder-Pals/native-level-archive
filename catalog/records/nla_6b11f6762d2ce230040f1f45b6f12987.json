@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_6b11f6762d2ce230040f1f45b6f12987",
+  "title": "Nuke The Whales! WHALE APOCHALYPSE!!!!! (Early 2010)",
+  "snapshot": {
+    "label": "Early 2010",
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "316312a5ec2639d4e54f61ab0cc409fcf222688a2551048c6a0c7769c09b372f",
+    "path": "levels/sha256/31/316312a5ec2639d4e54f61ab0cc409fcf222688a2551048c6a0c7769c09b372f.rbxlx",
+    "format": "xml",
+    "size_bytes": 1221530,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/31/316312a5ec2639d4e54f61ab0cc409fcf222688a2551048c6a0c7769c09b372f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Nuke The Whales! WHALE APOCHALYPSE!!!!! (Early 2010).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_970b6f4ab514edf2671b83c8f46f7823",
+  "title": "The Underground War (July 6th, 2014)",
+  "snapshot": {
+    "label": "July 6th, 2014",
+    "date": "2014-07-06",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "ce9dbdf30ca0fe522df1b6228548e3cc3fa2eb9b94ebf713bf14ec3d2898df52",
+    "path": "levels/sha256/ce/ce9dbdf30ca0fe522df1b6228548e3cc3fa2eb9b94ebf713bf14ec3d2898df52.rbxl",
+    "format": "binary",
+    "size_bytes": 42297,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ce/ce9dbdf30ca0fe522df1b6228548e3cc3fa2eb9b94ebf713bf14ec3d2898df52.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Underground War (July 6th, 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "id": "nla_000b3d7c4eb4683baa4df7b183b2ca10",
+  "title": "!Boys Vs Girls! reconstruction (Alpha)",
+  "snapshot": {
+    "label": "Alpha"
+  },
+  "blob": {
+    "sha256": "0e87561d95cadfface24047caafd02da12c45bb814cc381b70338b4f7e684868",
+    "path": "levels/sha256/0e/0e87561d95cadfface24047caafd02da12c45bb814cc381b70338b4f7e684868.rbxlx",
+    "format": "xml",
+    "size_bytes": 3323371,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0e/0e87561d95cadfface24047caafd02da12c45bb814cc381b70338b4f7e684868.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "!Boys Vs Girls! reconstruction (Alpha).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "!Boys Vs Girls! reconstruction (Alpha).meta.json",
+    "legacy_creator": "mickysaaz11"
+  },
+  "badges": [
+    {
+      "id": 67076652,
+      "name": "You met mickysaaz11!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 67076791,
+      "name": "You played as a BOY!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 67076935,
+      "name": "You played as a GIRL!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 67077114,
+      "name": "10,000 VISITS!!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      67076791,
+      67076935,
+      67077114
+    ]
+  },
+  "source": {
+    "root_place_id": 66156494,
+    "universe_id": 3470131,
+    "name": "!Boys Vs Girls! reconstruction (Alpha)",
+    "roblox_url": "https://www.roblox.com/games/66156494",
+    "description": "Welcome to !Boys Vs Girls!\r\n\r\nHere you can sword fight.\r\nWho is the best gender?\r\nIt's in a really early state and eventually i'll add more things.",
+    "creator": {
+      "id": 10300516,
+      "name": "mickysaaz11",
+      "type": "User"
+    },
+    "created_at": "2011-11-21T06:06:54.533Z",
+    "updated_at": "2014-07-11T04:44:18.553Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "67076652",
+        "detail": "badge resolves to universe 3470131 and root place 66156494"
+      },
+      {
+        "kind": "badge",
+        "value": "67076791",
+        "detail": "badge resolves to universe 3470131 and root place 66156494"
+      },
+      {
+        "kind": "badge",
+        "value": "67076935",
+        "detail": "badge resolves to universe 3470131 and root place 66156494"
+      },
+      {
+        "kind": "badge",
+        "value": "67077114",
+        "detail": "badge resolves to universe 3470131 and root place 66156494"
+      }
+    ]
+  },
+  "preferred": true
+}

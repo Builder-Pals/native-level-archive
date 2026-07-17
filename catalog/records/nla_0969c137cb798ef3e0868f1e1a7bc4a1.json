@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "nla_0969c137cb798ef3e0868f1e1a7bc4a1",
+  "title": "Zombiesdale (December 6th, 2013)",
+  "snapshot": {
+    "label": "December 6th, 2013",
+    "date": "2013-12-06",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "4936df970e1e4b33c2e4fe698f03b730ddcd4b32a617f30297450d927eca1c5c",
+    "path": "levels/sha256/49/4936df970e1e4b33c2e4fe698f03b730ddcd4b32a617f30297450d927eca1c5c.rbxl",
+    "format": "binary",
+    "size_bytes": 175489,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/49/4936df970e1e4b33c2e4fe698f03b730ddcd4b32a617f30297450d927eca1c5c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zombiesdale (December 6th, 2013).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Zombiesdale (December 6th, 2013).json",
+    "legacy_creator": "um3k"
+  },
+  "badges": [
+    {
+      "id": 133481486,
+      "name": "BloxOn: Apply Directly to the Forehead",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 133482961,
+      "name": "Killed 100 Zombies",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 133482978,
+      "name": "Killed 1000 Zombies",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 64434755,
+    "universe_id": 11089272,
+    "name": "Zombiesdale",
+    "roblox_url": "https://www.roblox.com/games/64434755",
+    "description": "The city is overrun, and you're well armed. So, get to it, and start killing zombies! Use the in-game control guide (H key) to learn how to do stuff.\r\n\r\nNOTE: The effects of the game passes all add to each other, so buy what you can afford and upgrade later!\r\n\r\nv0.9.1 update: Class passes, badges, two new buildings, darker nights, GPS coordinates, and more!\r\n\r\nv0.9 update: Game passes pilot test.\r\n\r\nv0.8.5 update: Fixed a rep farm exploit bug.\r\n\r\nv0.8.4 update: Shadows!\r\n\r\nv0.7 update: Added GPS/clock/compass (hold G). It is now possible to build a spawn point (if your rep is high enough). Hold down M to see the most advanced thing you are currently able",
+    "creator": {
+      "id": 214422,
+      "name": "um3k",
+      "type": "User"
+    },
+    "created_at": "2011-10-25T20:26:58.823Z",
+    "updated_at": "2020-01-27T13:27:21.337Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "133481486",
+        "detail": "badge resolves to universe 11089272 and root place 64434755"
+      },
+      {
+        "kind": "badge",
+        "value": "133482961",
+        "detail": "badge resolves to universe 11089272 and root place 64434755"
+      },
+      {
+        "kind": "badge",
+        "value": "133482978",
+        "detail": "badge resolves to universe 11089272 and root place 64434755"
+      }
+    ]
+  },
+  "preferred": false
+}

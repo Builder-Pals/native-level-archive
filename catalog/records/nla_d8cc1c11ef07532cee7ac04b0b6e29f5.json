@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "nla_d8cc1c11ef07532cee7ac04b0b6e29f5",
+  "title": "The Normal Elevator - Fixed for 2015M",
+  "snapshot": {
+    "date": "2015-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "e2eab5df527ce7889c67b5c7a668fd870738bcdbdf8fd5c5dfb85fc2460246d0",
+    "path": "levels/sha256/e2/e2eab5df527ce7889c67b5c7a668fd870738bcdbdf8fd5c5dfb85fc2460246d0.rbxl",
+    "format": "binary",
+    "size_bytes": 4085164,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e2/e2eab5df527ce7889c67b5c7a668fd870738bcdbdf8fd5c5dfb85fc2460246d0.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Normal Elevator - Fixed for 2015M.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "The Normal Elevator - Fixed for 2015M.meta.json",
+    "legacy_creator": "NowDoTheHarlemShake"
+  },
+  "badges": [
+    {
+      "id": 272350549,
+      "name": "Welcome to The Normal Elevator",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 272350605,
+      "name": "You won at Speed Run!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 272350681,
+      "name": "You won at Pokemon!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 272350802,
+      "name": "Gavin's Secret",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 273622985,
+      "name": "You won the Chicken eat off!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 230362888,
+    "universe_id": 99361251,
+    "name": "The Normal Elevator",
+    "roblox_url": "https://www.roblox.com/games/230362888",
+    "description": "In this game, you ride an absolutely normal elevator. Yep, that's it \n\nThere are 31 floors in the game currently. \nVIP SERVER OWNERS: If you own a VIP server, you are given an elevator controller which allows you to choose which floors you want next for the server. \n\nDevelopers:\nEric (@NowDoTheHarlemShake)\nJohn (@Dapale)\n\n[Won BLOXY For Best Art Direction in 2015] ",
+    "creator": {
+      "id": 38506985,
+      "name": "NowDoTheHarlemShake",
+      "type": "User"
+    },
+    "created_at": "2015-03-26T05:37:49.423Z",
+    "updated_at": "2026-06-13T00:42:31.624Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "272350549",
+        "detail": "badge resolves to universe 99361251 and root place 230362888"
+      },
+      {
+        "kind": "badge",
+        "value": "272350605",
+        "detail": "badge resolves to universe 99361251 and root place 230362888"
+      },
+      {
+        "kind": "badge",
+        "value": "272350681",
+        "detail": "badge resolves to universe 99361251 and root place 230362888"
+      },
+      {
+        "kind": "badge",
+        "value": "272350802",
+        "detail": "badge resolves to universe 99361251 and root place 230362888"
+      },
+      {
+        "kind": "badge",
+        "value": "273622985",
+        "detail": "badge resolves to universe 99361251 and root place 230362888"
+      }
+    ]
+  },
+  "preferred": true
+}

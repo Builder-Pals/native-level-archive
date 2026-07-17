@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_498b8934186729941ed76d44c87edfd4",
+  "title": "Pokemon Brick Bronze",
+  "snapshot": {},
+  "blob": {
+    "sha256": "4e2527824fca3d0d8f7f0eedfcd54be2f731e7323336a3452a1c65b7c5a2946e",
+    "path": "levels/sha256/4e/4e2527824fca3d0d8f7f0eedfcd54be2f731e7323336a3452a1c65b7c5a2946e.rbxl",
+    "format": "binary",
+    "size_bytes": 1603985,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/4e/4e2527824fca3d0d8f7f0eedfcd54be2f731e7323336a3452a1c65b7c5a2946e.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Pokemon Brick Bronze.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

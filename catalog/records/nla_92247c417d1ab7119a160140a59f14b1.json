@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_92247c417d1ab7119a160140a59f14b1",
+  "title": "1749 - R6 VR",
+  "snapshot": {},
+  "blob": {
+    "sha256": "f2bc6b96c676e0fe526c5326c541ffe0a5ac3c8d60b5c4cf628fcf992637f3ba",
+    "path": "levels/sha256/f2/f2bc6b96c676e0fe526c5326c541ffe0a5ac3c8d60b5c4cf628fcf992637f3ba.rbxl",
+    "format": "binary",
+    "size_bytes": 306294,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f2/f2bc6b96c676e0fe526c5326c541ffe0a5ac3c8d60b5c4cf628fcf992637f3ba.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1749 - R6 VR.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

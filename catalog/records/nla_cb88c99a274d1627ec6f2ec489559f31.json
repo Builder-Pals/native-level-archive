@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "id": "nla_cb88c99a274d1627ec6f2ec489559f31",
+  "title": "Tallest Tower In ROBLOX (February 2012)",
+  "snapshot": {
+    "label": "February 2012",
+    "date": "2012-02-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "e3ae85c13637b27cb5fcc910c49952fdda74b6b92a824334e990b6fda1ee7b7b",
+    "path": "levels/sha256/e3/e3ae85c13637b27cb5fcc910c49952fdda74b6b92a824334e990b6fda1ee7b7b.rbxlx",
+    "format": "xml",
+    "size_bytes": 15424226,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e3/e3ae85c13637b27cb5fcc910c49952fdda74b6b92a824334e990b6fda1ee7b7b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Tallest Tower In ROBLOX (February 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 31797327,
+      "name": "You Got To The Top!",
+      "origin": "embedded"
+    },
+    {
+      "id": 54562157,
+      "name": "Beyond Our Planet",
+      "origin": "embedded"
+    },
+    {
+      "id": 54562421,
+      "name": "Halfway There/ Rest Stop",
+      "origin": "embedded"
+    },
+    {
+      "id": 54638300,
+      "name": "You Came!",
+      "origin": "embedded"
+    },
+    {
+      "id": 54638546,
+      "name": "You Fell Through The Ground And Died",
+      "origin": "embedded"
+    },
+    {
+      "id": 54725589,
+      "name": "Cloud Badge of Blue Faceness",
+      "origin": "embedded"
+    },
+    {
+      "id": 54725820,
+      "name": "Extreme Badge Of Hidden-Ness",
+      "origin": "embedded"
+    },
+    {
+      "id": 54726500,
+      "name": "First Thoughts of Fear... And Chezburgahz",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      31797327,
+      54562157,
+      54562421,
+      54638300,
+      54638546,
+      54725589,
+      54725820,
+      54726500
+    ]
+  },
+  "source": {
+    "root_place_id": 2335170143,
+    "universe_id": 29800742,
+    "name": "Tallest Tower In Roblox",
+    "roblox_url": "https://www.roblox.com/games/2335170143",
+    "description": "This is the original tallest tower I made when I was a kid!",
+    "creator": {
+      "id": 5748124,
+      "name": "Trombonium",
+      "type": "User"
+    },
+    "created_at": "2018-09-11T10:11:36.823Z",
+    "updated_at": "2024-12-09T02:48:43.63Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "31797327",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54562157",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54562421",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54638300",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54638546",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54725589",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54725820",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      },
+      {
+        "kind": "badge",
+        "value": "54726500",
+        "detail": "badge resolves to universe 29800742 and root place 2335170143"
+      }
+    ]
+  },
+  "preferred": true
+}

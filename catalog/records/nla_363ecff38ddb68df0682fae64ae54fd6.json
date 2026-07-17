@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_363ecff38ddb68df0682fae64ae54fd6",
+  "title": "whiteroach Cart Insanity V1 (2013M)",
+  "snapshot": {
+    "label": "2013M",
+    "date": "2013-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "cbd43fa5a68846ad79d0105c1297afb781ffec048325c70459f9a4a4f98da83b",
+    "path": "levels/sha256/cb/cbd43fa5a68846ad79d0105c1297afb781ffec048325c70459f9a4a4f98da83b.rbxlx",
+    "format": "xml",
+    "size_bytes": 1606746,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cb/cbd43fa5a68846ad79d0105c1297afb781ffec048325c70459f9a4a4f98da83b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "whiteroach Cart Insanity V1 (2013M).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

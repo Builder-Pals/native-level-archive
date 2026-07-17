@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_79f08d91112526e20fd0cd4a15b51505",
+  "title": "ROBLOX High School",
+  "snapshot": {},
+  "blob": {
+    "sha256": "3ab450ccccf0abd8c8c41375029afa2c84ae0d9525ddbd7ed3727a02cc2584bc",
+    "path": "levels/sha256/3a/3ab450ccccf0abd8c8c41375029afa2c84ae0d9525ddbd7ed3727a02cc2584bc.rbxl",
+    "format": "binary",
+    "size_bytes": 364618,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3a/3ab450ccccf0abd8c8c41375029afa2c84ae0d9525ddbd7ed3727a02cc2584bc.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX High School.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

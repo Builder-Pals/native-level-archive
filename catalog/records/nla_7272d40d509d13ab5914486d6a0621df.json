@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_7272d40d509d13ab5914486d6a0621df",
+  "title": "Serene Mill",
+  "snapshot": {},
+  "blob": {
+    "sha256": "0a1398589b8e2ad157d74a92052c7dea5f9def9c1800f4cf2fad4ee177b9eaaa",
+    "path": "levels/sha256/0a/0a1398589b8e2ad157d74a92052c7dea5f9def9c1800f4cf2fad4ee177b9eaaa.rbxlx",
+    "format": "xml",
+    "size_bytes": 7672063,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0a/0a1398589b8e2ad157d74a92052c7dea5f9def9c1800f4cf2fad4ee177b9eaaa.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Serene Mill.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_3d594fd27b950a1cc14ac7ae24e9cccf",
+  "title": "East Square Metro",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1c0a55a1cc7394dfda13fad607b2f01cc3ebe6ac85f42cd5c22403ebb1c73d48",
+    "path": "levels/sha256/1c/1c0a55a1cc7394dfda13fad607b2f01cc3ebe6ac85f42cd5c22403ebb1c73d48.rbxlx",
+    "format": "xml",
+    "size_bytes": 11799086,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1c/1c0a55a1cc7394dfda13fad607b2f01cc3ebe6ac85f42cd5c22403ebb1c73d48.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "East Square Metro.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

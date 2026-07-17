@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_ac8296c8c75d188dbcff4627edc662ce",
+  "title": "Rube Goldberg Machine (April 16th, 2008)",
+  "snapshot": {
+    "label": "April 16th, 2008",
+    "date": "2008-04-16",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "f058a173761e99128bf229885afd6c6b794219b16f148a84b861767d1a6d01cc",
+    "path": "levels/sha256/f0/f058a173761e99128bf229885afd6c6b794219b16f148a84b861767d1a6d01cc.rbxlx",
+    "format": "xml",
+    "size_bytes": 584790,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f0/f058a173761e99128bf229885afd6c6b794219b16f148a84b861767d1a6d01cc.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Rube Goldberg Machine (April 16th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

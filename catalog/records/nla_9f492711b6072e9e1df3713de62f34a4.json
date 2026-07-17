@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_9f492711b6072e9e1df3713de62f34a4",
+  "title": "Compound (June 15th, 2011)",
+  "snapshot": {
+    "label": "June 15th, 2011",
+    "date": "2011-06-15",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "9a98a20febf57285b003cc8067ea70cb6966e97fa043292375da57dd3176fb26",
+    "path": "levels/sha256/9a/9a98a20febf57285b003cc8067ea70cb6966e97fa043292375da57dd3176fb26.rbxlx",
+    "format": "xml",
+    "size_bytes": 10952070,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/9a/9a98a20febf57285b003cc8067ea70cb6966e97fa043292375da57dd3176fb26.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Compound (June 15th, 2011).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

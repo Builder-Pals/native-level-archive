@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_fb9fc268dc760ff6d81e4bada23da2be",
+  "title": "Brickbattle Waterfall Fortress (2012L)",
+  "snapshot": {
+    "label": "2012L",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "1f19aff65a93cde0af2e92adbe97bcf775259548a2d50e8628c30548b2021dac",
+    "path": "levels/sha256/1f/1f19aff65a93cde0af2e92adbe97bcf775259548a2d50e8628c30548b2021dac.rbxlx",
+    "format": "xml",
+    "size_bytes": 5302091,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1f/1f19aff65a93cde0af2e92adbe97bcf775259548a2d50e8628c30548b2021dac.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Brickbattle Waterfall Fortress (2012L).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

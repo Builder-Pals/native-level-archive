@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_e8318896e50aff04b8296b74d1492853",
+  "title": "Wyvern Inn",
+  "snapshot": {},
+  "blob": {
+    "sha256": "ba1316cb8be03b8278f436d39d85244223bfbf9613feec5dd6703594ea41ef45",
+    "path": "levels/sha256/ba/ba1316cb8be03b8278f436d39d85244223bfbf9613feec5dd6703594ea41ef45.rbxl",
+    "format": "binary",
+    "size_bytes": 857370,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ba/ba1316cb8be03b8278f436d39d85244223bfbf9613feec5dd6703594ea41ef45.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Wyvern Inn.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

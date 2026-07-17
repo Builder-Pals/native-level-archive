@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_abf94d1e08af8f56054c0697d796d296",
+  "title": "2908 - Test",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b7416f786ed8f9c55bd05e3cca2a90af0c383b04104f589fb2033a7432d0e0a0",
+    "path": "levels/sha256/b7/b7416f786ed8f9c55bd05e3cca2a90af0c383b04104f589fb2033a7432d0e0a0.rbxl",
+    "format": "binary",
+    "size_bytes": 39549,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b7/b7416f786ed8f9c55bd05e3cca2a90af0c383b04104f589fb2033a7432d0e0a0.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2908 - Test.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

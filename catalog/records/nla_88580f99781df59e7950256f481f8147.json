@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "id": "nla_88580f99781df59e7950256f481f8147",
+  "title": "Survive The Disasters",
+  "snapshot": {},
+  "blob": {
+    "sha256": "d2cf1fecf8355a0947350b24e1761cf2dcf96066ca9c598159a8ee96fcacc81d",
+    "path": "levels/sha256/d2/d2cf1fecf8355a0947350b24e1761cf2dcf96066ca9c598159a8ee96fcacc81d.rbxlx",
+    "format": "xml",
+    "size_bytes": 25329422,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d2/d2cf1fecf8355a0947350b24e1761cf2dcf96066ca9c598159a8ee96fcacc81d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Survive The Disasters.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Survive The Disasters!.meta.json",
+    "legacy_creator": "TheFurryFox"
+  },
+  "badges": [
+    {
+      "id": 42889750,
+      "name": "You entered my game!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42889812,
+      "name": "You touched the ceiling!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42889863,
+      "name": "You touched the explosive fake Illumina! Nice job.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42889912,
+      "name": "You were the first one to enter a new server.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42891056,
+      "name": "You met me in-game.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42891240,
+      "name": "You met LilTeaCup in-game.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42892111,
+      "name": "You survived a round!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42892383,
+      "name": "You survived 10 times!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42892585,
+      "name": "You survived 25 times!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42892737,
+      "name": "You survived 50 times!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42921089,
+      "name": "You survived 100 times. Amazing.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42985543,
+      "name": "SpongeBob's House.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42985683,
+      "name": "Huge Bomb!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42997301,
+      "name": "You met PurpleMetro in-game!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42997529,
+      "name": "You met Cinykyk in-game.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43017063,
+      "name": "You were hit by the giant meteorite.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43017108,
+      "name": "You climbed onto the smallest truss.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43017180,
+      "name": "You warped into the Black Hole!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43017227,
+      "name": "You collected the green coin!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43051334,
+      "name": "You survived 250 times! Unbelievable!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44056317,
+      "name": "Up the slope.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44059055,
+      "name": "I stood on Terminator's head!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44060057,
+      "name": "You touched RealCrazyRobloxian's helmet!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      42889812,
+      42889863,
+      42889912,
+      42892111,
+      42892383,
+      42892585,
+      42892737,
+      42921089,
+      42985543,
+      42985683,
+      43017063,
+      43017108,
+      43017180,
+      43017227,
+      43051334,
+      44056317,
+      44059055,
+      44060057
+    ]
+  },
+  "source": {
+    "root_place_id": 18540115,
+    "universe_id": 28021269,
+    "name": "Survive The Disasters!",
+    "roblox_url": "https://www.roblox.com/games/18540115",
+    "description": "Last updated [December 29, 2022]\r\n- Fixed Terminator\r\n- Fixes made in Atlantis\r\n- Music fixes\r\n- Changed Picnic's skybox\r\n- Map is now selected randomly on server boot\r\n- Removed Survive The Disasters 2 play gui\r\n\r\nThis game is about survival! Survive dangerous obstacles and enemies coming at you! Survive the win points to unlock special, crazy items in the store - to help you survive even more disasters!",
+    "creator": {
+      "id": 4307571,
+      "name": "VyrissDev",
+      "type": "User"
+    },
+    "created_at": "2009-11-27T07:56:28.73Z",
+    "updated_at": "2026-01-15T18:52:08.505Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "42889750",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42889812",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42889863",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42889912",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42891056",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42891240",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42892111",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42892383",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42892585",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42892737",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42921089",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42985543",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42985683",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42997301",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "42997529",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "43017063",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "43017108",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "43017180",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "43017227",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "43051334",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "44056317",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "44059055",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      },
+      {
+        "kind": "badge",
+        "value": "44060057",
+        "detail": "badge resolves to universe 28021269 and root place 18540115"
+      }
+    ]
+  },
+  "preferred": true
+}

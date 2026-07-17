@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_4eae4506ff3eff5dbab0334c8e60b161",
+  "title": "1652 - Brazil",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e77c03f0a3c6d6a28806d70d15cd5077c0284432b5d72c4166bc88a3473a417b",
+    "path": "levels/sha256/e7/e77c03f0a3c6d6a28806d70d15cd5077c0284432b5d72c4166bc88a3473a417b.rbxl",
+    "format": "binary",
+    "size_bytes": 1147180,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e7/e77c03f0a3c6d6a28806d70d15cd5077c0284432b5d72c4166bc88a3473a417b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1652 - Brazil.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

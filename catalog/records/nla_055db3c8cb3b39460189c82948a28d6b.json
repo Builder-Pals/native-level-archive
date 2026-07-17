@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_055db3c8cb3b39460189c82948a28d6b",
+  "title": "Darkness (v0.9.2, August 26th, 2009)",
+  "snapshot": {
+    "label": "v0.9.2, August 26th, 2009",
+    "date": "2009-08-26",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "af64f15cb807c693d42af53b1558bcb7deacc5a03b27cf7dd69e5093510f6a17",
+    "path": "levels/sha256/af/af64f15cb807c693d42af53b1558bcb7deacc5a03b27cf7dd69e5093510f6a17.rbxlx",
+    "format": "xml",
+    "size_bytes": 5014122,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/af/af64f15cb807c693d42af53b1558bcb7deacc5a03b27cf7dd69e5093510f6a17.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Darkness (v0.9.2, August 26th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

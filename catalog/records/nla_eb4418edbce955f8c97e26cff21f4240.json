@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_eb4418edbce955f8c97e26cff21f4240",
+  "title": "The Wind v4.0.0",
+  "snapshot": {},
+  "blob": {
+    "sha256": "d64bbb93998f08abfe227f42138b500c18476498a4e563b2c7b89e9d1a07658a",
+    "path": "levels/sha256/d6/d64bbb93998f08abfe227f42138b500c18476498a4e563b2c7b89e9d1a07658a.rbxl",
+    "format": "binary",
+    "size_bytes": 285832,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d6/d64bbb93998f08abfe227f42138b500c18476498a4e563b2c7b89e9d1a07658a.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Wind v4.0.0.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

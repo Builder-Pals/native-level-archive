@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "nla_e369c5ebae132696ef8b3c3e13a72904",
+  "title": "The Stalker (unknown, may 3rd, 2013)",
+  "snapshot": {
+    "label": "unknown, may 3rd, 2013",
+    "date": "2013-05-03",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "c81b256750ae10999c1be7c3dfe9322cd6961d6a5e4e76ddc8887fd0a3033e69",
+    "path": "levels/sha256/c8/c81b256750ae10999c1be7c3dfe9322cd6961d6a5e4e76ddc8887fd0a3033e69.rbxlx",
+    "format": "xml",
+    "size_bytes": 1225397,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c8/c81b256750ae10999c1be7c3dfe9322cd6961d6a5e4e76ddc8887fd0a3033e69.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Stalker (unknown, may 3rd, 2013).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "The Stalker (unknown, may 3rd, 2013).meta.json",
+    "legacy_creator": "CloneTrooper1019"
+  },
+  "badges": [
+    {
+      "id": 100476680,
+      "name": "You entered the game!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 100477131,
+      "name": "You won as The Stalker!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 100477541,
+      "name": "You won as a Combine Soldier!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 105146453,
+      "name": "Hat Collecting Man from Hat Collecting Land",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 105148364,
+      "origin": "embedded"
+    },
+    {
+      "id": 106767522,
+      "name": "Nice one!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 106768059,
+      "name": "You own VIP!",
+      "origin": "embedded"
+    },
+    {
+      "id": 106768432,
+      "name": "You met the creator!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 106896296,
+      "name": "Close Call!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      100476680,
+      100477131,
+      100477541,
+      105146453,
+      105148364,
+      106767522,
+      106768059,
+      106768432,
+      106896296
+    ]
+  },
+  "source": {
+    "root_place_id": 22865026,
+    "universe_id": 11657380,
+    "name": "The Stalker: Reborn",
+    "roblox_url": "https://www.roblox.com/games/22865026",
+    "description": "Update [1/24/2021]\r\n- Enabled shadow-mapped lighting\r\n- Controls should be working for Gamepads & Xbox again.\r\n- Added a red-tinted atmosphere to The Stalker's perspective.\r\n- Mobile users can now use the control scheme of their choice!\r\n- 3D displayed items now use Roblox's ViewportFrame class to be rendered.\r\n- Combines are now more dependent on their flashlights rather than the illuminated environment.\r\n\r\nIn The Stalker you assume the role of an elite UNIT 8 soldier in a galactic empire. You and your team have been sent to exterminate an \"experiment that went horrendously wrong\", known as The Stalker. He's a nearly invisible mutant hunchback creature with psychic powers, and he'll stop at nothing to devour you, and the rest of your team. The goal is simple: Kill him or be killed.",
+    "creator": {
+      "id": 2032622,
+      "name": "Maximum_ADHD",
+      "type": "User"
+    },
+    "created_at": "2010-02-24T22:53:14.33Z",
+    "updated_at": "2026-02-12T22:42:18.68Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "100476680",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "100477131",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "100477541",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "105146453",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "106767522",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "106768059",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "106768432",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      },
+      {
+        "kind": "badge",
+        "value": "106896296",
+        "detail": "badge resolves to universe 11657380 and root place 22865026"
+      }
+    ]
+  },
+  "preferred": true
+}

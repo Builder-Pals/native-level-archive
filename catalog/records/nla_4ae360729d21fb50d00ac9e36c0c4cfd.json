@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_4ae360729d21fb50d00ac9e36c0c4cfd",
+  "title": "The-Normal-City-UNCOPYLOCKED",
+  "snapshot": {},
+  "blob": {
+    "sha256": "346e9f4c3cbd57d183f08f3c0e96b16dc602ce325fead82d1f6d702399acaba3",
+    "path": "levels/sha256/34/346e9f4c3cbd57d183f08f3c0e96b16dc602ce325fead82d1f6d702399acaba3.rbxl",
+    "format": "binary",
+    "size_bytes": 640285,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/34/346e9f4c3cbd57d183f08f3c0e96b16dc602ce325fead82d1f6d702399acaba3.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The-Normal-City-UNCOPYLOCKED.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

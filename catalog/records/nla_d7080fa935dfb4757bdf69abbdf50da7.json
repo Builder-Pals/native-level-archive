@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "nla_d7080fa935dfb4757bdf69abbdf50da7",
+  "title": "Lumber Warfare Tycoon",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e4068f7bd1f6be8e45c2dfb907196efcbda852cb0e3f226c8a0a5feab994287d",
+    "path": "levels/sha256/e4/e4068f7bd1f6be8e45c2dfb907196efcbda852cb0e3f226c8a0a5feab994287d.rbxl",
+    "format": "binary",
+    "size_bytes": 652599,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e4/e4068f7bd1f6be8e45c2dfb907196efcbda852cb0e3f226c8a0a5feab994287d.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Lumber Warfare Tycoon.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Lumber Warfare Tycoon.meta.json",
+    "legacy_creator": "berezaa"
+  },
+  "badges": [
+    {
+      "id": 184651821,
+      "name": "Secret badge",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 183553588,
+    "universe_id": 87126844,
+    "name": "Lumber Warfare Tycoon ✲ FREE!",
+    "roblox_url": "https://www.roblox.com/games/183553588",
+    "description": "THIS TYCOON IS UNCOPYLOCKED TO TAKE AND TO USE. Feel free to use any scripts from this game in your own tycoon but please use them in YOUR OWN PLACE. Do NOT copy the tycoon exactly. Thank you.\r\n\r\nLumber Warfare is a state-of-the-art tycoon that is FilteringEnabled compatible, Automatically assigns players to their tycoons and allows you to easily edit one version of the tycoon in studio and have it copy itself! Lumber Warfare is 100% open-source and free to use.\r\n\r\nJoin the official fan club for special tycoon purchases, health, free cash and more! http://www.roblox.com/My/Groups.aspx?gid=1137635",
+    "creator": {
+      "id": 5000861,
+      "name": "berezaa",
+      "type": "User"
+    },
+    "created_at": "2014-10-22T20:49:54.457Z",
+    "updated_at": "2015-12-25T18:51:39.127Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "184651821",
+        "detail": "badge resolves to universe 87126844 and root place 183553588"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_01bfbdcae59506da4988ecc3e0fb17bd",
+  "title": "TS Professional Soccer 2012",
+  "snapshot": {
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "1b6deb1f372cc2e22df0dca35c329f99e27399b507adcc1c7e4677d1dc37df2c",
+    "path": "levels/sha256/1b/1b6deb1f372cc2e22df0dca35c329f99e27399b507adcc1c7e4677d1dc37df2c.rbxlx",
+    "format": "xml",
+    "size_bytes": 6906895,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1b/1b6deb1f372cc2e22df0dca35c329f99e27399b507adcc1c7e4677d1dc37df2c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "TS Professional Soccer 2012.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

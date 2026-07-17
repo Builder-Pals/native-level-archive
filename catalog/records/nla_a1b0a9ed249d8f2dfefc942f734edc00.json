@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a1b0a9ed249d8f2dfefc942f734edc00",
+  "title": "67 - Old Cars",
+  "snapshot": {},
+  "blob": {
+    "sha256": "46ff2fd47e2e1304b05c8c5c29bf4a9f3e8eb7fd90231744b1687e5f57127bff",
+    "path": "levels/sha256/46/46ff2fd47e2e1304b05c8c5c29bf4a9f3e8eb7fd90231744b1687e5f57127bff.rbxlx",
+    "format": "xml",
+    "size_bytes": 2025292,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/46/46ff2fd47e2e1304b05c8c5c29bf4a9f3e8eb7fd90231744b1687e5f57127bff.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/67 - Old Cars.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

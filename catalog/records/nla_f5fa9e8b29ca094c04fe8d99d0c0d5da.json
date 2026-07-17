@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_f5fa9e8b29ca094c04fe8d99d0c0d5da",
+  "title": "2922 - obby",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6516805f990dbd8ac5e22ae7eb42dd61a41220c19aee76ea2c0225d5a5bcd235",
+    "path": "levels/sha256/65/6516805f990dbd8ac5e22ae7eb42dd61a41220c19aee76ea2c0225d5a5bcd235.rbxl",
+    "format": "binary",
+    "size_bytes": 166636,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/65/6516805f990dbd8ac5e22ae7eb42dd61a41220c19aee76ea2c0225d5a5bcd235.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2922 - obby.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

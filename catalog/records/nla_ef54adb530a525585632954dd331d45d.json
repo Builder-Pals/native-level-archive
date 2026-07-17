@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_ef54adb530a525585632954dd331d45d",
+  "title": "#3 - Work at a Pizza Place (2016 version)",
+  "snapshot": {
+    "label": "2016 version",
+    "date": "2016-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "5e8a49abd0252fafd43c68b3b2587b96de424644b239d31cb3bcced6cc6a81ad",
+    "path": "levels/sha256/5e/5e8a49abd0252fafd43c68b3b2587b96de424644b239d31cb3bcced6cc6a81ad.rbxl",
+    "format": "binary",
+    "size_bytes": 1117354,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5e/5e8a49abd0252fafd43c68b3b2587b96de424644b239d31cb3bcced6cc6a81ad.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "#3 - Work at a Pizza Place (2016 version).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

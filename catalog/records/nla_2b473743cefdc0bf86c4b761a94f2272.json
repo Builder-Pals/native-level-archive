@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_2b473743cefdc0bf86c4b761a94f2272",
+  "title": "Fencing (June 21st, 2012)",
+  "snapshot": {
+    "label": "June 21st, 2012",
+    "date": "2012-06-21",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "5057d295eaa85489bab46175c59f6179716fe77691c25fc1839fc04b2207a17b",
+    "path": "levels/sha256/50/5057d295eaa85489bab46175c59f6179716fe77691c25fc1839fc04b2207a17b.rbxlx",
+    "format": "xml",
+    "size_bytes": 480965,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/50/5057d295eaa85489bab46175c59f6179716fe77691c25fc1839fc04b2207a17b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Fencing (June 21st, 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

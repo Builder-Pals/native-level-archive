@@ -1,0 +1,334 @@
+{
+  "schema_version": 1,
+  "id": "nla_5b34cb0c4e363026efad98c9eef3b195",
+  "title": "The Tales of Kitteh's Cape RPG v3.8.1 (May 2012, stolen in-game)",
+  "snapshot": {
+    "label": "May 2012, stolen in-game",
+    "date": "2012-05-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "bcff6dd702a731a74482ee13f02f60b5bac8a06261e8a2d7812f39223aaf8b3d",
+    "path": "levels/sha256/bc/bcff6dd702a731a74482ee13f02f60b5bac8a06261e8a2d7812f39223aaf8b3d.rbxlx",
+    "format": "xml",
+    "size_bytes": 30724696,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/bc/bcff6dd702a731a74482ee13f02f60b5bac8a06261e8a2d7812f39223aaf8b3d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Tales of Kitteh's Cape RPG v3.8.1 (May 2012, stolen in-game).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 24096,
+      "origin": "embedded"
+    },
+    {
+      "id": 24097,
+      "origin": "embedded"
+    },
+    {
+      "id": 28706622,
+      "origin": "embedded"
+    },
+    {
+      "id": 28709219,
+      "name": "Veteran",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709349,
+      "name": "Warrior",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709381,
+      "name": "Your New Journey",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709428,
+      "name": "Hero",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709547,
+      "name": "Hero of the Desert",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709609,
+      "name": "Champion",
+      "origin": "embedded"
+    },
+    {
+      "id": 28711423,
+      "name": "Rich, Richer, Richest",
+      "origin": "embedded"
+    },
+    {
+      "id": 28712066,
+      "name": "Legend of the Sky",
+      "origin": "embedded"
+    },
+    {
+      "id": 28749171,
+      "name": "The Mystery Stranger",
+      "origin": "embedded"
+    },
+    {
+      "id": 28750887,
+      "name": "Let The Fight Begin!",
+      "origin": "embedded"
+    },
+    {
+      "id": 28851243,
+      "origin": "embedded"
+    },
+    {
+      "id": 28852026,
+      "name": "Warlord",
+      "origin": "embedded"
+    },
+    {
+      "id": 28909014,
+      "name": "A New Dragon Legend",
+      "origin": "embedded"
+    },
+    {
+      "id": 29105759,
+      "name": "Never Give Up",
+      "origin": "embedded"
+    },
+    {
+      "id": 29387460,
+      "name": "Return Of The Shadow Giant",
+      "origin": "embedded"
+    },
+    {
+      "id": 29634624,
+      "name": "Time Traveler",
+      "origin": "embedded"
+    },
+    {
+      "id": 29926412,
+      "name": "Frost Dragon Slayer",
+      "origin": "embedded"
+    },
+    {
+      "id": 30004057,
+      "name": "Master of Accuracy",
+      "origin": "embedded"
+    },
+    {
+      "id": 30060319,
+      "origin": "embedded"
+    },
+    {
+      "id": 30414388,
+      "name": "Explorer",
+      "origin": "embedded"
+    },
+    {
+      "id": 32904528,
+      "name": "Royal Warlord",
+      "origin": "embedded"
+    },
+    {
+      "id": 36471314,
+      "name": "The Golden Skull",
+      "origin": "embedded"
+    },
+    {
+      "id": 54849911,
+      "origin": "embedded"
+    },
+    {
+      "id": 66613025,
+      "name": "Welcome!",
+      "origin": "embedded"
+    },
+    {
+      "id": 66829824,
+      "name": "Quest: Save Turbas",
+      "origin": "embedded"
+    },
+    {
+      "id": 67767233,
+      "name": "The Ultimate Challenge",
+      "origin": "embedded"
+    },
+    {
+      "id": 78811552,
+      "name": "Level 9001 (True Achievement)",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      24096,
+      24097,
+      28706622,
+      28709219,
+      28709349,
+      28709381,
+      28709428,
+      28709547,
+      28709609,
+      28711423,
+      28712066,
+      28749171,
+      28750887,
+      28851243,
+      28852026,
+      28909014,
+      29105759,
+      29387460,
+      29634624,
+      29926412,
+      30004057,
+      30060319,
+      30414388,
+      32904528,
+      36471314,
+      54849911,
+      66613025,
+      66829824,
+      67767233,
+      78811552
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "28709219",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709349",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709381",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709428",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709547",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709609",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28711423",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28712066",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28749171",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28750887",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28852026",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28909014",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29105759",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29387460",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29634624",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29926412",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "30004057",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "30414388",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "32904528",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "36471314",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "66613025",
+        "detail": "badge resolves to universe 9637743 and root place 43862313"
+      },
+      {
+        "kind": "badge",
+        "value": "66829824",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "67767233",
+        "detail": "badge resolves to universe 9637743 and root place 43862313"
+      },
+      {
+        "kind": "badge",
+        "value": "78811552",
+        "detail": "badge resolves to universe 9637743 and root place 43862313"
+      }
+    ]
+  },
+  "preferred": false
+}

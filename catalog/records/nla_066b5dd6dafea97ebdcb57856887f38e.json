@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_066b5dd6dafea97ebdcb57856887f38e",
+  "title": "74 - MineBlox Obby Remastered",
+  "snapshot": {},
+  "blob": {
+    "sha256": "5a534a169e6312d33dd2d39d19f30533e2f4913e1c021bba78d15fe973c05d2b",
+    "path": "levels/sha256/5a/5a534a169e6312d33dd2d39d19f30533e2f4913e1c021bba78d15fe973c05d2b.rbxl",
+    "format": "binary",
+    "size_bytes": 478006,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5a/5a534a169e6312d33dd2d39d19f30533e2f4913e1c021bba78d15fe973c05d2b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/74 - MineBlox Obby Remastered.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

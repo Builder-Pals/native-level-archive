@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_5b044199e5d1ddd6188a0c97ea65abcc",
+  "title": "Top-Down Shooter",
+  "snapshot": {},
+  "blob": {
+    "sha256": "64f9b0215e49ba0a94ce51bd99ab5a210511122762122ef9813721f411611067",
+    "path": "levels/sha256/64/64f9b0215e49ba0a94ce51bd99ab5a210511122762122ef9813721f411611067.rbxlx",
+    "format": "xml",
+    "size_bytes": 5439869,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/64/64f9b0215e49ba0a94ce51bd99ab5a210511122762122ef9813721f411611067.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Top-Down Shooter.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {
+    "teleport_place_ids": [
+      75503020
+    ]
+  },
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

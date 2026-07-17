@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "id": "nla_34f8a9f6af43fce14266ecb108fcf59e",
+  "title": "Build a Raft and Sail TO YOUR DOOOOOM! ",
+  "snapshot": {},
+  "blob": {
+    "sha256": "abd828fe34dbb1c865fcd28f63cdf3144ed507c9a194e4a56576e5c6df3716a2",
+    "path": "levels/sha256/ab/abd828fe34dbb1c865fcd28f63cdf3144ed507c9a194e4a56576e5c6df3716a2.rbxlx",
+    "format": "xml",
+    "size_bytes": 2026337,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ab/abd828fe34dbb1c865fcd28f63cdf3144ed507c9a194e4a56576e5c6df3716a2.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Build a Raft and Sail TO YOUR DOOOOOM! .rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Build a Raft and Sail TO YOUR DOOOOOM!.meta.json",
+    "legacy_creator": "homer11"
+  },
+  "badges": [
+    {
+      "id": 25237300,
+      "name": "You Won!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 25288992,
+      "name": "Thanks For Playing!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 25310157,
+      "name": "HAAAX!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 25855378,
+      "name": "You Met homer11!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26390060,
+      "name": "Hidden Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 27155128,
+      "name": "100,000 Vists!!!!!!!!!!!!!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 31305268,
+      "name": "Epix Phail",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      25237300,
+      25288992,
+      25310157,
+      25855378,
+      26390060,
+      27155128,
+      31305268
+    ]
+  },
+  "source": {
+    "root_place_id": 24364666,
+    "universe_id": 5826997,
+    "name": "Build a Raft and Sail TO YOUR DOOOOOM!",
+    "roblox_url": "https://www.roblox.com/games/24364666",
+    "description": "What at first appears to be a nice gentle river soon turns deadly.",
+    "creator": {
+      "id": 273399,
+      "name": "homer11",
+      "type": "User"
+    },
+    "created_at": "2010-03-24T09:14:51.537Z",
+    "updated_at": "2016-09-20T23:15:15.663Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "25237300",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      },
+      {
+        "kind": "badge",
+        "value": "25288992",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      },
+      {
+        "kind": "badge",
+        "value": "25310157",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      },
+      {
+        "kind": "badge",
+        "value": "25855378",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      },
+      {
+        "kind": "badge",
+        "value": "26390060",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      },
+      {
+        "kind": "badge",
+        "value": "27155128",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      },
+      {
+        "kind": "badge",
+        "value": "31305268",
+        "detail": "badge resolves to universe 5826997 and root place 24364666"
+      }
+    ]
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_1b0e0c6b5c2e1b9f70ff10ee077451f1",
+  "title": "2158 - EDFDevil's Egg Drop",
+  "snapshot": {},
+  "blob": {
+    "sha256": "391fcdb50188bd4bf39629b9e76064f4af14002207c4499c249c3fe2230803c0",
+    "path": "levels/sha256/39/391fcdb50188bd4bf39629b9e76064f4af14002207c4499c249c3fe2230803c0.rbxl",
+    "format": "binary",
+    "size_bytes": 36320,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/39/391fcdb50188bd4bf39629b9e76064f4af14002207c4499c249c3fe2230803c0.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2158 - EDFDevil's Egg Drop.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

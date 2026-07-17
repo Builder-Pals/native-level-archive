@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "nla_14b2729b391a222bc1d72d57dc16944c",
+  "title": "Sword Fights on the Heights IV (2010E, authentic)",
+  "snapshot": {
+    "label": "2010E, authentic",
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "385c5cba2e796c6c0f2c45cd3e19718b23104a534ec114857d741b2da1fc36bb",
+    "path": "levels/sha256/38/385c5cba2e796c6c0f2c45cd3e19718b23104a534ec114857d741b2da1fc36bb.rbxlx",
+    "format": "xml",
+    "size_bytes": 2669982,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/38/385c5cba2e796c6c0f2c45cd3e19718b23104a534ec114857d741b2da1fc36bb.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sword Fights on the Heights IV (2010E, authentic).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Sword Fights on the Heights IV (2010E, authentic).meta.json",
+    "legacy_creator": "Telamon"
+  },
+  "badges": [
+    {
+      "id": 14417332,
+      "name": "John, Loved of Muses",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14468729,
+      "name": "5 Kills at Sword Fight on the Heights",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14468788,
+      "name": "20 Kills at Sword Fight on the Heights",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14468882,
+      "name": "97 Kills at Sword Fight on the Heights",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14469303,
+      "name": "Blademaster",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14469725,
+      "name": "PWNED Telamon",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14498946,
+      "name": "PWNED Telamon *EPIC*",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14417332,
+      14468729,
+      14468788,
+      14468882,
+      14469303,
+      14469725,
+      14498946
+    ]
+  },
+  "source": {
+    "root_place_id": 47324,
+    "universe_id": 156639,
+    "name": "⚔️ Sword Fights on the Heights IV",
+    "roblox_url": "https://www.roblox.com/games/47324",
+    "description": "🤪🤪🤪\r\n\r\nClick the \"FOLLOW\" button to subscribe to game updates (under the play button)\r\n\r\n⚔️⚔️⚔️\r\n1/18/2021 - New trailer by @ProfineRB\r\n6/4/2020 - Swords from dead players no longer do damage.\r\n6/3/2020 - Updated code for all swords/items. Fixed Windforce, Darkheart, and Ghostwalker. New effect for Touchstone. Ghostwalker now counts kills for you. Battle armor effect more obvious. Added new Status bar and sound effects!\r\n5/13/2020 - You can no longer kill WoodReviewer\r\n5/8/2020 - More attempted bug fixes with Jump Pads\r\n5/6/2020 - Fixed idiot store bug on mobile where shop button draw on top of jump button. Sorry.\r\n5/5/2020 - Fixed a lot of the worst bugs. Still needs some polish. If you find bugs, you can ping me on devforum or twitter.\r\n⚔️⚔️⚔️\r\nDeath before dishonor.\r\n⚔️⚔️⚔️",
+    "creator": {
+      "id": 261,
+      "name": "Shedletsky",
+      "type": "User"
+    },
+    "created_at": "2008-03-14T00:22:29.347Z",
+    "updated_at": "2021-01-18T08:42:19.09Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14417332",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      },
+      {
+        "kind": "badge",
+        "value": "14468729",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      },
+      {
+        "kind": "badge",
+        "value": "14468788",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      },
+      {
+        "kind": "badge",
+        "value": "14468882",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      },
+      {
+        "kind": "badge",
+        "value": "14469303",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      },
+      {
+        "kind": "badge",
+        "value": "14469725",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      },
+      {
+        "kind": "badge",
+        "value": "14498946",
+        "detail": "badge resolves to universe 156639 and root place 47324"
+      }
+    ]
+  },
+  "preferred": true
+}

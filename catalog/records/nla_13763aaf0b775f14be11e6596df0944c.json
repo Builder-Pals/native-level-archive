@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_13763aaf0b775f14be11e6596df0944c",
+  "title": "2182 - Television",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a0d5ef09af59e59d3195aaf363c52d8726dd135188594f8bc4a44117f9958898",
+    "path": "levels/sha256/a0/a0d5ef09af59e59d3195aaf363c52d8726dd135188594f8bc4a44117f9958898.rbxl",
+    "format": "binary",
+    "size_bytes": 67091,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a0/a0d5ef09af59e59d3195aaf363c52d8726dd135188594f8bc4a44117f9958898.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2182 - Television.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

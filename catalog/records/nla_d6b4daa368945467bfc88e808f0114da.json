@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "id": "nla_d6b4daa368945467bfc88e808f0114da",
+  "title": "Cart Ride into a NOOB!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6b4d10f50cfb05b81a5d48103b3abe9edc7012e7a4279fd6687f132a3a149172",
+    "path": "levels/sha256/6b/6b4d10f50cfb05b81a5d48103b3abe9edc7012e7a4279fd6687f132a3a149172.rbxlx",
+    "format": "xml",
+    "size_bytes": 34602758,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6b/6b4d10f50cfb05b81a5d48103b3abe9edc7012e7a4279fd6687f132a3a149172.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Cart Ride into a NOOB!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 24586298,
+      "name": "You met me, the creator!",
+      "origin": "embedded"
+    },
+    {
+      "id": 24604420,
+      "name": "Easter Version!",
+      "origin": "embedded"
+    },
+    {
+      "id": 24604915,
+      "name": "10K Party!",
+      "origin": "embedded"
+    },
+    {
+      "id": 24627614,
+      "name": "Rainbow tumbling!",
+      "origin": "embedded"
+    },
+    {
+      "id": 24627917,
+      "name": "You bought VIP / Admin",
+      "origin": "embedded"
+    },
+    {
+      "id": 24697228,
+      "name": "Badge of Disguise",
+      "origin": "embedded"
+    },
+    {
+      "id": 25535241,
+      "name": "You visited the battlefield!",
+      "origin": "embedded"
+    },
+    {
+      "id": 25535544,
+      "name": "You made it to winners!",
+      "origin": "embedded"
+    },
+    {
+      "id": 25617193,
+      "name": "20K Party!",
+      "origin": "embedded"
+    },
+    {
+      "id": 25617202,
+      "name": "30K Party!",
+      "origin": "embedded"
+    },
+    {
+      "id": 25617212,
+      "name": "40K Party!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      24586298,
+      24604420,
+      24604915,
+      24627614,
+      24627917,
+      24697228,
+      25535241,
+      25535544,
+      25617193,
+      25617202,
+      25617212
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "24586298",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "24604420",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "24604915",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "24627614",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "24627917",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "24697228",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "25535241",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "25535544",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "25617193",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "25617202",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      },
+      {
+        "kind": "badge",
+        "value": "25617212",
+        "detail": "badge resolves to universe 5992345 and root place 24325798"
+      }
+    ]
+  },
+  "preferred": false
+}

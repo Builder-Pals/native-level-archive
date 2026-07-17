@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c0aa5397cdd368fcdec34e4773ced412",
+  "title": "Boho V4",
+  "snapshot": {},
+  "blob": {
+    "sha256": "bd58a93fdf382a282ce8e8a98f8dc4ae1fffccd320232025ce0caf6ce42ca188",
+    "path": "levels/sha256/bd/bd58a93fdf382a282ce8e8a98f8dc4ae1fffccd320232025ce0caf6ce42ca188.rbxl",
+    "format": "binary",
+    "size_bytes": 5813716,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/bd/bd58a93fdf382a282ce8e8a98f8dc4ae1fffccd320232025ce0caf6ce42ca188.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Boho V4.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

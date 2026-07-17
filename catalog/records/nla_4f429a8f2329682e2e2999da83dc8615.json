@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "id": "nla_4f429a8f2329682e2e2999da83dc8615",
+  "title": "Deception Infection",
+  "snapshot": {},
+  "blob": {
+    "sha256": "8c2856bb377887039b7c3d723d0421e5204741d01d99bee86eb59c06ed3d9737",
+    "path": "levels/sha256/8c/8c2856bb377887039b7c3d723d0421e5204741d01d99bee86eb59c06ed3d9737.rbxlx",
+    "format": "xml",
+    "size_bytes": 1384647,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8c/8c2856bb377887039b7c3d723d0421e5204741d01d99bee86eb59c06ed3d9737.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Deception Infection.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 38777276,
+      "name": "Last Survivor",
+      "origin": "embedded"
+    },
+    {
+      "id": 38779665,
+      "name": "Infection Pro",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      38777276,
+      38779665
+    ]
+  },
+  "source": {
+    "root_place_id": 32355875,
+    "universe_id": 18591749,
+    "name": "Deception Infection",
+    "roblox_url": "https://www.roblox.com/games/32355875",
+    "description": "Badges in updated servers. More updates to come! If you get -5 points, the game will automaticaly ban you.\r\n------------------------------------------------------------------ \r\n  VIP Hunter: http://www.roblox.com/HUNTER-item?id=38580505 \r\n-------------------------------------------------------- \r\nVIP Infecter: http://www.roblox.com/INFECTOR-item?id=38580459 \r\n--------------------------------------------------------\r\nVIP Elite: http://www.roblox.com/ELITE-item?id=38606688",
+    "creator": {
+      "id": 80254,
+      "name": "Stickmasterluke",
+      "type": "User"
+    },
+    "created_at": "2010-08-06T23:49:14.743Z",
+    "updated_at": "2015-08-14T16:57:48.683Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "38777276",
+        "detail": "badge resolves to universe 18591749 and root place 32355875"
+      },
+      {
+        "kind": "badge",
+        "value": "38779665",
+        "detail": "badge resolves to universe 18591749 and root place 32355875"
+      }
+    ]
+  },
+  "preferred": true
+}

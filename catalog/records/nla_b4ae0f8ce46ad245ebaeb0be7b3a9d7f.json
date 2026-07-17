@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "id": "nla_b4ae0f8ce46ad245ebaeb0be7b3a9d7f",
+  "title": "Hospital Nightmare 3 Original (June 23rd, 2012)",
+  "snapshot": {
+    "label": "June 23rd, 2012",
+    "date": "2012-06-23",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "f0e49dbfd7a3918aa819bb231b528c90c68841cda0b39643a2b0932353284fe6",
+    "path": "levels/sha256/f0/f0e49dbfd7a3918aa819bb231b528c90c68841cda0b39643a2b0932353284fe6.rbxlx",
+    "format": "xml",
+    "size_bytes": 18487587,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f0/f0e49dbfd7a3918aa819bb231b528c90c68841cda0b39643a2b0932353284fe6.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Hospital Nightmare 3 Original (June 23rd, 2012).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Hospital Nightmare 3 Original (June 23rd, 2012).meta.json",
+    "legacy_creator": "adrian928"
+  },
+  "badges": [
+    {
+      "id": 90685,
+      "origin": "embedded"
+    },
+    {
+      "id": 56330880,
+      "name": "You came to my place welcome",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 56334431,
+      "name": "You Have Won The Game",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 56334659,
+      "name": "You Met the creator",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 59445272,
+      "name": "You Met My Brother",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60139746,
+      "name": "Hidden Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60140031,
+      "name": "Random Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60140580,
+      "name": "You have ultra vip",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 63144832,
+      "name": "300K pplace Visists",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 67752586,
+      "name": "400,000 Place Visits Thanks",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      90685,
+      56330880,
+      56334431,
+      56334659,
+      59445272,
+      60139746,
+      60140031,
+      60140580,
+      63144832,
+      67752586
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "56330880",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "56334431",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "56334659",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "59445272",
+        "detail": "badge resolves to universe 14521338 and root place 53362510"
+      },
+      {
+        "kind": "badge",
+        "value": "60139746",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "60140031",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "60140580",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "63144832",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      },
+      {
+        "kind": "badge",
+        "value": "67752586",
+        "detail": "badge resolves to universe 1263016 and root place 3993840"
+      }
+    ]
+  },
+  "preferred": false
+}

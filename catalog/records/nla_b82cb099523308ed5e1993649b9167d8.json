@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_b82cb099523308ed5e1993649b9167d8",
+  "title": "3062 - Peepcity",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1db454e3283f13e936dc20852f9168acee2e090837dc1cd5f42d6accbec8e35c",
+    "path": "levels/sha256/1d/1db454e3283f13e936dc20852f9168acee2e090837dc1cd5f42d6accbec8e35c.rbxl",
+    "format": "binary",
+    "size_bytes": 730254,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1d/1db454e3283f13e936dc20852f9168acee2e090837dc1cd5f42d6accbec8e35c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3062 - Peepcity.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

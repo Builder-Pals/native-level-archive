@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_3870b67ba8d7479b76fb0279053665d7",
+  "title": "F-N-a-F-RP-2-READ-DESK-UNCOPYLOCKED",
+  "snapshot": {},
+  "blob": {
+    "sha256": "cb972fe96a2c8cad75aa7ffbf42a22c2f6f635304cfb16fa4a55f353ba10eca0",
+    "path": "levels/sha256/cb/cb972fe96a2c8cad75aa7ffbf42a22c2f6f635304cfb16fa4a55f353ba10eca0.rbxl",
+    "format": "binary",
+    "size_bytes": 198580,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cb/cb972fe96a2c8cad75aa7ffbf42a22c2f6f635304cfb16fa4a55f353ba10eca0.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "F-N-a-F-RP-2-READ-DESK-UNCOPYLOCKED.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

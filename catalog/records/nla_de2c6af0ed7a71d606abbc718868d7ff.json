@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_de2c6af0ed7a71d606abbc718868d7ff",
+  "title": "3060 - damn another test",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c8dbd85ab03fb3ad30a21930726ed6d4b5a280c8335b429ae0aa1d435f316cb3",
+    "path": "levels/sha256/c8/c8dbd85ab03fb3ad30a21930726ed6d4b5a280c8335b429ae0aa1d435f316cb3.rbxl",
+    "format": "binary",
+    "size_bytes": 54610,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c8/c8dbd85ab03fb3ad30a21930726ed6d4b5a280c8335b429ae0aa1d435f316cb3.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3060 - damn another test.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

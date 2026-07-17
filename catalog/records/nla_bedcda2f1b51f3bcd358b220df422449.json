@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_bedcda2f1b51f3bcd358b220df422449",
+  "title": "1160 - video testing",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c89f227192234552c4a5517f1b34eaf9c241d694620abef8dbde950b0029f297",
+    "path": "levels/sha256/c8/c89f227192234552c4a5517f1b34eaf9c241d694620abef8dbde950b0029f297.rbxl",
+    "format": "binary",
+    "size_bytes": 101548,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c8/c89f227192234552c4a5517f1b34eaf9c241d694620abef8dbde950b0029f297.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1160 - video testing.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

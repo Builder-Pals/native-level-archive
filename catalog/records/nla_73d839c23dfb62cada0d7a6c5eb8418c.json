@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_73d839c23dfb62cada0d7a6c5eb8418c",
+  "title": "Pirate Battles British Navy vs. Dutchmen Ship",
+  "snapshot": {},
+  "blob": {
+    "sha256": "7193dc212bd8b29b077872476c93bcff99c30457cb8a14d651e3afec309f62a0",
+    "path": "levels/sha256/71/7193dc212bd8b29b077872476c93bcff99c30457cb8a14d651e3afec309f62a0.rbxlx",
+    "format": "xml",
+    "size_bytes": 31547875,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/71/7193dc212bd8b29b077872476c93bcff99c30457cb8a14d651e3afec309f62a0.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Pirate Battles British Navy vs. Dutchmen Ship.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

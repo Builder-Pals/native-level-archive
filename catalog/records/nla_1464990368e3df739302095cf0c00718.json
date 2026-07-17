@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_1464990368e3df739302095cf0c00718",
+  "title": "Bread's Awesome Place Aug 2007",
+  "snapshot": {
+    "date": "2007-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "81e44cc0ab6c38b95b9b4ac93d98ce7f081835a3ec086b3eaa8739050b35b1a6",
+    "path": "levels/sha256/81/81e44cc0ab6c38b95b9b4ac93d98ce7f081835a3ec086b3eaa8739050b35b1a6.rbxlx",
+    "format": "xml",
+    "size_bytes": 6153648,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/81/81e44cc0ab6c38b95b9b4ac93d98ce7f081835a3ec086b3eaa8739050b35b1a6.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Bread's Awesome Place Aug 2007.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

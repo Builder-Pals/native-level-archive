@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_6b0e34f19d1c796fc33442ec5221ce1a",
+  "title": "Frappe (only guest for now)",
+  "snapshot": {
+    "label": "only guest for now"
+  },
+  "blob": {
+    "sha256": "404a82901d9ab4f859d7e327844169bab6b091c6bc03e0b6236bdf0532885d9f",
+    "path": "levels/sha256/40/404a82901d9ab4f859d7e327844169bab6b091c6bc03e0b6236bdf0532885d9f.rbxl",
+    "format": "binary",
+    "size_bytes": 1506037,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/40/404a82901d9ab4f859d7e327844169bab6b091c6bc03e0b6236bdf0532885d9f.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Frappe (only guest for now).rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

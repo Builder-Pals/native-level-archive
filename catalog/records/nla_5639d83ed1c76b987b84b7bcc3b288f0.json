@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_5639d83ed1c76b987b84b7bcc3b288f0",
+  "title": "SCARY-GAME-DO-NOT-PLAY-13",
+  "snapshot": {},
+  "blob": {
+    "sha256": "cc89f603eb295aa36c155261b305239b09e772f5759ae29adccac2d469228757",
+    "path": "levels/sha256/cc/cc89f603eb295aa36c155261b305239b09e772f5759ae29adccac2d469228757.rbxl",
+    "format": "binary",
+    "size_bytes": 647150,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc89f603eb295aa36c155261b305239b09e772f5759ae29adccac2d469228757.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "SCARY-GAME-DO-NOT-PLAY-13.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

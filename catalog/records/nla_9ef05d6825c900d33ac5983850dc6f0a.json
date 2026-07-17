@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "nla_9ef05d6825c900d33ac5983850dc6f0a",
+  "title": "Get Randomized!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "67404caa43ef40942803b8103886a98f0fd6aa3eb7d13ff7f1a01e276f296087",
+    "path": "levels/sha256/67/67404caa43ef40942803b8103886a98f0fd6aa3eb7d13ff7f1a01e276f296087.rbxlx",
+    "format": "xml",
+    "size_bytes": 1799612,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/67/67404caa43ef40942803b8103886a98f0fd6aa3eb7d13ff7f1a01e276f296087.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Get Randomized!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 40500107,
+      "name": "You got randomized!!",
+      "origin": "embedded"
+    },
+    {
+      "id": 41849843,
+      "name": "You met the Creator!",
+      "origin": "embedded"
+    },
+    {
+      "id": 42763477,
+      "name": "Free Badge For Coming!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      40500107,
+      41849843,
+      42763477
+    ]
+  },
+  "source": {
+    "root_place_id": 38052453,
+    "universe_id": 40037560,
+    "name": "Get Randomized! PLAYER POINTS!  (Alpha)",
+    "roblox_url": "https://www.roblox.com/games/38052453",
+    "description": "FIXED THE LEADERBOARD, YAY! \r\nAdding a shop hopefully soon!\r\n22 BADGES TOTAL!\r\nVersion 15.5 - New Chat Voice, Points Saver.\r\n Awesome people that have played: ROBLOX, reesemcblox, KryptonikOfficial, PlayRobot, Jahrblox, and scoutywouty.\r\n\r\nRecent Updates - No more lag or crashing, neater design, more colorful, more things to do, new tools, recolored, new hats, new clothes, and most importantly, more fun to play!\r\n ---------------------------------------------\r\n10k gift: http://www.roblox.com/10k-item?id=82265696\r\nSay try/# to be anyone you want!\r\n Heres the Instructions: When you spawn, go to the multi-colored teleporter behind HelperBot and touch it. After you've touched it, you should be fallling down a big wall that randomly alters your character. Ask the Dialog Guy in the game for further information! Thanks!",
+    "creator": {
+      "id": 11246830,
+      "name": "DISKXT",
+      "type": "User"
+    },
+    "created_at": "2010-11-01T18:54:23.167Z",
+    "updated_at": "2018-11-20T21:54:46.46Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "40500107",
+        "detail": "badge resolves to universe 40037560 and root place 38052453"
+      },
+      {
+        "kind": "badge",
+        "value": "41849843",
+        "detail": "badge resolves to universe 40037560 and root place 38052453"
+      },
+      {
+        "kind": "badge",
+        "value": "42763477",
+        "detail": "badge resolves to universe 40037560 and root place 38052453"
+      }
+    ]
+  },
+  "preferred": true
+}

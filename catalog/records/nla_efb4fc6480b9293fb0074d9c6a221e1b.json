@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_efb4fc6480b9293fb0074d9c6a221e1b",
+  "title": "Mining Race",
+  "snapshot": {},
+  "blob": {
+    "sha256": "0564bb2ec165358e3b0033fa7e73d9b5fdadecfb526b10ca71f7445f16ff6c29",
+    "path": "levels/sha256/05/0564bb2ec165358e3b0033fa7e73d9b5fdadecfb526b10ca71f7445f16ff6c29.rbxl",
+    "format": "binary",
+    "size_bytes": 85647,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/05/0564bb2ec165358e3b0033fa7e73d9b5fdadecfb526b10ca71f7445f16ff6c29.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Mining Race.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "id": "nla_1e9f1f43a316e179882a5e0aa73366a1",
+  "title": "Speed Run 4 (1st part)",
+  "snapshot": {
+    "label": "1st part"
+  },
+  "blob": {
+    "sha256": "01e1cba11ba74e968866003dd245260c38d2b2ca2ca02a1eef90db76ef186375",
+    "path": "levels/sha256/01/01e1cba11ba74e968866003dd245260c38d2b2ca2ca02a1eef90db76ef186375.rbxl",
+    "format": "binary",
+    "size_bytes": 377113,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/01/01e1cba11ba74e968866003dd245260c38d2b2ca2ca02a1eef90db76ef186375.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Speed Run 4 (1st part).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Speed Run 4 (1st part).meta.json",
+    "legacy_creator": "Vurse"
+  },
+  "badges": [
+    {
+      "id": 189799329,
+      "name": "Welcome!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189799502,
+      "name": "Winner!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189799683,
+      "name": "A Watery Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189799987,
+      "name": "A Toxic Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189800275,
+      "name": "A Sweet Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189800459,
+      "name": "A Scorching Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189800640,
+      "name": "A Cosmic Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 189927463,
+      "name": "You Met the Creator",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 183364845,
+    "universe_id": 83858907,
+    "name": "[🌴] Speed Run 4",
+    "roblox_url": "https://www.roblox.com/games/183364845",
+    "description": "[🌴 The Summer Event]  - Explore Summer World,  collect ice creams, complete challenges, and unlock new items and levels!\n\nJoin in the fast paced fun and test your skill with this challenging platformer! There are dozens of unique levels to run and parkour through to victory. Each level has a unique song and appearance.. Can you reach all the final levels? Race your friends, or race against the clock and keep an eye on the timer, good luck!\n\nRemember - you can unlock forbidden levels with stars.. and you can still unlock dimensions by beating the game of course.\n\nJoin our development team\nhttps://www.roblox.com/My/Groups.aspx?gid=1234705\n\nSpeed Run 4's official Roblox Hat:\nhttps://www.roblox.com/catalog/14607948233/Speed-Run-4-Head\n\nTags: Colorful, Super, Speed, Fun, Obby, Parkour, Teamwork, Run, Victory, Win, Faster, Platformer, Clicker, Easy ",
+    "creator": {
+      "id": 41163986,
+      "name": "Vurse",
+      "type": "User"
+    },
+    "created_at": "2014-10-20T20:45:51.687Z",
+    "updated_at": "2026-07-08T00:19:45.921Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "189799329",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189799502",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189799683",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189799987",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189800275",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189800459",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189800640",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      },
+      {
+        "kind": "badge",
+        "value": "189927463",
+        "detail": "badge resolves to universe 83858907 and root place 183364845"
+      }
+    ]
+  },
+  "preferred": true
+}

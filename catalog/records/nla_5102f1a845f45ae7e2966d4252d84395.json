@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_5102f1a845f45ae7e2966d4252d84395",
+  "title": "Redwood Prison 2016",
+  "snapshot": {
+    "date": "2016-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "75adfae0b7e9fa80f72b9a7fcbf88140c17520dbde0e30c9ecb6804be2350f22",
+    "path": "levels/sha256/75/75adfae0b7e9fa80f72b9a7fcbf88140c17520dbde0e30c9ecb6804be2350f22.rbxl",
+    "format": "binary",
+    "size_bytes": 1798183,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/75/75adfae0b7e9fa80f72b9a7fcbf88140c17520dbde0e30c9ecb6804be2350f22.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Redwood Prison 2016.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

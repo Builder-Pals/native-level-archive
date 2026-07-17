@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "nla_00d9eaf70d8ea33f164ee38aa9c5c182",
+  "title": "Lando's Apartment (2012, stolen in-game)",
+  "snapshot": {
+    "label": "2012, stolen in-game",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "657e7dbf433f309829ab969b9a53ddeb3e7f1eeb5f190fa3e394443579b22e0c",
+    "path": "levels/sha256/65/657e7dbf433f309829ab969b9a53ddeb3e7f1eeb5f190fa3e394443579b22e0c.rbxlx",
+    "format": "xml",
+    "size_bytes": 12361182,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/65/657e7dbf433f309829ab969b9a53ddeb3e7f1eeb5f190fa3e394443579b22e0c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Lando's Apartment (2012, stolen in-game).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Lando's Apartment (2012, stolen in-game).meta.json",
+    "legacy_creator": "lando64000"
+  },
+  "badges": [
+    {
+      "id": 42549407,
+      "name": "Lando's Plans",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 49841948,
+      "name": "Car Accident",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      42549407,
+      49841948
+    ]
+  },
+  "source": {
+    "root_place_id": 33719689,
+    "universe_id": 14236443,
+    "name": "Lando's Apartment ",
+    "roblox_url": "https://www.roblox.com/games/33719689",
+    "description": "My mansion was haunted so I decided to move to this apartment in the city. I am the original creator of this map.",
+    "creator": {
+      "id": 1123551,
+      "name": "lando64000",
+      "type": "User"
+    },
+    "created_at": "2010-08-25T17:54:38.337Z",
+    "updated_at": "2016-01-22T01:00:28.003Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "42549407",
+        "detail": "badge resolves to universe 14236443 and root place 33719689"
+      },
+      {
+        "kind": "badge",
+        "value": "49841948",
+        "detail": "badge resolves to universe 14236443 and root place 33719689"
+      }
+    ]
+  },
+  "preferred": true
+}

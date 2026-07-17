@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_cde039eff4f0ff350177c728c4550040",
+  "title": "The Haunted House Obby",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1be194bcdd143e58aa245f6a2cee876f12235adf9fdc64b743ce396e7fad8a23",
+    "path": "levels/sha256/1b/1be194bcdd143e58aa245f6a2cee876f12235adf9fdc64b743ce396e7fad8a23.rbxl",
+    "format": "binary",
+    "size_bytes": 97835,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1b/1be194bcdd143e58aa245f6a2cee876f12235adf9fdc64b743ce396e7fad8a23.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Haunted House Obby.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

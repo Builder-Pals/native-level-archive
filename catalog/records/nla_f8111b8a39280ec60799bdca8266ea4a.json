@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_f8111b8a39280ec60799bdca8266ea4a",
+  "title": "Stratosphere Settlement (2013L)",
+  "snapshot": {
+    "label": "2013L",
+    "date": "2013-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "232c41918dc15cd3b38c088a2b4b001169ceac1f6d61a71d2662fb9e97ec5ba5",
+    "path": "levels/sha256/23/232c41918dc15cd3b38c088a2b4b001169ceac1f6d61a71d2662fb9e97ec5ba5.rbxl",
+    "format": "binary",
+    "size_bytes": 932411,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/232c41918dc15cd3b38c088a2b4b001169ceac1f6d61a71d2662fb9e97ec5ba5.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Stratosphere Settlement (2013L).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "id": "nla_172301c8349ba79eabc08f15a0a88052",
+  "title": "The Pizzeria Tycoon",
+  "snapshot": {},
+  "blob": {
+    "sha256": "fcaf36bed78c3aeea149f59ea7fa38d55e730148c8cfd4bcc20c554354f26fab",
+    "path": "levels/sha256/fc/fcaf36bed78c3aeea149f59ea7fa38d55e730148c8cfd4bcc20c554354f26fab.rbxl",
+    "format": "binary",
+    "size_bytes": 661482,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fc/fcaf36bed78c3aeea149f59ea7fa38d55e730148c8cfd4bcc20c554354f26fab.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Pizzeria Tycoon.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "The Pizzeria Tycoon.meta.json",
+    "legacy_creator": "PureTrading"
+  },
+  "badges": [
+    {
+      "id": 199390139,
+      "name": "Early Access Player",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 205437703,
+      "name": "Golden Badge!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 209380491,
+      "name": "Hidden Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 217677716,
+      "name": "50,000 Visits",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 198689868,
+    "universe_id": 92228235,
+    "name": "The Pizzeria 2 is now released!",
+    "roblox_url": "https://www.roblox.com/games/198689868",
+    "description": "Play it here!:\r\n\r\nhttp://www.roblox.com/games/271915017/The-Pizzeria-2-Nightmare-Awakens",
+    "creator": {
+      "id": 19305571,
+      "name": "PureTrading",
+      "type": "User"
+    },
+    "created_at": "2014-12-31T05:31:55.51Z",
+    "updated_at": "2016-03-20T02:21:56.417Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "199390139",
+        "detail": "badge resolves to universe 92228235 and root place 198689868"
+      },
+      {
+        "kind": "badge",
+        "value": "205437703",
+        "detail": "badge resolves to universe 92228235 and root place 198689868"
+      },
+      {
+        "kind": "badge",
+        "value": "209380491",
+        "detail": "badge resolves to universe 92228235 and root place 198689868"
+      },
+      {
+        "kind": "badge",
+        "value": "217677716",
+        "detail": "badge resolves to universe 92228235 and root place 198689868"
+      }
+    ]
+  },
+  "preferred": true
+}

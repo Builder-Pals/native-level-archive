@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "nla_5c8a77c9485e8f854d2b84f975fe24d0",
+  "title": "Boys vs Girls 2 Treehouse Rumble",
+  "snapshot": {},
+  "blob": {
+    "sha256": "f6117a90f835b3ff5f0cec1ae621f06c9de466c980e6467c583bc089a0d01f52",
+    "path": "levels/sha256/f6/f6117a90f835b3ff5f0cec1ae621f06c9de466c980e6467c583bc089a0d01f52.rbxlx",
+    "format": "xml",
+    "size_bytes": 7517058,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f6/f6117a90f835b3ff5f0cec1ae621f06c9de466c980e6467c583bc089a0d01f52.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Boys vs Girls 2 Treehouse Rumble.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 36142135,
+      "name": "Robloxaville Halloween Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 41299034,
+      "name": "Robloxaville Winter VIP Badge",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      36142135,
+      41299034
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "36142135",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "41299034",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      }
+    ]
+  },
+  "preferred": false
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "nla_cc90e7a35ddba324f101cd6fcfd2e600",
+  "title": "Mad Games (v1.3b, 2015)",
+  "snapshot": {
+    "label": "v1.3b, 2015",
+    "date": "2015-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "8b514a0a166da7873720b9a90024ae953c10b427d1cbc379cc38e102be7059a2",
+    "path": "levels/sha256/8b/8b514a0a166da7873720b9a90024ae953c10b427d1cbc379cc38e102be7059a2.rbxl",
+    "format": "binary",
+    "size_bytes": 1050307,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8b/8b514a0a166da7873720b9a90024ae953c10b427d1cbc379cc38e102be7059a2.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Mad Games (v1.3b, 2015).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Mad Games (v1.3b, 2015).meta.json",
+    "legacy_creator": "loleris"
+  },
+  "badges": [
+    {
+      "id": 274346616,
+      "name": "Defender of Roblox HQ",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 244121573,
+    "universe_id": 102525476,
+    "name": "Mad Games (v2.32)",
+    "roblox_url": "https://www.roblox.com/games/244121573",
+    "description": "Mad Games is a fun multiplayer game consisting of various mini-games: starting with the classical \"Murder\" round and finishing off with a GIANT LAZER CAT BOSS! By collecting or buying the ruby currency, you can customize your gear and select the mini-games / rounds you want to play!\r\n\r\n@VeryMadStudio on Twitter\r\n/MadStudioGames on Facebook\r\n\r\nBe sure to check out other Roblox games by Mad Studio!\r\nThe Mad Murderer 2: https://www.roblox.com/games/1026891626/The-Mad-Murderer-2\r\nMad Paintball 2: https://www.roblox.com/games/289565045/Mad-Paintball-2-v0-07",
+    "creator": {
+      "id": 2312310,
+      "name": "loleris",
+      "type": "User"
+    },
+    "created_at": "2015-05-01T21:42:35.51Z",
+    "updated_at": "2020-08-27T13:55:59.52Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "274346616",
+        "detail": "badge resolves to universe 102525476 and root place 244121573"
+      }
+    ]
+  },
+  "preferred": true
+}

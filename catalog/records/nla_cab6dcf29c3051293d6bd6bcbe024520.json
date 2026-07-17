@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_cab6dcf29c3051293d6bd6bcbe024520",
+  "title": "Chess Tournament",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a61a619017b91a0b3a169c07fb5d9a145925ead11dc02e67d99a4a24424b0683",
+    "path": "levels/sha256/a6/a61a619017b91a0b3a169c07fb5d9a145925ead11dc02e67d99a4a24424b0683.rbxlx",
+    "format": "xml",
+    "size_bytes": 996345,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a6/a61a619017b91a0b3a169c07fb5d9a145925ead11dc02e67d99a4a24424b0683.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Chess Tournament.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

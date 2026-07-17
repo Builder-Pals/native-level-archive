@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_130bfbeffb63eb2d8abe093e6946f27c",
+  "title": "Yoricks Resting Place",
+  "snapshot": {},
+  "blob": {
+    "sha256": "ba2ceb53db68694331a209c3aa63b32426de65c2bcf64b3da7ddcfd5d004f235",
+    "path": "levels/sha256/ba/ba2ceb53db68694331a209c3aa63b32426de65c2bcf64b3da7ddcfd5d004f235.rbxlx",
+    "format": "xml",
+    "size_bytes": 7822839,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ba/ba2ceb53db68694331a209c3aa63b32426de65c2bcf64b3da7ddcfd5d004f235.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Yoricks Resting Place.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

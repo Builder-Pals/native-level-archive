@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_1b2551bbfd52e294e32dddcb00e57b02",
+  "title": "2084 - Superhero Tycoon 2018 (READ DESC PLS)",
+  "snapshot": {
+    "label": "READ DESC PLS",
+    "date": "2018-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "89389dc19399d11ac8bde92ddab9c3172d60085d1b47e70a7ff77a08ba62a99e",
+    "path": "levels/sha256/89/89389dc19399d11ac8bde92ddab9c3172d60085d1b47e70a7ff77a08ba62a99e.rbxl",
+    "format": "binary",
+    "size_bytes": 2584388,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/89/89389dc19399d11ac8bde92ddab9c3172d60085d1b47e70a7ff77a08ba62a99e.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2084 - Superhero Tycoon 2018 (READ DESC PLS).rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

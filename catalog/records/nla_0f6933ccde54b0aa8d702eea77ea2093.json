@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_0f6933ccde54b0aa8d702eea77ea2093",
+  "title": "Acid Escape",
+  "snapshot": {},
+  "blob": {
+    "sha256": "50123f77f23b3fd596e3656cc90f45427fab7878b658f2c8c2c0337d91f18f3c",
+    "path": "levels/sha256/50/50123f77f23b3fd596e3656cc90f45427fab7878b658f2c8c2c0337d91f18f3c.rbxl",
+    "format": "binary",
+    "size_bytes": 252745,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/50/50123f77f23b3fd596e3656cc90f45427fab7878b658f2c8c2c0337d91f18f3c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Acid Escape.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

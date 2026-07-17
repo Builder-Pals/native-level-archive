@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_7dfbac3cfad3bafba116289aed091025",
+  "title": "2992 - Gtoria Survive The Disasters!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "77cd6bbf5e3ab5766210c9a1a203bf43e5f087cef048165a15aab4c621fdc9b7",
+    "path": "levels/sha256/77/77cd6bbf5e3ab5766210c9a1a203bf43e5f087cef048165a15aab4c621fdc9b7.rbxl",
+    "format": "binary",
+    "size_bytes": 225362,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/77/77cd6bbf5e3ab5766210c9a1a203bf43e5f087cef048165a15aab4c621fdc9b7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2992 - Gtoria Survive The Disasters!.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

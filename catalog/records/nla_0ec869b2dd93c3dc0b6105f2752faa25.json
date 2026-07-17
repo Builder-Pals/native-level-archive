@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_0ec869b2dd93c3dc0b6105f2752faa25",
+  "title": "1314 - Cinema Test",
+  "snapshot": {},
+  "blob": {
+    "sha256": "62c4245e3f84e61ec0a2deab2c2b713b22d806bf1e8346c217da921f33f511ec",
+    "path": "levels/sha256/62/62c4245e3f84e61ec0a2deab2c2b713b22d806bf1e8346c217da921f33f511ec.rbxl",
+    "format": "binary",
+    "size_bytes": 643225,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/62/62c4245e3f84e61ec0a2deab2c2b713b22d806bf1e8346c217da921f33f511ec.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1314 - Cinema Test.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

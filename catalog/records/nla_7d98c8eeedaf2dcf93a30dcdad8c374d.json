@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_7d98c8eeedaf2dcf93a30dcdad8c374d",
+  "title": "Zeke and Luther Skatepark (March 2nd, 2010)",
+  "snapshot": {
+    "label": "March 2nd, 2010",
+    "date": "2010-03-02",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "39c0e6daddbedf4fc3211413f0e0b172213c718ff7234a5920cd5b21b699b5c1",
+    "path": "levels/sha256/39/39c0e6daddbedf4fc3211413f0e0b172213c718ff7234a5920cd5b21b699b5c1.rbxlx",
+    "format": "xml",
+    "size_bytes": 3304913,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/39/39c0e6daddbedf4fc3211413f0e0b172213c718ff7234a5920cd5b21b699b5c1.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zeke and Luther Skatepark (March 2nd, 2010).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

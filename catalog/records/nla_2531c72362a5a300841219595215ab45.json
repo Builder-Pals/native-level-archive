@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_2531c72362a5a300841219595215ab45",
+  "title": "The Iron Cafe (October 2009)",
+  "snapshot": {
+    "label": "October 2009",
+    "date": "2009-10-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "ac16a184e19e48c47779391ecf3fb9d0b5a373e6991d63b7c3657b2cb0434a3d",
+    "path": "levels/sha256/ac/ac16a184e19e48c47779391ecf3fb9d0b5a373e6991d63b7c3657b2cb0434a3d.rbxlx",
+    "format": "xml",
+    "size_bytes": 5119259,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ac/ac16a184e19e48c47779391ecf3fb9d0b5a373e6991d63b7c3657b2cb0434a3d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Iron Cafe (October 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

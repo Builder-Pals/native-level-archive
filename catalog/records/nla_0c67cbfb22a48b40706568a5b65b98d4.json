@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "id": "nla_0c67cbfb22a48b40706568a5b65b98d4",
+  "title": "Mutiny",
+  "snapshot": {},
+  "blob": {
+    "sha256": "3a2e629c279eba65a84f9aa080bb8b8b240a3671d34740532f0259500ac80bdb",
+    "path": "levels/sha256/3a/3a2e629c279eba65a84f9aa080bb8b8b240a3671d34740532f0259500ac80bdb.rbxl",
+    "format": "binary",
+    "size_bytes": 135893,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3a/3a2e629c279eba65a84f9aa080bb8b8b240a3671d34740532f0259500ac80bdb.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Mutiny.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Mutiny.meta.json",
+    "legacy_creator": "Zulsoras"
+  },
+  "badges": [
+    {
+      "id": 150057874,
+      "name": "Recruit",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 150058054,
+      "name": "Apprentice",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 150058240,
+      "name": "Master",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 157350453,
+      "name": "Legendary",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 148693731,
+    "universe_id": 69993659,
+    "name": "Mutiny",
+    "roblox_url": "https://www.roblox.com/games/148693731"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "150057874",
+        "detail": "badge resolves to universe 69993659 and root place 148693731"
+      },
+      {
+        "kind": "badge",
+        "value": "150058054",
+        "detail": "badge resolves to universe 69993659 and root place 148693731"
+      },
+      {
+        "kind": "badge",
+        "value": "150058240",
+        "detail": "badge resolves to universe 69993659 and root place 148693731"
+      },
+      {
+        "kind": "badge",
+        "value": "157350453",
+        "detail": "badge resolves to universe 69993659 and root place 148693731"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_89a472551effd4a8f143b8fbec0cb548",
+  "title": "Sword Fighting Heaven",
+  "snapshot": {},
+  "blob": {
+    "sha256": "db02dfaf96e475fa1d91d34a9f6ae724bc4c96ba01ad7852da27714d3d8149f2",
+    "path": "levels/sha256/db/db02dfaf96e475fa1d91d34a9f6ae724bc4c96ba01ad7852da27714d3d8149f2.rbxl",
+    "format": "binary",
+    "size_bytes": 484661,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/db/db02dfaf96e475fa1d91d34a9f6ae724bc4c96ba01ad7852da27714d3d8149f2.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sword Fighting Heaven.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

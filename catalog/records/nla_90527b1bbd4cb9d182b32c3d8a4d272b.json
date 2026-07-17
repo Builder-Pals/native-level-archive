@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_90527b1bbd4cb9d182b32c3d8a4d272b",
+  "title": "ROBLOX Museum (early 2012, ST2)",
+  "snapshot": {
+    "label": "early 2012, ST2",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "bd8267f3da0b54d25a723b42513efc65e93f7faa6f3a9b188063539dc27ffd57",
+    "path": "levels/sha256/bd/bd8267f3da0b54d25a723b42513efc65e93f7faa6f3a9b188063539dc27ffd57.rbxlx",
+    "format": "xml",
+    "size_bytes": 15340470,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/bd/bd8267f3da0b54d25a723b42513efc65e93f7faa6f3a9b188063539dc27ffd57.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX Museum (early 2012, ST2).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

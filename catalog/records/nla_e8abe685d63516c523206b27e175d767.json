@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "nla_e8abe685d63516c523206b27e175d767",
+  "title": "Zombie Tower (August 20th, 2012)",
+  "snapshot": {
+    "label": "August 20th, 2012",
+    "date": "2012-08-20",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "8a295dd8ea9129c54a8bf033b6e22b240d6aee31c7ad3a15e1a6824476cf824a",
+    "path": "levels/sha256/8a/8a295dd8ea9129c54a8bf033b6e22b240d6aee31c7ad3a15e1a6824476cf824a.rbxlx",
+    "format": "xml",
+    "size_bytes": 38814783,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8a/8a295dd8ea9129c54a8bf033b6e22b240d6aee31c7ad3a15e1a6824476cf824a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zombie Tower (August 20th, 2012).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Zombie Tower (August 20th, 2012).meta.json",
+    "legacy_creator": "nooooooo"
+  },
+  "badges": [
+    {
+      "id": 68546039,
+      "name": "Winners",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 73170420,
+      "name": "Obby Winner!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      68546039,
+      73170420
+    ]
+  },
+  "source": {
+    "root_place_id": 23173663,
+    "universe_id": 10408969,
+    "name": " Zombie Tower",
+    "roblox_url": "https://www.roblox.com/games/23173663",
+    "description": "Things are being worked on. \n\nFor transparency regarding ZT and its future, I’d like to share that the game is currently undergoing a major overhaul. A passionate and talented team has been actively working to improve the game, with the goal of bringing the game back to its former glory. This new foundation is being designed to be far more stable and maintainable than the old decrepit code that contributed to the game's decline. While not everything will be changed, the improvements being made are major, and I have full confidence in the team’s ability to bring you all a proper ZT experience. I’m very excited for both returning and new players to experience ZT in a fresh light and enjoy what’s coming next. Of course, I’ll be assisting throughout as well. I can’t express how grateful I am for this community and the support you've shown over the years. It truly means a lot to see so many people continue to care about and contribute to an old zombie game I created years ago. :')",
+    "creator": {
+      "id": 523394,
+      "name": "Nooooooo",
+      "type": "User"
+    },
+    "created_at": "2010-03-01T23:24:58.687Z",
+    "updated_at": "2026-07-07T23:08:18.796Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "68546039",
+        "detail": "badge resolves to universe 10408969 and root place 23173663"
+      },
+      {
+        "kind": "badge",
+        "value": "73170420",
+        "detail": "badge resolves to universe 10408969 and root place 23173663"
+      }
+    ]
+  },
+  "preferred": false
+}

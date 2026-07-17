@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_ae2409de0a97f3f65fc9eb6611d79362",
+  "title": "Obstacle Course .76",
+  "snapshot": {},
+  "blob": {
+    "sha256": "de096eac15a72f30241e1057fa63af7311cb5a671fad12048a7aa2814ba86d66",
+    "path": "levels/sha256/de/de096eac15a72f30241e1057fa63af7311cb5a671fad12048a7aa2814ba86d66.rbxlx",
+    "format": "xml",
+    "size_bytes": 7663600,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/de/de096eac15a72f30241e1057fa63af7311cb5a671fad12048a7aa2814ba86d66.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Obstacle Course .76.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_54aec8ff706420e4554eb40ddef0140a",
+  "title": "Sinkeachothers Shipscolors",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e1414eb9f8225548d937de854d73d8d2a8f9b499a2d1bcba954fc796d2bf0e9a",
+    "path": "levels/sha256/e1/e1414eb9f8225548d937de854d73d8d2a8f9b499a2d1bcba954fc796d2bf0e9a.rbxlx",
+    "format": "xml",
+    "size_bytes": 3963843,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e1/e1414eb9f8225548d937de854d73d8d2a8f9b499a2d1bcba954fc796d2bf0e9a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sinkeachothers Shipscolors.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

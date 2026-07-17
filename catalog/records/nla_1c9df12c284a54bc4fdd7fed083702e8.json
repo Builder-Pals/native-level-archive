@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_1c9df12c284a54bc4fdd7fed083702e8",
+  "title": "Pilgrim Islands (July 21st, 2008)",
+  "snapshot": {
+    "label": "July 21st, 2008",
+    "date": "2008-07-21",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "00006a7c8b103f23c4ae824ce978aa9323b091185a5a43101b0c06ec4acbb234",
+    "path": "levels/sha256/00/00006a7c8b103f23c4ae824ce978aa9323b091185a5a43101b0c06ec4acbb234.rbxlx",
+    "format": "xml",
+    "size_bytes": 6232166,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/00/00006a7c8b103f23c4ae824ce978aa9323b091185a5a43101b0c06ec4acbb234.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Pilgrim Islands (July 21st, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

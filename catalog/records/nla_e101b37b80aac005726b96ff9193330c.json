@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_e101b37b80aac005726b96ff9193330c",
+  "title": "Galleons (v6.2b, May 23rd, 2014)",
+  "snapshot": {
+    "label": "v6.2b, May 23rd, 2014",
+    "date": "2014-05-23",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "88868092ad435374fecc547f3f849dbe1007f0172296fbe19455fc8a82d88ee4",
+    "path": "levels/sha256/88/88868092ad435374fecc547f3f849dbe1007f0172296fbe19455fc8a82d88ee4.rbxl",
+    "format": "binary",
+    "size_bytes": 257297,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/88/88868092ad435374fecc547f3f849dbe1007f0172296fbe19455fc8a82d88ee4.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Galleons (v6.2b, May 23rd, 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

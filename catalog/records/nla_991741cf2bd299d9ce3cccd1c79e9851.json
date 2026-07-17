@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_991741cf2bd299d9ce3cccd1c79e9851",
+  "title": "Santas Winter Stronghold",
+  "snapshot": {},
+  "blob": {
+    "sha256": "0686bdbba9cd62fda3d6d016b70781c69f6ff16f087fe292bc48ec373042e402",
+    "path": "levels/sha256/06/0686bdbba9cd62fda3d6d016b70781c69f6ff16f087fe292bc48ec373042e402.rbxlx",
+    "format": "xml",
+    "size_bytes": 8669491,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/06/0686bdbba9cd62fda3d6d016b70781c69f6ff16f087fe292bc48ec373042e402.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Santas Winter Stronghold.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

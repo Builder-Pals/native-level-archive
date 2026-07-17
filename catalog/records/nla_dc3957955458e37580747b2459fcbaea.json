@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_dc3957955458e37580747b2459fcbaea",
+  "title": "The Original College Life",
+  "snapshot": {},
+  "blob": {
+    "sha256": "35a55fbde5453b2af0d1b00e3044f1a6084c1772e8c49f504cc112e290b3db40",
+    "path": "levels/sha256/35/35a55fbde5453b2af0d1b00e3044f1a6084c1772e8c49f504cc112e290b3db40.rbxl",
+    "format": "binary",
+    "size_bytes": 203532,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/35/35a55fbde5453b2af0d1b00e3044f1a6084c1772e8c49f504cc112e290b3db40.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Original College Life.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

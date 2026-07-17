@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_5af0574d84e26132182a05250d11f607",
+  "title": "Spooking Out 2010M",
+  "snapshot": {
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "285c7e6af64ccdd31e8e94b75388ed426c6e29701836b0961a2d07d3e13a5485",
+    "path": "levels/sha256/28/285c7e6af64ccdd31e8e94b75388ed426c6e29701836b0961a2d07d3e13a5485.rbxlx",
+    "format": "xml",
+    "size_bytes": 9282688,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/28/285c7e6af64ccdd31e8e94b75388ed426c6e29701836b0961a2d07d3e13a5485.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Spooking Out 2010M.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

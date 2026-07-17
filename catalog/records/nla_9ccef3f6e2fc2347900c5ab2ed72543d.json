@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_9ccef3f6e2fc2347900c5ab2ed72543d",
+  "title": "97 - Terror in Bikini Bottom",
+  "snapshot": {},
+  "blob": {
+    "sha256": "fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e",
+    "path": "levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl",
+    "format": "binary",
+    "size_bytes": 532529,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fc/fcb1ebd013a8641580423dabe6603fc87dce2b06d10ce4cf76b7068dfd65874e.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/97 - Terror in Bikini Bottom.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

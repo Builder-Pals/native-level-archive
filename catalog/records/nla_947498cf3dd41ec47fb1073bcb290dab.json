@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_947498cf3dd41ec47fb1073bcb290dab",
+  "title": "1945 - e",
+  "snapshot": {},
+  "blob": {
+    "sha256": "fe5646f7bb7fc534c0a76842d1fca49274e4b6af38555f50cee9746437761494",
+    "path": "levels/sha256/fe/fe5646f7bb7fc534c0a76842d1fca49274e4b6af38555f50cee9746437761494.rbxl",
+    "format": "binary",
+    "size_bytes": 12916,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fe/fe5646f7bb7fc534c0a76842d1fca49274e4b6af38555f50cee9746437761494.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1945 - e.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

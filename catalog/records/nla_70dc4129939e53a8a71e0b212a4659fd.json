@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_70dc4129939e53a8a71e0b212a4659fd",
+  "title": "635 - Sanicball",
+  "snapshot": {},
+  "blob": {
+    "sha256": "be5d37668c08067bec1e14998f6950b46312cd2b7a1cb17df5522a2a9eedb1aa",
+    "path": "levels/sha256/be/be5d37668c08067bec1e14998f6950b46312cd2b7a1cb17df5522a2a9eedb1aa.rbxl",
+    "format": "binary",
+    "size_bytes": 618100,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/be/be5d37668c08067bec1e14998f6950b46312cd2b7a1cb17df5522a2a9eedb1aa.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/635 - Sanicball.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

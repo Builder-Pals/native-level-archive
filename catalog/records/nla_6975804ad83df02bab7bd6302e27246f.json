@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_6975804ad83df02bab7bd6302e27246f",
+  "title": "3048 - Club Solaris.",
+  "snapshot": {},
+  "blob": {
+    "sha256": "422a01c518f8d742b4d06def5a9dc466e4b498d0b02abf37183d82b0a26eeac3",
+    "path": "levels/sha256/42/422a01c518f8d742b4d06def5a9dc466e4b498d0b02abf37183d82b0a26eeac3.rbxl",
+    "format": "binary",
+    "size_bytes": 835149,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/42/422a01c518f8d742b4d06def5a9dc466e4b498d0b02abf37183d82b0a26eeac3.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3048 - Club Solaris..rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

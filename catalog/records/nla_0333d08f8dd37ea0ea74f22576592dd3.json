@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_0333d08f8dd37ea0ea74f22576592dd3",
+  "title": "WipeOut Obby (June 20th, 2009)",
+  "snapshot": {
+    "label": "June 20th, 2009",
+    "date": "2009-06-20",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "af0ef41ee601b73aff95e29a8e7ea75845344460fab9a7171d9f828933441c22",
+    "path": "levels/sha256/af/af0ef41ee601b73aff95e29a8e7ea75845344460fab9a7171d9f828933441c22.rbxlx",
+    "format": "xml",
+    "size_bytes": 11704678,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/af/af0ef41ee601b73aff95e29a8e7ea75845344460fab9a7171d9f828933441c22.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "WipeOut Obby (June 20th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

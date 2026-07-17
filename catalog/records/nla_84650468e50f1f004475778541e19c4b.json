@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_84650468e50f1f004475778541e19c4b",
+  "title": "PilotLuke's Cloud City (July 26th, 2007)",
+  "snapshot": {
+    "label": "July 26th, 2007",
+    "date": "2007-07-26",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "9932c561526074602c0b647683d91b6b910248511c76e12920d187e03af49171",
+    "path": "levels/sha256/99/9932c561526074602c0b647683d91b6b910248511c76e12920d187e03af49171.rbxlx",
+    "format": "xml",
+    "size_bytes": 7279431,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/99/9932c561526074602c0b647683d91b6b910248511c76e12920d187e03af49171.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "PilotLuke's Cloud City (July 26th, 2007).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

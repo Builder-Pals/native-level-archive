@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "nla_b536aa21753718f68b87eee8d2914619",
+  "title": "Cr3470r's Cube",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a38d5f0d21ca485506fab984970d0f53020ed2ad5a0644d7d7ff373fddc87519",
+    "path": "levels/sha256/a3/a38d5f0d21ca485506fab984970d0f53020ed2ad5a0644d7d7ff373fddc87519.rbxlx",
+    "format": "xml",
+    "size_bytes": 1349723,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a3/a38d5f0d21ca485506fab984970d0f53020ed2ad5a0644d7d7ff373fddc87519.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Cr3470r's Cube.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Cr3470r's Cube.meta.json",
+    "legacy_creator": "Cr3470r"
+  },
+  "badges": [
+    {
+      "id": 111005348,
+      "name": "Cube Escape!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      111005348
+    ]
+  },
+  "source": {
+    "root_place_id": 104474874,
+    "universe_id": 43924749,
+    "name": "Cr3470r's Cube",
+    "roblox_url": "https://www.roblox.com/games/104474874",
+    "description": "Is there a way out of the Cube or are you just going in circles?",
+    "creator": {
+      "id": 36563655,
+      "name": "Cr3470r",
+      "type": "User"
+    },
+    "created_at": "2013-01-22T17:48:32.013Z",
+    "updated_at": "2013-09-04T17:40:50.103Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "111005348",
+        "detail": "badge resolves to universe 43924749 and root place 104474874"
+      }
+    ]
+  },
+  "preferred": true
+}

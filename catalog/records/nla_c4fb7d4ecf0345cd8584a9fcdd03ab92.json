@@ -1,0 +1,1281 @@
+{
+  "schema_version": 1,
+  "id": "nla_c4fb7d4ecf0345cd8584a9fcdd03ab92",
+  "title": "Find The Domos",
+  "snapshot": {},
+  "blob": {
+    "sha256": "77155bf0bae7955ef8305715783f3086086585cd73dd1ee5940432092abf6bda",
+    "path": "levels/sha256/77/77155bf0bae7955ef8305715783f3086086585cd73dd1ee5940432092abf6bda.rbxlx",
+    "format": "xml",
+    "size_bytes": 7861497,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/77/77155bf0bae7955ef8305715783f3086086585cd73dd1ee5940432092abf6bda.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Find The Domos.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 100000,
+      "origin": "embedded"
+    },
+    {
+      "id": 52707176,
+      "name": "Classic Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 52707376,
+      "name": "Blue Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52707465,
+      "name": "Pink Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52707682,
+      "name": "Camo Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52707837,
+      "name": "Red Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52707935,
+      "name": "Orange Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52708002,
+      "name": "Purple Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52708082,
+      "name": "Green Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52708121,
+      "name": "Grey Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52708190,
+      "name": "White Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52708317,
+      "name": "Black Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52709316,
+      "name": "Cloud Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52710018,
+      "name": "Top hat Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52710129,
+      "name": "Yellow Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52710732,
+      "name": "Teamwork Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52712352,
+      "name": "Shoop-da-whoop Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52713067,
+      "name": "Transperant Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52714863,
+      "name": "Ghost Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52715539,
+      "name": "Rainbow Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52718718,
+      "name": "Golden Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52719085,
+      "name": "Mini Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52720068,
+      "name": "Snow Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52803130,
+      "name": "Ninja Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52805067,
+      "name": "Wooden Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52809521,
+      "name": "Teal Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52810761,
+      "name": "Sparkley Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52888536,
+      "name": "Grass Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 52888545,
+      "name": "Ice Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 53011067,
+      "name": "Water Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 53011206,
+      "name": "Epic Domo!",
+      "origin": "embedded"
+    },
+    {
+      "id": 53012781,
+      "name": "Silver Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 53012869,
+      "name": "Steel Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 53013700,
+      "name": "Question Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54632270,
+      "name": "You tapped me!",
+      "origin": "embedded"
+    },
+    {
+      "id": 54632308,
+      "name": "Flaming Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54632324,
+      "name": "lazer Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54632436,
+      "name": "Neon domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54632450,
+      "name": "Striped Domo!",
+      "origin": "embedded"
+    },
+    {
+      "id": 54710800,
+      "name": "Polka-dot Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54711266,
+      "name": "Brick Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54711633,
+      "name": "Brown Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 54712146,
+      "name": "Earth Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 54830216,
+      "name": "Glowing Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 54868510,
+      "name": "Angel Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 54868599,
+      "name": "Devil Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 54925685,
+      "name": "Space Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 54954573,
+      "name": "You hit 61352151511",
+      "origin": "embedded"
+    },
+    {
+      "id": 55026618,
+      "name": "Checkerd Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 55026723,
+      "name": "Diamond Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 55100529,
+      "origin": "embedded"
+    },
+    {
+      "id": 55103224,
+      "name": "Moon Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 55118794,
+      "name": "Alien Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 55268441,
+      "name": "Bubble Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 55348663,
+      "name": "Doh' Mo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 55351999,
+      "name": "VIP domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 55436118,
+      "name": "Mouse Domo! ",
+      "origin": "embedded"
+    },
+    {
+      "id": 55712825,
+      "name": "Teleporter Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56683718,
+      "name": "rock domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56684351,
+      "name": "Roblox Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 56684730,
+      "name": "Magenta Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 56685989,
+      "name": "Yinyang Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56687634,
+      "name": "Paper domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56691320,
+      "name": "Mummy Domo! ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56732417,
+      "name": "Sand Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56872398,
+      "name": "Cookie Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 56879277,
+      "name": "Waffle Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 57003790,
+      "name": "You met gooshiebaba! :D co-creator",
+      "origin": "embedded"
+    },
+    {
+      "id": 57003876,
+      "name": "Smoke Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 57445974,
+      "name": "Black And White Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 57447004,
+      "name": "Flaming Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 57447017,
+      "name": "Fire Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 57540820,
+      "name": "Plaid Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 58278772,
+      "name": "Cow domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 59008673,
+      "name": "Jailed domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 59017070,
+      "name": "$Robux Domo$ ",
+      "origin": "embedded"
+    },
+    {
+      "id": 59021697,
+      "name": "Tix Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 59024908,
+      "name": "Tinfoil Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 59025035,
+      "name": "Noob Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 59025765,
+      "name": "Stud Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 59029220,
+      "name": "Slime Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 59155586,
+      "name": "Technical Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 60077330,
+      "name": "Nuclear Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 60164376,
+      "name": "Creeper Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 60166607,
+      "name": "Clock Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 60256156,
+      "name": "Gradient Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 60260761,
+      "name": "Dust Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 60320698,
+      "name": "Sunset Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 60608297,
+      "name": "Zombie Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 60626719,
+      "name": "Rose Domo ",
+      "origin": "embedded"
+    },
+    {
+      "id": 60901529,
+      "name": "Lightning Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 61114555,
+      "name": "Flipped Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 61534138,
+      "name": "500K visits badge!",
+      "origin": "embedded"
+    },
+    {
+      "id": 61565978,
+      "name": "Cyborg Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 62767564,
+      "name": "Jetpack Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 65133240,
+      "name": "Target Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 65525154,
+      "name": "Domoseed the fallen ",
+      "origin": "embedded"
+    },
+    {
+      "id": 67774991,
+      "name": "Candy Cane Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 68596787,
+      "name": "Pencil Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 69305274,
+      "name": "It's pie",
+      "origin": "embedded"
+    },
+    {
+      "id": 70625494,
+      "name": "Dragon Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 73622945,
+      "name": "Chocolate Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 73623217,
+      "name": "Pine Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 73623359,
+      "name": "Concrete Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 73623800,
+      "name": "Monkey Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77243423,
+      "name": "1337 Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77317832,
+      "name": "God Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77407285,
+      "name": "Tiger Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77407405,
+      "name": "Shadow Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77513810,
+      "name": "Nyan Cat Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77666561,
+      "name": "Cheese Domo",
+      "origin": "embedded"
+    },
+    {
+      "id": 77717995,
+      "name": "Domo-splosion",
+      "origin": "embedded"
+    },
+    {
+      "id": 77895350,
+      "name": "Sun Domo",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      100000,
+      52707176,
+      52707376,
+      52707465,
+      52707682,
+      52707837,
+      52707935,
+      52708002,
+      52708082,
+      52708121,
+      52708190,
+      52708317,
+      52709316,
+      52710018,
+      52710129,
+      52710732,
+      52712352,
+      52713067,
+      52714863,
+      52715539,
+      52718718,
+      52719085,
+      52720068,
+      52803130,
+      52805067,
+      52809521,
+      52810761,
+      52888536,
+      52888545,
+      53011067,
+      53011206,
+      53012781,
+      53012869,
+      53013700,
+      54632270,
+      54632308,
+      54632324,
+      54632436,
+      54632450,
+      54710800,
+      54711266,
+      54711633,
+      54712146,
+      54830216,
+      54868510,
+      54868599,
+      54925685,
+      54954573,
+      55026618,
+      55026723,
+      55100529,
+      55103224,
+      55118794,
+      55268441,
+      55348663,
+      55351999,
+      55436118,
+      55712825,
+      56683718,
+      56684351,
+      56684730,
+      56685989,
+      56687634,
+      56691320,
+      56732417,
+      56872398,
+      56879277,
+      57003790,
+      57003876,
+      57445974,
+      57447004,
+      57447017,
+      57540820,
+      58278772,
+      59008673,
+      59017070,
+      59021697,
+      59024908,
+      59025035,
+      59025765,
+      59029220,
+      59155586,
+      60077330,
+      60164376,
+      60166607,
+      60256156,
+      60260761,
+      60320698,
+      60608297,
+      60626719,
+      60901529,
+      61114555,
+      61534138,
+      61565978,
+      62767564,
+      65133240,
+      65525154,
+      67774991,
+      68596787,
+      69305274,
+      70625494,
+      73622945,
+      73623217,
+      73623359,
+      73623800,
+      77243423,
+      77317832,
+      77407285,
+      77407405,
+      77513810,
+      77666561,
+      77717995,
+      77895350
+    ]
+  },
+  "source": {
+    "root_place_id": 48852578,
+    "universe_id": 32287587,
+    "name": "Find the Domos [147]",
+    "roblox_url": "https://www.roblox.com/games/48852578",
+    "description": "No murdering, no zombies, no building, no tycooning, no roleplaying, just a fun scavenger hunt!\n\nCollect 147 differently assorted Domos, whose theme works as a hint for their hidden location (most of the time).\n\nOld VIP t-shirts still work.\n\nJoin the Fan Group to post your creations of domos, domo ideas, or talk to fellow domo hunters!\nwww.roblox.com/My/Groups.aspx?gid=325808\n\nUnfortunately I don't think I will be updating this game further, but thanks everyone for playing it meant a lot.",
+    "creator": {
+      "id": 14449080,
+      "name": "Planet3arth",
+      "type": "User"
+    },
+    "created_at": "2011-03-29T02:58:13.147Z",
+    "updated_at": "2024-11-05T11:55:56.743Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "52707176",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52707376",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52707465",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52707682",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52707837",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52707935",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52708002",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52708082",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52708121",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52708190",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52708317",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52709316",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52710018",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52710129",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52710732",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52712352",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52713067",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52714863",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52715539",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52718718",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52719085",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52720068",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52803130",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52805067",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52809521",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52810761",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52888536",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "52888545",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "53011067",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "53011206",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "53012781",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "53012869",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "53013700",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54632270",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54632308",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54632324",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54632436",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54632450",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54710800",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54711266",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54711633",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54712146",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54830216",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54868510",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54868599",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54925685",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "54954573",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55026618",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55026723",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55103224",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55118794",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55268441",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55348663",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55351999",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55436118",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "55712825",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56683718",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56684351",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56684730",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56685989",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56687634",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56691320",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56732417",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56872398",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "56879277",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "57003790",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "57003876",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "57445974",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "57447004",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "57447017",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "57540820",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "58278772",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59008673",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59017070",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59021697",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59024908",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59025035",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59025765",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59029220",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "59155586",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60077330",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60164376",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60166607",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60256156",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60260761",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60320698",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60608297",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60626719",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "60901529",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "61114555",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "61534138",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "61565978",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "62767564",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "65133240",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "65525154",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "67774991",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "68596787",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "69305274",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "70625494",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "73622945",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "73623217",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "73623359",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "73623800",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77243423",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77317832",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77407285",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77407405",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77513810",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77666561",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77717995",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      },
+      {
+        "kind": "badge",
+        "value": "77895350",
+        "detail": "badge resolves to universe 32287587 and root place 48852578"
+      }
+    ]
+  },
+  "preferred": true
+}

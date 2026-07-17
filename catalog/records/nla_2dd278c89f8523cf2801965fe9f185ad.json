@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "id": "nla_2dd278c89f8523cf2801965fe9f185ad",
+  "title": "Slender - Created by Dapale -",
+  "snapshot": {},
+  "blob": {
+    "sha256": "623b1859fbd0cd36187a284d379cddad448f179b8b3760753059e8fe1afc2f4e",
+    "path": "levels/sha256/62/623b1859fbd0cd36187a284d379cddad448f179b8b3760753059e8fe1afc2f4e.rbxlx",
+    "format": "xml",
+    "size_bytes": 28230488,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/62/623b1859fbd0cd36187a284d379cddad448f179b8b3760753059e8fe1afc2f4e.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Slender - Created by Dapale -.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 100061806,
+      "name": "Slender: Collect All 8 Pages",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      100061806
+    ],
+    "teleport_place_ids": [
+      95021020,
+      96949228
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "100061806",
+        "detail": "badge resolves to universe 18670063 and root place 96949228"
+      }
+    ]
+  },
+  "preferred": false
+}

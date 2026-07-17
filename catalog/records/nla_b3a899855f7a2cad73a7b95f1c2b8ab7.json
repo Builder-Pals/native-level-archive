@@ -1,0 +1,707 @@
+{
+  "schema_version": 1,
+  "id": "nla_b3a899855f7a2cad73a7b95f1c2b8ab7",
+  "title": "broken bones april 2012",
+  "snapshot": {
+    "date": "2012-04-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "f41c3c799e47fe6f073eab32e5a60ca236151ad664e14855e6604020bbfda7a9",
+    "path": "levels/sha256/f4/f41c3c799e47fe6f073eab32e5a60ca236151ad664e14855e6604020bbfda7a9.rbxlx",
+    "format": "xml",
+    "size_bytes": 17682761,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f4/f41c3c799e47fe6f073eab32e5a60ca236151ad664e14855e6604020bbfda7a9.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "broken bones april 2012.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "broken bones april 2012.meta.json",
+    "legacy_creator": "zamsongod"
+  },
+  "badges": [
+    {
+      "id": 39609879,
+      "name": "X-Ray",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 39610090,
+      "name": "1.5x Multiplyer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 39611366,
+      "name": "1.5x Sprainer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 39611703,
+      "name": "Defenceless",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 39623405,
+      "name": "Smashing",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41166298,
+      "name": "Stair Fall",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41166380,
+      "name": "Summer Slide",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41166424,
+      "name": "Death Drop",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41166468,
+      "name": "Hockey Tower",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41166507,
+      "name": "Death Pit",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44041323,
+      "origin": "embedded"
+    },
+    {
+      "id": 44143860,
+      "name": "Double Case",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44143990,
+      "name": "Super Slope",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144056,
+      "name": "Straight Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144090,
+      "name": "Mitre Tower",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144144,
+      "name": "Death Fall",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144185,
+      "name": "Scanner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144207,
+      "name": "2.0x Multiplyer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144273,
+      "name": "2.0x Sprainer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144335,
+      "name": "Strong Willed",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44144361,
+      "name": "Squashing",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44189074,
+      "name": "10 Shatters",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44189207,
+      "name": "25 Shatters",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44189528,
+      "name": "100 Sprains",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44189603,
+      "name": "250 Sprains",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44189811,
+      "name": "500 Sprains",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44189890,
+      "name": "100 Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44190117,
+      "name": "203 Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44190180,
+      "name": "204 Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44190246,
+      "name": "205 Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44190393,
+      "name": "206 Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44407848,
+      "origin": "embedded"
+    },
+    {
+      "id": 44444584,
+      "name": "Searcher",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44444623,
+      "name": "2.5x Multiplyer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44444662,
+      "name": "2.5x Sprainer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44444680,
+      "name": "Impact",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44444709,
+      "name": "Shattering",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44632974,
+      "name": "Alaska",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44709894,
+      "name": "Death",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44709926,
+      "name": "Moderate Package",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44709954,
+      "name": "Advanced Package",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710018,
+      "name": "Smashed",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710126,
+      "name": "Squashed",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710185,
+      "name": "Shattered",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710271,
+      "name": "10,000 Total Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710324,
+      "name": "25,000 Total Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710513,
+      "name": "50,000 Total Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44710538,
+      "name": "100,000 Total Bones Broken",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44748058,
+      "name": "Texas",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 45066403,
+      "name": "Florida",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 45188015,
+      "name": "New York",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 46433540,
+      "origin": "embedded"
+    },
+    {
+      "id": 46439067,
+      "name": "Benifits",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 53819749,
+      "name": "Completion",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 53825457,
+      "name": "Illinois",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 53895721,
+      "origin": "embedded"
+    },
+    {
+      "id": 53901523,
+      "name": "Universal Package",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 53904739,
+      "name": "Universe",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 78404712,
+      "origin": "embedded"
+    },
+    {
+      "id": 78405086,
+      "name": "Rainbow Package",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 78406283,
+      "name": "Split Colors",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 78406553,
+      "name": "Splitting",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      39609879,
+      39610090,
+      39611366,
+      39611703,
+      39623405,
+      41166298,
+      41166380,
+      41166424,
+      41166468,
+      41166507,
+      44041323,
+      44143860,
+      44143990,
+      44144056,
+      44144090,
+      44144144,
+      44144185,
+      44144207,
+      44144273,
+      44144335,
+      44144361,
+      44189074,
+      44189207,
+      44189528,
+      44189603,
+      44189811,
+      44189890,
+      44190117,
+      44190180,
+      44190246,
+      44190393,
+      44407848,
+      44444584,
+      44444623,
+      44444662,
+      44444680,
+      44444709,
+      44632974,
+      44709894,
+      44709926,
+      44709954,
+      44710018,
+      44710126,
+      44710185,
+      44710271,
+      44710324,
+      44710513,
+      44710538,
+      44748058,
+      45066403,
+      45188015,
+      46433540,
+      46439067,
+      53819749,
+      53825457,
+      53895721,
+      53901523,
+      53904739,
+      78404712,
+      78405086,
+      78406283,
+      78406553
+    ]
+  },
+  "source": {
+    "root_place_id": 36190405,
+    "universe_id": 6386571,
+    "name": "⚰️ Broken Bones ⚰️",
+    "roblox_url": "https://www.roblox.com/games/36190405",
+    "description": "Jump down stairs, off skyscrapers and into the unknown in your quest to break every bone in your body!\n\nThis game was originally published in 2010.. It now exists solely as a virtual antique.\n\nNominated in the 1st annual Bloxy.\n",
+    "creator": {
+      "id": 1660343,
+      "name": "Zaquille",
+      "type": "User"
+    },
+    "created_at": "2010-10-03T13:06:17.01Z",
+    "updated_at": "2025-07-24T12:06:25.173Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "39609879",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "39610090",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "39611366",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "39611703",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "39623405",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "41166298",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "41166380",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "41166424",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "41166468",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "41166507",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44143860",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44143990",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144056",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144090",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144144",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144185",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144207",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144273",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144335",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44144361",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44189074",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44189207",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44189528",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44189603",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44189811",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44189890",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44190117",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44190180",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44190246",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44190393",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44444584",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44444623",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44444662",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44444680",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44444709",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44632974",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44709894",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44709926",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44709954",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710018",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710126",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710185",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710271",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710324",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710513",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44710538",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "44748058",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "45066403",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "45188015",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "46439067",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "53819749",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "53825457",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "53901523",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "53904739",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "78405086",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "78406283",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      },
+      {
+        "kind": "badge",
+        "value": "78406553",
+        "detail": "badge resolves to universe 6386571 and root place 36190405"
+      }
+    ]
+  },
+  "preferred": true
+}

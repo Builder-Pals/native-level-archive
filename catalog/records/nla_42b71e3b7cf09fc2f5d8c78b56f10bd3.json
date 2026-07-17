@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_42b71e3b7cf09fc2f5d8c78b56f10bd3",
+  "title": "Strobe",
+  "snapshot": {},
+  "blob": {
+    "sha256": "216f334eb1a04b16768faa48247c49a50cd85766a2da3b8bf83fb91ce1f048b0",
+    "path": "levels/sha256/21/216f334eb1a04b16768faa48247c49a50cd85766a2da3b8bf83fb91ce1f048b0.rbxl",
+    "format": "binary",
+    "size_bytes": 71887,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/21/216f334eb1a04b16768faa48247c49a50cd85766a2da3b8bf83fb91ce1f048b0.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Strobe.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

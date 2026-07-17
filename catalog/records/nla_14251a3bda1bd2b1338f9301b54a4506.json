@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_14251a3bda1bd2b1338f9301b54a4506",
+  "title": "Combat 101 (August 17th, 2009)",
+  "snapshot": {
+    "label": "August 17th, 2009",
+    "date": "2009-08-17",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "3ee0bedf60bd73cff2cc273979edc8d4d41f27222de01e8d82269cbec8eac78c",
+    "path": "levels/sha256/3e/3ee0bedf60bd73cff2cc273979edc8d4d41f27222de01e8d82269cbec8eac78c.rbxlx",
+    "format": "xml",
+    "size_bytes": 219070,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3e/3ee0bedf60bd73cff2cc273979edc8d4d41f27222de01e8d82269cbec8eac78c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Combat 101 (August 17th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

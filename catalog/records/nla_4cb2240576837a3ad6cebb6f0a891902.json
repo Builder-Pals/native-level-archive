@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_4cb2240576837a3ad6cebb6f0a891902",
+  "title": "Frostbite Fissure (April 12th, 2014)",
+  "snapshot": {
+    "label": "April 12th, 2014",
+    "date": "2014-04-12",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "6ebfea97777234f38dc63f2cbc7817e2c664d8ae40edb783db6900df4b3b090f",
+    "path": "levels/sha256/6e/6ebfea97777234f38dc63f2cbc7817e2c664d8ae40edb783db6900df4b3b090f.rbxl",
+    "format": "binary",
+    "size_bytes": 72624,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6e/6ebfea97777234f38dc63f2cbc7817e2c664d8ae40edb783db6900df4b3b090f.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Frostbite Fissure (April 12th, 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

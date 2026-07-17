@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_1e6b149d040774df6eab4ff758782eeb",
+  "title": "630 - Weight Lifting Simulator 2",
+  "snapshot": {},
+  "blob": {
+    "sha256": "dfa94de818f2888b83196f03320da93a8da42c19d6ab8be4522b49ed095cc3e6",
+    "path": "levels/sha256/df/dfa94de818f2888b83196f03320da93a8da42c19d6ab8be4522b49ed095cc3e6.rbxl",
+    "format": "binary",
+    "size_bytes": 229657,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/df/dfa94de818f2888b83196f03320da93a8da42c19d6ab8be4522b49ed095cc3e6.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/630 - Weight Lifting Simulator 2.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

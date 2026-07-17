@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_538e13f2fdbcd175e74a9c7c6752ffb9",
+  "title": "Cabin Hangout (April 28th, 2012, authentic)",
+  "snapshot": {
+    "label": "April 28th, 2012, authentic",
+    "date": "2012-04-28",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "6a1b93cf6d5675e52c6b29d289593cdf0fa44e17aa1084353c7c9864bae09c28",
+    "path": "levels/sha256/6a/6a1b93cf6d5675e52c6b29d289593cdf0fa44e17aa1084353c7c9864bae09c28.rbxlx",
+    "format": "xml",
+    "size_bytes": 5710084,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6a/6a1b93cf6d5675e52c6b29d289593cdf0fa44e17aa1084353c7c9864bae09c28.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Cabin Hangout (April 28th, 2012, authentic).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

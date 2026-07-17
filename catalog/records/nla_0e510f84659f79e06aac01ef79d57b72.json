@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "id": "nla_0e510f84659f79e06aac01ef79d57b72",
+  "title": "Apocalypse Rising 2014+",
+  "snapshot": {
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "a30e6ef10372b296794e52b9e6ea8ed45cd265a35fe6a4b7ca9487a6ee9aab49",
+    "path": "levels/sha256/a3/a30e6ef10372b296794e52b9e6ea8ed45cd265a35fe6a4b7ca9487a6ee9aab49.rbxl",
+    "format": "binary",
+    "size_bytes": 1785945,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a3/a30e6ef10372b296794e52b9e6ea8ed45cd265a35fe6a4b7ca9487a6ee9aab49.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Apocalypse Rising 2014+.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Apocalypse Rising 2014+.meta.json",
+    "legacy_creator": "Gusmanak"
+  },
+  "badges": [
+    {
+      "id": 117135227,
+      "name": "Brigand",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 117135325,
+      "name": "Wanderer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 117135579,
+      "name": "Highwayman",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 117135712,
+      "name": "Vagrant",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 117136113,
+      "name": "Bandit",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 117136259,
+      "name": "Survivor",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160133256,
+      "name": "Raider",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160133290,
+      "name": "Marauder",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160133328,
+      "name": "Vagabond",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160133359,
+      "name": "Nomad",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 1600503,
+    "universe_id": 1426962,
+    "name": "Apocalypse Rising ",
+    "roblox_url": "https://www.roblox.com/games/1600503",
+    "description": "Apocalypse Rising is an open world zombie survival game where the zombies aren't the only threat. Group up, repair vehicles, build bases, eliminate the infected, and watch out for hostile survivors!\n\nApocalypse Rising VIP servers are FREE! \n\nBackpacks and vests from the game are available for your Roblox avatar here: https://www.roblox.com/catalog?Category=11&Subcategory=19&CreatorName=Gusmanak",
+    "creator": {
+      "id": 281519,
+      "name": "Gusmanak",
+      "type": "User"
+    },
+    "created_at": "2008-04-01T22:26:31.903Z",
+    "updated_at": "2025-09-03T07:25:34.4Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "117135227",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "117135325",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "117135579",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "117135712",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "117136113",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "117136259",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "160133256",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "160133290",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "160133328",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      },
+      {
+        "kind": "badge",
+        "value": "160133359",
+        "detail": "badge resolves to universe 1426962 and root place 1600503"
+      }
+    ]
+  },
+  "preferred": true
+}

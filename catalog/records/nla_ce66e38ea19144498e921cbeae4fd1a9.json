@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "id": "nla_ce66e38ea19144498e921cbeae4fd1a9",
+  "title": "Martial Arts Battle Arena (September 1st, 2013)",
+  "snapshot": {
+    "label": "September 1st, 2013",
+    "date": "2013-09-01",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "a4ee54f83be0194b0d2c298cdd09244da23181d5cf5c5098daa9227ece1f4158",
+    "path": "levels/sha256/a4/a4ee54f83be0194b0d2c298cdd09244da23181d5cf5c5098daa9227ece1f4158.rbxl",
+    "format": "binary",
+    "size_bytes": 68719,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a4/a4ee54f83be0194b0d2c298cdd09244da23181d5cf5c5098daa9227ece1f4158.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Martial Arts Battle Arena (September 1st, 2013).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Martial Arts Battle Arena (September 1st, 2013).meta.json",
+    "legacy_creator": "Friaza"
+  },
+  "badges": [
+    {
+      "id": 85532425,
+      "name": "First Victory",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85532637,
+      "name": "Head-shot",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85532681,
+      "name": "Overkill",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85532741,
+      "name": "Unscathed",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85532813,
+      "name": "White Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85532880,
+      "name": "Yellow Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85533051,
+      "name": "Blue Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85534013,
+      "name": "Purple Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85534112,
+      "name": "Red Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85534182,
+      "name": "Brown Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85534247,
+      "name": "Black Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85534403,
+      "name": "Orange Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 85538093,
+      "name": "Green Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 119713833,
+      "name": "Gold Belt",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 127713074,
+      "name": "Rainbow Belt",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 8385672,
+    "universe_id": 20560685,
+    "name": "Martial Arts Battle Arena",
+    "roblox_url": "https://www.roblox.com/games/8385672",
+    "description": "Fight in epic 1v1 fights in Martial Arts Battle Arena. Go from a white belt to a black belt and more!",
+    "creator": {
+      "id": 1854975,
+      "name": "Friaza",
+      "type": "User"
+    },
+    "created_at": "2009-02-28T22:01:03.933Z",
+    "updated_at": "2021-03-28T20:09:40.19Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "85532425",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85532637",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85532681",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85532741",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85532813",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85532880",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85533051",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85534013",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85534112",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85534182",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85534247",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85534403",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "85538093",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "119713833",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      },
+      {
+        "kind": "badge",
+        "value": "127713074",
+        "detail": "badge resolves to universe 20560685 and root place 8385672"
+      }
+    ]
+  },
+  "preferred": true
+}

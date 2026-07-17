@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_02e57dfb03e8c2aa79332cc40252181d",
+  "title": "Welcome To Roblox Building (5.1.1)",
+  "snapshot": {
+    "label": "5.1.1"
+  },
+  "blob": {
+    "sha256": "b11851f63635568b1459e8800c2b34d2c5b641b22b1b1b644e6d3824b95421f2",
+    "path": "levels/sha256/b1/b11851f63635568b1459e8800c2b34d2c5b641b22b1b1b644e6d3824b95421f2.rbxlx",
+    "format": "xml",
+    "size_bytes": 2128950,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b1/b11851f63635568b1459e8800c2b34d2c5b641b22b1b1b644e6d3824b95421f2.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Welcome To Roblox Building (5.1.1).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

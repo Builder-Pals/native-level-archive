@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "nla_c7ec544fa8878115af7a310fc6dcf31c",
+  "title": "Solar Conquest (October 17th, 2009)",
+  "snapshot": {
+    "label": "October 17th, 2009",
+    "date": "2009-10-17",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "18ecba91e3d6fa3ce9d1d4dd9b3912499fece5e2acd72baed1796c76608d5b8f",
+    "path": "levels/sha256/18/18ecba91e3d6fa3ce9d1d4dd9b3912499fece5e2acd72baed1796c76608d5b8f.rbxlx",
+    "format": "xml",
+    "size_bytes": 6321416,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/18/18ecba91e3d6fa3ce9d1d4dd9b3912499fece5e2acd72baed1796c76608d5b8f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Solar Conquest (October 17th, 2009).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Solar Conquest (October 17th, 2009).meta.json",
+    "legacy_creator": "cocoawarrior"
+  },
+  "badges": [
+    {
+      "id": 15379364,
+      "name": "Solar Explorer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16060585,
+      "name": "Space-Warrior",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16060666,
+      "name": "Elite Space-Warrior",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      15379364
+    ]
+  },
+  "source": {
+    "root_place_id": 4783435,
+    "universe_id": 1382237,
+    "name": "Solar Conquest",
+    "roblox_url": "https://www.roblox.com/games/4783435",
+    "description": "Build, fight, and explore!",
+    "creator": {
+      "id": 1245332,
+      "name": "CocoaWarrior",
+      "type": "User"
+    },
+    "created_at": "2008-10-10T20:03:35.533Z",
+    "updated_at": "2021-03-08T06:08:17.95Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "15379364",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "16060585",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "16060666",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      }
+    ]
+  },
+  "preferred": false
+}

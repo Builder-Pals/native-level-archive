@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_234c521ad0f13f1d899a101ba8a28eec",
+  "title": "3023 - Screenshare",
+  "snapshot": {},
+  "blob": {
+    "sha256": "2f07df7241089fc928a2ea6fa6d43b81edb088db24c1daf96a4bc6318df64350",
+    "path": "levels/sha256/2f/2f07df7241089fc928a2ea6fa6d43b81edb088db24c1daf96a4bc6318df64350.rbxl",
+    "format": "binary",
+    "size_bytes": 53022,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/2f/2f07df7241089fc928a2ea6fa6d43b81edb088db24c1daf96a4bc6318df64350.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3023 - Screenshare.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

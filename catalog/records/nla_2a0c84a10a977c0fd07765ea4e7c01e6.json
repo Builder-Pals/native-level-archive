@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_2a0c84a10a977c0fd07765ea4e7c01e6",
+  "title": "Survive the Disasters (2014L, classic)",
+  "snapshot": {
+    "label": "2014L, classic",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "44864d030cad7102c4866f55610d1d889cce4cee16c1854ac7ee9fde6ae1c31c",
+    "path": "levels/sha256/44/44864d030cad7102c4866f55610d1d889cce4cee16c1854ac7ee9fde6ae1c31c.rbxl",
+    "format": "binary",
+    "size_bytes": 633924,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/44/44864d030cad7102c4866f55610d1d889cce4cee16c1854ac7ee9fde6ae1c31c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Survive the Disasters (2014L, classic).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

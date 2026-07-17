@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_d919a0a9e4e818641d755b1555c55a18",
+  "title": "Stairway to Heaven",
+  "snapshot": {},
+  "blob": {
+    "sha256": "303b07ba0b486e115851a17ec264529453c3c2f5c5d12f936b71e2970e6d4906",
+    "path": "levels/sha256/30/303b07ba0b486e115851a17ec264529453c3c2f5c5d12f936b71e2970e6d4906.rbxlx",
+    "format": "xml",
+    "size_bytes": 10809183,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/30/303b07ba0b486e115851a17ec264529453c3c2f5c5d12f936b71e2970e6d4906.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Stairway to Heaven.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

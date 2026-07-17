@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_83306ab93efb746b8d74908aa189b77a",
+  "title": "1402 - Nico's Nextbots",
+  "snapshot": {},
+  "blob": {
+    "sha256": "019c3858ad42f091b61758786a0cfc82594f0289369ace4ac748018e7bd8ab75",
+    "path": "levels/sha256/01/019c3858ad42f091b61758786a0cfc82594f0289369ace4ac748018e7bd8ab75.rbxl",
+    "format": "binary",
+    "size_bytes": 647690,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/01/019c3858ad42f091b61758786a0cfc82594f0289369ace4ac748018e7bd8ab75.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1402 - Nico's Nextbots.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

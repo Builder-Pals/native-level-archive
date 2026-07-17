@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "nla_a067c72c2b15debbc6b63ae8721e4089",
+  "title": "pinewood aug 2012",
+  "snapshot": {
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "a708d7c89c239de6787b377546be7f4cb532644e1e8ae019e575568b399b222a",
+    "path": "levels/sha256/a7/a708d7c89c239de6787b377546be7f4cb532644e1e8ae019e575568b399b222a.rbxlx",
+    "format": "xml",
+    "size_bytes": 21803993,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a7/a708d7c89c239de6787b377546be7f4cb532644e1e8ae019e575568b399b222a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "pinewood aug 2012.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "pinewood aug 2012.meta.json",
+    "legacy_creator": "Diddleshot"
+  },
+  "badges": [
+    {
+      "id": 90973566,
+      "name": "Visitor's badge",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      90973566
+    ]
+  },
+  "source": {
+    "root_place_id": 7956592,
+    "universe_id": 21918360,
+    "name": "Pinewood Builders HQ",
+    "roblox_url": "https://www.roblox.com/games/7956592",
+    "description": "Welcome to our group headquarters. First built in 2011, this has been the main meeting place and headquarters for Pinewood Builders, located in Tokyo, Japan; we welcome all visitors. \n\nAccess the floors via the high speed elevators, separate underground elevators, as well as an external elevator for the higher up executive floors, this skyscraper also features a rooftop helipad. \n\nThis game was featured in the Roblox Blog 2013, in \"Six ROBLOX Places That'll Make You Say \"Whoa\"\". \n\nJoin us at Pinewood Builders! Click the icon below. You can also join our security division, Pinewood Builders Security Team.",
+    "creator": {
+      "id": 390939,
+      "name": "Tokaisho",
+      "type": "User"
+    },
+    "created_at": "2009-02-15T02:21:00.017Z",
+    "updated_at": "2024-09-16T18:30:52.81Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "90973566",
+        "detail": "badge resolves to universe 21918360 and root place 7956592"
+      }
+    ]
+  },
+  "preferred": true
+}

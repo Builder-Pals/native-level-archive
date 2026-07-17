@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a3dddf08d191fde4091c16e48e69f3bc",
+  "title": "Call of Tadah",
+  "snapshot": {},
+  "blob": {
+    "sha256": "016b4f9427ae701e17e1f53f87e4fb2083a4409468281425d7e6292e44ae16e7",
+    "path": "levels/sha256/01/016b4f9427ae701e17e1f53f87e4fb2083a4409468281425d7e6292e44ae16e7.rbxl",
+    "format": "binary",
+    "size_bytes": 279249,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/01/016b4f9427ae701e17e1f53f87e4fb2083a4409468281425d7e6292e44ae16e7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Call of Tadah.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

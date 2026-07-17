@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_923aeb9138557f334ec015287a024bd5",
+  "title": "Lost Thoughts Fortress",
+  "snapshot": {},
+  "blob": {
+    "sha256": "dfc2cbb933cd8990bf3b8a9af364ce78f807bdd94fc7ce072dc6b1290fa3e570",
+    "path": "levels/sha256/df/dfc2cbb933cd8990bf3b8a9af364ce78f807bdd94fc7ce072dc6b1290fa3e570.rbxlx",
+    "format": "xml",
+    "size_bytes": 27800076,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/df/dfc2cbb933cd8990bf3b8a9af364ce78f807bdd94fc7ce072dc6b1290fa3e570.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Lost Thoughts Fortress.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

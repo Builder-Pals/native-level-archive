@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "nla_505731d54565d773baea5ce5af178fa0",
+  "title": "Roblox Snowmobiling (October 18th, 2012, complete)",
+  "snapshot": {
+    "label": "October 18th, 2012, complete",
+    "date": "2012-10-18",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "75e8b6f7f1211c6f08c4cf03318d3b36521194bb75da8fde508abbdd0ab125ca",
+    "path": "levels/sha256/75/75e8b6f7f1211c6f08c4cf03318d3b36521194bb75da8fde508abbdd0ab125ca.rbxlx",
+    "format": "xml",
+    "size_bytes": 5189528,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/75/75e8b6f7f1211c6f08c4cf03318d3b36521194bb75da8fde508abbdd0ab125ca.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Roblox Snowmobiling (October 18th, 2012, complete).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Roblox Snowmobiling (October 18th, 2012, complete).meta.json",
+    "legacy_creator": "Hicup789"
+  },
+  "badges": [
+    {
+      "id": 32790801,
+      "name": "Visitor",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 32790878,
+      "name": "You found Jim's Hut!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 32792205,
+      "name": "Slippery Badge of Snow (Unobtainable)",
+      "origin": "embedded"
+    },
+    {
+      "id": 58280510,
+      "name": "Roblox Rally 2011 Award Winner!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      32790801,
+      32790878,
+      32792205,
+      58280510
+    ]
+  },
+  "source": {
+    "root_place_id": 18661705,
+    "universe_id": 27516731,
+    "name": "Roblox Downhill Derby - Under Construction",
+    "roblox_url": "https://www.roblox.com/games/18661705",
+    "description": "This game used to be Roblox Snowmobiling - it got way to buggy for its time and I lost my motivation to finish it. Its turning into somethign new.\r\n\r\nGot any ideas for updates? PM me them!",
+    "creator": {
+      "id": 34978,
+      "name": "Hicup789",
+      "type": "User"
+    },
+    "created_at": "2009-11-29T21:33:02.743Z",
+    "updated_at": "2014-04-28T18:28:10.873Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "32790801",
+        "detail": "badge resolves to universe 27516731 and root place 18661705"
+      },
+      {
+        "kind": "badge",
+        "value": "32790878",
+        "detail": "badge resolves to universe 27516731 and root place 18661705"
+      },
+      {
+        "kind": "badge",
+        "value": "32792205",
+        "detail": "badge resolves to universe 27516731 and root place 18661705"
+      },
+      {
+        "kind": "badge",
+        "value": "58280510",
+        "detail": "badge resolves to universe 27516731 and root place 18661705"
+      }
+    ]
+  },
+  "preferred": true
+}

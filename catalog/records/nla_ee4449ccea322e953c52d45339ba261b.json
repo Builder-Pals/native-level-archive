@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "nla_ee4449ccea322e953c52d45339ba261b",
+  "title": "Sword Fight Tournament Stratus",
+  "snapshot": {},
+  "blob": {
+    "sha256": "2f5f60b681bd8e3cbe319413296be88d77809ff3a8ba9ccbfb6ed8a66f81cc19",
+    "path": "levels/sha256/2f/2f5f60b681bd8e3cbe319413296be88d77809ff3a8ba9ccbfb6ed8a66f81cc19.rbxlx",
+    "format": "xml",
+    "size_bytes": 16553592,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/2f/2f5f60b681bd8e3cbe319413296be88d77809ff3a8ba9ccbfb6ed8a66f81cc19.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sword Fight Tournament Stratus.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 78790400,
+      "origin": "embedded"
+    },
+    {
+      "id": 78790432,
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      78790400,
+      78790432
+    ]
+  },
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

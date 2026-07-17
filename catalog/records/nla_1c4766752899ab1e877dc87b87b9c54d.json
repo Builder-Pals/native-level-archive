@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_1c4766752899ab1e877dc87b87b9c54d",
+  "title": "Six Flags,Great Robloxia",
+  "snapshot": {},
+  "blob": {
+    "sha256": "66be0f265d8d34d9fded4827b87a27d862103414b9709d6b4869b87ae380fb3c",
+    "path": "levels/sha256/66/66be0f265d8d34d9fded4827b87a27d862103414b9709d6b4869b87ae380fb3c.rbxlx",
+    "format": "xml",
+    "size_bytes": 15453027,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/66/66be0f265d8d34d9fded4827b87a27d862103414b9709d6b4869b87ae380fb3c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Six Flags,Great Robloxia.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

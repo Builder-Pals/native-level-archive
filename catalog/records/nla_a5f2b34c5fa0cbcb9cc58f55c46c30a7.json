@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_a5f2b34c5fa0cbcb9cc58f55c46c30a7",
+  "title": "Survival Finale (September 21st, 2011)",
+  "snapshot": {
+    "label": "September 21st, 2011",
+    "date": "2011-09-21",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "062015f9721d4a788f2effde0a36801b014dbcdd6099488cca29bbd9b89170f9",
+    "path": "levels/sha256/06/062015f9721d4a788f2effde0a36801b014dbcdd6099488cca29bbd9b89170f9.rbxlx",
+    "format": "xml",
+    "size_bytes": 16379150,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/06/062015f9721d4a788f2effde0a36801b014dbcdd6099488cca29bbd9b89170f9.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Survival Finale (September 21st, 2011).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

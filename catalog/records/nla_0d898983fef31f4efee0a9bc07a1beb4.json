@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "id": "nla_0d898983fef31f4efee0a9bc07a1beb4",
+  "title": "Terror in Bikini Bottom (June 8th, 2014)",
+  "snapshot": {
+    "label": "June 8th, 2014",
+    "date": "2014-06-08",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "409aeed780b03af16b07538f72ba2af369f90b7f7a2ecd99e2357afbb86bd2c7",
+    "path": "levels/sha256/40/409aeed780b03af16b07538f72ba2af369f90b7f7a2ecd99e2357afbb86bd2c7.rbxl",
+    "format": "binary",
+    "size_bytes": 503616,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/40/409aeed780b03af16b07538f72ba2af369f90b7f7a2ecd99e2357afbb86bd2c7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Terror in Bikini Bottom (June 8th, 2014).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Terror in Bikini Bottom (June 8th, 2014).meta.json",
+    "legacy_creator": "Bobbysayhi"
+  },
+  "badges": [
+    {
+      "id": 146405422,
+      "name": "I Can't Drive 55",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143323,
+      "name": "Bubble Blower",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143349,
+      "name": "That's more like it!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143440,
+      "name": "Are You Feeling It Now?",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143458,
+      "name": "Sweet Victory!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143515,
+      "name": "Who you callin' Pinhead?",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143552,
+      "name": "Picture Perfect",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143559,
+      "name": "400 Dead",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143621,
+      "name": "500?!?!?",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143638,
+      "name": "Hash Slinging Slasher",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143670,
+      "name": "K-A-R-A-T-E",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143709,
+      "name": "800 Kills",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143770,
+      "name": "Master Fry Cook",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160143799,
+      "name": "ZOMBIE KILLERS UNITE!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160145950,
+      "name": "Goo Lagoon",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160145986,
+      "name": "Flying Dutchman's Ship",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160146011,
+      "name": "Krusty Krab Survivor!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160146053,
+      "name": "The Good Neighbor Badge!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160146407,
+      "name": "Around the Clock",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 160357945,
+      "name": "In Case of a Sea Bear Attack",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "146405422",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "160143323",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143349",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143440",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143458",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143515",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143552",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143559",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143621",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143638",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143670",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143709",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143770",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160143799",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160145950",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160145986",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160146011",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160146053",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160146407",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      },
+      {
+        "kind": "badge",
+        "value": "160357945",
+        "detail": "badge resolves to universe 21419273 and root place 31500456"
+      }
+    ]
+  },
+  "preferred": false
+}

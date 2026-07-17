@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_5ab4b7ac3279f91a7436523354530ebd",
+  "title": "Icy Showcase",
+  "snapshot": {},
+  "blob": {
+    "sha256": "38793373f9ddb9a85d5f0837c60b9a0eb6d955d023e9db0856056e26d5a000f3",
+    "path": "levels/sha256/38/38793373f9ddb9a85d5f0837c60b9a0eb6d955d023e9db0856056e26d5a000f3.rbxlx",
+    "format": "xml",
+    "size_bytes": 25186215,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/38/38793373f9ddb9a85d5f0837c60b9a0eb6d955d023e9db0856056e26d5a000f3.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Icy Showcase.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

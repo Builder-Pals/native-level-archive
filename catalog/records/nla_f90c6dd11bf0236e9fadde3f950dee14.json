@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "nla_f90c6dd11bf0236e9fadde3f950dee14",
+  "title": "Skate Valley",
+  "snapshot": {},
+  "blob": {
+    "sha256": "632c40118f6d3b80f224bc3750d5bbc60abd7f6d66c51dfe688ea3fb73d01cec",
+    "path": "levels/sha256/63/632c40118f6d3b80f224bc3750d5bbc60abd7f6d66c51dfe688ea3fb73d01cec.rbxlx",
+    "format": "xml",
+    "size_bytes": 4181140,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/63/632c40118f6d3b80f224bc3750d5bbc60abd7f6d66c51dfe688ea3fb73d01cec.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Skate Valley.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 23446851,
+      "name": "Award 1",
+      "origin": "embedded"
+    },
+    {
+      "id": 23446876,
+      "name": "Award 2",
+      "origin": "embedded"
+    },
+    {
+      "id": 23446905,
+      "name": "Award 3",
+      "origin": "embedded"
+    },
+    {
+      "id": 23446940,
+      "name": "Award 4",
+      "origin": "embedded"
+    },
+    {
+      "id": 23446958,
+      "name": "Award 5",
+      "origin": "embedded"
+    },
+    {
+      "id": 23447026,
+      "name": "Award 6",
+      "origin": "embedded"
+    },
+    {
+      "id": 23447067,
+      "name": "Award 7",
+      "origin": "embedded"
+    },
+    {
+      "id": 23447096,
+      "name": "Award 8",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      23446851,
+      23446876,
+      23446905,
+      23446940,
+      23446958,
+      23447026,
+      23447067,
+      23447096
+    ]
+  },
+  "source": {
+    "root_place_id": 13822919,
+    "universe_id": 2470926,
+    "name": "Skate Valley",
+    "roblox_url": "https://www.roblox.com/games/13822919",
+    "description": "Skate your heart out and earn badges! Please comment your thoughts and PM me suggestions. Take my edited flip board tool here: http://www.roblox.com/Stabilize-skateboard-tool-item?id=23496285",
+    "creator": {
+      "id": 1320922,
+      "name": "Defaultio",
+      "type": "User"
+    },
+    "created_at": "2009-07-31T17:03:18.657Z",
+    "updated_at": "2015-12-15T02:16:06.243Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "23446851",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23446876",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23446905",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23446940",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23446958",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23447026",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23447067",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      },
+      {
+        "kind": "badge",
+        "value": "23447096",
+        "detail": "badge resolves to universe 2470926 and root place 13822919"
+      }
+    ]
+  },
+  "preferred": true
+}

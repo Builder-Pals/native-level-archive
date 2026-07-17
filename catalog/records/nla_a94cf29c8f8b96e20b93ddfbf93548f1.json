@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a94cf29c8f8b96e20b93ddfbf93548f1",
+  "title": "Stop it, Slender!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1be08c8d6f31ee31845a7592e23dfefd1c55c397721da935115b0f2058036a36",
+    "path": "levels/sha256/1b/1be08c8d6f31ee31845a7592e23dfefd1c55c397721da935115b0f2058036a36.rbxl",
+    "format": "binary",
+    "size_bytes": 1588845,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1b/1be08c8d6f31ee31845a7592e23dfefd1c55c397721da935115b0f2058036a36.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Stop it, Slender!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

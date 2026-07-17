@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_1ec4b77f87de2071e93547e4f6179a62",
+  "title": "Runescape",
+  "snapshot": {},
+  "blob": {
+    "sha256": "464ca2992879270a82cf301424d47a4cc45b3b5145621e19935d3b0a281182eb",
+    "path": "levels/sha256/46/464ca2992879270a82cf301424d47a4cc45b3b5145621e19935d3b0a281182eb.rbxlx",
+    "format": "xml",
+    "size_bytes": 1227743,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/46/464ca2992879270a82cf301424d47a4cc45b3b5145621e19935d3b0a281182eb.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Runescape.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

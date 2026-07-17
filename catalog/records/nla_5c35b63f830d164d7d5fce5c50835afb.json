@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_5c35b63f830d164d7d5fce5c50835afb",
+  "title": "TheRetro",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c75da66af97cb7dd12d635cbad69d8386fa912a39f74186ddc5a34ea1c8df142",
+    "path": "levels/sha256/c7/c75da66af97cb7dd12d635cbad69d8386fa912a39f74186ddc5a34ea1c8df142.rbxlx",
+    "format": "xml",
+    "size_bytes": 934705,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c7/c75da66af97cb7dd12d635cbad69d8386fa912a39f74186ddc5a34ea1c8df142.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "TheRetro.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

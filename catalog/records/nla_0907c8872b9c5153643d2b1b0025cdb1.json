@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "nla_0907c8872b9c5153643d2b1b0025cdb1",
+  "title": "Robloxian Arcade",
+  "snapshot": {},
+  "blob": {
+    "sha256": "4597cac034acef401385bff34340e38fcfa8da7af01c33c59c3aef5e7a761b76",
+    "path": "levels/sha256/45/4597cac034acef401385bff34340e38fcfa8da7af01c33c59c3aef5e7a761b76.rbxlx",
+    "format": "xml",
+    "size_bytes": 49283559,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/45/4597cac034acef401385bff34340e38fcfa8da7af01c33c59c3aef5e7a761b76.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Robloxian Arcade.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Robloxian Arcade.meta.json",
+    "legacy_creator": "kingaman1234"
+  },
+  "badges": [
+    {
+      "id": 19222227,
+      "name": "Epic Hidden Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 20669370,
+      "name": "You Met kingaman1234 ! At Robloxian Arcade!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 20838247,
+      "name": "kingaman1234's Autograph",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41126778,
+      "name": "Josilo's Autograph",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      19222227,
+      20669370,
+      20838247,
+      41126778
+    ]
+  },
+  "source": {
+    "root_place_id": 9169052,
+    "universe_id": 18098061,
+    "name": "Robloxian Arcade=-= Unlocked Place",
+    "roblox_url": "https://www.roblox.com/games/9169052",
+    "description": "Place is Unlocked because everything is broken I no longer play Roblox. Please enjoy!",
+    "creator": {
+      "id": 2297600,
+      "name": "kingaman1234",
+      "type": "User"
+    },
+    "created_at": "2009-03-24T22:37:47.377Z",
+    "updated_at": "2014-01-11T17:33:56.407Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "19222227",
+        "detail": "badge resolves to universe 18098061 and root place 9169052"
+      },
+      {
+        "kind": "badge",
+        "value": "20669370",
+        "detail": "badge resolves to universe 18098061 and root place 9169052"
+      },
+      {
+        "kind": "badge",
+        "value": "20838247",
+        "detail": "badge resolves to universe 18098061 and root place 9169052"
+      },
+      {
+        "kind": "badge",
+        "value": "41126778",
+        "detail": "badge resolves to universe 18098061 and root place 9169052"
+      }
+    ]
+  },
+  "preferred": true
+}

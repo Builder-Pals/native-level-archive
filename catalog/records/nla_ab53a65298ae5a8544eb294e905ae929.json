@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_ab53a65298ae5a8544eb294e905ae929",
+  "title": "Darkness_2",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e553b05499c9441f4bb5f81540491ecc2b4ed979c4667232d8ef92d2dd7e326d",
+    "path": "levels/sha256/e5/e553b05499c9441f4bb5f81540491ecc2b4ed979c4667232d8ef92d2dd7e326d.rbxl",
+    "format": "binary",
+    "size_bytes": 261328,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e5/e553b05499c9441f4bb5f81540491ecc2b4ed979c4667232d8ef92d2dd7e326d.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Darkness_2.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

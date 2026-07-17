@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a235115d7194901985f31b5fc28b5f63",
+  "title": "Reason 2 Die",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1aefeedafb648f9e627bb84d3eb4046c33a1a08e101eff86fd87e8761a589ca6",
+    "path": "levels/sha256/1a/1aefeedafb648f9e627bb84d3eb4046c33a1a08e101eff86fd87e8761a589ca6.rbxlx",
+    "format": "xml",
+    "size_bytes": 15341869,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1a/1aefeedafb648f9e627bb84d3eb4046c33a1a08e101eff86fd87e8761a589ca6.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Reason 2 Die.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

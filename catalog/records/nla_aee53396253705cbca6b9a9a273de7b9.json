@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_aee53396253705cbca6b9a9a273de7b9",
+  "title": "Rigido",
+  "snapshot": {},
+  "blob": {
+    "sha256": "2da8a8f4cbc33c28ec3fd0fb08b81a39b47218b6e942f19cb0957b826571331f",
+    "path": "levels/sha256/2d/2da8a8f4cbc33c28ec3fd0fb08b81a39b47218b6e942f19cb0957b826571331f.rbxl",
+    "format": "binary",
+    "size_bytes": 886553,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/2d/2da8a8f4cbc33c28ec3fd0fb08b81a39b47218b6e942f19cb0957b826571331f.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Rigido.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

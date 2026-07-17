@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "nla_8bd0d4db2ee0de38c7fcdca823a43b88",
+  "title": "Build to Survive The Creepers May 2012",
+  "snapshot": {
+    "date": "2012-05-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "437aa50d107f5a783e1022fdbc14bc8daf2a5c85d2112c565a89cd4a86e06113",
+    "path": "levels/sha256/43/437aa50d107f5a783e1022fdbc14bc8daf2a5c85d2112c565a89cd4a86e06113.rbxlx",
+    "format": "xml",
+    "size_bytes": 3409245,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/43/437aa50d107f5a783e1022fdbc14bc8daf2a5c85d2112c565a89cd4a86e06113.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Build to Survive The Creepers May 2012.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Build to Survive The Creepers May 2012.meta.json",
+    "legacy_creator": "palk47"
+  },
+  "badges": [
+    {
+      "id": 62445318,
+      "name": "Beta Tester",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      62445318
+    ]
+  },
+  "source": {
+    "root_place_id": 10532120,
+    "universe_id": 13539995,
+    "name": "Boat Wars: Red Vs Blue",
+    "roblox_url": "https://www.roblox.com/games/10532120",
+    "description": "SURVIVE THE LAVA WAVE HAS BEEN MOVED AND IS ON MY PROFILE. VIP WILL STILL WORK FOR THAT GAME.\r\n\r\nLava waves moved: http://www.roblox.com/Survive-The-Lava-Waves-place?id=127500861\r\n\r\nMy Fan Club: http://www.roblox.com/My/Groups.aspx?gid=940904\r\n\r\nJoin: http://www.roblox.com/My/Groups.aspx?gid=920402\r\n\r\nCreeper Surivival: http://www.roblox.com/Creeper-Surivival-place?id=81325403",
+    "creator": {
+      "id": 3010768,
+      "name": "palk47",
+      "type": "User"
+    },
+    "created_at": "2009-05-07T23:52:38.853Z",
+    "updated_at": "2013-08-26T23:35:35.793Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "62445318",
+        "detail": "badge resolves to universe 13539995 and root place 10532120"
+      }
+    ]
+  },
+  "preferred": true
+}

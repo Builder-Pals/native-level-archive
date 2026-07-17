@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c36339fd3c4a70a57d54689367d4fddd",
+  "title": "The Pizzeria Obby",
+  "snapshot": {},
+  "blob": {
+    "sha256": "d921f66a18e3d9455db7344e9c5b7365ee1f9bea160819e3979db0b5215f88b6",
+    "path": "levels/sha256/d9/d921f66a18e3d9455db7344e9c5b7365ee1f9bea160819e3979db0b5215f88b6.rbxl",
+    "format": "binary",
+    "size_bytes": 346923,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d9/d921f66a18e3d9455db7344e9c5b7365ee1f9bea160819e3979db0b5215f88b6.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Pizzeria Obby.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

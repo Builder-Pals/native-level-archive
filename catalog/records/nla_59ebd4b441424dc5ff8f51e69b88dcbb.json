@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "id": "nla_59ebd4b441424dc5ff8f51e69b88dcbb",
+  "title": "Sandbox (Mid 2012, ST2)",
+  "snapshot": {
+    "label": "Mid 2012, ST2",
+    "date": "2012-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "ce7ef33be3eb75b193c99b5eac04b2e7d30ca4cb4eeaaa0b78cd6f12bb96e7eb",
+    "path": "levels/sha256/ce/ce7ef33be3eb75b193c99b5eac04b2e7d30ca4cb4eeaaa0b78cd6f12bb96e7eb.rbxlx",
+    "format": "xml",
+    "size_bytes": 4669241,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ce/ce7ef33be3eb75b193c99b5eac04b2e7d30ca4cb4eeaaa0b78cd6f12bb96e7eb.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Sandbox (Mid 2012, ST2).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 50586434,
+      "origin": "embedded"
+    },
+    {
+      "id": 50614013,
+      "origin": "embedded"
+    },
+    {
+      "id": 74324322,
+      "origin": "embedded"
+    },
+    {
+      "id": 82134704,
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      50586434,
+      50614013,
+      74324322,
+      82134704
+    ]
+  },
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "id": "nla_431f0b601de5d7c3ec3a30d88715883c",
+  "title": "The Giant Claw Machine",
+  "snapshot": {},
+  "blob": {
+    "sha256": "8d9fb53b84c6bc18caee7a5822335338d006d6a484535d872233c30d0b089a4c",
+    "path": "levels/sha256/8d/8d9fb53b84c6bc18caee7a5822335338d006d6a484535d872233c30d0b089a4c.rbxlx",
+    "format": "xml",
+    "size_bytes": 6651866,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8d/8d9fb53b84c6bc18caee7a5822335338d006d6a484535d872233c30d0b089a4c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Giant Claw Machine.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 36142135,
+      "name": "Robloxaville Halloween Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 41299034,
+      "name": "Robloxaville Winter VIP Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 76241414,
+      "name": "You Met Me!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      36142135,
+      41299034,
+      76241414
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "36142135",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "41299034",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "76241414",
+        "detail": "badge resolves to universe 41302068 and root place 56992297"
+      }
+    ]
+  },
+  "preferred": false
+}

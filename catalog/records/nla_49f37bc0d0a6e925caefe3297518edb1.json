@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_49f37bc0d0a6e925caefe3297518edb1",
+  "title": "Fabrication GRAND Home Store",
+  "snapshot": {},
+  "blob": {
+    "sha256": "909154e5a5338c96cb5c6a91beb2190bb8940e578402b4583094eb02b1adba48",
+    "path": "levels/sha256/90/909154e5a5338c96cb5c6a91beb2190bb8940e578402b4583094eb02b1adba48.rbxl",
+    "format": "binary",
+    "size_bytes": 569487,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/90/909154e5a5338c96cb5c6a91beb2190bb8940e578402b4583094eb02b1adba48.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Fabrication GRAND Home Store.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

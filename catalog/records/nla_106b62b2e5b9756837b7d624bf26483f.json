@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_106b62b2e5b9756837b7d624bf26483f",
+  "title": "Covert Ops ----¤ Shade of Night Sniper Fight ¤ (July 11th, 2008)",
+  "snapshot": {
+    "label": "July 11th, 2008",
+    "date": "2008-07-11",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "6a3829a3e44ace95d5bfa3167bd2b4b0a067efd1b8bb3f9c4b96ede258afa0bc",
+    "path": "levels/sha256/6a/6a3829a3e44ace95d5bfa3167bd2b4b0a067efd1b8bb3f9c4b96ede258afa0bc.rbxlx",
+    "format": "xml",
+    "size_bytes": 4310292,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6a/6a3829a3e44ace95d5bfa3167bd2b4b0a067efd1b8bb3f9c4b96ede258afa0bc.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Covert Ops ----¤ Shade of Night Sniper Fight ¤ (July 11th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

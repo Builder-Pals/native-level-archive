@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "id": "nla_3f5bc164f719570bc06e72000212de6c",
+  "title": "WipeOut Obby Easy v1.4.1 (March 6th, 2012)",
+  "snapshot": {
+    "label": "March 6th, 2012",
+    "date": "2012-03-06",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "6087c6402c185e9fc42d82e45ab47851b3fe1163b528a50e9eb8ddd51c7b2306",
+    "path": "levels/sha256/60/6087c6402c185e9fc42d82e45ab47851b3fe1163b528a50e9eb8ddd51c7b2306.rbxlx",
+    "format": "xml",
+    "size_bytes": 8009957,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/60/6087c6402c185e9fc42d82e45ab47851b3fe1163b528a50e9eb8ddd51c7b2306.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "WipeOut Obby Easy v1.4.1 (March 6th, 2012).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "WipeOut Obby Easy v1.4.1 (March 6th, 2012).meta.json",
+    "legacy_creator": "AUDI80"
+  },
+  "badges": [
+    {
+      "id": 15629653,
+      "name": "WipeOut Winners Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16847668,
+      "name": "WipeOut Extra Obstacle Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16853011,
+      "name": "Thanks for coming to the WipeOut Obby",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16860388,
+      "name": "The Secret Badge of WipeOut",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16890797,
+      "name": "WipeOut Slide Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17442131,
+      "name": "The Secret Obstacle Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26521857,
+      "name": "You have met AUDI80",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26687011,
+      "name": "Beaten obstacle 1",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26687130,
+      "name": "Beaten obstacle 2",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26687540,
+      "name": "Beaten obstacle 4",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26687689,
+      "name": "Beaten obstacle 5",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26687771,
+      "name": "  Beaten obstacle 6",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26687955,
+      "name": "Beaten obstacle 7",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26688083,
+      "name": "Beaten obstacle 8 ",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26688232,
+      "name": "Drove the boats",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26707770,
+      "name": "Got 1.000 Coins at WipeOut Obby",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26707859,
+      "name": "Got 2.500 Coins at WipeOut Obby ",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 26707935,
+      "name": "Got 1.000.000 Coins at WipeOut Obby ",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 28502291,
+      "name": "The Ultimate Cheat Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43346229,
+      "name": "WipeOut Obby 2011 Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43540843,
+      "name": "100K Favorites",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      15629653,
+      16847668,
+      16853011,
+      16860388,
+      16890797,
+      17442131,
+      26521857,
+      26687011,
+      26687130,
+      26687540,
+      26687689,
+      26687771,
+      26687955,
+      26688083,
+      26688232,
+      26707770,
+      26707859,
+      26707935,
+      28502291,
+      43346229,
+      43540843
+    ]
+  },
+  "source": {
+    "root_place_id": 8274990,
+    "universe_id": 20941830,
+    "name": "[ Content Deleted ]",
+    "roblox_url": "https://www.roblox.com/games/8274990"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "15629653",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "16847668",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "16853011",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "16860388",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "16890797",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "17442131",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26521857",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26687011",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26687130",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26687540",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26687689",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26687771",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26687955",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26688083",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26688232",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26707770",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26707859",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "26707935",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "28502291",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "43346229",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      },
+      {
+        "kind": "badge",
+        "value": "43540843",
+        "detail": "badge resolves to universe 20941830 and root place 8274990"
+      }
+    ]
+  },
+  "preferred": true
+}

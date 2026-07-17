@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_cad1ba46eeb6dc1d264768992210e075",
+  "title": "Paradise Falls (5☆-Hotel and Resort)",
+  "snapshot": {
+    "label": "5☆-Hotel and Resort"
+  },
+  "blob": {
+    "sha256": "46c34cc3ed323feda0f21e1eb949aac0c1b4b958b2f33e36b468f52c6b738490",
+    "path": "levels/sha256/46/46c34cc3ed323feda0f21e1eb949aac0c1b4b958b2f33e36b468f52c6b738490.rbxl",
+    "format": "binary",
+    "size_bytes": 214131,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/46/46c34cc3ed323feda0f21e1eb949aac0c1b4b958b2f33e36b468f52c6b738490.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Paradise Falls (5☆-Hotel and Resort).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

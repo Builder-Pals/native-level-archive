@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "nla_d6101c067576b3dd3467d267b0bae427",
+  "title": "The Iron Cafe",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b247953673da3266eeda52fcc4e302dd3093da30966f0b0db19657f2f3cab5ab",
+    "path": "levels/sha256/b2/b247953673da3266eeda52fcc4e302dd3093da30966f0b0db19657f2f3cab5ab.rbxlx",
+    "format": "xml",
+    "size_bytes": 10217315,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b2/b247953673da3266eeda52fcc4e302dd3093da30966f0b0db19657f2f3cab5ab.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Iron Cafe.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "The Iron Cafe.meta.json",
+    "legacy_creator": "IronInforcer"
+  },
+  "badges": [
+    {
+      "id": 43779184,
+      "name": "I visited The Iron Cafe!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44077274,
+      "name": "The Super Secret Badge!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      43779184,
+      44077274
+    ]
+  },
+  "source": {
+    "root_place_id": 3435799,
+    "universe_id": 710127,
+    "name": "[🔊] The Iron Cafe ☕️",
+    "roblox_url": "https://www.roblox.com/games/3435799",
+    "description": "☕️ Welcome to The Iron Cafe — Roblox’s original cafe and hangout!\n\nOG CAFE IS BACK 🥳\n\nSince 2008, The Iron Cafe has been the go-to spot to chill, meet friends, and grab a drink. From endless coffee and snack options to the classic cafe and club combo, it’s always been about good vibes and fun times.\n\n🎤 Now with voice chat, you can hang out like the old days… but even better.\n\nIf you’re having a good time, don’t forget to leave a 👍 and ⭐️—it really helps!",
+    "creator": {
+      "id": 229003,
+      "name": "IronInforcer",
+      "type": "User"
+    },
+    "created_at": "2008-08-07T23:24:42.71Z",
+    "updated_at": "2026-02-22T19:34:44.861Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "43779184",
+        "detail": "badge resolves to universe 710127 and root place 3435799"
+      },
+      {
+        "kind": "badge",
+        "value": "44077274",
+        "detail": "badge resolves to universe 710127 and root place 3435799"
+      }
+    ]
+  },
+  "preferred": true
+}

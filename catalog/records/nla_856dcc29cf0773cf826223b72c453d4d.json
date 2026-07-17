@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_856dcc29cf0773cf826223b72c453d4d",
+  "title": "Frost Nova 2010M",
+  "snapshot": {
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "9ccbd735956ca398167e4cf590cb4f2f5cec750397d72fa6a46104d2ba7935f5",
+    "path": "levels/sha256/9c/9ccbd735956ca398167e4cf590cb4f2f5cec750397d72fa6a46104d2ba7935f5.rbxlx",
+    "format": "xml",
+    "size_bytes": 1961410,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/9c/9ccbd735956ca398167e4cf590cb4f2f5cec750397d72fa6a46104d2ba7935f5.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Frost Nova 2010M.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_c28e70a5a1700e29b067628b62702a30",
+  "title": "Survival 323 (January 22nd, 2014)",
+  "snapshot": {
+    "label": "January 22nd, 2014",
+    "date": "2014-01-22",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "aad31a76ce9eea3b2c054679b21cfbd866e6c460f97ddca6ca715d5f75c59b66",
+    "path": "levels/sha256/aa/aad31a76ce9eea3b2c054679b21cfbd866e6c460f97ddca6ca715d5f75c59b66.rbxl",
+    "format": "binary",
+    "size_bytes": 432962,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/aa/aad31a76ce9eea3b2c054679b21cfbd866e6c460f97ddca6ca715d5f75c59b66.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Survival 323 (January 22nd, 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

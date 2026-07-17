@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "id": "nla_ed536d767fcec7d1f548cbf4acb0ddda",
+  "title": "Escape the iPhone - Obby!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a8f05f37f31bb78bc3a9e0752399fead677756a71b244f08ea1a925e2f1deb58",
+    "path": "levels/sha256/a8/a8f05f37f31bb78bc3a9e0752399fead677756a71b244f08ea1a925e2f1deb58.rbxlx",
+    "format": "xml",
+    "size_bytes": 2468241,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a8/a8f05f37f31bb78bc3a9e0752399fead677756a71b244f08ea1a925e2f1deb58.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Escape the iPhone - Obby!.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Escape the iPhone - Obby!.meta.json",
+    "legacy_creator": "bravenickdude"
+  },
+  "badges": [
+    {
+      "id": 28051218,
+      "name": "Escape the iPhone - Entry Badge!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 31894684,
+      "name": "Escape the iPhone - Winner Badge!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      28051218,
+      31894684
+    ]
+  },
+  "source": {
+    "root_place_id": 2464440,
+    "universe_id": 682208,
+    "name": "Escape the iPhone - Obby!",
+    "roblox_url": "https://www.roblox.com/games/2464440",
+    "description": "A classic obby course I made back in 2008. Come visit and relive the experience as it once was! Your goal here? Escape the iPhone by conquering various obstacles in the technical junk inside. Come try it for yourself! VIP Shirt: http://www.roblox.com/Escape-The-iPhone-ADMIN-Lowered-item?id=2964631 Super VIP: http://www.roblox.com/Iphone-Obby-Super-Admin-item?id=3742149",
+    "creator": {
+      "id": 522590,
+      "name": "bravenickdude",
+      "type": "User"
+    },
+    "created_at": "2008-06-18T04:03:07.793Z",
+    "updated_at": "2012-07-12T20:06:06.833Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "28051218",
+        "detail": "badge resolves to universe 682208 and root place 2464440"
+      },
+      {
+        "kind": "badge",
+        "value": "31894684",
+        "detail": "badge resolves to universe 682208 and root place 2464440"
+      }
+    ]
+  },
+  "preferred": true
+}

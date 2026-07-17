@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "nla_06403a03c3cce0684bdf14525f199c3b",
+  "title": "SCP_Site_43",
+  "snapshot": {},
+  "blob": {
+    "sha256": "8ed872719f07e969dd347514e9acad6cd5f15a51cfe688ce2a949cf8e5169fa6",
+    "path": "quarantine/sha256/8e/8ed872719f07e969dd347514e9acad6cd5f15a51cfe688ce2a949cf8e5169fa6.bin",
+    "format": "invalid",
+    "size_bytes": 858038,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/quarantine/sha256/8e/8ed872719f07e969dd347514e9acad6cd5f15a51cfe688ce2a949cf8e5169fa6.bin"
+  },
+  "validation": {
+    "status": "invalid",
+    "reason": "file contains only zero bytes"
+  },
+  "provenance": {
+    "original_paths": [
+      "SCP_Site_43.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

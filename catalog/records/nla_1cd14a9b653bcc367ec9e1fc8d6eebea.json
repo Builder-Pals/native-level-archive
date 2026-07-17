@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_1cd14a9b653bcc367ec9e1fc8d6eebea",
+  "title": "Classic- Crossroads (December 8th, 2009)",
+  "snapshot": {
+    "label": "December 8th, 2009",
+    "date": "2009-12-08",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "85df96c107e142fa507d735a19f02b8691b032ebdef47fde18874deb49bbd67a",
+    "path": "levels/sha256/85/85df96c107e142fa507d735a19f02b8691b032ebdef47fde18874deb49bbd67a.rbxlx",
+    "format": "xml",
+    "size_bytes": 4428081,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/85/85df96c107e142fa507d735a19f02b8691b032ebdef47fde18874deb49bbd67a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Classic- Crossroads (December 8th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

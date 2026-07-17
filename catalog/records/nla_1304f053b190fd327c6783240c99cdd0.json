@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_1304f053b190fd327c6783240c99cdd0",
+  "title": "Train2 (restored lighting)",
+  "snapshot": {
+    "label": "restored lighting"
+  },
+  "blob": {
+    "sha256": "b855c8c493ac72ea8f1144a0f8aa91ea796251f9705203fe89ae8bcc3ea76c9b",
+    "path": "levels/sha256/b8/b855c8c493ac72ea8f1144a0f8aa91ea796251f9705203fe89ae8bcc3ea76c9b.rbxlx",
+    "format": "xml",
+    "size_bytes": 196450,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b8/b855c8c493ac72ea8f1144a0f8aa91ea796251f9705203fe89ae8bcc3ea76c9b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Train2 (restored lighting).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

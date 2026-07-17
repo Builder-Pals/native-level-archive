@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_22a353d464370d8bbdfadd8df12210b3",
+  "title": "Retail Tycoon",
+  "snapshot": {},
+  "blob": {
+    "sha256": "cce1e447e6fe03f364d00ea665a13a08d15ea31721ca6772068e661fd4fdea5a",
+    "path": "levels/sha256/cc/cce1e447e6fe03f364d00ea665a13a08d15ea31721ca6772068e661fd4fdea5a.rbxl",
+    "format": "binary",
+    "size_bytes": 743546,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cce1e447e6fe03f364d00ea665a13a08d15ea31721ca6772068e661fd4fdea5a.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Retail Tycoon.rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

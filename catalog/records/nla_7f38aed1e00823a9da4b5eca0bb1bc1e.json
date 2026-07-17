@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_7f38aed1e00823a9da4b5eca0bb1bc1e",
+  "title": "BlackKnight's Place",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b0dcaf5a23921b4e4807c3402df1c29da3de21e90dd8b43261287f10d47a7faa",
+    "path": "levels/sha256/b0/b0dcaf5a23921b4e4807c3402df1c29da3de21e90dd8b43261287f10d47a7faa.rbxlx",
+    "format": "xml",
+    "size_bytes": 2578700,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b0/b0dcaf5a23921b4e4807c3402df1c29da3de21e90dd8b43261287f10d47a7faa.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "BlackKnight's Place.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_0ce0a1226cde3f681f734a4ef04165c2",
+  "title": "69 - Mineblox Obby",
+  "snapshot": {},
+  "blob": {
+    "sha256": "325eec6f4d677af007682f1708eaf186ead7e552add21ad8d4a845b435ea398b",
+    "path": "levels/sha256/32/325eec6f4d677af007682f1708eaf186ead7e552add21ad8d4a845b435ea398b.rbxl",
+    "format": "binary",
+    "size_bytes": 167974,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/32/325eec6f4d677af007682f1708eaf186ead7e552add21ad8d4a845b435ea398b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/69 - Mineblox Obby.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

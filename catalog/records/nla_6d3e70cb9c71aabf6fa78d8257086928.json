@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_6d3e70cb9c71aabf6fa78d8257086928",
+  "title": "3057 - Untitled Baller Game",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6af9e03eb2cd7c952aece10846bf7d89ffb7a10dd509bc045c3b659b97fcf40c",
+    "path": "levels/sha256/6a/6af9e03eb2cd7c952aece10846bf7d89ffb7a10dd509bc045c3b659b97fcf40c.rbxl",
+    "format": "binary",
+    "size_bytes": 18567,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6a/6af9e03eb2cd7c952aece10846bf7d89ffb7a10dd509bc045c3b659b97fcf40c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3057 - Untitled Baller Game.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

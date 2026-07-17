@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_d0858cf4aa5b4861ac99de2088210fb0",
+  "title": "coke island",
+  "snapshot": {},
+  "blob": {
+    "sha256": "62cb20e9fac547ba54377224262d52c974e1a6473c94bd6fd3efe754818a8a46",
+    "path": "levels/sha256/62/62cb20e9fac547ba54377224262d52c974e1a6473c94bd6fd3efe754818a8a46.rbxlx",
+    "format": "xml",
+    "size_bytes": 790794,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/62/62cb20e9fac547ba54377224262d52c974e1a6473c94bd6fd3efe754818a8a46.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "coke island.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

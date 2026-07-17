@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c68738c7d545d18aad240226d963decd",
+  "title": "RobloxPolice City",
+  "snapshot": {},
+  "blob": {
+    "sha256": "077949f5f8de99f576ed3d0f56ada44fd9da489bad0900150d5da6a7132f0059",
+    "path": "levels/sha256/07/077949f5f8de99f576ed3d0f56ada44fd9da489bad0900150d5da6a7132f0059.rbxlx",
+    "format": "xml",
+    "size_bytes": 5007404,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/07/077949f5f8de99f576ed3d0f56ada44fd9da489bad0900150d5da6a7132f0059.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "RobloxPolice City.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

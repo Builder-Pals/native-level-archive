@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_abe684444fd2d25a70c0b301ebb7183e",
+  "title": "TNT Run 2",
+  "snapshot": {},
+  "blob": {
+    "sha256": "0b91a6ee616b09cafdb8b81ad6174cf2371e6a7f238af331f11751777a50fff2",
+    "path": "levels/sha256/0b/0b91a6ee616b09cafdb8b81ad6174cf2371e6a7f238af331f11751777a50fff2.rbxlx",
+    "format": "xml",
+    "size_bytes": 3103138,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0b/0b91a6ee616b09cafdb8b81ad6174cf2371e6a7f238af331f11751777a50fff2.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "TNT Run 2.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

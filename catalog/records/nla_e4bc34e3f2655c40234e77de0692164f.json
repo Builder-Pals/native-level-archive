@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_e4bc34e3f2655c40234e77de0692164f",
+  "title": "Cabin Hangout (2009)",
+  "snapshot": {
+    "label": "2009",
+    "date": "2009-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "2aa802b0e2bcf7ef012adb2c22465d577b5f3b8da6355666a42420821f8048f7",
+    "path": "levels/sha256/2a/2aa802b0e2bcf7ef012adb2c22465d577b5f3b8da6355666a42420821f8048f7.rbxlx",
+    "format": "xml",
+    "size_bytes": 5797016,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/2a/2aa802b0e2bcf7ef012adb2c22465d577b5f3b8da6355666a42420821f8048f7.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Cabin Hangout (2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

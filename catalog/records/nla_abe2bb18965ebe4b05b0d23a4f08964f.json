@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_abe2bb18965ebe4b05b0d23a4f08964f",
+  "title": "Base Wars The land v8.56 (2011 february, complete)",
+  "snapshot": {
+    "label": "2011 february, complete",
+    "date": "2011-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "81abe73b37f41225338bff214f11fb9f39bab25cbb6455ca05e4564b8f687b44",
+    "path": "levels/sha256/81/81abe73b37f41225338bff214f11fb9f39bab25cbb6455ca05e4564b8f687b44.rbxlx",
+    "format": "xml",
+    "size_bytes": 10963455,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/81/81abe73b37f41225338bff214f11fb9f39bab25cbb6455ca05e4564b8f687b44.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Base Wars The land v8.56 (2011 february, complete).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

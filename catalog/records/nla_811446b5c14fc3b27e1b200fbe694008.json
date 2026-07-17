@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "id": "nla_811446b5c14fc3b27e1b200fbe694008",
+  "title": "Robloxaville (June 13th, 2010)",
+  "snapshot": {
+    "label": "June 13th, 2010",
+    "date": "2010-06-13",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239",
+    "path": "levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx",
+    "format": "xml",
+    "size_bytes": 25774144,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Robloxaville (June 13th, 2010).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Robloxaville (June 13th, 2010).meta.json",
+    "legacy_creator": "Playrobot"
+  },
+  "badges": [
+    {
+      "id": 15548282,
+      "name": "Swing Around Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15856668,
+      "name": "I Met Playrobot at Robloxaville",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 18742597,
+      "name": "Robloxaville Driver's License Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 18742607,
+      "name": "Robloxaville Driver's License Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 22480464,
+      "name": "Robloxaville® Super VIP Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 22480493,
+      "name": "Robloxaville Sheriff Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 24620221,
+      "name": "Playrobot's Autograph",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      15548282,
+      15856668,
+      18742597,
+      18742607,
+      22480464,
+      22480493
+    ]
+  },
+  "source": {
+    "root_place_id": 272941,
+    "universe_id": 175934,
+    "name": "Robloxaville",
+    "roblox_url": "https://www.roblox.com/games/272941",
+    "description": "Thanks for playing.",
+    "creator": {
+      "id": 130749,
+      "name": "Playrobot",
+      "type": "User"
+    },
+    "created_at": "2008-03-31T00:24:59.617Z",
+    "updated_at": "2024-07-02T03:36:23.453Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "15548282",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "15856668",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "18742597",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "22480464",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "22480493",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "24620221",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_edc865ce93cbc32fbbef6874a7dbb0a9",
+  "title": "Attack of Titan",
+  "snapshot": {},
+  "blob": {
+    "sha256": "6183ef96d7622983f2a711c2ef551f0ad12488318c31b3e91ed0a8b821211bb9",
+    "path": "levels/sha256/61/6183ef96d7622983f2a711c2ef551f0ad12488318c31b3e91ed0a8b821211bb9.rbxl",
+    "format": "binary",
+    "size_bytes": 468933,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/61/6183ef96d7622983f2a711c2ef551f0ad12488318c31b3e91ed0a8b821211bb9.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Attack of Titan.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

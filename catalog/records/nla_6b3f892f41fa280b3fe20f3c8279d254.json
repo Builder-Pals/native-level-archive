@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "nla_6b3f892f41fa280b3fe20f3c8279d254",
+  "title": "ROBLOX Jeopardy x2 Cash",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a39869f5dec2203baffb7f36dc11bb7cc3d9e6fd5cec164b6a57ddd6fc6de59c",
+    "path": "levels/sha256/a3/a39869f5dec2203baffb7f36dc11bb7cc3d9e6fd5cec164b6a57ddd6fc6de59c.rbxlx",
+    "format": "xml",
+    "size_bytes": 3712896,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a3/a39869f5dec2203baffb7f36dc11bb7cc3d9e6fd5cec164b6a57ddd6fc6de59c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX Jeopardy x2 Cash.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 53368197,
+      "name": "I'm a contestant!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      53368197
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "53368197",
+        "detail": "badge resolves to universe 22201270 and root place 51358387"
+      }
+    ]
+  },
+  "preferred": false
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "nla_a8f413af60d9e601a8d7b6782be47332",
+  "title": "Subway Tycoon (2013)",
+  "snapshot": {
+    "label": "2013",
+    "date": "2013-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "3bd01742ddbb024b49a3a78c7cd0feb2691ba8f1b9876dbf73ecb1d080dec4c1",
+    "path": "levels/sha256/3b/3bd01742ddbb024b49a3a78c7cd0feb2691ba8f1b9876dbf73ecb1d080dec4c1.rbxlx",
+    "format": "xml",
+    "size_bytes": 13275364,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3b/3bd01742ddbb024b49a3a78c7cd0feb2691ba8f1b9876dbf73ecb1d080dec4c1.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Subway Tycoon (2013).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Subway Tycoon (2013).meta.json",
+    "legacy_creator": "1AmyRose1"
+  },
+  "badges": [
+    {
+      "id": 59218188,
+      "name": "Oh, Hi There",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 59218207,
+      "name": "Addict.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 59218230,
+      "name": "Thief",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 59218253,
+      "name": "Vip.",
+      "origin": "embedded"
+    },
+    {
+      "id": 59218269,
+      "name": "Super Vip.",
+      "origin": "embedded"
+    },
+    {
+      "id": 59218279,
+      "name": "Admin.",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      59218188,
+      59218207,
+      59218230,
+      59218253,
+      59218269,
+      59218279
+    ]
+  },
+  "source": {
+    "root_place_id": 3282629,
+    "universe_id": 376440,
+    "name": "Subway Tycoon (2013)",
+    "roblox_url": "https://www.roblox.com/games/3282629",
+    "creator": {
+      "id": 462428,
+      "name": "honkpocket",
+      "type": "User"
+    },
+    "created_at": "2008-08-01T14:38:33.25Z",
+    "updated_at": "2020-07-09T11:59:27.307Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "59218188",
+        "detail": "badge resolves to universe 376440 and root place 3282629"
+      },
+      {
+        "kind": "badge",
+        "value": "59218207",
+        "detail": "badge resolves to universe 376440 and root place 3282629"
+      },
+      {
+        "kind": "badge",
+        "value": "59218230",
+        "detail": "badge resolves to universe 376440 and root place 3282629"
+      },
+      {
+        "kind": "badge",
+        "value": "59218253",
+        "detail": "badge resolves to universe 376440 and root place 3282629"
+      },
+      {
+        "kind": "badge",
+        "value": "59218269",
+        "detail": "badge resolves to universe 376440 and root place 3282629"
+      },
+      {
+        "kind": "badge",
+        "value": "59218279",
+        "detail": "badge resolves to universe 376440 and root place 3282629"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_cee365107a0b19376bc8b69274f061a7",
+  "title": "Chaos Washers (Mid 2010)",
+  "snapshot": {
+    "label": "Mid 2010",
+    "date": "2010-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "65cf5dd8755aafc21d9a4e85e51d986c65ee14466d3a50f486f99138cb1ee61d",
+    "path": "levels/sha256/65/65cf5dd8755aafc21d9a4e85e51d986c65ee14466d3a50f486f99138cb1ee61d.rbxlx",
+    "format": "xml",
+    "size_bytes": 1683387,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/65/65cf5dd8755aafc21d9a4e85e51d986c65ee14466d3a50f486f99138cb1ee61d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Chaos Washers (Mid 2010).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

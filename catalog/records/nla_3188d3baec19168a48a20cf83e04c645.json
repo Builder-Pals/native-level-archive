@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_3188d3baec19168a48a20cf83e04c645",
+  "title": "Shoot the Rapids - Cedar Point",
+  "snapshot": {},
+  "blob": {
+    "sha256": "84f70110fe3cd99b904672032dc099a507fea951d5e8ea6fae6d04b938fae127",
+    "path": "levels/sha256/84/84f70110fe3cd99b904672032dc099a507fea951d5e8ea6fae6d04b938fae127.rbxlx",
+    "format": "xml",
+    "size_bytes": 14397401,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/84/84f70110fe3cd99b904672032dc099a507fea951d5e8ea6fae6d04b938fae127.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Shoot the Rapids - Cedar Point.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

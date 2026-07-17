@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "id": "nla_8fb277025372cc8a14a63739953fe0b8",
+  "title": "The Infection (August 21st, 2012, stolen  in-game)",
+  "snapshot": {
+    "label": "August 21st, 2012, stolen  in-game",
+    "date": "2012-08-21",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "fe84d3f170a45ff2389cbb408e5a5e02b2676a575df592cd02a4fe6974466b84",
+    "path": "levels/sha256/fe/fe84d3f170a45ff2389cbb408e5a5e02b2676a575df592cd02a4fe6974466b84.rbxlx",
+    "format": "xml",
+    "size_bytes": 8961959,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fe/fe84d3f170a45ff2389cbb408e5a5e02b2676a575df592cd02a4fe6974466b84.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Infection (August 21st, 2012, stolen  in-game).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 27064402,
+      "name": "Let's play some pong!",
+      "origin": "embedded"
+    },
+    {
+      "id": 68141353,
+      "name": "You Visited!",
+      "origin": "embedded"
+    },
+    {
+      "id": 69033661,
+      "name": "You Got 10 Points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 69033689,
+      "name": "You Got 100 Points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 69033801,
+      "name": "You Got 500 Points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 69033858,
+      "name": "You Got 10,000 Points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 69033887,
+      "name": "You Got 100,000 Points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 72169451,
+      "name": "You got 1,000 points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73400370,
+      "name": "You got infected!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73400638,
+      "name": "You found the sewer!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73400657,
+      "name": "You found the Secret Badge!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73402096,
+      "name": "You got 25 Points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73402122,
+      "name": "You got 50 points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73402145,
+      "name": "You got 250 points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 73402227,
+      "name": "You got 800 points!",
+      "origin": "embedded"
+    },
+    {
+      "id": 270644042,
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      27064402,
+      68141353,
+      69033661,
+      69033689,
+      69033801,
+      69033858,
+      69033887,
+      72169451,
+      73400370,
+      73400638,
+      73400657,
+      73402096,
+      73402122,
+      73402145,
+      73402227,
+      270644042
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "27064402",
+        "detail": "badge resolves to universe 1237928 and root place 4811465"
+      },
+      {
+        "kind": "badge",
+        "value": "68141353",
+        "detail": "badge resolves to universe 11421159 and root place 64355520"
+      },
+      {
+        "kind": "badge",
+        "value": "69033661",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "69033689",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "69033801",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "69033858",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "69033887",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "72169451",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73400370",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73400638",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73400657",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73402096",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73402122",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73402145",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      },
+      {
+        "kind": "badge",
+        "value": "73402227",
+        "detail": "badge resolves to universe 11421235 and root place 64355505"
+      }
+    ]
+  },
+  "preferred": false
+}

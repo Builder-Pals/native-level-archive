@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - uses: Swatinem/rust-cache@v2
+      - run: cargo fmt --check
+      - run: cargo clippy --all-targets -- -D warnings
+      - run: cargo test
+      - run: cargo run --release -- build
+      - run: cargo run --release -- verify
+      - run: pip install check-jsonschema
+      - run: check-jsonschema --schemafile catalog/schema/record-v1.schema.json catalog/records/*.json
+      - run: check-jsonschema --schemafile catalog/schema/place-index-v1.schema.json place-index-v1.json
+      - run: git diff --exit-code -- catalog-v1.json place-index-v1.json review-queue-v1.json

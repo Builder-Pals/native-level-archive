@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "nla_ee35df932f9ebb9d2de61a471ec3a1b5",
+  "title": "Advanced Warfare Tycoon",
+  "snapshot": {},
+  "blob": {
+    "sha256": "caf04c0060422e8ba1fb744549bb012e05406e20e66e14555f069b57d8f9faaa",
+    "path": "levels/sha256/ca/caf04c0060422e8ba1fb744549bb012e05406e20e66e14555f069b57d8f9faaa.rbxl",
+    "format": "binary",
+    "size_bytes": 945804,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ca/caf04c0060422e8ba1fb744549bb012e05406e20e66e14555f069b57d8f9faaa.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Advanced Warfare Tycoon.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Advanced Warfare Tycoon.meta.json",
+    "legacy_creator": "Zednov"
+  },
+  "badges": [
+    {
+      "id": 199806969,
+      "name": "Apprentice",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 199806590,
+      "name": "You killed berezaa!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 202540128,
+      "name": "Running Wild",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 204566502,
+      "name": "Completed Tycoon",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 204567037,
+      "name": "You're rich!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 204567109,
+      "name": "Met Zednov [Creator!]",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "199806969",
+        "detail": "badge resolves to universe 87126844 and root place 183553588"
+      },
+      {
+        "kind": "badge",
+        "value": "199806590",
+        "detail": "badge resolves to universe 87126844 and root place 183553588"
+      },
+      {
+        "kind": "badge",
+        "value": "202540128",
+        "detail": "badge resolves to universe 87126844 and root place 183553588"
+      },
+      {
+        "kind": "badge",
+        "value": "204566502",
+        "detail": "badge resolves to universe 92332306 and root place 199147143"
+      },
+      {
+        "kind": "badge",
+        "value": "204567037",
+        "detail": "badge resolves to universe 92332306 and root place 199147143"
+      },
+      {
+        "kind": "badge",
+        "value": "204567109",
+        "detail": "badge resolves to universe 92332306 and root place 199147143"
+      }
+    ]
+  },
+  "preferred": false
+}

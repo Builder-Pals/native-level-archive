@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_5ed13e71ec3a662235d7c8ef1da153d4",
+  "title": "The Great Flood (june 2012)",
+  "snapshot": {
+    "label": "june 2012",
+    "date": "2012-06-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "f5257c2482314adc062d23db792788b82a68af4b6d2a916bdc24e0a0062f8696",
+    "path": "levels/sha256/f5/f5257c2482314adc062d23db792788b82a68af4b6d2a916bdc24e0a0062f8696.rbxlx",
+    "format": "xml",
+    "size_bytes": 7530281,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f5/f5257c2482314adc062d23db792788b82a68af4b6d2a916bdc24e0a0062f8696.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Great Flood (june 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

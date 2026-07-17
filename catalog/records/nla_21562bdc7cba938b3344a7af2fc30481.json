@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_21562bdc7cba938b3344a7af2fc30481",
+  "title": "1588 - JAIL OBSTACLE COURSE",
+  "snapshot": {},
+  "blob": {
+    "sha256": "883246538e37069558fa898282ac18ba938d3a19b0831c79652fd55e7a040273",
+    "path": "levels/sha256/88/883246538e37069558fa898282ac18ba938d3a19b0831c79652fd55e7a040273.rbxl",
+    "format": "binary",
+    "size_bytes": 151398,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/88/883246538e37069558fa898282ac18ba938d3a19b0831c79652fd55e7a040273.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1588 - JAIL OBSTACLE COURSE.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

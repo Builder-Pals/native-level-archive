@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_631a90647e90bf25ca5f925621afd9d4",
+  "title": "95 - RANDOM GAME",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1be1846fa0b6039ca7e25fef94034c87dc2bf9e7be1593d56a7e471257762ded",
+    "path": "levels/sha256/1b/1be1846fa0b6039ca7e25fef94034c87dc2bf9e7be1593d56a7e471257762ded.rbxl",
+    "format": "binary",
+    "size_bytes": 527598,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1b/1be1846fa0b6039ca7e25fef94034c87dc2bf9e7be1593d56a7e471257762ded.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/95 - RANDOM GAME.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

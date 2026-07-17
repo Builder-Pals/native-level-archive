@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "nla_89f04b382761fbf2a1fe9e5793f7c915",
+  "title": "Plants VS. ZOMBIES",
+  "snapshot": {},
+  "blob": {
+    "sha256": "55101d4ec0d83d3e973b211b6cc922e517ef45e85224c4ff58f8ccae71cac354",
+    "path": "levels/sha256/55/55101d4ec0d83d3e973b211b6cc922e517ef45e85224c4ff58f8ccae71cac354.rbxlx",
+    "format": "xml",
+    "size_bytes": 3418503,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/55/55101d4ec0d83d3e973b211b6cc922e517ef45e85224c4ff58f8ccae71cac354.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Plants VS. ZOMBIES.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 94551006,
+      "origin": "embedded"
+    },
+    {
+      "id": 94563573,
+      "origin": "embedded"
+    },
+    {
+      "id": 94563592,
+      "origin": "embedded"
+    },
+    {
+      "id": 94563640,
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      94551006,
+      94563573,
+      94563592,
+      94563640
+    ]
+  },
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_4240ebb1a9faca671666041751206474",
+  "title": "Roblox's Top Model (V.1.0.4) Rescripted (2014L)",
+  "snapshot": {
+    "label": "2014L",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "2aafb20a17d162ceaa25d1de84f768d70d95ce470e6d624d01cc581084b17942",
+    "path": "levels/sha256/2a/2aafb20a17d162ceaa25d1de84f768d70d95ce470e6d624d01cc581084b17942.rbxl",
+    "format": "binary",
+    "size_bytes": 98396,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/2a/2aafb20a17d162ceaa25d1de84f768d70d95ce470e6d624d01cc581084b17942.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Roblox's Top Model (V.1.0.4) Rescripted (2014L).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

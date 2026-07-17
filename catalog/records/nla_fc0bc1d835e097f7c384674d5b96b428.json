@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_fc0bc1d835e097f7c384674d5b96b428",
+  "title": "187 - Halloween Zombie Strike",
+  "snapshot": {},
+  "blob": {
+    "sha256": "d55584f8604a0cb4ad00dbd0e70f898655799a8973fdc9dce599e181232282bb",
+    "path": "levels/sha256/d5/d55584f8604a0cb4ad00dbd0e70f898655799a8973fdc9dce599e181232282bb.rbxl",
+    "format": "binary",
+    "size_bytes": 647041,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d5/d55584f8604a0cb4ad00dbd0e70f898655799a8973fdc9dce599e181232282bb.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/187 - Halloween Zombie Strike.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

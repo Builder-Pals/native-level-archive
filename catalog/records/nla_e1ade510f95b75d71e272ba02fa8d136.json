@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_e1ade510f95b75d71e272ba02fa8d136",
+  "title": "2824 - my game",
+  "snapshot": {},
+  "blob": {
+    "sha256": "91e4b5810eefbf44cae2914d9a0389af4341fe5aa85b1429ee682af49291471c",
+    "path": "levels/sha256/91/91e4b5810eefbf44cae2914d9a0389af4341fe5aa85b1429ee682af49291471c.rbxl",
+    "format": "binary",
+    "size_bytes": 140172,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/91/91e4b5810eefbf44cae2914d9a0389af4341fe5aa85b1429ee682af49291471c.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2824 - my game.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_a012712a334300869294878a57daf87c",
+  "title": "Island II (August 30th, 2014)",
+  "snapshot": {
+    "label": "August 30th, 2014",
+    "date": "2014-08-30",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "24b977d25c670b511107f08c9ee3b50fd748ce357eed90954974caa6d9a14b90",
+    "path": "levels/sha256/24/24b977d25c670b511107f08c9ee3b50fd748ce357eed90954974caa6d9a14b90.rbxl",
+    "format": "binary",
+    "size_bytes": 372440,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/24/24b977d25c670b511107f08c9ee3b50fd748ce357eed90954974caa6d9a14b90.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Island II (August 30th, 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

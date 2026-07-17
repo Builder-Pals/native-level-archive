@@ -1,0 +1,1272 @@
+{
+  "schema_version": 1,
+  "id": "nla_e58a2d1b723b71b5894814248b66af1d",
+  "title": "Can you survive a plane crash",
+  "snapshot": {},
+  "blob": {
+    "sha256": "24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f",
+    "path": "levels/sha256/24/24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f.rbxlx",
+    "format": "xml",
+    "size_bytes": 5189008,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/24/24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Can you survive a plane crash.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Can you survive a plane crash.meta.json",
+    "legacy_creator": "Blamsox"
+  },
+  "badges": [
+    {
+      "id": 14421927,
+      "name": "I survived!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15307818,
+      "name": "Blamsox Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15308004,
+      "name": "Swirly Survivor",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15308123,
+      "name": "Gradient Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15308279,
+      "name": "Look closer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15308418,
+      "name": "OHai there",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15308903,
+      "name": "Colors",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15309176,
+      "name": "Is that the plane?",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15309288,
+      "name": "ROLBOX Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15309500,
+      "name": "WyoWin",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15309646,
+      "name": "Random survivor's badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965421,
+      "name": "Q Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965434,
+      "name": "7",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965453,
+      "name": "D:",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965476,
+      "name": "A Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965493,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965496,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965499,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965501,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965503,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965505,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965507,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965509,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965513,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965515,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965517,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965520,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965522,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965528,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965530,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965535,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965538,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965540,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965542,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965544,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965546,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965550,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965552,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965554,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965557,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965560,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965563,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965565,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965567,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965569,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965572,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965576,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965578,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965580,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965583,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965585,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965590,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965593,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965595,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965598,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965602,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965604,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965606,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965614,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17965616,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968041,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968044,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968048,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968053,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968055,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968058,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968061,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968063,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968065,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "embedded"
+    },
+    {
+      "id": 17968067,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "embedded"
+    },
+    {
+      "id": 17968071,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968073,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968075,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968076,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968077,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968078,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968081,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968083,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968085,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968102,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968104,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968107,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968110,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968112,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968114,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968116,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968119,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968122,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968124,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968126,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968129,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968131,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968133,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968135,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968139,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968141,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968149,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968152,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968154,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968198,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968203,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968207,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968209,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968213,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968215,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968218,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968220,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968222,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968224,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968228,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17968230,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17970545,
+      "name": "Blamsox Survivor Badges!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14421927,
+      15307818,
+      15308004,
+      15308123,
+      15308279,
+      15308418,
+      15308903,
+      15309176,
+      15309288,
+      15309500,
+      15309646,
+      17965421,
+      17965434,
+      17965453,
+      17965476,
+      17965493,
+      17965496,
+      17965499,
+      17965501,
+      17965503,
+      17965505,
+      17965507,
+      17965509,
+      17965513,
+      17965515,
+      17965517,
+      17965520,
+      17965522,
+      17965528,
+      17965530,
+      17965535,
+      17965538,
+      17965540,
+      17965542,
+      17965544,
+      17965546,
+      17965550,
+      17965552,
+      17965554,
+      17965557,
+      17965560,
+      17965563,
+      17965565,
+      17965567,
+      17965569,
+      17965572,
+      17965576,
+      17965578,
+      17965580,
+      17965583,
+      17965585,
+      17965590,
+      17965593,
+      17965595,
+      17965598,
+      17965602,
+      17965604,
+      17965606,
+      17965614,
+      17965616,
+      17968041,
+      17968044,
+      17968048,
+      17968053,
+      17968055,
+      17968058,
+      17968061,
+      17968063,
+      17968065,
+      17968067,
+      17968071,
+      17968073,
+      17968076,
+      17968078,
+      17968081,
+      17968083,
+      17968085,
+      17968102,
+      17968104,
+      17968107,
+      17968110,
+      17968112,
+      17968114,
+      17968116,
+      17968119,
+      17968122,
+      17968124,
+      17968126,
+      17968129,
+      17968131,
+      17968133,
+      17968135,
+      17968139,
+      17968141,
+      17968149,
+      17968152,
+      17968154,
+      17968198,
+      17968203,
+      17968207,
+      17968209,
+      17968213,
+      17968215,
+      17968218,
+      17968220,
+      17968222,
+      17968224,
+      17968228,
+      17968230,
+      17970545
+    ]
+  },
+  "source": {
+    "root_place_id": 5893623,
+    "universe_id": 28748093,
+    "name": "☆Lost Desert Warfare☆ ",
+    "roblox_url": "https://www.roblox.com/games/5893623",
+    "description": "Finally, it's here. Simply chat \"Jeep\" to regen Unionist Jeep and chat \"Jeep2\" to regen the Nationalist's jeep. More weapons coming soon. Kill each other in a huge war against the other players. To obtain the Rifle gun, you must acheive 5 KOs, to obtain the Sniper Gun, you must achieve 10 KOs. The pistol is a basic starter. Use the Check Health bar at the top to get a precise amount of health. Click the blue Weapons tab next to it to choose your weapon. Click the reset tab if you ever get stuck and wish to spawn again.",
+    "creator": {
+      "id": 930535,
+      "name": "Blamsox",
+      "type": "User"
+    },
+    "created_at": "2008-11-29T13:43:59.03Z",
+    "updated_at": "2010-06-11T20:46:00.707Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14421927",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15307818",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15308004",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15308123",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15308279",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15308418",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15308903",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15309176",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15309288",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15309500",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "15309646",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965421",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965434",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965453",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965476",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965493",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965496",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965499",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965501",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965503",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965505",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965507",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965509",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965513",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965515",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965517",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965520",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965522",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965528",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965530",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965535",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965538",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965540",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965542",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965544",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965546",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965550",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965552",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965554",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965557",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965560",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965563",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965565",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965567",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965569",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965572",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965576",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965578",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965580",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965583",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965585",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965590",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965593",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965595",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965598",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965602",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965604",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965606",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965614",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17965616",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968041",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968044",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968048",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968053",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968055",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968058",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968061",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968063",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968065",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968067",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968071",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968073",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968076",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968078",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968081",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968083",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968085",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968102",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968104",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968107",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968110",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968112",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968114",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968116",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968119",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968122",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968124",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968126",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968129",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968131",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968133",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968135",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968139",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968141",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968149",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968152",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968154",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968198",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968203",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968207",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968209",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968213",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968215",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968218",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968220",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968222",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968224",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968228",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17968230",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      },
+      {
+        "kind": "badge",
+        "value": "17970545",
+        "detail": "badge resolves to universe 28748093 and root place 5893623"
+      }
+    ]
+  },
+  "preferred": true
+}

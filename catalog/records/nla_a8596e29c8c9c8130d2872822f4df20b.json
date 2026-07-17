@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "id": "nla_a8596e29c8c9c8130d2872822f4df20b",
+  "title": "Deathrun - Run or Die! -@- v1.7",
+  "snapshot": {},
+  "blob": {
+    "sha256": "4bb7b079648f50e14593375d518522c3662d9250f50ce13f4a480dcc0b4ab35a",
+    "path": "levels/sha256/4b/4bb7b079648f50e14593375d518522c3662d9250f50ce13f4a480dcc0b4ab35a.rbxlx",
+    "format": "xml",
+    "size_bytes": 26150452,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/4b/4bb7b079648f50e14593375d518522c3662d9250f50ce13f4a480dcc0b4ab35a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Deathrun - Run or Die! -@- v1.7.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Deathrun - Run or Die! -@- v1.7.meta.json",
+    "legacy_creator": "erikwesley96"
+  },
+  "badges": [
+    {
+      "id": 64435096,
+      "name": "You met the Creator",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435174,
+      "name": "You met the scripter",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435220,
+      "name": "Be a runner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435272,
+      "name": "Be a killer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435324,
+      "name": "You visited deathrun",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435395,
+      "name": "500 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435448,
+      "name": "100 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435478,
+      "name": "5.000 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435510,
+      "name": "1.000 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435530,
+      "name": "10.000 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435560,
+      "name": "20.000 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435595,
+      "name": "50.000 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435635,
+      "name": "100.000 Points badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435662,
+      "name": "Bronze medal of winning",
+      "origin": "embedded"
+    },
+    {
+      "id": 64435735,
+      "name": "Gold medal of winning",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64435786,
+      "name": "Silver medal of winning",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64794538,
+      "name": "VIP Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64795267,
+      "name": "Halloween Event Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 69081460,
+      "name": "1.000.000 Visits - Limited Edition",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 69081535,
+      "name": "Happy New Year! - Limited Edition",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      64435096,
+      64435174,
+      64435220,
+      64435272,
+      64435324,
+      64435395,
+      64435448,
+      64435478,
+      64435510,
+      64435530,
+      64435560,
+      64435595,
+      64435635,
+      64435662,
+      64435735,
+      64435786,
+      64794538,
+      64795267,
+      69081460,
+      69081535
+    ]
+  },
+  "source": {
+    "root_place_id": 6602652,
+    "universe_id": 26146551,
+    "name": "Deathrun 2",
+    "roblox_url": "https://www.roblox.com/games/6602652",
+    "description": "This game is now closed due to various bugs breaking the game.. sorry\r\n\r\nPlay the newest version of Deathrun here:\r\nhttps://www.roblox.com/games/206640076/Roblox-Deathrun",
+    "creator": {
+      "id": 1852246,
+      "name": "Wsly",
+      "type": "User"
+    },
+    "created_at": "2008-12-26T14:17:06.1Z",
+    "updated_at": "2021-11-04T11:54:34.36Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "64435096",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435174",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435220",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435272",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435324",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435395",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435448",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435478",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435510",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435530",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435560",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435595",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435635",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435662",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435735",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64435786",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64794538",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "64795267",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "69081460",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      },
+      {
+        "kind": "badge",
+        "value": "69081535",
+        "detail": "badge resolves to universe 26146551 and root place 6602652"
+      }
+    ]
+  },
+  "preferred": false
+}

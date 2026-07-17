@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_9f800d8ca959adf226b9702367af69aa",
+  "title": "Welcome to ROBLOX Building (4.1.13)",
+  "snapshot": {
+    "label": "4.1.13"
+  },
+  "blob": {
+    "sha256": "f2acf79b0a95df212a8c389d29879472074dca6f977ba659fdcc160d6814aaa2",
+    "path": "levels/sha256/f2/f2acf79b0a95df212a8c389d29879472074dca6f977ba659fdcc160d6814aaa2.rbxlx",
+    "format": "xml",
+    "size_bytes": 2610437,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f2/f2acf79b0a95df212a8c389d29879472074dca6f977ba659fdcc160d6814aaa2.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Welcome to ROBLOX Building (4.1.13).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

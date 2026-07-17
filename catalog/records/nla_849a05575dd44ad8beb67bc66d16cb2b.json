@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_849a05575dd44ad8beb67bc66d16cb2b",
+  "title": "PEARS to PAIRS Card Game",
+  "snapshot": {},
+  "blob": {
+    "sha256": "147cdd90a84dfc03d8bf828dc6e864612e0ec9e978a4e2a7fbfaf27563d86dae",
+    "path": "levels/sha256/14/147cdd90a84dfc03d8bf828dc6e864612e0ec9e978a4e2a7fbfaf27563d86dae.rbxlx",
+    "format": "xml",
+    "size_bytes": 1782143,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/14/147cdd90a84dfc03d8bf828dc6e864612e0ec9e978a4e2a7fbfaf27563d86dae.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "PEARS to PAIRS Card Game.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

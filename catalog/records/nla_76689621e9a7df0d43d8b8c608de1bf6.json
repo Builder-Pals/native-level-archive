@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_76689621e9a7df0d43d8b8c608de1bf6",
+  "title": "The Iron Cafe (4th of July Edition, restored)",
+  "snapshot": {
+    "label": "4th of July Edition, restored"
+  },
+  "blob": {
+    "sha256": "f781b461737ddcb0af50d434ec5c011232ee6e199c908459a651364166aa0183",
+    "path": "levels/sha256/f7/f781b461737ddcb0af50d434ec5c011232ee6e199c908459a651364166aa0183.rbxlx",
+    "format": "xml",
+    "size_bytes": 5188776,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f7/f781b461737ddcb0af50d434ec5c011232ee6e199c908459a651364166aa0183.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Iron Cafe (4th of July Edition, restored).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

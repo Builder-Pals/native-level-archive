@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_19176ae23302eecb6e8c2d0c4226e216",
+  "title": "Nuke The Whales! WHALE APOCHALYPSE!!!!! (January 15th, 2008)",
+  "snapshot": {
+    "label": "January 15th, 2008",
+    "date": "2008-01-15",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "e95624ed40980f6fdaff1d2e25742b0e0bcd95f20fcf7003920369be526a6f53",
+    "path": "levels/sha256/e9/e95624ed40980f6fdaff1d2e25742b0e0bcd95f20fcf7003920369be526a6f53.rbxlx",
+    "format": "xml",
+    "size_bytes": 1244318,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e9/e95624ed40980f6fdaff1d2e25742b0e0bcd95f20fcf7003920369be526a6f53.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Nuke The Whales! WHALE APOCHALYPSE!!!!! (January 15th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

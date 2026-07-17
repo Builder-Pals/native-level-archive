@@ -1,0 +1,379 @@
+{
+  "schema_version": 1,
+  "id": "nla_b8544f7a76bf983af1870cc594964d56",
+  "title": "ROBLOX Titanic v9.17 (August 2012, authentic copy)",
+  "snapshot": {
+    "label": "August 2012, authentic copy",
+    "date": "2012-08-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "9284ef8adc2eaf3bdfcd419a8afe26dd34a555d10b546a40c07a1689dc4fa67e",
+    "path": "levels/sha256/92/9284ef8adc2eaf3bdfcd419a8afe26dd34a555d10b546a40c07a1689dc4fa67e.rbxlx",
+    "format": "xml",
+    "size_bytes": 22935318,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/92/9284ef8adc2eaf3bdfcd419a8afe26dd34a555d10b546a40c07a1689dc4fa67e.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX Titanic v9.17 (August 2012, authentic copy).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "ROBLOX Titanic v9.17 (August 2012, authentic copy).meta.json",
+    "legacy_creator": "TheAmazeman"
+  },
+  "badges": [
+    {
+      "id": 16324312,
+      "origin": "embedded"
+    },
+    {
+      "id": 16324596,
+      "origin": "embedded"
+    },
+    {
+      "id": 16483235,
+      "name": "Death by Funnel",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16483517,
+      "name": "Loyal Crew Member",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16483999,
+      "origin": "embedded"
+    },
+    {
+      "id": 16484085,
+      "name": "Captain Amaze",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 17834307,
+      "name": "Survior Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 18498433,
+      "name": "Drown",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 18498522,
+      "name": "Unlucky Coal Worker",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 18498644,
+      "name": "Smashed by Stern",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 18498730,
+      "name": "Captain Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 19116463,
+      "name": "1st Class Passenger",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 21030559,
+      "name": "Survive a Whole Round ",
+      "origin": "embedded"
+    },
+    {
+      "id": 21030931,
+      "name": "Survive a Whole Round",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 21353687,
+      "name": "Epic Win Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 23859972,
+      "name": "Titanic Addict",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 47041455,
+      "name": "Rtanic (TheAmazeman's Games Group Badge)",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51198449,
+      "name": "Play For a Day",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66099696,
+      "name": "Cold Feet",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77540445,
+      "name": "3rd Class Passenger",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77541259,
+      "name": "Ice Berg Hit",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77541774,
+      "name": "Ice Berg Right Ahead",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77542230,
+      "name": "Locked Gate",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77542449,
+      "name": "King of the World!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77542882,
+      "name": "Bow Overflow",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77547566,
+      "name": "Slip",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77553252,
+      "name": "Fall in Titanic's Split",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77553333,
+      "name": "Broken Dome",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77554153,
+      "name": "Hypothermia",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 77554636,
+      "name": "Final Plunge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88784902,
+      "name": "Tea Sipping Expert",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      16324312,
+      16324596,
+      16483235,
+      16483517,
+      16483999,
+      16484085,
+      17834307,
+      18498433,
+      18498522,
+      18498644,
+      18498730,
+      19116463,
+      21030559,
+      21030931,
+      21353687,
+      23859972,
+      47041455,
+      51198449,
+      66099696,
+      77540445,
+      77541259,
+      77541774,
+      77542230,
+      77542449,
+      77542882,
+      77547566,
+      77553252,
+      77553333,
+      77554153,
+      77554636,
+      88784902
+    ]
+  },
+  "source": {
+    "root_place_id": 4458424,
+    "universe_id": 828855,
+    "name": "Roblox Titanic Classic",
+    "roblox_url": "https://www.roblox.com/games/4458424",
+    "description": "Play the modern Roblox Titanic\r\nhttps://www.roblox.com/games/294790062/Roblox-Titanic\r\n\r\nThis game ran its course August 2009 to December 2015. \r\nThanks to everyone who played it.  Roblox was just in its infancy and this game has grown along with Roblox.  It was made without a security feature, due to being built before that feature even existed, and Roblox has made it mandatory as of July 2018.\r\n\r\nYou can actually get to a barebones version of this game by playing Roblox Titanic 2.0 (link above) and finding the option in the lobby gallery hallway.  You will see an option to play Roblox Titanic Classic.  It will not be the same, but you can explore the ship and experience the sinking.\r\n  \r\n",
+    "creator": {
+      "id": 1141336,
+      "name": "TheAmazeman",
+      "type": "User"
+    },
+    "created_at": "2008-09-24T22:19:47.3Z",
+    "updated_at": "2018-11-18T07:41:32.993Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "16483235",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "16483517",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "16484085",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "17834307",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "18498433",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "18498522",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "18498644",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "18498730",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "19116463",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "21030559",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "21030931",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "21353687",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "23859972",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "47041455",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "51198449",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "66099696",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77540445",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77541259",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77541774",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77542230",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77542449",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77542882",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77547566",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77553252",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77553333",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77554153",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "77554636",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      },
+      {
+        "kind": "badge",
+        "value": "88784902",
+        "detail": "badge resolves to universe 828855 and root place 4458424"
+      }
+    ]
+  },
+  "preferred": true
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_6f4b208c85f559e2df75a22aadf48338",
+  "title": "Super Smash Bros ROBLOX (2014L)",
+  "snapshot": {
+    "label": "2014L",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "de38b3ceb0904fac7c54c7bacdd8e7a6f1c76fc70583edb8ce150cddc56179e7",
+    "path": "levels/sha256/de/de38b3ceb0904fac7c54c7bacdd8e7a6f1c76fc70583edb8ce150cddc56179e7.rbxl",
+    "format": "binary",
+    "size_bytes": 390508,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/de/de38b3ceb0904fac7c54c7bacdd8e7a6f1c76fc70583edb8ce150cddc56179e7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Super Smash Bros ROBLOX (2014L).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

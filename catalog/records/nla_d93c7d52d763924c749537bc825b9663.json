@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "id": "nla_d93c7d52d763924c749537bc825b9663",
+  "title": "Apples to Apples Card Game (August 2012)",
+  "snapshot": {
+    "label": "August 2012",
+    "date": "2012-08-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "08f59193e48c6754e7ccb3804b4a92f7eb10e11e8e9291a4af6cb6a472baf4f1",
+    "path": "levels/sha256/08/08f59193e48c6754e7ccb3804b4a92f7eb10e11e8e9291a4af6cb6a472baf4f1.rbxlx",
+    "format": "xml",
+    "size_bytes": 1324404,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/08/08f59193e48c6754e7ccb3804b4a92f7eb10e11e8e9291a4af6cb6a472baf4f1.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Apples to Apples Card Game (August 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 30895086,
+      "name": "[ Content Deleted ]",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      30895086
+    ],
+    "teleport_place_ids": [
+      19683989
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "30895086",
+        "detail": "badge resolves to universe 3368158 and root place 13536949"
+      }
+    ]
+  },
+  "preferred": false
+}

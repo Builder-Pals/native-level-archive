@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "id": "nla_9c75fbcedbb8b4c64ca91784ca6d6498",
+  "title": "R.U.N",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c4e9ee6429c13472cda7072e8197b298e7f678facfac2be197ecff65efb3f471",
+    "path": "levels/sha256/c4/c4e9ee6429c13472cda7072e8197b298e7f678facfac2be197ecff65efb3f471.rbxlx",
+    "format": "xml",
+    "size_bytes": 42560426,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c4/c4e9ee6429c13472cda7072e8197b298e7f678facfac2be197ecff65efb3f471.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "R.U.N.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "R.U.N.meta.json",
+    "legacy_creator": "MP187211"
+  },
+  "badges": [
+    {
+      "id": 46508265,
+      "name": "Thanks for Playing",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 46509439,
+      "name": "MEGA VIP BADGE",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 46509509,
+      "name": "YOU MET ME",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 46509612,
+      "name": "2 HOUR BADGE",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 46509734,
+      "name": "HIDDEN LIGHTNING BADGE",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 47075945,
+      "name": "In Memory of Her0z 1 HOUR",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 47151306,
+      "name": "HIDDEN BADGE 1",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 47253877,
+      "name": "WOW WOW WOW WOW WOW WOW WOW WOW",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 47254370,
+      "name": "I GET  OMG OMG OMG 6 HOUR BADGE",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      46508265,
+      46509439,
+      46509509,
+      46509734,
+      47151306
+    ]
+  },
+  "source": {
+    "root_place_id": 42101650,
+    "universe_id": 15910025,
+    "name": "RUN",
+    "roblox_url": "https://www.roblox.com/games/42101650",
+    "description": "i currently dont have BC but when i get it back the badges will work again. thanks for the patience...\r\n\r\n------------------------------------------------------------------------------\r\n",
+    "creator": {
+      "id": 2016559,
+      "name": "MP187211",
+      "type": "User"
+    },
+    "created_at": "2010-12-14T21:54:22.9Z",
+    "updated_at": "2016-11-12T21:08:12.11Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "46508265",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "46509439",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "46509509",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "46509612",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "46509734",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "47075945",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "47151306",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "47253877",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      },
+      {
+        "kind": "badge",
+        "value": "47254370",
+        "detail": "badge resolves to universe 15910025 and root place 42101650"
+      }
+    ]
+  },
+  "preferred": true
+}

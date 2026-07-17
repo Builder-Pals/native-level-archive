@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_ba14a1c7c09dd04382b9215a3b81bdcd",
+  "title": "Dodge the Teapots of Doom!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "09b9bd7fefed13c40f12e73793f8fd2463a928dc8bdc3b7fcad6d03ae4aa778b",
+    "path": "levels/sha256/09/09b9bd7fefed13c40f12e73793f8fd2463a928dc8bdc3b7fcad6d03ae4aa778b.rbxlx",
+    "format": "xml",
+    "size_bytes": 174598,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/09/09b9bd7fefed13c40f12e73793f8fd2463a928dc8bdc3b7fcad6d03ae4aa778b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Dodge the Teapots of Doom!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

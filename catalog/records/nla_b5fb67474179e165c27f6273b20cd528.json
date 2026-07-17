@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_b5fb67474179e165c27f6273b20cd528",
+  "title": "Endless Cart Ride (ADMIN)",
+  "snapshot": {
+    "label": "ADMIN"
+  },
+  "blob": {
+    "sha256": "0eded0f2309ffaef8cae0121c0784fba1e8df57a1162d833f208aae839d42394",
+    "path": "levels/sha256/0e/0eded0f2309ffaef8cae0121c0784fba1e8df57a1162d833f208aae839d42394.rbxlx",
+    "format": "xml",
+    "size_bytes": 8417857,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0e/0eded0f2309ffaef8cae0121c0784fba1e8df57a1162d833f208aae839d42394.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Endless Cart Ride (ADMIN).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

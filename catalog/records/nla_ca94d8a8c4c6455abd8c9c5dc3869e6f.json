@@ -1,0 +1,1266 @@
+{
+  "schema_version": 1,
+  "id": "nla_ca94d8a8c4c6455abd8c9c5dc3869e6f",
+  "title": "The Tales of Kitteh's Cape RPG v3.6b3 (March 15th, 2012)",
+  "snapshot": {
+    "label": "March 15th, 2012",
+    "date": "2012-03-15",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "9b1d7709308f6a937474b1f4ca0783d2b6870412119b6c02b7b13ac1f78a9060",
+    "path": "levels/sha256/9b/9b1d7709308f6a937474b1f4ca0783d2b6870412119b6c02b7b13ac1f78a9060.rbxlx",
+    "format": "xml",
+    "size_bytes": 26173609,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/9b/9b1d7709308f6a937474b1f4ca0783d2b6870412119b6c02b7b13ac1f78a9060.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Tales of Kitteh's Cape RPG v3.6b3 (March 15th, 2012).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "The Tales of Kitteh's Cape RPG v3.6b3 (March 15th, 2012).meta.json",
+    "legacy_creator": "RangeMeludE"
+  },
+  "badges": [
+    {
+      "id": 28706251,
+      "origin": "embedded"
+    },
+    {
+      "id": 28706622,
+      "origin": "embedded"
+    },
+    {
+      "id": 28709219,
+      "name": "Veteran",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709349,
+      "name": "Warrior",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709381,
+      "name": "Your New Journey",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709428,
+      "name": "Hero",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709547,
+      "name": "Hero of the Desert",
+      "origin": "embedded"
+    },
+    {
+      "id": 28709609,
+      "name": "Champion",
+      "origin": "embedded"
+    },
+    {
+      "id": 28711423,
+      "name": "Rich, Richer, Richest",
+      "origin": "embedded"
+    },
+    {
+      "id": 28712066,
+      "name": "Legend of the Sky",
+      "origin": "embedded"
+    },
+    {
+      "id": 28749171,
+      "name": "The Mystery Stranger",
+      "origin": "embedded"
+    },
+    {
+      "id": 28750887,
+      "name": "Let The Fight Begin!",
+      "origin": "embedded"
+    },
+    {
+      "id": 28851243,
+      "origin": "embedded"
+    },
+    {
+      "id": 28852026,
+      "name": "Warlord",
+      "origin": "embedded"
+    },
+    {
+      "id": 28909014,
+      "name": "A New Dragon Legend",
+      "origin": "embedded"
+    },
+    {
+      "id": 29105759,
+      "name": "Never Give Up",
+      "origin": "embedded"
+    },
+    {
+      "id": 29387460,
+      "name": "Return Of The Shadow Giant",
+      "origin": "embedded"
+    },
+    {
+      "id": 29634624,
+      "name": "Time Traveler",
+      "origin": "embedded"
+    },
+    {
+      "id": 29926412,
+      "name": "Frost Dragon Slayer",
+      "origin": "embedded"
+    },
+    {
+      "id": 30004057,
+      "name": "Master of Accuracy",
+      "origin": "embedded"
+    },
+    {
+      "id": 30060319,
+      "origin": "embedded"
+    },
+    {
+      "id": 30414388,
+      "name": "Explorer",
+      "origin": "embedded"
+    },
+    {
+      "id": 32904528,
+      "name": "Royal Warlord",
+      "origin": "embedded"
+    },
+    {
+      "id": 34972223,
+      "name": "Level 5 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972229,
+      "name": "Level 10 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972234,
+      "name": "Level 15 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972264,
+      "name": "Level 20 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972285,
+      "name": "Level 25 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972304,
+      "name": "50 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972312,
+      "name": "100 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972365,
+      "name": "500 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972381,
+      "name": "2000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972408,
+      "name": "5000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972426,
+      "name": "10000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972459,
+      "name": "25000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972482,
+      "name": "50000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34972506,
+      "name": "100000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34998620,
+      "name": "Dominus Fulmen",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 34998692,
+      "name": "Dominus Flamma",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 36471314,
+      "name": "The Golden Skull",
+      "origin": "embedded"
+    },
+    {
+      "id": 37588384,
+      "name": "Level 30 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37588445,
+      "name": "Level 35 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37588983,
+      "name": "Level 40 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37698046,
+      "name": "Level 45 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37698093,
+      "name": "Level 50 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37698136,
+      "name": "200000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37717898,
+      "name": "Dominus Ultimus",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37791416,
+      "name": "Crystal Ultimus",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37871540,
+      "name": "Level 55 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 37871590,
+      "name": "Level 60 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 38104870,
+      "name": "Level 65 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 38104935,
+      "name": "Level 70 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 38522424,
+      "name": "Level 75 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 38522466,
+      "name": "Level 80 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42858882,
+      "name": "Level 85 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 42859041,
+      "name": "Level 90 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43651500,
+      "name": "The Secret Of Ikrelath",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44082369,
+      "name": "350000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44082585,
+      "name": "Level 95 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44083306,
+      "name": "Level 100 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44544094,
+      "name": "Aduro, Titan Of Destruction",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44614920,
+      "name": "Level 110 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44615377,
+      "name": "Level 120 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44615565,
+      "name": "500000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44747831,
+      "name": "Xar-Tul, The Evil Mage",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44750954,
+      "name": "Level 130 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44832993,
+      "name": "Level 140 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 44851357,
+      "name": "750000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 45090939,
+      "name": "Level 150 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 54844302,
+      "name": "Level 160 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 54845086,
+      "name": "The Goldhunter",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55285329,
+      "name": "Commander Alvericus",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55383637,
+      "name": "1000000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55455292,
+      "name": "Yaxocieus Spirit",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55583770,
+      "name": "Level 170 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55583793,
+      "name": "Level 180 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55583811,
+      "name": "Level 190 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55583841,
+      "name": "Level 200 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 55583910,
+      "name": "Hero",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 57854770,
+      "name": "Champion",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 58631263,
+      "name": "Ermugath",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60111427,
+      "name": "Invicta",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60115645,
+      "name": "Level 2 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322074,
+      "name": "5 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322139,
+      "name": "20 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322180,
+      "name": "50 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322217,
+      "name": "100 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322291,
+      "name": "200 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322323,
+      "name": "500 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322351,
+      "name": "1000 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322384,
+      "name": "2000 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322443,
+      "name": "5000 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60322494,
+      "name": "10000 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60486278,
+      "name": "Level 210 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60486290,
+      "name": "Level 220 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60486309,
+      "name": "Level 230 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60486332,
+      "name": "Level 240 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60486344,
+      "name": "Level 250 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60518281,
+      "name": "7500 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 60587864,
+      "name": "3500 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61251534,
+      "name": "Heart of Lordship",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61833478,
+      "name": "Level 260 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61833496,
+      "name": "Level 270 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61833509,
+      "name": "Level 280 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61833524,
+      "name": "Level 290 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61833586,
+      "name": "Level 300 Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 61953983,
+      "name": "Legendary Hero",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66613025,
+      "name": "Welcome!",
+      "origin": "embedded"
+    },
+    {
+      "id": 66829824,
+      "name": "Quest: Save Turbas",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66830040,
+      "name": "Quest: Unsafe Swamp",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66881535,
+      "name": "Quest: Challenge of the Protagonist",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66882524,
+      "name": "12500 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66882599,
+      "name": "15000 Tokens Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 67536190,
+      "name": "Quest: Mummy Invasion",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 67767233,
+      "name": "The Ultimate Challenge",
+      "origin": "embedded"
+    },
+    {
+      "id": 67918629,
+      "name": "Quest: One Less Evil Leader",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 68431458,
+      "name": "Santa Claws (EVENT)",
+      "origin": "embedded"
+    },
+    {
+      "id": 68441326,
+      "name": "Right Half Christmas Gift",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 68441567,
+      "name": "Left Half Christmas Gift",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 68463105,
+      "name": "Christmas Achievement 2011",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 69707083,
+      "name": "1500000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 69707100,
+      "name": "1250000 Gold Achievement",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      28706251,
+      28706622,
+      28709219,
+      28709349,
+      28709381,
+      28709428,
+      28709547,
+      28709609,
+      28711423,
+      28712066,
+      28749171,
+      28750887,
+      28851243,
+      28852026,
+      28909014,
+      29105759,
+      29387460,
+      29634624,
+      29926412,
+      30004057,
+      30060319,
+      30414388,
+      32904528,
+      36471314,
+      66613025,
+      66829824,
+      67767233,
+      68431458
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "28709219",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709349",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709381",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709428",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709547",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28709609",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28711423",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28712066",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28749171",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28750887",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28852026",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "28909014",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29105759",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29387460",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29634624",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "29926412",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "30004057",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "30414388",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "32904528",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "34972223",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972229",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972234",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972264",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972285",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972304",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972312",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972365",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972381",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972408",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972426",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972459",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972482",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34972506",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34998620",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "34998692",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "36471314",
+        "detail": "badge resolves to universe 30768728 and root place 5348734"
+      },
+      {
+        "kind": "badge",
+        "value": "37588384",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37588445",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37588983",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37698046",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37698093",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37698136",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37717898",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37791416",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37871540",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "37871590",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "38104870",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "38104935",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "38522424",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "38522466",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "42858882",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "42859041",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "43651500",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44082369",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44082585",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44083306",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44544094",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44614920",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44615377",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44615565",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44747831",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44750954",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44832993",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "44851357",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "45090939",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "54844302",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "54845086",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55285329",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55383637",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55455292",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55583770",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55583793",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55583811",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55583841",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "55583910",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "57854770",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "58631263",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60111427",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60115645",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322074",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322139",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322180",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322217",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322291",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322323",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322351",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322384",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322443",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60322494",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60486278",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60486290",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60486309",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60486332",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60486344",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60518281",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "60587864",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61251534",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61833478",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61833496",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61833509",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61833524",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61833586",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "61953983",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "66613025",
+        "detail": "badge resolves to universe 9637743 and root place 43862313"
+      },
+      {
+        "kind": "badge",
+        "value": "66829824",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "66830040",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "66881535",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "66882524",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "66882599",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "67536190",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "67767233",
+        "detail": "badge resolves to universe 9637743 and root place 43862313"
+      },
+      {
+        "kind": "badge",
+        "value": "67918629",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "68431458",
+        "detail": "badge resolves to universe 9637743 and root place 43862313"
+      },
+      {
+        "kind": "badge",
+        "value": "68441326",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "68441567",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "68463105",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "69707083",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      },
+      {
+        "kind": "badge",
+        "value": "69707100",
+        "detail": "badge resolves to universe 10303841 and root place 34972152"
+      }
+    ]
+  },
+  "preferred": false
+}

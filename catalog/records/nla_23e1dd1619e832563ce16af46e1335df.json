@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_23e1dd1619e832563ce16af46e1335df",
+  "title": "1122 - Minecraft Testing",
+  "snapshot": {},
+  "blob": {
+    "sha256": "48571c4dda0d7cac4c338a8b21cff0db9f85e3d41ecefdcd5ff400b1153c0c83",
+    "path": "levels/sha256/48/48571c4dda0d7cac4c338a8b21cff0db9f85e3d41ecefdcd5ff400b1153c0c83.rbxl",
+    "format": "binary",
+    "size_bytes": 176291,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/48/48571c4dda0d7cac4c338a8b21cff0db9f85e3d41ecefdcd5ff400b1153c0c83.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/1122 - Minecraft Testing.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

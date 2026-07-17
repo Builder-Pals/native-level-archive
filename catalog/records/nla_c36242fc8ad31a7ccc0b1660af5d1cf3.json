@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_c36242fc8ad31a7ccc0b1660af5d1cf3",
+  "title": "2016 Starter Place",
+  "snapshot": {
+    "date": "2016-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "0cf4231de0f119ddeec73662321706eabffd6c2fd4dc49b6dbaafb82cfb8aaf1",
+    "path": "levels/sha256/0c/0cf4231de0f119ddeec73662321706eabffd6c2fd4dc49b6dbaafb82cfb8aaf1.rbxl",
+    "format": "binary",
+    "size_bytes": 310859,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0c/0cf4231de0f119ddeec73662321706eabffd6c2fd4dc49b6dbaafb82cfb8aaf1.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "2016 Starter Place.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_23301affe9b5b9a5350b98f81ff54ce8",
+  "title": "Reason 2 Die (April 26th, 2014)",
+  "snapshot": {
+    "label": "April 26th, 2014",
+    "date": "2014-04-26",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "98c5ed91e9dd2111d4a3c6b1c7599be19d2897e67be4a5b93f9c661e3b807cf8",
+    "path": "levels/sha256/98/98c5ed91e9dd2111d4a3c6b1c7599be19d2897e67be4a5b93f9c661e3b807cf8.rbxl",
+    "format": "binary",
+    "size_bytes": 517494,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/98/98c5ed91e9dd2111d4a3c6b1c7599be19d2897e67be4a5b93f9c661e3b807cf8.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Reason 2 Die (April 26th, 2014).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

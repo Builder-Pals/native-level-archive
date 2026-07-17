@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_bf88921edc2e6cc9884a3dd358bee31a",
+  "title": "507 - Flood Escape 2",
+  "snapshot": {},
+  "blob": {
+    "sha256": "83eb05eaebea6a49eeade0b7667c196d1cd1df9dccc7c43f12d00d390c287ea4",
+    "path": "levels/sha256/83/83eb05eaebea6a49eeade0b7667c196d1cd1df9dccc7c43f12d00d390c287ea4.rbxl",
+    "format": "binary",
+    "size_bytes": 2712583,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/83/83eb05eaebea6a49eeade0b7667c196d1cd1df9dccc7c43f12d00d390c287ea4.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/507 - Flood Escape 2.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

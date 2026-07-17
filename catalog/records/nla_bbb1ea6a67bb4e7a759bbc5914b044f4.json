@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "id": "nla_bbb1ea6a67bb4e7a759bbc5914b044f4",
+  "title": "Slime Apocalypse Resurrection",
+  "snapshot": {},
+  "blob": {
+    "sha256": "5e1a1ccf890a7848befd8fb3c8f8b3788990434d6b56b7a55ccaf2544d362f6a",
+    "path": "levels/sha256/5e/5e1a1ccf890a7848befd8fb3c8f8b3788990434d6b56b7a55ccaf2544d362f6a.rbxlx",
+    "format": "xml",
+    "size_bytes": 4510480,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5e/5e1a1ccf890a7848befd8fb3c8f8b3788990434d6b56b7a55ccaf2544d362f6a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Slime Apocalypse Resurrection.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 49433215,
+      "name": "which way?!?!?!!?!?",
+      "origin": "embedded"
+    },
+    {
+      "id": 49433329,
+      "name": "YOU GOT 2 TEH TOP U MUST BE SUPA SAYIAN!",
+      "origin": "embedded"
+    },
+    {
+      "id": 51207256,
+      "name": "swimming!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      49433215,
+      49433329,
+      51207256
+    ]
+  },
+  "source": {
+    "root_place_id": 47792164,
+    "universe_id": 36343505,
+    "name": "Slime Apocalypse: Resurrection 1.0.6",
+    "roblox_url": "https://www.roblox.com/games/47792164",
+    "creator": {
+      "id": 13797965,
+      "name": "DrRichtofer",
+      "type": "User"
+    },
+    "created_at": "2011-03-13T00:11:33.493Z",
+    "updated_at": "2017-02-13T00:10:14.007Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "49433215",
+        "detail": "badge resolves to universe 36343505 and root place 47792164"
+      },
+      {
+        "kind": "badge",
+        "value": "49433329",
+        "detail": "badge resolves to universe 36343505 and root place 47792164"
+      },
+      {
+        "kind": "badge",
+        "value": "51207256",
+        "detail": "badge resolves to universe 36343505 and root place 47792164"
+      }
+    ]
+  },
+  "preferred": true
+}

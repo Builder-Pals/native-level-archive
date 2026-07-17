@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_447245e49e6d8a3d99b2171b37f7babf",
+  "title": "2995 - Escape of Vicente",
+  "snapshot": {},
+  "blob": {
+    "sha256": "1ecfc1972e8eff839f6423c4222e9a64e2b7bfae2df4a1f23ca5eb471f78714b",
+    "path": "levels/sha256/1e/1ecfc1972e8eff839f6423c4222e9a64e2b7bfae2df4a1f23ca5eb471f78714b.rbxl",
+    "format": "binary",
+    "size_bytes": 108072,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1e/1ecfc1972e8eff839f6423c4222e9a64e2b7bfae2df4a1f23ca5eb471f78714b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2995 - Escape of Vicente.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

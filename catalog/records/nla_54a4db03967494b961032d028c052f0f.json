@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_54a4db03967494b961032d028c052f0f",
+  "title": "pogo_enviroment_v1 (2008L)",
+  "snapshot": {
+    "label": "2008L",
+    "date": "2008-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "b57f681b2efac12f43e3a8276076e0b19483f7091dddba28fc9d2a05c53c4af3",
+    "path": "levels/sha256/b5/b57f681b2efac12f43e3a8276076e0b19483f7091dddba28fc9d2a05c53c4af3.rbxlx",
+    "format": "xml",
+    "size_bytes": 8185458,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b5/b57f681b2efac12f43e3a8276076e0b19483f7091dddba28fc9d2a05c53c4af3.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "pogo_enviroment_v1 (2008L).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

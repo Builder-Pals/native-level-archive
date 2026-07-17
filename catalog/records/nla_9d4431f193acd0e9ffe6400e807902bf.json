@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_9d4431f193acd0e9ffe6400e807902bf",
+  "title": "Insta-gib Fight in the Fog (January 25th, 2009)",
+  "snapshot": {
+    "label": "January 25th, 2009",
+    "date": "2009-01-25",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "62ffffb9b4c1765de23ff30a9491784efedf7dc9dfe67fe5dc764f1f68e54118",
+    "path": "levels/sha256/62/62ffffb9b4c1765de23ff30a9491784efedf7dc9dfe67fe5dc764f1f68e54118.rbxlx",
+    "format": "xml",
+    "size_bytes": 1508977,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/62/62ffffb9b4c1765de23ff30a9491784efedf7dc9dfe67fe5dc764f1f68e54118.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Insta-gib Fight in the Fog (January 25th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

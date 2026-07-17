@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "id": "nla_cdf09aabd905c37bc34f0e3924e74aa7",
+  "title": "Zombies are Attacking McDonalds may 2012",
+  "snapshot": {
+    "date": "2012-05-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "937df3643acf0fe815f6a557032d6acf5f82f544e9ee27264e801f4ee6294c02",
+    "path": "levels/sha256/93/937df3643acf0fe815f6a557032d6acf5f82f544e9ee27264e801f4ee6294c02.rbxlx",
+    "format": "xml",
+    "size_bytes": 9630056,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/93/937df3643acf0fe815f6a557032d6acf5f82f544e9ee27264e801f4ee6294c02.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zombies are Attacking McDonalds may 2012.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Zombies are Attacking McDonalds may 2012.meta.json",
+    "legacy_creator": "Bobbysayhi"
+  },
+  "badges": [
+    {
+      "id": 20097655,
+      "name": "Burger :D",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 20099990,
+      "name": "Forget Zombies Lets Watch TV!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 20100783,
+      "name": "You Climbed the Sign!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 20101317,
+      "name": "VIP Badge! *Hidden in VIP*",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 22427870,
+      "name": "Dr. Love!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      20097655,
+      20099990,
+      20100783,
+      20101317,
+      22427870
+    ]
+  },
+  "source": {
+    "root_place_id": 3075297,
+    "universe_id": 1286588,
+    "name": "Zombies are Attacking RoDonalds",
+    "roblox_url": "https://www.roblox.com/games/3075297",
+    "description": "Welcome to Zombies are Attacking RoDonalds!\r\n\r\nHave mindless zombie fun exploring a huge city with simple goals in mind: kill all zombies and upgrade your weapons. Originally created in 2008.\r\n\r\nCredits:\r\n@Bobbysayhi - Building, Zombies, Design\r\n@concaten8 - Lead Scripter\r\n@AdamEterno - Main Locations\r\n\r\nZAAM [2015]:\r\nhttps://www.roblox.com/games/7161474902/ZAAM-2015",
+    "creator": {
+      "id": 641139,
+      "name": "Bobbysayhi",
+      "type": "User"
+    },
+    "created_at": "2008-07-21T22:38:02.223Z",
+    "updated_at": "2025-07-17T17:54:07.64Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "20097655",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "20099990",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "20100783",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "20101317",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "22427870",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      }
+    ]
+  },
+  "preferred": false
+}

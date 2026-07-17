@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_0f7b374563c139a719ba329ea642ff7b",
+  "title": "Crossroads (July 21st, 2011)",
+  "snapshot": {
+    "label": "July 21st, 2011",
+    "date": "2011-07-21",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "93054088659f9a5397080238850f7565ca06395de14b8ca81b9adf9750a2e1fd",
+    "path": "levels/sha256/93/93054088659f9a5397080238850f7565ca06395de14b8ca81b9adf9750a2e1fd.rbxlx",
+    "format": "xml",
+    "size_bytes": 4210466,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/93/93054088659f9a5397080238850f7565ca06395de14b8ca81b9adf9750a2e1fd.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Crossroads (July 21st, 2011).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

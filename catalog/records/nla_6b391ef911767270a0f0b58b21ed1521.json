@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_6b391ef911767270a0f0b58b21ed1521",
+  "title": "Void Script Builder (modded)",
+  "snapshot": {
+    "label": "modded"
+  },
+  "blob": {
+    "sha256": "6bfc55f26024941d67f2bf6bbbfbc158047b5474a7e0c9eefcc1fb1b768747c7",
+    "path": "levels/sha256/6b/6bfc55f26024941d67f2bf6bbbfbc158047b5474a7e0c9eefcc1fb1b768747c7.rbxl",
+    "format": "binary",
+    "size_bytes": 434307,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/6b/6bfc55f26024941d67f2bf6bbbfbc158047b5474a7e0c9eefcc1fb1b768747c7.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Void Script Builder (modded).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

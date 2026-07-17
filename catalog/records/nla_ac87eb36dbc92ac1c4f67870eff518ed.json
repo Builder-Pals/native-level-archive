@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "id": "nla_ac87eb36dbc92ac1c4f67870eff518ed",
+  "title": "Face your fears - Haunted Hotel",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b5f94606e03376ff76c35fd5711aca6faa5959e4971ac13fc9dfa44313a819f5",
+    "path": "levels/sha256/b5/b5f94606e03376ff76c35fd5711aca6faa5959e4971ac13fc9dfa44313a819f5.rbxlx",
+    "format": "xml",
+    "size_bytes": 13674165,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b5/b5f94606e03376ff76c35fd5711aca6faa5959e4971ac13fc9dfa44313a819f5.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Face your fears - Haunted Hotel.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Face your fears - Haunted Hotel.meta.json",
+    "legacy_creator": "bobulator"
+  },
+  "badges": [
+    {
+      "id": 14436883,
+      "name": "I faced my fears.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15085047,
+      "name": "Badge' o bones",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 15124457,
+      "name": "You met bobulator!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14436883,
+      15085047,
+      15124457
+    ]
+  },
+  "source": {
+    "root_place_id": 4544182,
+    "universe_id": 361577,
+    "name": "(1)  Face your fears - Haunted hotel (uncopylocked",
+    "roblox_url": "https://www.roblox.com/games/4544182",
+    "description": "I won't update the game again, sorry about that.\r\n\r\nHope this makes some people happy :p I know its quite an old game now, but still!\r\n\r\nFor a higher quality horror game click below! Better scripting, Roblox's new Dynamic lighting and a better environment!\r\n\r\nhttp://www.roblox.com/6-NOW-OPEN-Face-your-Fears-Hotel-Cultis-place?id=17507896",
+    "creator": {
+      "id": 1169964,
+      "name": "bobulator",
+      "type": "User"
+    },
+    "created_at": "2008-09-28T21:26:35.687Z",
+    "updated_at": "2017-09-16T21:16:42.503Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14436883",
+        "detail": "badge resolves to universe 361577 and root place 4544182"
+      },
+      {
+        "kind": "badge",
+        "value": "15085047",
+        "detail": "badge resolves to universe 361577 and root place 4544182"
+      },
+      {
+        "kind": "badge",
+        "value": "15124457",
+        "detail": "badge resolves to universe 361577 and root place 4544182"
+      }
+    ]
+  },
+  "preferred": true
+}

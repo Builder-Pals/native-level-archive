@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_c0b899ac6ce7fdf165bdba45acead40a",
+  "title": "After The Flash- Standstorm (December 2015)",
+  "snapshot": {
+    "label": "December 2015",
+    "date": "2015-12-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "60250ef1b6faf2b8217d212d10eea8b96861a673ea868df88fcb586b7a61a67d",
+    "path": "levels/sha256/60/60250ef1b6faf2b8217d212d10eea8b96861a673ea868df88fcb586b7a61a67d.rbxl",
+    "format": "binary",
+    "size_bytes": 858218,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/60/60250ef1b6faf2b8217d212d10eea8b96861a673ea868df88fcb586b7a61a67d.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "After The Flash- Standstorm (December 2015).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

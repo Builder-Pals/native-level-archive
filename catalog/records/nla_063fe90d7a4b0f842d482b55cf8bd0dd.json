@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_063fe90d7a4b0f842d482b55cf8bd0dd",
+  "title": "Can You Survive The Killers In Area 51",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c9f9a3a010c0244c4763e71a372dd76d80055d84ecbc55aa005b70dcf3bcff17",
+    "path": "levels/sha256/c9/c9f9a3a010c0244c4763e71a372dd76d80055d84ecbc55aa005b70dcf3bcff17.rbxl",
+    "format": "binary",
+    "size_bytes": 732917,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c9/c9f9a3a010c0244c4763e71a372dd76d80055d84ecbc55aa005b70dcf3bcff17.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Can You Survive The Killers In Area 51.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

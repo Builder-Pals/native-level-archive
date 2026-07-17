@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "id": "nla_c138bc9a7f55719ea3c6d0a4aa3ed4fe",
+  "title": "The Mad Murderer 2014",
+  "snapshot": {
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "d898d1d4e05fb53003a2dfb3bae4dbc6c5539094d861fac53faf3a57fa37348b",
+    "path": "levels/sha256/d8/d898d1d4e05fb53003a2dfb3bae4dbc6c5539094d861fac53faf3a57fa37348b.rbxl",
+    "format": "binary",
+    "size_bytes": 457554,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d8/d898d1d4e05fb53003a2dfb3bae4dbc6c5539094d861fac53faf3a57fa37348b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Mad Murderer 2014.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "The Mad Murderer 2014.json",
+    "legacy_creator": "loleris"
+  },
+  "badges": [
+    {
+      "id": 167190418,
+      "name": "You won as the murderer!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 167190535,
+      "name": "OH BABY A TRIPLE!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 167191546,
+      "name": "ILLUMINATI ALERT",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 167192150,
+      "name": "Yes.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 172850286,
+      "name": "You made it rain credits!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 172850398,
+      "name": "Murderer Madness - VICTORY",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 172897843,
+      "name": "Win some credits! WOOT!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176738887,
+      "name": "Exceedingly suspicious badge",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 152594797,
+    "universe_id": 72210371,
+    "name": "The Mad Murderer Classic",
+    "roblox_url": "https://www.roblox.com/games/152594797",
+    "description": "Bonuses to veteran players in TMM remastered are coming soon!",
+    "creator": {
+      "id": 2312310,
+      "name": "loleris",
+      "type": "User"
+    },
+    "created_at": "2014-04-07T14:26:58.677Z",
+    "updated_at": "2025-01-07T12:54:56.367Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "167190418",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "167190535",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "167191546",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "167192150",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "172850286",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "172850398",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "172897843",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      },
+      {
+        "kind": "badge",
+        "value": "176738887",
+        "detail": "badge resolves to universe 72210371 and root place 152594797"
+      }
+    ]
+  },
+  "preferred": true
+}

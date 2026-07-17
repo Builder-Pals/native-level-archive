@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_cfb058d890543aead4f50b945813ab86",
+  "title": "obbyforsucc2",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b68b9a49e5511ef8fd730d9b5b4e6e8b701468702d89cf316552376192266e23",
+    "path": "levels/sha256/b6/b68b9a49e5511ef8fd730d9b5b4e6e8b701468702d89cf316552376192266e23.rbxl",
+    "format": "binary",
+    "size_bytes": 40868,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b6/b68b9a49e5511ef8fd730d9b5b4e6e8b701468702d89cf316552376192266e23.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "obbyforsucc2.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

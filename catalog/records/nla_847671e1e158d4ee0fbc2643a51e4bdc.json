@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "nla_847671e1e158d4ee0fbc2643a51e4bdc",
+  "title": "Canoe Without a Paddle nov 2011",
+  "snapshot": {
+    "date": "2011-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "82ec017464a43fcee1a9ef885691203eca8159d8f200e26002ba6749fb3157fc",
+    "path": "levels/sha256/82/82ec017464a43fcee1a9ef885691203eca8159d8f200e26002ba6749fb3157fc.rbxlx",
+    "format": "xml",
+    "size_bytes": 11551067,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/82/82ec017464a43fcee1a9ef885691203eca8159d8f200e26002ba6749fb3157fc.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Canoe Without a Paddle nov 2011.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Canoe Without a Paddle nov 2011.meta.json",
+    "legacy_creator": "smokenchicken"
+  },
+  "badges": [
+    {
+      "id": 18195750,
+      "name": "I Survived without a Paddle",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      18195750
+    ]
+  },
+  "source": {
+    "root_place_id": 18195724,
+    "universe_id": 29542631,
+    "name": "Canoe Without a Paddle! ",
+    "roblox_url": "https://www.roblox.com/games/18195724",
+    "description": "[ Content Deleted ]",
+    "creator": {
+      "id": 1356552,
+      "name": "smokenchicken",
+      "type": "User"
+    },
+    "created_at": "2009-11-18T15:31:20.277Z",
+    "updated_at": "2026-04-25T21:25:38.64Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "18195750",
+        "detail": "badge resolves to universe 29542631 and root place 18195724"
+      }
+    ]
+  },
+  "preferred": true
+}

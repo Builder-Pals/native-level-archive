@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_7b491cfc2e8b4a5087ee3733ee34539d",
+  "title": "2998 - Aurora's Video Player",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c23b215039f62689379dcdcbd7c39a7df8a568720c0204616dc5a003fe915587",
+    "path": "levels/sha256/c2/c23b215039f62689379dcdcbd7c39a7df8a568720c0204616dc5a003fe915587.rbxl",
+    "format": "binary",
+    "size_bytes": 72026,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c2/c23b215039f62689379dcdcbd7c39a7df8a568720c0204616dc5a003fe915587.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/2998 - Aurora's Video Player.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

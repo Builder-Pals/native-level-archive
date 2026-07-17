@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a68bfc7029e09f3132eedd84b1648d88",
+  "title": "41 - Public Graffiti",
+  "snapshot": {},
+  "blob": {
+    "sha256": "4094f8b1294c8217e7e8cafd95e3838ff579c1ce09855c7f40167523aeb6936a",
+    "path": "levels/sha256/40/4094f8b1294c8217e7e8cafd95e3838ff579c1ce09855c7f40167523aeb6936a.rbxl",
+    "format": "binary",
+    "size_bytes": 229171,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/40/4094f8b1294c8217e7e8cafd95e3838ff579c1ce09855c7f40167523aeb6936a.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/41 - Public Graffiti.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

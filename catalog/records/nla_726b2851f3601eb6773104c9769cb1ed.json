@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "id": "nla_726b2851f3601eb6773104c9769cb1ed",
+  "title": "Temple of the Ninja Masters!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "7f1fb4a8159e16246a2e61c61a8d2dee01671d6448ca41bc258ca53094e7bb2e",
+    "path": "levels/sha256/7f/7f1fb4a8159e16246a2e61c61a8d2dee01671d6448ca41bc258ca53094e7bb2e.rbxlx",
+    "format": "xml",
+    "size_bytes": 1480063,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7f/7f1fb4a8159e16246a2e61c61a8d2dee01671d6448ca41bc258ca53094e7bb2e.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Temple of the Ninja Masters!.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Temple of the Ninja Masters!.meta.json",
+    "legacy_creator": "ROBLOX"
+  },
+  "badges": [
+    {
+      "id": 45779820,
+      "name": "Life Preserver",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 45779864,
+      "name": "Speedster",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 45779896,
+      "name": "Conqueror",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 45779916,
+      "name": "Fire Fighter",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      45779820,
+      45779864,
+      45779896,
+      45779916
+    ]
+  },
+  "source": {
+    "root_place_id": 45778683,
+    "universe_id": 2528285,
+    "name": "Classic: Temple of the Ninja Masters!",
+    "roblox_url": "https://www.roblox.com/games/45778683",
+    "description": "Alone at the edge of the world sits a sacred temple, guarded by 4 powerful Ninja Masters, each given control of one of the elements.  Many brave and powerful warriors have attempted to plunder the treasures of this temple, but all who have attempted it have failed.  Until nao.  Can you and your crew of the world's most resourceful pirates stand against the might of the Ninja Masters?  Only time will tell.",
+    "creator": {
+      "id": 1,
+      "name": "Roblox",
+      "type": "User"
+    },
+    "created_at": "2011-02-08T22:38:11.163Z",
+    "updated_at": "2016-02-18T00:48:55.253Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "45779820",
+        "detail": "badge resolves to universe 2528285 and root place 45778683"
+      },
+      {
+        "kind": "badge",
+        "value": "45779864",
+        "detail": "badge resolves to universe 2528285 and root place 45778683"
+      },
+      {
+        "kind": "badge",
+        "value": "45779896",
+        "detail": "badge resolves to universe 2528285 and root place 45778683"
+      },
+      {
+        "kind": "badge",
+        "value": "45779916",
+        "detail": "badge resolves to universe 2528285 and root place 45778683"
+      }
+    ]
+  },
+  "preferred": true
+}

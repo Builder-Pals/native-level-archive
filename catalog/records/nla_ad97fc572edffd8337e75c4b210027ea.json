@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_ad97fc572edffd8337e75c4b210027ea",
+  "title": "Ehwhats WORLD OF WONDER Theme Park",
+  "snapshot": {},
+  "blob": {
+    "sha256": "5d5aaa982a859ebaf86b6fc2b599771284c278910471b0433c268c373646e270",
+    "path": "levels/sha256/5d/5d5aaa982a859ebaf86b6fc2b599771284c278910471b0433c268c373646e270.rbxlx",
+    "format": "xml",
+    "size_bytes": 5648593,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5d/5d5aaa982a859ebaf86b6fc2b599771284c278910471b0433c268c373646e270.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Ehwhats WORLD OF WONDER Theme Park.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

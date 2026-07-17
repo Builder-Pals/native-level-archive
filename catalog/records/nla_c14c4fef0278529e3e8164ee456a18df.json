@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c14c4fef0278529e3e8164ee456a18df",
+  "title": "Old Cars v1",
+  "snapshot": {},
+  "blob": {
+    "sha256": "9e6a6f216c9d554faacf04fb6e012b42673b8c723bf7e664f0766fe3d7cae4b9",
+    "path": "levels/sha256/9e/9e6a6f216c9d554faacf04fb6e012b42673b8c723bf7e664f0766fe3d7cae4b9.rbxlx",
+    "format": "xml",
+    "size_bytes": 872884,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/9e/9e6a6f216c9d554faacf04fb6e012b42673b8c723bf7e664f0766fe3d7cae4b9.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Old Cars v1.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

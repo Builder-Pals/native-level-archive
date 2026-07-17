@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a64f9ef123ae319571470a44962067b4",
+  "title": "83 - R15 Testing",
+  "snapshot": {},
+  "blob": {
+    "sha256": "8fb1250f131efd9e026696bc746175a3276b2d76e3bc95b8eb720a7461024972",
+    "path": "levels/sha256/8f/8fb1250f131efd9e026696bc746175a3276b2d76e3bc95b8eb720a7461024972.rbxl",
+    "format": "binary",
+    "size_bytes": 212821,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8f/8fb1250f131efd9e026696bc746175a3276b2d76e3bc95b8eb720a7461024972.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/83 - R15 Testing.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

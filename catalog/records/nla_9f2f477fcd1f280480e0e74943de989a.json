@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "id": "nla_9f2f477fcd1f280480e0e74943de989a",
+  "title": "Solar Conquest (May 6th, 2014)",
+  "snapshot": {
+    "label": "May 6th, 2014",
+    "date": "2014-05-06",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "53e94e5ff092bc544dd8e9f082355377b1a9c7cc65b487abab9c9816808782b4",
+    "path": "levels/sha256/53/53e94e5ff092bc544dd8e9f082355377b1a9c7cc65b487abab9c9816808782b4.rbxl",
+    "format": "binary",
+    "size_bytes": 238664,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/53/53e94e5ff092bc544dd8e9f082355377b1a9c7cc65b487abab9c9816808782b4.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Solar Conquest (May 6th, 2014).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Solar Conquest (May 6th, 2014).meta.json",
+    "legacy_creator": "cocoawarrior"
+  },
+  "badges": [
+    {
+      "id": 15379364,
+      "name": "Solar Explorer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16060585,
+      "name": "Space-Warrior",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 16060666,
+      "name": "Elite Space-Warrior",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 21143873,
+      "name": "Space Pwnzar",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 27952627,
+      "name": "Encountered cocoawarrior",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 30751797,
+      "name": "Solar Explorer II",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 58707851,
+      "name": "Encountered cocoawarrior",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 4783435,
+    "universe_id": 1382237,
+    "name": "Solar Conquest",
+    "roblox_url": "https://www.roblox.com/games/4783435",
+    "description": "Build, fight, and explore!",
+    "creator": {
+      "id": 1245332,
+      "name": "CocoaWarrior",
+      "type": "User"
+    },
+    "created_at": "2008-10-10T20:03:35.533Z",
+    "updated_at": "2021-03-08T06:08:17.95Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "15379364",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "16060585",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "16060666",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "21143873",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "27952627",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "30751797",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      },
+      {
+        "kind": "badge",
+        "value": "58707851",
+        "detail": "badge resolves to universe 1382237 and root place 4783435"
+      }
+    ]
+  },
+  "preferred": true
+}

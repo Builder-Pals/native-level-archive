@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "id": "nla_ade333bb4dabb0666175e3ae6f9a1e4f",
+  "title": "Survive a Cart Ride Through Space!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a558e83a6ea1e4297ee9d942a04b9774aabacc731db4cdcdd94cba35f441fef7",
+    "path": "levels/sha256/a5/a558e83a6ea1e4297ee9d942a04b9774aabacc731db4cdcdd94cba35f441fef7.rbxlx",
+    "format": "xml",
+    "size_bytes": 5763283,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a5/a558e83a6ea1e4297ee9d942a04b9774aabacc731db4cdcdd94cba35f441fef7.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Survive a Cart Ride Through Space!.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Survive a Cart Ride Through Space!.meta.json",
+    "legacy_creator": "Pandy100"
+  },
+  "badges": [
+    {
+      "id": 51655875,
+      "name": "Thanks for coming!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51655943,
+      "name": "z0mg hax YOU WIN!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51657364,
+      "name": "You met the creator! (Pandy100)",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51803141,
+      "name": "You met my best friend Roguehawk!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51803292,
+      "name": "You met my best friend hbazzi1210!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51803391,
+      "name": "You met my best friend bran1424!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 51803492,
+      "name": "You Met my favorite scripter, Dnnn5!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 56840301,
+      "name": "Mystery 1: The lost spaceship.",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 56840764,
+      "name": "Mystery2: The second earth?",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 59002903,
+      "name": "Mystery 3: Nyan Cat",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66250392,
+      "name": "100,000 Visits!!!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 66937976,
+      "name": "?",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      51655875,
+      51655943,
+      51657364,
+      51803141,
+      51803292,
+      51803391,
+      51803492,
+      56840301,
+      56840764,
+      59002903,
+      66250392,
+      66937976
+    ]
+  },
+  "source": {
+    "root_place_id": 50303685,
+    "universe_id": 26347762,
+    "name": "Survive a Cart Ride Through Space! [UPDATED SPACE",
+    "roblox_url": "https://www.roblox.com/games/50303685",
+    "description": "Survive a Cart Ride Through Space! Discover new planets and survive their deadly mysteries! ",
+    "creator": {
+      "id": 2336747,
+      "name": "Pandy100",
+      "type": "User"
+    },
+    "created_at": "2011-04-20T21:29:28.763Z",
+    "updated_at": "2019-08-13T08:17:20.3Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "51655875",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "51655943",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "51657364",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "51803141",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "51803292",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "51803391",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "51803492",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "56840301",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "56840764",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "59002903",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "66250392",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      },
+      {
+        "kind": "badge",
+        "value": "66937976",
+        "detail": "badge resolves to universe 26347762 and root place 50303685"
+      }
+    ]
+  },
+  "preferred": true
+}

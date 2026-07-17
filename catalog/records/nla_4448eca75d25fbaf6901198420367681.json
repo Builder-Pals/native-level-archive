@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_4448eca75d25fbaf6901198420367681",
+  "title": "Contamination (July 26th, 2011)",
+  "snapshot": {
+    "label": "July 26th, 2011",
+    "date": "2011-07-26",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "213071bd0ebd3af8d1ee3a6995a4a8bc27aa52eaedb414ac63717624d270dec5",
+    "path": "levels/sha256/21/213071bd0ebd3af8d1ee3a6995a4a8bc27aa52eaedb414ac63717624d270dec5.rbxlx",
+    "format": "xml",
+    "size_bytes": 7229234,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/21/213071bd0ebd3af8d1ee3a6995a4a8bc27aa52eaedb414ac63717624d270dec5.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Contamination (July 26th, 2011).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

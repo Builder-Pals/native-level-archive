@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_0d1f13ee14af3a9fbbeb9860408e7d63",
+  "title": "Doom Science Enrichment Center (September 30th, 2009)",
+  "snapshot": {
+    "label": "September 30th, 2009",
+    "date": "2009-09-30",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "4dba680325fc34835dbc19422a705bead183060792d156d97c3e30cb32676b3d",
+    "path": "levels/sha256/4d/4dba680325fc34835dbc19422a705bead183060792d156d97c3e30cb32676b3d.rbxlx",
+    "format": "xml",
+    "size_bytes": 2868125,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/4d/4dba680325fc34835dbc19422a705bead183060792d156d97c3e30cb32676b3d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Doom Science Enrichment Center (September 30th, 2009).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_93d03bab2fbad2b85d13406d1b85e333",
+  "title": "572 - Fsagadsfas",
+  "snapshot": {},
+  "blob": {
+    "sha256": "8c12dcca6732fdff6b9a0644bb21a430538e186309fd7f23f2daaea0ec96f077",
+    "path": "levels/sha256/8c/8c12dcca6732fdff6b9a0644bb21a430538e186309fd7f23f2daaea0ec96f077.rbxl",
+    "format": "binary",
+    "size_bytes": 2037175,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8c/8c12dcca6732fdff6b9a0644bb21a430538e186309fd7f23f2daaea0ec96f077.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/572 - Fsagadsfas.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

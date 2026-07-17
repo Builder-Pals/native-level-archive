@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a069051fa196a10036f2eb9eff61b647",
+  "title": "Chaos Canyon",
+  "snapshot": {},
+  "blob": {
+    "sha256": "e939f28231f490609609a2a1e6f61e19a4161e95bc17836520d65d674c908bf4",
+    "path": "levels/sha256/e9/e939f28231f490609609a2a1e6f61e19a4161e95bc17836520d65d674c908bf4.rbxlx",
+    "format": "xml",
+    "size_bytes": 4524558,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e9/e939f28231f490609609a2a1e6f61e19a4161e95bc17836520d65d674c908bf4.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Chaos Canyon.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

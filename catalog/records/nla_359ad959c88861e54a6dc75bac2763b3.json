@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_359ad959c88861e54a6dc75bac2763b3",
+  "title": "Flood runner ~~original!!~~",
+  "snapshot": {},
+  "blob": {
+    "sha256": "b04cdd4585e4316e1a6ed64f3d9612a6b9e35a2d06a7ee9b728cc44b74ec6fe8",
+    "path": "levels/sha256/b0/b04cdd4585e4316e1a6ed64f3d9612a6b9e35a2d06a7ee9b728cc44b74ec6fe8.rbxl",
+    "format": "binary",
+    "size_bytes": 306728,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b0/b04cdd4585e4316e1a6ed64f3d9612a6b9e35a2d06a7ee9b728cc44b74ec6fe8.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Flood runner ~~original!!~~.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

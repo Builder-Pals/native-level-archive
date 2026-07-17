@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_4ab1afe7f762bf1f836e5bde8099655a",
+  "title": "Scattered V0.9 Original",
+  "snapshot": {},
+  "blob": {
+    "sha256": "51fc403754cdc37e8a9a13e6fa6c6e7dfba6bab1586a55cfcd077210019315bb",
+    "path": "levels/sha256/51/51fc403754cdc37e8a9a13e6fa6c6e7dfba6bab1586a55cfcd077210019315bb.rbxl",
+    "format": "binary",
+    "size_bytes": 144804,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/51/51fc403754cdc37e8a9a13e6fa6c6e7dfba6bab1586a55cfcd077210019315bb.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Scattered V0.9 Original.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

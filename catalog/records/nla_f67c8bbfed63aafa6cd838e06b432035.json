@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_f67c8bbfed63aafa6cd838e06b432035",
+  "title": "734 - china hangout but fr",
+  "snapshot": {},
+  "blob": {
+    "sha256": "117d40015ae06db8abe9e3c925bd62b8e13a00a5cf5e6d8b953143cef816341b",
+    "path": "levels/sha256/11/117d40015ae06db8abe9e3c925bd62b8e13a00a5cf5e6d8b953143cef816341b.rbxl",
+    "format": "binary",
+    "size_bytes": 157256,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/11/117d40015ae06db8abe9e3c925bd62b8e13a00a5cf5e6d8b953143cef816341b.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/734 - china hangout but fr.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

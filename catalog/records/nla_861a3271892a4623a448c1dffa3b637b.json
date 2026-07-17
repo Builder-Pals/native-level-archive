@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "id": "nla_861a3271892a4623a448c1dffa3b637b",
+  "title": "ROBLOX's Hardest Temple Run ADMIN",
+  "snapshot": {},
+  "blob": {
+    "sha256": "d53013357972937c3dfc77630e749b0ec85fa37dc38cf004f7cc4f75d34fc05d",
+    "path": "levels/sha256/d5/d53013357972937c3dfc77630e749b0ec85fa37dc38cf004f7cc4f75d34fc05d.rbxlx",
+    "format": "xml",
+    "size_bytes": 11264879,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d5/d53013357972937c3dfc77630e749b0ec85fa37dc38cf004f7cc4f75d34fc05d.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX's Hardest Temple Run ADMIN.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "ROBLOX's Hardest Temple Run ADMIN.meta.json",
+    "legacy_creator": "killernathan"
+  },
+  "badges": [
+    {
+      "id": 15895090,
+      "name": "Flame Hawk",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 64432907,
+      "name": "n0",
+      "origin": "embedded"
+    },
+    {
+      "id": 78238609,
+      "name": "Half Way!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      64432907,
+      78238609
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "15895090",
+        "detail": "badge resolves to universe 42105722 and root place 14262294"
+      },
+      {
+        "kind": "badge",
+        "value": "64432907",
+        "detail": "badge resolves to universe 6407781 and root place 55522131"
+      },
+      {
+        "kind": "badge",
+        "value": "78238609",
+        "detail": "badge resolves to universe 6407781 and root place 55522131"
+      }
+    ]
+  },
+  "preferred": false
+}

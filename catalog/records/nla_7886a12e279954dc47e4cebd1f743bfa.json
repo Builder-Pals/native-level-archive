@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_7886a12e279954dc47e4cebd1f743bfa",
+  "title": "3042 - dunking donuts cafe",
+  "snapshot": {},
+  "blob": {
+    "sha256": "51b6b73530754af496b7a28c89fc61d97cf3a2f440304233183ed7e5c9f0a768",
+    "path": "levels/sha256/51/51b6b73530754af496b7a28c89fc61d97cf3a2f440304233183ed7e5c9f0a768.rbxl",
+    "format": "binary",
+    "size_bytes": 238227,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/51/51b6b73530754af496b7a28c89fc61d97cf3a2f440304233183ed7e5c9f0a768.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3042 - dunking donuts cafe.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

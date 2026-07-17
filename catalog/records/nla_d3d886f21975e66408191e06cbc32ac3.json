@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_d3d886f21975e66408191e06cbc32ac3",
+  "title": "area51 slenderman",
+  "snapshot": {},
+  "blob": {
+    "sha256": "ef4ba4d80a2fe1c0da98018942dd9801a20630084406d868eb10224f141ca552",
+    "path": "levels/sha256/ef/ef4ba4d80a2fe1c0da98018942dd9801a20630084406d868eb10224f141ca552.rbxl",
+    "format": "binary",
+    "size_bytes": 90930,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ef/ef4ba4d80a2fe1c0da98018942dd9801a20630084406d868eb10224f141ca552.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "area51 slenderman.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

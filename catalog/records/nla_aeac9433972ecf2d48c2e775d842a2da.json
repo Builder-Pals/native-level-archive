@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "nla_aeac9433972ecf2d48c2e775d842a2da",
+  "title": "ROBLOX Game Conference - July 14th Santa Clara CA",
+  "snapshot": {},
+  "blob": {
+    "sha256": "8ca4c15646dc17a6da2a17dc310040a1c18f68c4105cbd86246f7f8184e57257",
+    "path": "levels/sha256/8c/8ca4c15646dc17a6da2a17dc310040a1c18f68c4105cbd86246f7f8184e57257.rbxlx",
+    "format": "xml",
+    "size_bytes": 31358735,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/8c/8ca4c15646dc17a6da2a17dc310040a1c18f68c4105cbd86246f7f8184e57257.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX Game Conference - July 14th Santa Clara CA.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 15895090,
+      "name": "Flame Hawk",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      15895090
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "15895090",
+        "detail": "badge resolves to universe 42105722 and root place 14262294"
+      }
+    ]
+  },
+  "preferred": false
+}

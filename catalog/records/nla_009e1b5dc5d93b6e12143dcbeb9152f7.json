@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_009e1b5dc5d93b6e12143dcbeb9152f7",
+  "title": "Zombiesdale (April 7th, 2013)",
+  "snapshot": {
+    "label": "April 7th, 2013",
+    "date": "2013-04-07",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "1b0deb50083903f31a93f6a78e0fd465cd1344d5a1b26ee4d730b1efef2f161c",
+    "path": "levels/sha256/1b/1b0deb50083903f31a93f6a78e0fd465cd1344d5a1b26ee4d730b1efef2f161c.rbxlx",
+    "format": "xml",
+    "size_bytes": 1256009,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/1b/1b0deb50083903f31a93f6a78e0fd465cd1344d5a1b26ee4d730b1efef2f161c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zombiesdale (April 7th, 2013).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

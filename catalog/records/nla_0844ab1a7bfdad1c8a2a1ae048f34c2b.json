@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "id": "nla_0844ab1a7bfdad1c8a2a1ae048f34c2b",
+  "title": "Domo Island Tycoon",
+  "snapshot": {},
+  "blob": {
+    "sha256": "c8f3aa0ba564cc6a66bed4eb98fded7458d94ac08d62281c78e256dd3cf1b0b7",
+    "path": "levels/sha256/c8/c8f3aa0ba564cc6a66bed4eb98fded7458d94ac08d62281c78e256dd3cf1b0b7.rbxlx",
+    "format": "xml",
+    "size_bytes": 25646069,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/c8/c8f3aa0ba564cc6a66bed4eb98fded7458d94ac08d62281c78e256dd3cf1b0b7.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Domo Island Tycoon.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 61977149,
+      "name": "Welcome!",
+      "origin": "embedded"
+    },
+    {
+      "id": 61977316,
+      "name": "Winner!",
+      "origin": "embedded"
+    },
+    {
+      "id": 61977894,
+      "name": "Domo VIP",
+      "origin": "embedded"
+    },
+    {
+      "id": 62083671,
+      "name": "Super VIP Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 63072021,
+      "name": "Halloween 2011 [LIMITED]",
+      "origin": "embedded"
+    },
+    {
+      "id": 63673858,
+      "name": "You Met the Creator!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838703,
+      "name": "100k Place Visits!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838733,
+      "name": "200k Place Visits!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838792,
+      "name": "Classic Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838827,
+      "name": "Lava Checkers Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838862,
+      "name": "Steel Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838891,
+      "name": "Bubble Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838947,
+      "name": "Question Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63838995,
+      "name": "Wooden Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63839054,
+      "name": "Fire Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63839093,
+      "name": "Ice Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63839133,
+      "name": "Noob Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63839171,
+      "name": "Ninja Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63839205,
+      "name": "Nyan Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63839283,
+      "name": "Halloween Domo Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63870285,
+      "name": "Air Island Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63870335,
+      "name": "Earth Island Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63870396,
+      "name": "Lava Island Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 63870443,
+      "name": "Water Island Win!",
+      "origin": "embedded"
+    },
+    {
+      "id": 64213987,
+      "name": "Mega VIP Bage!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      61977149,
+      61977316,
+      61977894,
+      62083671,
+      63072021,
+      63673858,
+      63838703,
+      63838733,
+      63838792,
+      63838827,
+      63838862,
+      63838891,
+      63838947,
+      63838995,
+      63839054,
+      63839093,
+      63839133,
+      63839171,
+      63839205,
+      63839283,
+      63870285,
+      63870335,
+      63870396,
+      63870443,
+      64213987
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "61977149",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "61977316",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "61977894",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "62083671",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63072021",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63673858",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838703",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838733",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838792",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838827",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838862",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838891",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838947",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63838995",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63839054",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63839093",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63839133",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63839171",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63839205",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63839283",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63870285",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63870335",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63870396",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "63870443",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      },
+      {
+        "kind": "badge",
+        "value": "64213987",
+        "detail": "badge resolves to universe 36439886 and root place 47765979"
+      }
+    ]
+  },
+  "preferred": false
+}

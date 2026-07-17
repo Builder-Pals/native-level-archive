@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_8f1fe3a213d1f0078691e34bc9f41428",
+  "title": "Terrain Demo",
+  "snapshot": {},
+  "blob": {
+    "sha256": "cd978bf4a2638411063f580ed0142e21546175557606fee9aa738d2c570c5df4",
+    "path": "levels/sha256/cd/cd978bf4a2638411063f580ed0142e21546175557606fee9aa738d2c570c5df4.rbxlx",
+    "format": "xml",
+    "size_bytes": 1399234,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cd/cd978bf4a2638411063f580ed0142e21546175557606fee9aa738d2c570c5df4.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Terrain Demo.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

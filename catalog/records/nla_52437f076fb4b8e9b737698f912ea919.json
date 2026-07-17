@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_52437f076fb4b8e9b737698f912ea919",
+  "title": "72 - Mass Destruction",
+  "snapshot": {},
+  "blob": {
+    "sha256": "2c8a6e03604851e1b480538dcb1d1a221880c0677b48bde103d55f729b0b0f57",
+    "path": "levels/sha256/2c/2c8a6e03604851e1b480538dcb1d1a221880c0677b48bde103d55f729b0b0f57.rbxl",
+    "format": "binary",
+    "size_bytes": 60768,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/2c/2c8a6e03604851e1b480538dcb1d1a221880c0677b48bde103d55f729b0b0f57.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/72 - Mass Destruction.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

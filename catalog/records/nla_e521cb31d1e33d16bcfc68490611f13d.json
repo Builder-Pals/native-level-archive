@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_e521cb31d1e33d16bcfc68490611f13d",
+  "title": "Survive a 99 mil Foot Drop! Super V.I.P.! V.1.1 (October 11th, 2008)",
+  "snapshot": {
+    "label": "October 11th, 2008",
+    "date": "2008-10-11",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "b4c3459d4e02f2a0381a6d9161f5af79e4e4203293562a7a870adfd1ceb285ff",
+    "path": "levels/sha256/b4/b4c3459d4e02f2a0381a6d9161f5af79e4e4203293562a7a870adfd1ceb285ff.rbxlx",
+    "format": "xml",
+    "size_bytes": 4372282,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b4/b4c3459d4e02f2a0381a6d9161f5af79e4e4203293562a7a870adfd1ceb285ff.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Survive a 99 mil Foot Drop! Super V.I.P.! V.1.1 (October 11th, 2008).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

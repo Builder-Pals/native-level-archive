@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "id": "nla_8c9ef289bda9a29bd0cf2e02fb06cafc",
+  "title": "Flood Escape (January 19th, 2015, V1.6.2)",
+  "snapshot": {
+    "label": "January 19th, 2015, V1.6.2",
+    "date": "2015-01-19",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "aa3c2f0b60518fdc4b8d464ab9adf68d7c2284cdcc62930e9ccab31925f44a60",
+    "path": "levels/sha256/aa/aa3c2f0b60518fdc4b8d464ab9adf68d7c2284cdcc62930e9ccab31925f44a60.rbxl",
+    "format": "binary",
+    "size_bytes": 342311,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/aa/aa3c2f0b60518fdc4b8d464ab9adf68d7c2284cdcc62930e9ccab31925f44a60.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Flood Escape (January 19th, 2015, V1.6.2).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Flood Escape (January 19th, 2015, V1.6.2).meta.json",
+    "legacy_creator": "Crazyblox"
+  },
+  "badges": [
+    {
+      "id": 80657326,
+      "name": "Easy Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657425,
+      "name": "Medium Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657485,
+      "name": "Hard Winner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657611,
+      "name": "From the Moon",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657745,
+      "name": "Visitor",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657851,
+      "name": "Standard Agility",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80657940,
+      "name": "Improved Agility",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80658039,
+      "name": "Impressive Agility",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 80658172,
+      "name": "Trainee",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 114540869,
+      "name": "Button Masher",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 114541972,
+      "name": "Extreme",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 183183251,
+      "name": "Singleplayer Endless Pro",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 231102635,
+      "name": "Lone Survivor",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 231103379,
+      "name": "Solo",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 231103978,
+      "name": "Full House",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 233962356,
+      "name": "Supporter",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 237714537,
+      "name": "Collector",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 32990482,
+    "universe_id": 16600266,
+    "name": "Flood Escape: Classic",
+    "roblox_url": "https://www.roblox.com/games/32990482",
+    "description": "Locked in a flooding facility, you and your team must work together to push buttons, find the way out, crack the code and escape before the flood takes you!\n\nFlood Escape Classic started development in September 2011, and is what kickstarted the Flood Escape series.\n\nFEC persisted through many of Roblox's fundamental changes; Mobile Support, Dynamic Lighting, Filtering Enabled and many more.\n\nWhile the game doesn't get updated often now due to focus on FE2, FEC's continued community and player count shows that the game continues to offer a solid experience for obby enthusiasts.\n\nFlood Escape © Crazyblox Games 2011 - 2024",
+    "creator": {
+      "id": 247535,
+      "name": "Crazyblox",
+      "type": "User"
+    },
+    "created_at": "2010-08-15T06:37:02.143Z",
+    "updated_at": "2026-05-12T21:43:36.028Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "80657326",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657425",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657485",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657611",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657745",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657851",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80657940",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80658039",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "80658172",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "114540869",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "114541972",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "183183251",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "231102635",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "231103379",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "231103978",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "233962356",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      },
+      {
+        "kind": "badge",
+        "value": "237714537",
+        "detail": "badge resolves to universe 16600266 and root place 32990482"
+      }
+    ]
+  },
+  "preferred": false
+}

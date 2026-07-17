@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "id": "nla_ed1ca6bf5f72a33f248eadedf9e2a140",
+  "title": "Egg Hunt 2016 - An Eggcellent Eggventure",
+  "snapshot": {
+    "date": "2016-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "2589da8e76fc6b4efa4b407439af287671fa6773a6eb5ebf1912fe0da8d9df3e",
+    "path": "levels/sha256/25/2589da8e76fc6b4efa4b407439af287671fa6773a6eb5ebf1912fe0da8d9df3e.rbxl",
+    "format": "binary",
+    "size_bytes": 1090794,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/25/2589da8e76fc6b4efa4b407439af287671fa6773a6eb5ebf1912fe0da8d9df3e.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Egg Hunt 2016 - An Eggcellent Eggventure.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

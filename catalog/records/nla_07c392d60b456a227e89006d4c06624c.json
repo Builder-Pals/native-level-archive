@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_07c392d60b456a227e89006d4c06624c",
+  "title": "Typical Colors 2 (2016 build)",
+  "snapshot": {
+    "label": "2016 build",
+    "date": "2016-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "27a04ba2512bbbea56c375ca986f32afba234d0aa5c89a701029a38c18ccbdaf",
+    "path": "levels/sha256/27/27a04ba2512bbbea56c375ca986f32afba234d0aa5c89a701029a38c18ccbdaf.rbxl",
+    "format": "binary",
+    "size_bytes": 4225655,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/27/27a04ba2512bbbea56c375ca986f32afba234d0aa5c89a701029a38c18ccbdaf.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Typical Colors 2 (2016 build).rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

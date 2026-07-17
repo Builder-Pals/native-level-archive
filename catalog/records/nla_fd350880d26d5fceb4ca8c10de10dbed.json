@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_fd350880d26d5fceb4ca8c10de10dbed",
+  "title": "Happy House",
+  "snapshot": {},
+  "blob": {
+    "sha256": "12b1460c44e5690cf2ead41bb3aed1f6dc33c4dbdb77f6a97b59e76d03cdd570",
+    "path": "levels/sha256/12/12b1460c44e5690cf2ead41bb3aed1f6dc33c4dbdb77f6a97b59e76d03cdd570.rbxl",
+    "format": "binary",
+    "size_bytes": 555962,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/12/12b1460c44e5690cf2ead41bb3aed1f6dc33c4dbdb77f6a97b59e76d03cdd570.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kanvas/2016/Happy House.rbxl"
+    ],
+    "collection": "Kanvas"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

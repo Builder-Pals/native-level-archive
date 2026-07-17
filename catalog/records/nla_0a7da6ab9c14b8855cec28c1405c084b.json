@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_0a7da6ab9c14b8855cec28c1405c084b",
+  "title": "65 - Murder Mystery 1",
+  "snapshot": {},
+  "blob": {
+    "sha256": "5afac8ec9b3a5f8539def9cefe7f596dd2b9a1596fbc58307f047ed6a9230cb8",
+    "path": "levels/sha256/5a/5afac8ec9b3a5f8539def9cefe7f596dd2b9a1596fbc58307f047ed6a9230cb8.rbxl",
+    "format": "binary",
+    "size_bytes": 753015,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5a/5afac8ec9b3a5f8539def9cefe7f596dd2b9a1596fbc58307f047ed6a9230cb8.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/65 - Murder Mystery 1.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

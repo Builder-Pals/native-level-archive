@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_05b9ac372afc24e839742de1dfd31706",
+  "title": "The Mega Fun and Colorful Obby",
+  "snapshot": {},
+  "blob": {
+    "sha256": "47d0be150ad77c4dd8931e659185891f789dd2ddb61506aa9118958258c52390",
+    "path": "levels/sha256/47/47d0be150ad77c4dd8931e659185891f789dd2ddb61506aa9118958258c52390.rbxlx",
+    "format": "xml",
+    "size_bytes": 14208082,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/47/47d0be150ad77c4dd8931e659185891f789dd2ddb61506aa9118958258c52390.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Mega Fun and Colorful Obby.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

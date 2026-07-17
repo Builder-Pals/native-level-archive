@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "id": "nla_00ab1b8fafe4f1c6b3eb416bc3a3c535",
+  "title": "Welcome to the Town of Robloxia",
+  "snapshot": {},
+  "blob": {
+    "sha256": "f88df43304e453f07e77f58f36f555f3aac90d83ac3cfd189e667cb6108a93fb",
+    "path": "levels/sha256/f8/f88df43304e453f07e77f58f36f555f3aac90d83ac3cfd189e667cb6108a93fb.rbxlx",
+    "format": "xml",
+    "size_bytes": 23992731,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/f8/f88df43304e453f07e77f58f36f555f3aac90d83ac3cfd189e667cb6108a93fb.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Welcome to the Town of Robloxia.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Welcome to the Town of Robloxia.meta.json",
+    "legacy_creator": "1dev2"
+  },
+  "badges": [
+    {
+      "id": 36142135,
+      "name": "Robloxaville Halloween Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 40586380,
+      "name": "I visited 1dev2's Town of Robloxia!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 41299034,
+      "name": "Robloxaville Winter VIP Badge",
+      "origin": "embedded"
+    },
+    {
+      "id": 42350145,
+      "name": "300k visits!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43095919,
+      "name": "400k visits!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 43930198,
+      "name": "Half'a'mil' Badge!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 47889896,
+      "name": "1,000,000 VISITS!!!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 48543606,
+      "name": "Welcome to the Town of Robloxia™ VIP Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 50609167,
+      "name": "2 Million Visits!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 54163883,
+      "name": "3,000,000 visits!!!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 71046722,
+      "name": "10,000,000 VISITS!!!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      36142135,
+      40586380,
+      41299034,
+      42350145,
+      43095919,
+      43930198,
+      47889896,
+      48543606,
+      50609167,
+      54163883,
+      71046722
+    ]
+  },
+  "match": {
+    "status": "conflict",
+    "confidence": "none",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "36142135",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "40586380",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "41299034",
+        "detail": "badge resolves to universe 175934 and root place 272941"
+      },
+      {
+        "kind": "badge",
+        "value": "42350145",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "43095919",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "43930198",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "47889896",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "48543606",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "50609167",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "54163883",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      },
+      {
+        "kind": "badge",
+        "value": "71046722",
+        "detail": "badge resolves to universe 19623566 and root place 20723719"
+      }
+    ]
+  },
+  "preferred": false
+}

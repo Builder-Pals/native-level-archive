@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_0c657fab453ee18fdd3cb747ecb1b3fe",
+  "title": "Limited Simulator 2",
+  "snapshot": {},
+  "blob": {
+    "sha256": "5ff5f031ab43d4a89ae5a80ca78c093660e4c048f18be76135cbf453971c0f1d",
+    "path": "levels/sha256/5f/5ff5f031ab43d4a89ae5a80ca78c093660e4c048f18be76135cbf453971c0f1d.rbxl",
+    "format": "binary",
+    "size_bytes": 212987,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/5f/5ff5f031ab43d4a89ae5a80ca78c093660e4c048f18be76135cbf453971c0f1d.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Limited Simulator 2.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

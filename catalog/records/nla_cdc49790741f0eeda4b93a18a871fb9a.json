@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "nla_cdc49790741f0eeda4b93a18a871fb9a",
+  "title": "Jeep Obby (November 30th, 2013)",
+  "snapshot": {
+    "label": "November 30th, 2013",
+    "date": "2013-11-30",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "088ee11c41da4d514d941b6e5bf3c642fd85ab0d22c15e7c0f987be500266341",
+    "path": "levels/sha256/08/088ee11c41da4d514d941b6e5bf3c642fd85ab0d22c15e7c0f987be500266341.rbxl",
+    "format": "binary",
+    "size_bytes": 213047,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/08/088ee11c41da4d514d941b6e5bf3c642fd85ab0d22c15e7c0f987be500266341.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Jeep Obby (November 30th, 2013).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Jeep Obby (November 30th, 2013).meta.json",
+    "legacy_creator": "orange12345"
+  },
+  "badges": [
+    {
+      "id": 127564116,
+      "name": "You finished!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 128822718,
+      "name": "Explorer",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 47972009,
+    "universe_id": 35646211,
+    "name": "Jeep Obby",
+    "roblox_url": "https://www.roblox.com/games/47972009",
+    "description": "Do you have the skills and patience to complete this classic obby? \r\nCurrently 2 checkpoiints and 24 obstacles.",
+    "creator": {
+      "id": 1273413,
+      "name": "Orange12345",
+      "type": "User"
+    },
+    "created_at": "2011-03-15T19:49:20.4Z",
+    "updated_at": "2025-07-17T09:30:36.703Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "127564116",
+        "detail": "badge resolves to universe 35646211 and root place 47972009"
+      },
+      {
+        "kind": "badge",
+        "value": "128822718",
+        "detail": "badge resolves to universe 35646211 and root place 47972009"
+      }
+    ]
+  },
+  "preferred": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_823d585f69df4a6ad51d6dce13006d3d",
+  "title": "ROBLOX City New",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a46a6a74b037a08e2e8493120cf9674d9c5daa3235f0676afa5785381cd4fdd9",
+    "path": "levels/sha256/a4/a46a6a74b037a08e2e8493120cf9674d9c5daa3235f0676afa5785381cd4fdd9.rbxl",
+    "format": "binary",
+    "size_bytes": 1631549,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a4/a46a6a74b037a08e2e8493120cf9674d9c5daa3235f0676afa5785381cd4fdd9.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "ROBLOX City New.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

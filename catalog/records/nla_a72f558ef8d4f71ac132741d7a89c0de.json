@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_a72f558ef8d4f71ac132741d7a89c0de",
+  "title": "Free Admin Boys VS Girls",
+  "snapshot": {},
+  "blob": {
+    "sha256": "dbecb12d57b05d0e1713c3b265c3115aaa5de62c2577319aa087ce2f0b198567",
+    "path": "levels/sha256/db/dbecb12d57b05d0e1713c3b265c3115aaa5de62c2577319aa087ce2f0b198567.rbxlx",
+    "format": "xml",
+    "size_bytes": 3532943,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/db/dbecb12d57b05d0e1713c3b265c3115aaa5de62c2577319aa087ce2f0b198567.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Free Admin Boys VS Girls.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

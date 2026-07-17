@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "id": "nla_b0db0065b34bec39969f977205819a2b",
+  "title": "The Underground War (August 14th, 2010)",
+  "snapshot": {
+    "label": "August 14th, 2010",
+    "date": "2010-08-14",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "68ca33a9add3e1e6fdf05c28b37edcf9780ce029264a2253d9ace1c0aa920bd9",
+    "path": "levels/sha256/68/68ca33a9add3e1e6fdf05c28b37edcf9780ce029264a2253d9ace1c0aa920bd9.rbxlx",
+    "format": "xml",
+    "size_bytes": 3053268,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/68/68ca33a9add3e1e6fdf05c28b37edcf9780ce029264a2253d9ace1c0aa920bd9.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Underground War (August 14th, 2010).rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 32810981,
+      "name": "50 pts.",
+      "origin": "embedded"
+    },
+    {
+      "id": 32811038,
+      "name": "100 pts.",
+      "origin": "embedded"
+    },
+    {
+      "id": 32811130,
+      "name": "200 pts.",
+      "origin": "embedded"
+    },
+    {
+      "id": 32811560,
+      "name": "400 pts!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      32810981,
+      32811038,
+      32811130,
+      32811560
+    ]
+  },
+  "source": {
+    "root_place_id": 189632,
+    "universe_id": 65510,
+    "name": "The Underground War",
+    "roblox_url": "https://www.roblox.com/games/189632",
+    "description": "Work as a team to dig your way into the enemy base and steal the enemy flag!",
+    "creator": {
+      "id": 80254,
+      "name": "Stickmasterluke",
+      "type": "User"
+    },
+    "created_at": "2008-02-19T22:42:06.34Z",
+    "updated_at": "2018-02-20T18:50:44.627Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "32810981",
+        "detail": "badge resolves to universe 65510 and root place 189632"
+      },
+      {
+        "kind": "badge",
+        "value": "32811038",
+        "detail": "badge resolves to universe 65510 and root place 189632"
+      },
+      {
+        "kind": "badge",
+        "value": "32811130",
+        "detail": "badge resolves to universe 65510 and root place 189632"
+      },
+      {
+        "kind": "badge",
+        "value": "32811560",
+        "detail": "badge resolves to universe 65510 and root place 189632"
+      }
+    ]
+  },
+  "preferred": false
+}

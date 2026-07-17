@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_c62c796fc5377de3b28e4cad8c1b093c",
+  "title": "The Plaza Karts (September 27th, 2015)",
+  "snapshot": {
+    "label": "September 27th, 2015",
+    "date": "2015-09-27",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "cc52ff985d57552e80d8443c01527f0eee1aba89ae9d51316c1ed2239c643edb",
+    "path": "levels/sha256/cc/cc52ff985d57552e80d8443c01527f0eee1aba89ae9d51316c1ed2239c643edb.rbxl",
+    "format": "binary",
+    "size_bytes": 4552426,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc52ff985d57552e80d8443c01527f0eee1aba89ae9d51316c1ed2239c643edb.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Plaza Karts (September 27th, 2015).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

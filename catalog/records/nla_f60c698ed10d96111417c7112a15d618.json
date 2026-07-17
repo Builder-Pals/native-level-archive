@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_f60c698ed10d96111417c7112a15d618",
+  "title": "Basic-Five-Nights-at-Freddys-Game",
+  "snapshot": {},
+  "blob": {
+    "sha256": "3ebae826f546d3b34e4557ee0ae2a7fa267c79c2cff46cdfdf4a422fd942c1b5",
+    "path": "levels/sha256/3e/3ebae826f546d3b34e4557ee0ae2a7fa267c79c2cff46cdfdf4a422fd942c1b5.rbxl",
+    "format": "binary",
+    "size_bytes": 844242,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3e/3ebae826f546d3b34e4557ee0ae2a7fa267c79c2cff46cdfdf4a422fd942c1b5.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Basic-Five-Nights-at-Freddys-Game.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

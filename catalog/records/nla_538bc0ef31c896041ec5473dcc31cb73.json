@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_538bc0ef31c896041ec5473dcc31cb73",
+  "title": "0 Degrees Skatepark",
+  "snapshot": {},
+  "blob": {
+    "sha256": "952cc6e3e116b981f43c3df58251ad84bcdebb22ade50e3bedf6e59bc5250fa3",
+    "path": "levels/sha256/95/952cc6e3e116b981f43c3df58251ad84bcdebb22ade50e3bedf6e59bc5250fa3.rbxlx",
+    "format": "xml",
+    "size_bytes": 28511740,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/95/952cc6e3e116b981f43c3df58251ad84bcdebb22ade50e3bedf6e59bc5250fa3.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "0 Degrees Skatepark.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

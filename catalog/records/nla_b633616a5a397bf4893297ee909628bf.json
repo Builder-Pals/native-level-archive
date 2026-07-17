@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_b633616a5a397bf4893297ee909628bf",
+  "title": "3008 - The spongebob elevator",
+  "snapshot": {},
+  "blob": {
+    "sha256": "3524928ae382ad0ad1377a06636b4210bb0637fd5b50ff29f165efdc5f98f064",
+    "path": "levels/sha256/35/3524928ae382ad0ad1377a06636b4210bb0637fd5b50ff29f165efdc5f98f064.rbxl",
+    "format": "binary",
+    "size_bytes": 2800595,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/35/3524928ae382ad0ad1377a06636b4210bb0637fd5b50ff29f165efdc5f98f064.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/3008 - The spongebob elevator.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

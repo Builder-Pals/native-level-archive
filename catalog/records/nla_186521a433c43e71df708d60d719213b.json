@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_186521a433c43e71df708d60d719213b",
+  "title": "Noob Zoo",
+  "snapshot": {},
+  "blob": {
+    "sha256": "908ad60999229d1d55ff0b3424a8a878207a493753419f5d5cf976f2d1e54f89",
+    "path": "levels/sha256/90/908ad60999229d1d55ff0b3424a8a878207a493753419f5d5cf976f2d1e54f89.rbxl",
+    "format": "binary",
+    "size_bytes": 507251,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/90/908ad60999229d1d55ff0b3424a8a878207a493753419f5d5cf976f2d1e54f89.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Noob Zoo.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

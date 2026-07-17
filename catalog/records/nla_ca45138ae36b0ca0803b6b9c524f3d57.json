@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "id": "nla_ca45138ae36b0ca0803b6b9c524f3d57",
+  "title": "Thrillville park (theme park) (April 2012)",
+  "snapshot": {
+    "label": "April 2012",
+    "date": "2012-04-01",
+    "precision": "month"
+  },
+  "blob": {
+    "sha256": "9d86e44dc0626a0f2e5df24b365726316f6cbde2fd2bef5b9bf23046ed8cd315",
+    "path": "levels/sha256/9d/9d86e44dc0626a0f2e5df24b365726316f6cbde2fd2bef5b9bf23046ed8cd315.rbxlx",
+    "format": "xml",
+    "size_bytes": 7738984,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/9d/9d86e44dc0626a0f2e5df24b365726316f6cbde2fd2bef5b9bf23046ed8cd315.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Thrillville park (theme park) (April 2012).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Thrillville park (theme park) (April 2012).meta.json",
+    "legacy_creator": "JJ5x5"
+  },
+  "badges": [
+    {
+      "id": 14787885,
+      "name": "Explosive Surprize!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14792402,
+      "name": "Big Air!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14792599,
+      "name": "Meet The Random Guy",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 14794149,
+      "name": "Bowled Over",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14787885,
+      14792402,
+      14792599,
+      14794149
+    ]
+  },
+  "source": {
+    "root_place_id": 58599,
+    "universe_id": 111561,
+    "name": "Thrillville park (theme park)",
+    "roblox_url": "https://www.roblox.com/games/58599",
+    "description": "Welcome to my place! This is a pretty old place i built, please let me know if there are any issues or bugs.",
+    "creator": {
+      "id": 24809,
+      "name": "JJ5x5",
+      "type": "User"
+    },
+    "created_at": "2008-03-30T00:01:55.25Z",
+    "updated_at": "2015-07-10T21:52:50.82Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14787885",
+        "detail": "badge resolves to universe 111561 and root place 58599"
+      },
+      {
+        "kind": "badge",
+        "value": "14792402",
+        "detail": "badge resolves to universe 111561 and root place 58599"
+      },
+      {
+        "kind": "badge",
+        "value": "14792599",
+        "detail": "badge resolves to universe 111561 and root place 58599"
+      },
+      {
+        "kind": "badge",
+        "value": "14794149",
+        "detail": "badge resolves to universe 111561 and root place 58599"
+      }
+    ]
+  },
+  "preferred": true
+}

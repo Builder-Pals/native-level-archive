@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_889ad3b2dfa436cab798e90dd062df77",
+  "title": "Bob's 1930's Vintage Racetrack!",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a72648284ea8905e242b84021fe06ef297bbcf443a51f19fe64f774575c3766f",
+    "path": "levels/sha256/a7/a72648284ea8905e242b84021fe06ef297bbcf443a51f19fe64f774575c3766f.rbxlx",
+    "format": "xml",
+    "size_bytes": 6834615,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a7/a72648284ea8905e242b84021fe06ef297bbcf443a51f19fe64f774575c3766f.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Bob's 1930's Vintage Racetrack!.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "id": "nla_dcbbbbbd8d6a7e0d28aa38d23b7dde44",
+  "title": "Kill the Clones Tournament (July 11th, 2013)",
+  "snapshot": {
+    "label": "July 11th, 2013",
+    "date": "2013-07-11",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "1424a6a0abded3082fe1a0dd32823070b1cc79472c66a3a9976cad907e2ea43b",
+    "path": "levels/sha256/14/1424a6a0abded3082fe1a0dd32823070b1cc79472c66a3a9976cad907e2ea43b.rbxlx",
+    "format": "xml",
+    "size_bytes": 2885510,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/14/1424a6a0abded3082fe1a0dd32823070b1cc79472c66a3a9976cad907e2ea43b.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Kill the Clones Tournament (July 11th, 2013).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Kill the Clones Tournament (July 11th, 2013).meta.json",
+    "legacy_creator": "ryandolan123"
+  },
+  "badges": [
+    {
+      "id": 82530919,
+      "name": "First Kill!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 82530988,
+      "name": "Pwner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 82531063,
+      "name": "Epic Pwner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 82531127,
+      "name": "Uber Pwner!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 82531170,
+      "name": "Rich",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 82531219,
+      "name": "Admin!",
+      "origin": "embedded"
+    },
+    {
+      "id": 82531253,
+      "name": "Super VIP!",
+      "origin": "embedded"
+    },
+    {
+      "id": 82531379,
+      "name": "VIP!",
+      "origin": "embedded"
+    },
+    {
+      "id": 82531435,
+      "name": "You met the maker!",
+      "origin": "embedded"
+    },
+    {
+      "id": 82531478,
+      "name": "Getting An Upgrade",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 82544324,
+      "name": "Show The Boss Who's Boss!",
+      "origin": "embedded"
+    },
+    {
+      "id": 82544379,
+      "name": "Super Secret Badge",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 84869567,
+      "name": "Super Admin!",
+      "origin": "embedded"
+    },
+    {
+      "id": 95396040,
+      "name": "Top Pwner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 102279264,
+      "name": "Welcome to Kill The Clones!",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      82530919,
+      82530988,
+      82531063,
+      82531127,
+      82531170,
+      82531219,
+      82531253,
+      82531379,
+      82531435,
+      82531478,
+      82544324,
+      82544379,
+      84869567,
+      95396040,
+      102279264
+    ],
+    "place_ids": [
+      33,
+      88990489
+    ]
+  },
+  "source": {
+    "root_place_id": 44079082,
+    "universe_id": 63854515,
+    "name": "Kill The Clones [Back; FIXED!!; Open Source]",
+    "roblox_url": "https://www.roblox.com/games/44079082"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "82530919",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82530988",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531063",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531127",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531170",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531219",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531253",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531379",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531435",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82531478",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82544324",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "82544379",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "84869567",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "95396040",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      },
+      {
+        "kind": "badge",
+        "value": "102279264",
+        "detail": "badge resolves to universe 63854515 and root place 44079082"
+      }
+    ]
+  },
+  "preferred": true
+}

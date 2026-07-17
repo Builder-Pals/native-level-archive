@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "id": "nla_a0d152d0b7e213d92d7b752f745a27df",
+  "title": "Field of Battle",
+  "snapshot": {},
+  "blob": {
+    "sha256": "ea30978e3d2992cc401ad66fa6916ba3e62e8cca5cf1e899b366a3b8fa30b5ff",
+    "path": "levels/sha256/ea/ea30978e3d2992cc401ad66fa6916ba3e62e8cca5cf1e899b366a3b8fa30b5ff.rbxl",
+    "format": "binary",
+    "size_bytes": 1164425,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ea/ea30978e3d2992cc401ad66fa6916ba3e62e8cca5cf1e899b366a3b8fa30b5ff.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Field of Battle.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Field of Battle.meta.json",
+    "legacy_creator": "rcouret"
+  },
+  "badges": [
+    {
+      "id": 174555375,
+      "name": "Moving Up",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 174555962,
+      "name": "Double Digits",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 175195799,
+      "name": "Greatness",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176373800,
+      "name": "Veteran",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 176380760,
+      "name": "THE CREATOR'S HERE!!!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {},
+  "source": {
+    "root_place_id": 147536429,
+    "universe_id": 69356799,
+    "name": "Field of Battle",
+    "roblox_url": "https://www.roblox.com/games/147536429",
+    "description": "Field of Battle is a medieval fantasy combat game where Humans and Orcs clash in epic battles to emerge victorious throughout the realms. Fight alongside players and NPCs to slay your foes in many fierce battles while you advance your character, forge legendary gear, and master your skills to become an epic champion. Join and begin your quest to rise to the top as the most powerful warrior!\n\nOfficial FOB Group: https://www.roblox.com/groups/group.aspx?gid=2982086",
+    "creator": {
+      "id": 48107074,
+      "name": "rcouret",
+      "type": "User"
+    },
+    "created_at": "2014-02-24T01:49:52.85Z",
+    "updated_at": "2026-07-10T23:31:09.908Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "174555375",
+        "detail": "badge resolves to universe 69356799 and root place 147536429"
+      },
+      {
+        "kind": "badge",
+        "value": "174555962",
+        "detail": "badge resolves to universe 69356799 and root place 147536429"
+      },
+      {
+        "kind": "badge",
+        "value": "175195799",
+        "detail": "badge resolves to universe 69356799 and root place 147536429"
+      },
+      {
+        "kind": "badge",
+        "value": "176373800",
+        "detail": "badge resolves to universe 69356799 and root place 147536429"
+      },
+      {
+        "kind": "badge",
+        "value": "176380760",
+        "detail": "badge resolves to universe 69356799 and root place 147536429"
+      }
+    ]
+  },
+  "preferred": true
+}

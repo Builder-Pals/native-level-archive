@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_c10453424cdad1740da2443261c2f536",
+  "title": "Spongebob's Happy Place",
+  "snapshot": {},
+  "blob": {
+    "sha256": "aa7448f8fd2e142fe9341f90930ad4288bd717f9b7e56d99d81a47b7942a6b4a",
+    "path": "levels/sha256/aa/aa7448f8fd2e142fe9341f90930ad4288bd717f9b7e56d99d81a47b7942a6b4a.rbxl",
+    "format": "binary",
+    "size_bytes": 1282308,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/aa/aa7448f8fd2e142fe9341f90930ad4288bd717f9b7e56d99d81a47b7942a6b4a.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Spongebob's Happy Place.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

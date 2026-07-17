@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "nla_9a669df68001a516c9323374f1d76d36",
+  "title": "Brickyard v3 (Playable version)",
+  "snapshot": {
+    "label": "Playable version"
+  },
+  "blob": {
+    "sha256": "d9bb3085d55517f01fba1234b91215cd2c3ab9f66aee6e9f40c407d35c05f1a7",
+    "path": "levels/sha256/d9/d9bb3085d55517f01fba1234b91215cd2c3ab9f66aee6e9f40c407d35c05f1a7.rbxlx",
+    "format": "xml",
+    "size_bytes": 396781,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/d9/d9bb3085d55517f01fba1234b91215cd2c3ab9f66aee6e9f40c407d35c05f1a7.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Brickyard v3 (Playable version).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

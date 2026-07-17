@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "id": "nla_4debee22f03a968abca9bb8fe6012bf2",
+  "title": "Zombies are Attacking McDonalds 2! (September 1st, 2012)",
+  "snapshot": {
+    "label": "September 1st, 2012",
+    "date": "2012-09-01",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "eda39e2195fb78df1d223e5c826def323b8edee565da0dff3552e0177e09853a",
+    "path": "levels/sha256/ed/eda39e2195fb78df1d223e5c826def323b8edee565da0dff3552e0177e09853a.rbxlx",
+    "format": "xml",
+    "size_bytes": 20803689,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/ed/eda39e2195fb78df1d223e5c826def323b8edee565da0dff3552e0177e09853a.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Zombies are Attacking McDonalds 2! (September 1st, 2012).rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Zombies are Attacking McDonalds 2! (September 1st, 2012).meta.json",
+    "legacy_creator": "Bobbysayhi"
+  },
+  "badges": [
+    {
+      "id": 88531708,
+      "name": "YOU GOT ONE!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88531854,
+      "name": "TWENTY FIVE DOWN!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88532073,
+      "name": "Zombie Pwner",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88532222,
+      "name": "$1.00 Kills",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88532397,
+      "name": "AMAZING JOB!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88533503,
+      "name": "Clown Killer!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88533636,
+      "name": "Unstoppable",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88533791,
+      "name": "Golden Sniper Award",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88533927,
+      "name": "Ronald Mcdonald Award",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534100,
+      "name": "WHAT A MESS!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534188,
+      "name": "Slayer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534370,
+      "name": "Don't Stop Me Now!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534563,
+      "name": "The King of Zombies",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534676,
+      "name": "Double or Nothing!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534768,
+      "name": "Zombie Ninja",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534868,
+      "name": "The Champion of Champions",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88534955,
+      "name": "King of the Carnival",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88535051,
+      "name": "Enter the Sewer",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88535586,
+      "name": "Dr. Bones",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88536308,
+      "name": "ZOMBIE SOCCER!",
+      "origin": "legacy_sidecar"
+    },
+    {
+      "id": 88536461,
+      "name": "We Scream for Ice Cream!",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      88531708,
+      88531854,
+      88532073,
+      88532222,
+      88532397,
+      88533503,
+      88533636,
+      88533791,
+      88533927,
+      88534100,
+      88534188,
+      88534370,
+      88534563,
+      88534676,
+      88534768,
+      88534868,
+      88534955,
+      88535051,
+      88535586,
+      88536308,
+      88536461
+    ]
+  },
+  "source": {
+    "root_place_id": 3075297,
+    "universe_id": 1286588,
+    "name": "Zombies are Attacking RoDonalds",
+    "roblox_url": "https://www.roblox.com/games/3075297",
+    "description": "Welcome to Zombies are Attacking RoDonalds!\r\n\r\nHave mindless zombie fun exploring a huge city with simple goals in mind: kill all zombies and upgrade your weapons. Originally created in 2008.\r\n\r\nCredits:\r\n@Bobbysayhi - Building, Zombies, Design\r\n@concaten8 - Lead Scripter\r\n@AdamEterno - Main Locations\r\n\r\nZAAM [2015]:\r\nhttps://www.roblox.com/games/7161474902/ZAAM-2015",
+    "creator": {
+      "id": 641139,
+      "name": "Bobbysayhi",
+      "type": "User"
+    },
+    "created_at": "2008-07-21T22:38:02.223Z",
+    "updated_at": "2025-07-17T17:54:07.64Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "88531708",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88531854",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88532073",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88532222",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88532397",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88533503",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88533636",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88533791",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88533927",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534100",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534188",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534370",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534563",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534676",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534768",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534868",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88534955",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88535051",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88535586",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88536308",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      },
+      {
+        "kind": "badge",
+        "value": "88536461",
+        "detail": "badge resolves to universe 1286588 and root place 3075297"
+      }
+    ]
+  },
+  "preferred": true
+}

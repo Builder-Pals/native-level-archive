@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "nla_5c8ede162450187965416d294cee2f36",
+  "title": "Laser Tag! [SHOP] (November 24th, 2012)",
+  "snapshot": {
+    "label": "November 24th, 2012",
+    "date": "2012-11-24",
+    "precision": "day"
+  },
+  "blob": {
+    "sha256": "7e61a829476df7e75c9ed81d7fd4a1b663fb4bf71f6ead23e0283d5c9fc06d19",
+    "path": "levels/sha256/7e/7e61a829476df7e75c9ed81d7fd4a1b663fb4bf71f6ead23e0283d5c9fc06d19.rbxlx",
+    "format": "xml",
+    "size_bytes": 1102897,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7e/7e61a829476df7e75c9ed81d7fd4a1b663fb4bf71f6ead23e0283d5c9fc06d19.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Laser Tag! [SHOP] (November 24th, 2012).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

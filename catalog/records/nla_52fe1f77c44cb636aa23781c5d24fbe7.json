@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_52fe1f77c44cb636aa23781c5d24fbe7",
+  "title": "103 - Meteorite Sword Fight Tournament",
+  "snapshot": {},
+  "blob": {
+    "sha256": "a9cdeca9bf006690215078c91bbeb08e69a3347a37b25b97fd48ab8fdc300ab9",
+    "path": "levels/sha256/a9/a9cdeca9bf006690215078c91bbeb08e69a3347a37b25b97fd48ab8fdc300ab9.rbxl",
+    "format": "binary",
+    "size_bytes": 639058,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/a9/a9cdeca9bf006690215078c91bbeb08e69a3347a37b25b97fd48ab8fdc300ab9.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Meteorite/103 - Meteorite Sword Fight Tournament.rbxl"
+    ],
+    "collection": "Meteorite"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}

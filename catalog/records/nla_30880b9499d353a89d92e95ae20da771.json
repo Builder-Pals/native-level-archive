@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "id": "nla_30880b9499d353a89d92e95ae20da771",
+  "title": "Chuck E. Cheese's",
+  "snapshot": {},
+  "blob": {
+    "sha256": "695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c",
+    "path": "levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx",
+    "format": "xml",
+    "size_bytes": 7512048,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Chuck E. Cheese's.rbxl"
+    ],
+    "collection": "root",
+    "legacy_metadata_path": "Chuck E. Cheese's.meta.json",
+    "legacy_creator": "ShockingJBlock"
+  },
+  "badges": [
+    {
+      "id": 77096902,
+      "name": "Thanks for coming to my Chuck E. Cheese's Place",
+      "origin": "legacy_sidecar"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      77096902
+    ]
+  },
+  "source": {
+    "root_place_id": 56634690,
+    "universe_id": 1665952,
+    "name": "Chuck E. Cheese's ( Closed 4/1/15 )",
+    "roblox_url": "https://www.roblox.com/games/56634690",
+    "description": "Decisively closed on April 1st, 2015. This game was originally just a gamification of a now permanently closed store in real life. And i had no intention to make a functioning game out of it rather than a simple experience with additional \"job\" roleplaying aspects. Because this game no longer represents the former actual location, i have currently decided to have it remain inactive. I sincerely hope you enjoyed visiting my place in the past, i had garnered short-term success during a far simpler time on ROBLOX. Thank you!\r\n• Employee uniform: http://www.roblox.com/CEC-item?id=71399083 \r\n• Group: http://www.roblox.com/My/Groups.aspx?gid=864088 Disclaimer: Not all in-game objects can be interacted with, the reasoning for this is because i initially created the game with very minimal scripting knowledge, as my original concept was to only emphasize visually \"accurate\" details.",
+    "creator": {
+      "id": 17831698,
+      "name": "Account Forgotten (bb78e91e219f4ce98ef5717821dccfce)",
+      "type": "User"
+    },
+    "created_at": "2011-07-16T17:14:46.803Z",
+    "updated_at": "2017-05-01T09:13:01.663Z"
+  },
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "77096902",
+        "detail": "badge resolves to universe 1665952 and root place 56634690"
+      }
+    ]
+  },
+  "preferred": true
+}

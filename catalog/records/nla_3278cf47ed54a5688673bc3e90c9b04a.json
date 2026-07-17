@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "nla_3278cf47ed54a5688673bc3e90c9b04a",
+  "title": "The Walking Dead",
+  "snapshot": {},
+  "blob": {
+    "sha256": "eb30eec25cb1389a92e60cf8c6acf8bc2885ec06ec0bb3c68b541588f1192bad",
+    "path": "levels/sha256/eb/eb30eec25cb1389a92e60cf8c6acf8bc2885ec06ec0bb3c68b541588f1192bad.rbxlx",
+    "format": "xml",
+    "size_bytes": 19384675,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/eb/eb30eec25cb1389a92e60cf8c6acf8bc2885ec06ec0bb3c68b541588f1192bad.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "The Walking Dead.rbxl"
+    ],
+    "collection": "root"
+  },
+  "badges": [
+    {
+      "id": 14465446,
+      "name": "Bronze Survivor",
+      "origin": "embedded"
+    }
+  ],
+  "discovery": {
+    "badge_ids": [
+      14465446
+    ]
+  },
+  "match": {
+    "status": "candidate",
+    "confidence": "medium",
+    "reviewed": false,
+    "evidence": [
+      {
+        "kind": "badge",
+        "value": "14465446",
+        "detail": "badge resolves to universe 19011207 and root place 8886092"
+      }
+    ]
+  },
+  "preferred": false
+}

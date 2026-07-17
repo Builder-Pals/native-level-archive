@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "id": "nla_473c98af286bc955b80ebd6e1dd3281e",
+  "title": "Ro-Pictionary",
+  "snapshot": {},
+  "blob": {
+    "sha256": "7bb7de1e76cbcac35ac5356a544812b789b983f9b5bef6c8b41cbe0e2af1c2b0",
+    "path": "levels/sha256/7b/7bb7de1e76cbcac35ac5356a544812b789b983f9b5bef6c8b41cbe0e2af1c2b0.rbxlx",
+    "format": "xml",
+    "size_bytes": 637794,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7b/7bb7de1e76cbcac35ac5356a544812b789b983f9b5bef6c8b41cbe0e2af1c2b0.rbxlx"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Ro-Pictionary.rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "unresolved",
+    "confidence": "none",
+    "reviewed": false
+  },
+  "preferred": false
+}
