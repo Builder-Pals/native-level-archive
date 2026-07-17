@@ -551,33 +551,11 @@
       .toLowerCase();
   }
 
-  async function fetchUniverseId(placeId, fetchImplementation = globalThis.fetch, options = {}) {
-    if (!Number.isSafeInteger(placeId) || placeId <= 0) {
-      throw new Error("Place ID must be a positive integer.");
-    }
-    if (typeof fetchImplementation !== "function") {
-      throw new Error("This browser cannot contact the Roblox API.");
-    }
-    const response = await fetchImplementation(
-      `https://apis.roblox.com/universes/v1/places/${placeId}/universe`,
-      { signal: options.signal },
-    );
-    if (!response.ok) {
-      throw new Error(`Roblox returned HTTP ${response.status}.`);
-    }
-    const result = await response.json();
-    if (!Number.isSafeInteger(result?.universeId) || result.universeId <= 0) {
-      throw new Error("Roblox returned an invalid universe ID.");
-    }
-    return result.universeId;
-  }
-
   return {
     RAW_BASE_URL,
     SCHEMA_VERSION,
     createRecord,
     deepEqual,
-    fetchUniverseId,
     inspectPlace,
     isPublishableRecord,
     knownPlaceAssociation,
