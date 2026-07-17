@@ -25,9 +25,22 @@
   },
   "discovery": {},
   "match": {
-    "status": "unresolved",
-    "confidence": "none",
-    "reviewed": false
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true,
+    "evidence": [
+      {
+        "kind": "manual",
+        "value": "4321846",
+        "detail": "ID provided by the Roblox Fandom Wiki: https://roblox.fandom.com/wiki/Player:Yorick/Yorick%27s_Resting_Place"
+      }
+    ]
   },
-  "preferred": false
+  "preferred": true,
+  "source": {
+    "root_place_id": 4321846,
+    "universe_id": 475192,
+    "name": "Survival 303 (April 9th, 2014)",
+    "roblox_url": "https://www.roblox.com/games/4321846"
+  }
 }

@@ -25,9 +25,22 @@
   },
   "discovery": {},
   "match": {
-    "status": "unresolved",
-    "confidence": "none",
-    "reviewed": false
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true,
+    "evidence": [
+      {
+        "kind": "manual",
+        "value": "47324",
+        "detail": "Sourced from Roblox. Place file pending review."
+      }
+    ]
   },
-  "preferred": false
+  "preferred": false,
+  "source": {
+    "root_place_id": 47324,
+    "universe_id": 156639,
+    "name": "Sword Fights on the Heights IV",
+    "roblox_url": "https://www.roblox.com/games/47324"
+  }
 }

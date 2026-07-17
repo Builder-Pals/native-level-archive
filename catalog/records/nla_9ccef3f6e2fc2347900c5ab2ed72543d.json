@@ -21,9 +21,22 @@
   },
   "discovery": {},
   "match": {
-    "status": "unresolved",
-    "confidence": "none",
-    "reviewed": false
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true,
+    "evidence": [
+      {
+        "kind": "manual",
+        "value": "31500456",
+        "detail": "Place ID sourced from the Roblox Fandom Wik: https://roblox.fandom.com/wiki/Player:Bobbysayhi/Terror_in_Bikini_Bottom"
+      }
+    ]
   },
-  "preferred": false
+  "preferred": true,
+  "source": {
+    "root_place_id": 31500456,
+    "universe_id": 21419273,
+    "name": "Terror in Bikini Bottom",
+    "roblox_url": "https://www.roblox.com/games/31500456"
+  }
 }
