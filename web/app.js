@@ -17,6 +17,7 @@
     associationRecord: document.querySelector("#association-record"),
     associationTargetSummary: document.querySelector("#association-target-summary"),
     associationUniverseId: document.querySelector("#association-universe-id"),
+    associationUniverseStatus: document.querySelector("#association-universe-status"),
     browserWarning: document.querySelector("#browser-warning"),
     cancelAdd: document.querySelector("#cancel-add"),
     cancelAssociation: document.querySelector("#cancel-association"),
@@ -54,6 +55,8 @@
     associationPlaceId: null,
     associationUniverseManuallyEdited: false,
     associationNameManuallyEdited: false,
+    associationUniverseLookup: null,
+    associationUniverseLookupTimer: null,
   };
 
   function setMessage(text, kind = "") {
@@ -324,6 +327,55 @@
     return true;
   }
 
+  function cancelUniverseLookup() {
+    clearTimeout(state.associationUniverseLookupTimer);
+    state.associationUniverseLookupTimer = null;
+    state.associationUniverseLookup?.abort();
+    state.associationUniverseLookup = null;
+  }
+
+  async function lookupUniverseId(placeId) {
+    const controller = new AbortController();
+    state.associationUniverseLookup = controller;
+    elements.associationUniverseStatus.textContent = "Looking up universe ID from Roblox…";
+    try {
+      const universeId = await utils.fetchUniverseId(placeId, globalThis.fetch, {
+        signal: controller.signal,
+      });
+      if (state.associationUniverseLookup !== controller) {
+        return;
+      }
+      if (!state.associationUniverseManuallyEdited) {
+        elements.associationUniverseId.value = universeId;
+      }
+      elements.associationUniverseStatus.textContent = `Roblox universe ID: ${universeId}.`;
+    } catch (error) {
+      if (error?.name === "AbortError") {
+        return;
+      }
+      if (state.associationUniverseLookup === controller) {
+        elements.associationUniverseStatus.textContent =
+          `Could not look up the universe ID: ${error instanceof Error ? error.message : String(error)} Enter it manually.`;
+      }
+    } finally {
+      if (state.associationUniverseLookup === controller) {
+        state.associationUniverseLookup = null;
+      }
+    }
+  }
+
+  function scheduleUniverseLookup(placeId) {
+    cancelUniverseLookup();
+    if (!Number.isSafeInteger(placeId) || placeId <= 0) {
+      elements.associationUniverseStatus.textContent = "";
+      return;
+    }
+    state.associationUniverseLookupTimer = setTimeout(() => {
+      state.associationUniverseLookupTimer = null;
+      lookupUniverseId(placeId);
+    }, 350);
+  }
+
   function renderKnownPlaceOptions() {
     const known = new Map();
     for (const item of state.records) {
@@ -369,7 +421,7 @@
     }
     if (targetRecords.length === 0) {
       elements.associationTargetSummary.textContent =
-        "No other publishable snapshots currently use this place ID. Enter the universe ID manually.";
+        "No other publishable snapshots currently use this place ID. The universe ID will be requested from Roblox.";
     } else if (elements.associationPreferred.checked) {
       elements.associationTargetSummary.textContent = targetPreferred
         ? `${targetRecords.length} other snapshot(s) use this place ID (universe ${known.universeId}). ${targetPreferred.data.title} will no longer be preferred.`
@@ -425,6 +477,7 @@
     elements.associationForm.reset();
     elements.associationErrors.hidden = true;
     elements.associationErrors.textContent = "";
+    elements.associationUniverseStatus.textContent = "";
     elements.associationRecord.textContent = `${record.title} (${record.id})`;
     elements.associationPlaceId.value = record.source?.root_place_id ?? "";
     elements.associationUniverseId.value = record.source?.universe_id ?? "";
@@ -447,6 +500,7 @@
   }
 
   function closeAssociationDialog() {
+    cancelUniverseLookup();
     elements.associationDialog.close();
   }
 
@@ -535,6 +589,7 @@
       sortRecords();
       renderRecordList();
       updateEditorButtons();
+      cancelUniverseLookup();
       elements.associationDialog.close();
       setMessage(
         `Saved the place association and updated ${plan.updates.length} record(s). Generated indexes now need build and verify.`,
@@ -702,6 +757,7 @@
         elements.associationName.value = state.selected?.data?.title || "";
       }
       fillKnownAssociationMetadata();
+      scheduleUniverseLookup(placeId);
       renderAssociationContext();
     });
     elements.associationUniverseId.addEventListener("input", () => {

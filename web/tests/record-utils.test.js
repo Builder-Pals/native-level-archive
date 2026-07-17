@@ -132,6 +132,35 @@ async function run() {
   });
   assert.equal(utils.knownPlaceAssociation([associated], 99999), null);
 
+  let requestedUrl;
+  assert.equal(
+    await utils.fetchUniverseId(
+      12345,
+      async (url, options) => {
+        requestedUrl = url;
+        assert.equal(options.signal, "test-signal");
+        return { ok: true, json: async () => ({ universeId: 67890 }) };
+      },
+      { signal: "test-signal" },
+    ),
+    67890,
+  );
+  assert.equal(
+    requestedUrl,
+    "https://apis.roblox.com/universes/v1/places/12345/universe",
+  );
+  await assert.rejects(
+    utils.fetchUniverseId(12345, async () => ({ ok: false, status: 404 })),
+    /HTTP 404/,
+  );
+  await assert.rejects(
+    utils.fetchUniverseId(12345, async () => ({
+      ok: true,
+      json: async () => ({ universeId: 0 }),
+    })),
+    /invalid universe ID/,
+  );
+
   const existingPreferred = withId(associated, idFor("b"));
   const replacesPreferred = utils.planPlaceAssociation(
     [record, existingPreferred],
