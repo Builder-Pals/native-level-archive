@@ -26,10 +26,10 @@ use crate::{
 
 const RECORDS_DIR: &str = "catalog/records";
 const ORPHANS_PATH: &str = "catalog/orphan-metadata.json";
-const EXPECTED_RECORDS: usize = 665;
-const EXPECTED_BLOBS: usize = 642;
-const EXPECTED_DUPLICATE_GROUPS: usize = 23;
-const EXPECTED_INVALID: usize = 2;
+const LEGACY_RECORDS: usize = 665;
+const BASELINE_BLOBS: usize = 642;
+const BASELINE_DUPLICATE_GROUPS: usize = 23;
+const BASELINE_INVALID: usize = 2;
 
 #[derive(Clone, Debug)]
 struct LegacyMetadata {
@@ -81,9 +81,9 @@ pub fn import(root: &Path, revision: &str) -> Result<()> {
         .iter()
         .filter(|entry| is_level_path(&entry.path))
         .collect();
-    if level_entries.len() != EXPECTED_RECORDS {
+    if level_entries.len() != LEGACY_RECORDS {
         bail!(
-            "expected {EXPECTED_RECORDS} tracked levels, found {}",
+            "expected {LEGACY_RECORDS} tracked levels, found {}",
             level_entries.len()
         );
     }
@@ -883,9 +883,11 @@ pub fn prefer(root: &Path, record_id: &str) -> Result<()> {
 
 pub fn verify(root: &Path) -> Result<()> {
     let records = load_records(root)?;
-    if records.len() != EXPECTED_RECORDS {
+    // These baseline checks catch accidental loss of the imported archive while still allowing
+    // maintainers to add newly recovered records and blobs after the legacy import.
+    if records.len() < LEGACY_RECORDS {
         bail!(
-            "expected {EXPECTED_RECORDS} records, found {}",
+            "expected at least {LEGACY_RECORDS} records, found {}",
             records.len()
         );
     }
@@ -907,18 +909,20 @@ pub fn verify(root: &Path) -> Result<()> {
         }
         verify_blob(root, record)?;
     }
-    if hashes.len() != EXPECTED_BLOBS {
+    if hashes.len() < BASELINE_BLOBS {
         bail!(
-            "expected {EXPECTED_BLOBS} unique blobs, found {}",
+            "expected at least {BASELINE_BLOBS} unique blobs, found {}",
             hashes.len()
         );
     }
     let duplicate_groups = hashes.values().filter(|count| **count > 1).count();
-    if duplicate_groups != EXPECTED_DUPLICATE_GROUPS {
-        bail!("expected {EXPECTED_DUPLICATE_GROUPS} duplicate groups, found {duplicate_groups}");
+    if duplicate_groups < BASELINE_DUPLICATE_GROUPS {
+        bail!(
+            "expected at least {BASELINE_DUPLICATE_GROUPS} duplicate groups, found {duplicate_groups}"
+        );
     }
-    if invalid != EXPECTED_INVALID {
-        bail!("expected {EXPECTED_INVALID} invalid records, found {invalid}");
+    if invalid < BASELINE_INVALID {
+        bail!("expected at least {BASELINE_INVALID} invalid records, found {invalid}");
     }
     let on_disk: BTreeSet<_> = [root.join("levels"), root.join("quarantine")]
         .into_iter()

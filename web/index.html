@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Native Legacy Archive editor</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="record-utils.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>NL Archive Editor</h1>
+      <button id="open-repository" type="button">Open repository</button>
+      <button id="new-entry" type="button" disabled>New entry</button>
+      <span id="repository-status">No repository open.</span>
+    </header>
+
+    <p id="browser-warning" class="error" hidden>
+      This browser does not expose the File System Access API. Use a current Chromium-based browser.
+    </p>
+    <p id="message" role="status" aria-live="polite"></p>
+
+    <main>
+      <section aria-labelledby="records-heading">
+        <h2 id="records-heading">Records</h2>
+        <div class="controls">
+          <label>
+            Search
+            <input id="search" type="search" disabled>
+          </label>
+          <label>
+            Filter
+            <select id="filter" disabled>
+              <option value="all">All</option>
+              <option value="unresolved">Unresolved</option>
+              <option value="verified">Verified</option>
+              <option value="reviewed">Reviewed</option>
+              <option value="invalid">Invalid</option>
+            </select>
+          </label>
+        </div>
+        <p id="record-count">0 records</p>
+        <ul id="record-list"></ul>
+      </section>
+
+      <section aria-labelledby="editor-heading">
+        <h2 id="editor-heading">Entry</h2>
+        <p id="entry-summary">Select a record to edit it.</p>
+        <textarea id="editor" aria-label="Record JSON" spellcheck="false" disabled></textarea>
+        <div class="editor-actions">
+          <button id="associate-place" type="button" disabled>Associate place</button>
+          <button id="save" type="button" disabled>Save record</button>
+          <button id="revert" type="button" disabled>Revert</button>
+        </div>
+        <pre id="validation-errors" class="error" hidden></pre>
+        <p>
+          Source records are saved under <code>catalog/records</code>. Run
+          <code>cargo run --release -- build</code> and
+          <code>cargo run --release -- verify</code> afterwards to refresh the generated files.
+        </p>
+      </section>
+    </main>
+
+    <dialog id="association-dialog">
+      <form id="association-form">
+        <h2>Associate Roblox place</h2>
+        <p id="association-record"></p>
+        <label>
+          Root place ID
+          <input id="association-place-id" type="number" min="1" step="1" required>
+        </label>
+        <label>
+          Universe ID
+          <input id="association-universe-id" type="number" min="1" step="1" required>
+        </label>
+        <label>
+          Place name
+          <input id="association-name" type="text" required>
+        </label>
+        <label class="checkbox-label">
+          <input id="association-preferred" type="checkbox">
+          Make this the preferred snapshot for the place
+        </label>
+        <p id="association-target-summary"></p>
+        <label id="old-preferred-field" hidden>
+          Replacement preferred snapshot for the old place
+          <select id="old-preferred-record"></select>
+        </label>
+        <pre id="association-errors" class="error" hidden></pre>
+        <p>
+          Saving marks this association as manually reviewed and verified. Existing evidence is
+          retained; enriched source metadata is retained when the IDs do not change.
+        </p>
+        <div>
+          <button id="cancel-association" type="button">Cancel</button>
+          <button id="confirm-association" type="submit">Save association</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="add-dialog">
+      <form id="add-form">
+        <h2>Add entry</h2>
+        <label>
+          Place file
+          <input id="place-file" type="file" accept=".rbxl,.rbxlx" required>
+        </label>
+        <label>
+          Title
+          <input id="new-title" type="text" required>
+        </label>
+        <label>
+          Original path
+          <input id="original-path" type="text" required>
+        </label>
+        <label>
+          Collection
+          <input id="collection" type="text" value="root" required>
+        </label>
+        <p>
+          The file will be hashed and copied to its content-addressed path. The new JSON record
+          starts unresolved so discovery and enrichment can be run from the CLI.
+        </p>
+        <div>
+          <button id="cancel-add" type="button">Cancel</button>
+          <button id="confirm-add" type="submit">Add entry</button>
+        </div>
+      </form>
+    </dialog>
+  </body>
+</html>

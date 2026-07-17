@@ -66,3 +66,9 @@ When adding a place:
 Generated index entries shouldn't be modified directly! Do not reuse an existing hash paths for different file contents.
 
 Two known corrupt source files are preserved under `quarantine/sha256`. They remain visible in the complete catalog, but are excluded from the place index.
+
+## Local editor
+
+The dependency-free editor in [`web`](web/README.md) can open this repository through the browser's
+File System Access API, edit source records, and add content-addressed place files. It runs entirely
+locally in a current Chromium-based browser.
