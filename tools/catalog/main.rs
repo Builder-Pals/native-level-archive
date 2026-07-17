@@ -30,6 +30,13 @@ enum Command {
         #[arg(long)]
         apply: bool,
     },
+    /// Restore content-addressed blobs from their exact historical Git objects.
+    RestoreBlobs {
+        #[arg(long, default_value = "HEAD^")]
+        revision: String,
+        #[arg(long)]
+        apply: bool,
+    },
     /// Extract badge and place ID candidates from imported levels.
     Discover,
     /// Resolve badge evidence and current Roblox metadata.
@@ -49,6 +56,9 @@ async fn main() -> Result<()> {
     match cli.command {
         Command::Import { revision } => catalog::import(&root, &revision),
         Command::CleanLegacy { revision, apply } => catalog::clean_legacy(&root, &revision, apply),
+        Command::RestoreBlobs { revision, apply } => {
+            catalog::restore_blobs(&root, &revision, apply)
+        }
         Command::Discover => catalog::discover(&root),
         Command::Enrich => catalog::enrich(&root).await,
         Command::Build => catalog::build(&root),
