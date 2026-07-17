@@ -18,7 +18,7 @@ struct Cli {
 
 #[derive(Subcommand)]
 enum Command {
-    /// Import tracked Roblox place files from a Git tree.
+    /// Import tracked Roblox place files from Git tree.
     Import {
         #[arg(long, default_value = "HEAD")]
         revision: String,
