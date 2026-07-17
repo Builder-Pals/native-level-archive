@@ -21950,35 +21950,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_eca076a9640ebebe171bc8962e84acaa",
-    "title": "Build to Survive the Zombies",
-    "snapshot": {},
-    "blob": {
-      "sha256": "e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697",
-      "path": "levels/sha256/e4/e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697.rbxlx",
-      "format": "xml",
-      "size_bytes": 4161429,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e4/e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697.rbxlx"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Build to Survive the Zombies.rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_ececf2154b5db88d70e4d1dc12feab4d",
     "title": "Doom Science Enrichment Center (February 9th, 2012)",
     "snapshot": {

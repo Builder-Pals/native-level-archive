@@ -1439,6 +1439,27 @@
         }
       ]
     },
+    "51955496": {
+      "universe_id": 19948360,
+      "preferred": {
+        "record_id": "nla_eca076a9640ebebe171bc8962e84acaa",
+        "title": "Build to Survive the Zombies",
+        "sha256": "e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697",
+        "size_bytes": 4161429,
+        "path": "levels/sha256/e4/e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697.rbxlx",
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e4/e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697.rbxlx"
+      },
+      "variants": [
+        {
+          "record_id": "nla_eca076a9640ebebe171bc8962e84acaa",
+          "title": "Build to Survive the Zombies",
+          "sha256": "e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697",
+          "size_bytes": 4161429,
+          "path": "levels/sha256/e4/e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697.rbxlx",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/e4/e400ee3f1fb58a8b1d52e8bbfcf4f1d4f7957c73457d591d36b9e680d3e27697.rbxlx"
+        }
+      ]
+    },
     "56634690": {
       "universe_id": 1665952,
       "preferred": {

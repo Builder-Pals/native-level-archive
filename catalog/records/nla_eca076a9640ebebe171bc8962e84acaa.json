@@ -20,10 +20,24 @@
     "collection": "root"
   },
   "discovery": {},
-  "match": {
-    "status": "unresolved",
-    "confidence": "none",
-    "reviewed": false
+  "source": {
+    "root_place_id": 51955496,
+    "universe_id": 19948360,
+    "name": "Build to survive the zombies",
+    "roblox_url": "https://www.roblox.com/games/51955496",
+    "description": "[ Content Deleted ]",
+    "creator": {
+      "id": 15140266,
+      "name": "DANGERTIM112",
+      "type": "User"
+    },
+    "created_at": "2011-05-16T15:37:57.48Z",
+    "updated_at": "2013-07-04T03:03:33.17Z"
   },
-  "preferred": false
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true
+  },
+  "preferred": true
 }
