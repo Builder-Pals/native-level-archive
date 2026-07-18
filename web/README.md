@@ -41,6 +41,10 @@ access. The editor verifies the root by looking for `Cargo.toml` and `catalog/re
 - Adding an entry hashes the selected place file in the browser, writes it beneath
   `levels/sha256` (or `quarantine/sha256` when invalid), and creates a new unresolved source record.
   A blob already present at the same content-addressed path is reused after its hash is checked.
+- Removing an entry permanently deletes its source record and deletes its content-addressed blob
+  when no other source record references that file. Shared blobs are retained. Removing a preferred
+  snapshot requires choosing a replacement when other publishable snapshots remain for its place.
+  If a later filesystem operation fails, earlier record changes are rolled back where possible.
 - The generated `catalog-v1.json`, `place-index-v1.json`, and `review-queue-v1.json` files are never
   edited directly.
 

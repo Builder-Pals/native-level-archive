@@ -21,9 +21,11 @@
     browserWarning: document.querySelector("#browser-warning"),
     cancelAdd: document.querySelector("#cancel-add"),
     cancelAssociation: document.querySelector("#cancel-association"),
+    cancelRemove: document.querySelector("#cancel-remove"),
     collection: document.querySelector("#collection"),
     confirmAdd: document.querySelector("#confirm-add"),
     confirmAssociation: document.querySelector("#confirm-association"),
+    confirmRemove: document.querySelector("#confirm-remove"),
     editor: document.querySelector("#editor"),
     entrySummary: document.querySelector("#entry-summary"),
     filter: document.querySelector("#filter"),
@@ -38,6 +40,15 @@
     placeFile: document.querySelector("#place-file"),
     recordCount: document.querySelector("#record-count"),
     recordList: document.querySelector("#record-list"),
+    removeConfirmation: document.querySelector("#remove-confirmation"),
+    removeDialog: document.querySelector("#remove-dialog"),
+    removeEntry: document.querySelector("#remove-entry"),
+    removeErrors: document.querySelector("#remove-errors"),
+    removeForm: document.querySelector("#remove-form"),
+    removeRecord: document.querySelector("#remove-record"),
+    removeSummary: document.querySelector("#remove-summary"),
+    replacementPreferredField: document.querySelector("#replacement-preferred-field"),
+    replacementPreferredRecord: document.querySelector("#replacement-preferred-record"),
     repositoryStatus: document.querySelector("#repository-status"),
     revert: document.querySelector("#revert"),
     save: document.querySelector("#save"),
@@ -80,6 +91,7 @@
     elements.associatePlace.disabled = !state.selected || Boolean(state.selected.parseError);
     elements.save.disabled = !state.selected || !dirty;
     elements.revert.disabled = !state.selected || !dirty;
+    elements.removeEntry.disabled = !state.selected || Boolean(state.selected.parseError);
   }
 
   function sortRecords() {
@@ -553,6 +565,212 @@
     }
   }
 
+  function replacementCandidatesForRemoval(record) {
+    if (!utils.isPublishableRecord(record) || !record.preferred) {
+      return [];
+    }
+    return state.records.filter(
+      (item) =>
+        item.data?.id !== record.id &&
+        utils.isPublishableRecord(item.data) &&
+        item.data.source.root_place_id === record.source.root_place_id,
+    );
+  }
+
+  function updateRemoveConfirmation() {
+    const recordId = state.selected?.data?.id || "";
+    const replacementReady =
+      elements.replacementPreferredField.hidden ||
+      elements.replacementPreferredRecord.value !== "";
+    elements.confirmRemove.disabled =
+      elements.removeConfirmation.value !== recordId || !replacementReady;
+  }
+
+  function openRemoveDialog() {
+    if (!state.selected?.data) {
+      return;
+    }
+    if (isDirty()) {
+      if (!window.confirm("Discard the unsaved JSON changes before removing this entry?")) {
+        return;
+      }
+      revertEditor();
+    }
+
+    const record = state.selected.data;
+    const errors = utils.validateRecord(record, {
+      expectedId: state.selected.filename.replace(/\.json$/i, ""),
+      expectedBlob: record.blob,
+    });
+    if (errors.length > 0) {
+      setMessage(`This entry cannot be safely removed: ${errors.join(" ")}`);
+      return;
+    }
+
+    elements.removeForm.reset();
+    elements.removeErrors.hidden = true;
+    elements.removeErrors.textContent = "";
+    elements.removeRecord.textContent = `${record.title} (${record.id})`;
+    const sharedBlobCount = state.records.filter(
+      (item) => item.data?.id !== record.id && item.data?.blob?.path === record.blob.path,
+    ).length;
+    const blobSummary = sharedBlobCount === 0
+      ? `The unshared blob ${record.blob.path} will also be deleted.`
+      : `The blob ${record.blob.path} will be retained because ${sharedBlobCount} other record(s) reference it.`;
+    const candidates = replacementCandidatesForRemoval(record);
+    let placeSummary = "";
+    if (utils.isPublishableRecord(record) && record.preferred) {
+      placeSummary = candidates.length > 0
+        ? ` Choose a new preferred snapshot for place ${record.source.root_place_id}.`
+        : ` Place ${record.source.root_place_id} will no longer appear in the generated place index.`;
+    }
+    elements.removeSummary.textContent =
+      `The source record catalog/records/${state.selected.filename} will be deleted. ${blobSummary}${placeSummary}`;
+
+    elements.replacementPreferredField.hidden = candidates.length === 0;
+    elements.replacementPreferredRecord.required = candidates.length > 0;
+    const options = document.createDocumentFragment();
+    if (candidates.length > 0) {
+      const placeholder = document.createElement("option");
+      placeholder.value = "";
+      placeholder.textContent = "Choose a replacement";
+      options.append(placeholder);
+      for (const item of candidates) {
+        const option = document.createElement("option");
+        option.value = item.data.id;
+        option.textContent = `${item.data.title} (${item.data.id})`;
+        options.append(option);
+      }
+    }
+    elements.replacementPreferredRecord.replaceChildren(options);
+    elements.removeConfirmation.placeholder = record.id;
+    updateRemoveConfirmation();
+    elements.removeDialog.showModal();
+  }
+
+  function closeRemoveDialog() {
+    elements.removeDialog.close();
+  }
+
+  async function removeBlobFile(path) {
+    const parts = path.split("/");
+    const filename = parts.pop();
+    let directory = state.rootDirectory;
+    const traversed = [];
+    try {
+      for (const part of parts) {
+        const child = await directory.getDirectoryHandle(part);
+        traversed.push({ parent: directory, name: part });
+        directory = child;
+      }
+      await directory.removeEntry(filename);
+    } catch (error) {
+      if (error instanceof DOMException && error.name === "NotFoundError") {
+        return;
+      }
+      throw error;
+    }
+
+    const leaf = traversed.at(-1);
+    if (leaf) {
+      try {
+        await leaf.parent.removeEntry(leaf.name);
+      } catch (_) {
+        // Non-empty content-addressed directories are expected and should be retained.
+      }
+    }
+  }
+
+  async function removeSelectedEntry(event) {
+    event.preventDefault();
+    const selected = state.selected;
+    if (!selected?.data || elements.removeConfirmation.value !== selected.data.id) {
+      return;
+    }
+
+    elements.confirmRemove.disabled = true;
+    elements.cancelRemove.disabled = true;
+    elements.removeErrors.hidden = true;
+    const rollbackUpdates = [];
+    let updatesWritten = false;
+    let recordRemoved = false;
+    try {
+      const plan = utils.planRecordRemoval(
+        loadedRecordData(),
+        selected.data.id,
+        elements.replacementPreferredRecord.value || null,
+      );
+      for (const update of plan.updates) {
+        const item = state.records.find((record) => record.data?.id === update.id);
+        rollbackUpdates.push({
+          id: update.id,
+          record: JSON.parse(JSON.stringify(item.data)),
+        });
+      }
+      await writeAssociationUpdates(plan.updates);
+      updatesWritten = true;
+
+      await state.recordsDirectory.removeEntry(selected.filename);
+      recordRemoved = true;
+      if (plan.removeBlob) {
+        await removeBlobFile(selected.data.blob.path);
+      }
+
+      state.records = state.records.filter((item) => item !== selected);
+      state.selected = null;
+      state.originalEditorText = "";
+      elements.editor.value = "";
+      elements.editor.disabled = true;
+      elements.entrySummary.textContent = "Select a record to edit it.";
+      setValidationErrors([]);
+      elements.removeDialog.close();
+      sortRecords();
+      renderRecordList();
+      updateEditorButtons();
+      const blobResult = plan.removeBlob
+        ? ` Deleted its unshared blob ${selected.data.blob.path}.`
+        : ` Retained the shared blob ${selected.data.blob.path}.`;
+      setMessage(
+        `Removed ${selected.filename}.${blobResult} Generated indexes now need build and verify.`,
+        "success",
+      );
+    } catch (error) {
+      const rollbackErrors = [];
+      if (recordRemoved) {
+        try {
+          const restoredHandle = await state.recordsDirectory.getFileHandle(selected.filename, {
+            create: true,
+          });
+          const writable = await restoredHandle.createWritable();
+          await writable.write(selected.rawText);
+          await writable.close();
+          selected.handle = restoredHandle;
+        } catch (rollbackError) {
+          rollbackErrors.push(
+            `record restore failed: ${rollbackError instanceof Error ? rollbackError.message : String(rollbackError)}`,
+          );
+        }
+      }
+      if (updatesWritten && rollbackUpdates.length > 0) {
+        try {
+          await writeAssociationUpdates(rollbackUpdates);
+        } catch (rollbackError) {
+          rollbackErrors.push(
+            `preferred-record rollback failed: ${rollbackError instanceof Error ? rollbackError.message : String(rollbackError)}`,
+          );
+        }
+      }
+      const detail = error instanceof Error ? error.message : String(error);
+      elements.removeErrors.textContent = rollbackErrors.length === 0
+        ? `${detail} No entry was removed.`
+        : `${detail} Removal rollback was incomplete: ${rollbackErrors.join("; ")}. Reload the repository before continuing.`;
+      elements.removeErrors.hidden = false;
+    } finally {
+      elements.cancelRemove.disabled = false;
+      updateRemoveConfirmation();
+    }
+  }
+
   function openAddDialog() {
     if (!state.rootDirectory || !confirmDiscard()) {
       return;
@@ -721,6 +939,11 @@
       renderAssociationContext();
     });
     elements.associationPreferred.addEventListener("change", renderAssociationContext);
+    elements.removeEntry.addEventListener("click", openRemoveDialog);
+    elements.cancelRemove.addEventListener("click", closeRemoveDialog);
+    elements.removeForm.addEventListener("submit", removeSelectedEntry);
+    elements.removeConfirmation.addEventListener("input", updateRemoveConfirmation);
+    elements.replacementPreferredRecord.addEventListener("change", updateRemoveConfirmation);
     elements.newEntry.addEventListener("click", openAddDialog);
     elements.cancelAdd.addEventListener("click", closeAddDialog);
     elements.addForm.addEventListener("submit", addEntry);

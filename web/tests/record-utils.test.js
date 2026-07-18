@@ -206,6 +206,55 @@ async function run() {
     /Review evidence is required/,
   );
 
+  const standaloneRemoval = utils.planRecordRemoval([record], record.id);
+  assert.deepEqual(standaloneRemoval, {
+    updates: [],
+    removeBlob: true,
+    sharedBlobRecordIds: [],
+  });
+
+  const sharedBlob = withId(record, idFor("e"));
+  const sharedRemoval = utils.planRecordRemoval([record, sharedBlob], record.id);
+  assert.equal(sharedRemoval.removeBlob, false);
+  assert.deepEqual(sharedRemoval.sharedBlobRecordIds, [sharedBlob.id]);
+
+  assert.throws(
+    () => utils.planRecordRemoval([oldPreferred, oldVariant], oldPreferred.id),
+    /replacement preferred snapshot/,
+  );
+  assert.throws(
+    () =>
+      utils.planRecordRemoval(
+        [oldPreferred, oldVariant],
+        oldPreferred.id,
+        existingPreferred.id,
+      ),
+    /replacement preferred snapshot/,
+  );
+  const preferredRemoval = utils.planRecordRemoval(
+    [oldPreferred, oldVariant],
+    oldPreferred.id,
+    oldVariant.id,
+  );
+  assert.equal(preferredRemoval.updates.length, 1);
+  assert.equal(preferredRemoval.updates[0].id, oldVariant.id);
+  assert.equal(preferredRemoval.updates[0].record.preferred, true);
+  assert.equal(oldVariant.preferred, false);
+  assert.deepEqual(
+    utils.planRecordRemoval([oldPreferred, oldVariant], oldVariant.id).updates,
+    [],
+  );
+  assert.deepEqual(
+    utils.planRecordRemoval([oldPreferred], oldPreferred.id).updates,
+    [],
+  );
+  const unsafeRemoval = JSON.parse(JSON.stringify(record));
+  unsafeRemoval.blob.path = "../outside.rbxl";
+  assert.throws(
+    () => utils.planRecordRemoval([unsafeRemoval], unsafeRemoval.id),
+    /safe blob path/,
+  );
+
   const invalidSource = JSON.parse(JSON.stringify(associated));
   invalidSource.source.root_place_id = 0;
   invalidSource.source.universe_id = 0;

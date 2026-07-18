@@ -405,6 +405,79 @@
     return { updates };
   }
 
+  function planRecordRemoval(records, selectedId, replacementPreferredId = null) {
+    if (!Array.isArray(records)) {
+      throw new Error("Records must be an array.");
+    }
+    const selected = records.find((record) => record?.id === selectedId);
+    if (!selected) {
+      throw new Error("The selected record could not be found.");
+    }
+    if (
+      typeof selected.blob?.path !== "string" ||
+      selected.blob.path === "" ||
+      selected.blob.path.includes("..") ||
+      selected.blob.path.includes("\\") ||
+      selected.blob.path.startsWith("/")
+    ) {
+      throw new Error("The selected record does not have a safe blob path.");
+    }
+
+    const selectedPlaceId = isPublishableRecord(selected)
+      ? selected.source.root_place_id
+      : null;
+    const remainingPlaceRecords =
+      selectedPlaceId === null
+        ? []
+        : records.filter(
+            (record) =>
+              record?.id !== selectedId &&
+              isPublishableRecord(record) &&
+              record.source.root_place_id === selectedPlaceId,
+          );
+
+    const copies = records.map((record) => cloneJson(record));
+    if (selected.preferred && remainingPlaceRecords.length > 0) {
+      const replacement = remainingPlaceRecords.find(
+        (record) => record.id === replacementPreferredId,
+      );
+      if (!replacement) {
+        throw new Error(
+          `Choose a replacement preferred snapshot for place ${selectedPlaceId}.`,
+        );
+      }
+      for (const record of copies) {
+        if (
+          record.id !== selectedId &&
+          isPublishableRecord(record) &&
+          record.source.root_place_id === selectedPlaceId
+        ) {
+          record.preferred = record.id === replacement.id;
+        }
+      }
+    }
+
+    const updates = copies
+      .map((record, index) => ({ record, original: records[index] }))
+      .filter(
+        ({ record, original }) =>
+          record.id !== selectedId && !deepEqual(record, original),
+      )
+      .map(({ record }) => ({ id: record.id, record }));
+    const sharedBlobRecordIds = records
+      .filter(
+        (record) =>
+          record?.id !== selectedId && record?.blob?.path === selected.blob.path,
+      )
+      .map((record) => record.id);
+
+    return {
+      updates,
+      removeBlob: sharedBlobRecordIds.length === 0,
+      sharedBlobRecordIds,
+    };
+  }
+
   function validateRecord(record, constraints = {}) {
     const errors = [];
     if (!isObject(record)) {
@@ -561,6 +634,7 @@
     knownPlaceAssociation,
     parseSnapshot,
     planPlaceAssociation,
+    planRecordRemoval,
     recordSearchText,
     recordStatus,
     sha256Hex,

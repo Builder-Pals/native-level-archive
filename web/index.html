@@ -52,6 +52,7 @@
           <button id="associate-place" type="button" disabled>Associate place</button>
           <button id="save" type="button" disabled>Save record</button>
           <button id="revert" type="button" disabled>Revert</button>
+          <button id="remove-entry" class="danger-button" type="button" disabled>Remove entry</button>
         </div>
         <pre id="validation-errors" class="error" hidden></pre>
         <p>
@@ -106,6 +107,31 @@
         <div>
           <button id="cancel-association" type="button">Cancel</button>
           <button id="confirm-association" type="submit">Save association</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="remove-dialog">
+      <form id="remove-form">
+        <h2>Remove entry</h2>
+        <p id="remove-record"></p>
+        <p id="remove-summary"></p>
+        <label id="replacement-preferred-field" hidden>
+          Replacement preferred snapshot
+          <select id="replacement-preferred-record"></select>
+        </label>
+        <label>
+          Type the record ID to confirm
+          <input id="remove-confirmation" type="text" autocomplete="off" spellcheck="false" required>
+        </label>
+        <pre id="remove-errors" class="error" hidden></pre>
+        <p>
+          This cannot be undone in the editor. Rebuild the generated catalog and indexes after
+          removal.
+        </p>
+        <div>
+          <button id="cancel-remove" type="button">Cancel</button>
+          <button id="confirm-remove" class="danger-button" type="submit" disabled>Remove entry</button>
         </div>
       </form>
     </dialog>
