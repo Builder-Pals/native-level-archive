@@ -21,9 +21,22 @@
   },
   "discovery": {},
   "match": {
-    "status": "unresolved",
-    "confidence": "none",
-    "reviewed": false
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true,
+    "evidence": [
+      {
+        "kind": "manual",
+        "value": "113225",
+        "detail": "Obtained via the table on the Fandom Roblox Wiki: https://roblox.fandom.com/wiki/Player:ScorpioPilot#Altered/Deleted_games"
+      }
+    ]
   },
-  "preferred": false
+  "preferred": true,
+  "source": {
+    "root_place_id": 113225,
+    "universe_id": 174640,
+    "name": "The Undead Coming",
+    "roblox_url": "https://www.roblox.com/games/113225"
+  }
 }
