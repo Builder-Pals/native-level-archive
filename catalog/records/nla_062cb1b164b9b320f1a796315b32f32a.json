@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "nla_062cb1b164b9b320f1a796315b32f32a",
+  "title": "Terror in Bikini Bottom (2014, Fixed Leaderboard)",
+  "snapshot": {
+    "label": "2014, Fixed Leaderboard",
+    "date": "2014-01-01",
+    "precision": "year"
+  },
+  "blob": {
+    "sha256": "384c8c5d9005ff8a1b53ebb60ee0c51aee31c9301bfabc48ce67abba6a9f132d",
+    "path": "levels/sha256/38/384c8c5d9005ff8a1b53ebb60ee0c51aee31c9301bfabc48ce67abba6a9f132d.rbxl",
+    "format": "binary",
+    "size_bytes": 584805,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/38/384c8c5d9005ff8a1b53ebb60ee0c51aee31c9301bfabc48ce67abba6a9f132d.rbxl"
+  },
+  "validation": {
+    "status": "valid"
+  },
+  "provenance": {
+    "original_paths": [
+      "Terror in Bikini Bottom (2014, Fixed Leaderboard).rbxl"
+    ],
+    "collection": "root"
+  },
+  "discovery": {},
+  "match": {
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true,
+    "evidence": [
+      {
+        "kind": "manual",
+        "value": "31500456",
+        "detail": "Retrieved via other snapshots."
+      }
+    ]
+  },
+  "preferred": true,
+  "source": {
+    "root_place_id": 31500456,
+    "universe_id": 21419273,
+    "name": "Terror in Bikini Bottom",
+    "roblox_url": "https://www.roblox.com/games/31500456"
+  }
+}
