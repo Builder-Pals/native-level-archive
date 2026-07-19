@@ -2468,35 +2468,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_158bdee9e32955b65d8991e2a7253be9",
-    "title": "The Undead Coming v1.2",
-    "snapshot": {},
-    "blob": {
-      "sha256": "0edf92acaf5379fbf479337d017eb839d9bf6d9ffac0a26d276a6080753bc8e9",
-      "path": "levels/sha256/0e/0edf92acaf5379fbf479337d017eb839d9bf6d9ffac0a26d276a6080753bc8e9.rbxlx",
-      "format": "xml",
-      "size_bytes": 737187,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/0e/0edf92acaf5379fbf479337d017eb839d9bf6d9ffac0a26d276a6080753bc8e9.rbxlx"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "The Undead Coming v1.2.rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_15c26298dca24681a24843b628e73706",
     "title": "Black Magic (October 2014)",
     "snapshot": {
@@ -7200,35 +7171,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_59893c1a76394bc47e52514bae6100fa",
-    "title": "2463 - Flex your account age",
-    "snapshot": {},
-    "blob": {
-      "sha256": "04e19e03390112e8a11a6ac637a09b503630d154976da31eac62813cc7c84231",
-      "path": "levels/sha256/04/04e19e03390112e8a11a6ac637a09b503630d154976da31eac62813cc7c84231.rbxl",
-      "format": "binary",
-      "size_bytes": 39905,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/04/04e19e03390112e8a11a6ac637a09b503630d154976da31eac62813cc7c84231.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/2463 - Flex your account age.rbxl"
-      ],
-      "collection": "Meteorite"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_59ebd4b441424dc5ff8f51e69b88dcbb",
     "title": "Sandbox (Mid 2012, ST2)",
     "snapshot": {
@@ -10473,35 +10415,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_86db69007b57579bc595d08dce91a4fe",
-    "title": "2802 - Shitty Custom Character Preview",
-    "snapshot": {},
-    "blob": {
-      "sha256": "da311b2d635eb3ae42cd6273a0a6280fe22195afc4bf84047f1f589f3661b605",
-      "path": "levels/sha256/da/da311b2d635eb3ae42cd6273a0a6280fe22195afc4bf84047f1f589f3661b605.rbxl",
-      "format": "binary",
-      "size_bytes": 128563,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/da/da311b2d635eb3ae42cd6273a0a6280fe22195afc4bf84047f1f589f3661b605.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/2802 - Shitty Custom Character Preview.rbxl"
-      ],
-      "collection": "Meteorite"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_8708488203fc11a0106caf1466b9d70c",
     "title": "1016",
     "snapshot": {},
@@ -10912,35 +10825,6 @@
         "abdillahi504's The View. (2008).rbxl"
       ],
       "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
-    "id": "nla_8e7b7d89f51eacb4ce07ade159a6ba39",
-    "title": "1657 - Robot 64 [Alpha demo build]",
-    "snapshot": {},
-    "blob": {
-      "sha256": "7cbd41068fc82def321bea715068a99e55ea2b8c18f209c67354f402b1a9cda1",
-      "path": "levels/sha256/7c/7cbd41068fc82def321bea715068a99e55ea2b8c18f209c67354f402b1a9cda1.rbxl",
-      "format": "binary",
-      "size_bytes": 2179146,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/7c/7cbd41068fc82def321bea715068a99e55ea2b8c18f209c67354f402b1a9cda1.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/1657 - Robot 64 [Alpha demo build].rbxl"
-      ],
-      "collection": "Meteorite"
     },
     "discovery": {},
     "match": {
@@ -12389,37 +12273,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_a14b6df9acdc188444abff5814081a56",
-    "title": "1519 - meep city with free money (broken asf)",
-    "snapshot": {
-      "label": "broken asf"
-    },
-    "blob": {
-      "sha256": "3af59395c7ece384d0f2fb65b9935fc5df80f6afc7daacaa2948f5756e7d1204",
-      "path": "levels/sha256/3a/3af59395c7ece384d0f2fb65b9935fc5df80f6afc7daacaa2948f5756e7d1204.rbxl",
-      "format": "binary",
-      "size_bytes": 1429646,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3a/3af59395c7ece384d0f2fb65b9935fc5df80f6afc7daacaa2948f5756e7d1204.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/1519 - meep city with free money (broken asf).rbxl"
-      ],
-      "collection": "Meteorite"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_a1b0a9ed249d8f2dfefc942f734edc00",
     "title": "67 - Old Cars",
     "snapshot": {},
@@ -12643,35 +12496,6 @@
     "provenance": {
       "original_paths": [
         "Finobe's Build Rush!.rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
-    "id": "nla_a51d4156cbf6d09e7eb2b54f161a5925",
-    "title": "Finobe City",
-    "snapshot": {},
-    "blob": {
-      "sha256": "fef0e309159d0873c1e8f2a51a75e6639e350ee3148674309048c47cd8d83ea9",
-      "path": "levels/sha256/fe/fef0e309159d0873c1e8f2a51a75e6639e350ee3148674309048c47cd8d83ea9.rbxlx",
-      "format": "xml",
-      "size_bytes": 5434399,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fe/fef0e309159d0873c1e8f2a51a75e6639e350ee3148674309048c47cd8d83ea9.rbxlx"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Finobe City.rbxl"
       ],
       "collection": "root"
     },
