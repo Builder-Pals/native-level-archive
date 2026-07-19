@@ -25,9 +25,22 @@
   },
   "discovery": {},
   "match": {
-    "status": "unresolved",
-    "confidence": "none",
-    "reviewed": false
+    "status": "verified",
+    "confidence": "high",
+    "reviewed": true,
+    "evidence": [
+      {
+        "kind": "manual",
+        "value": "9583639",
+        "detail": "Retrieved from Roblox Fandom Wiki & verified with website\nhttps://roblox.fandom.com/wiki/Player:Boopbot/Kingdom_Life_II%E2%84%A2\nhttps://www.roblox.com/games/9583639/Kingdom-Life-II"
+      }
+    ]
   },
-  "preferred": false
+  "preferred": true,
+  "source": {
+    "root_place_id": 9583639,
+    "universe_id": 16706304,
+    "name": "Kingdom Life™ II (authentic copy, 2012)",
+    "roblox_url": "https://www.roblox.com/games/9583639"
+  }
 }

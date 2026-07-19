@@ -5893,39 +5893,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_481f92e471718faf02dac71bfa24b487",
-    "title": "Kingdom Life™ II (authentic copy, 2012)",
-    "snapshot": {
-      "label": "authentic copy, 2012",
-      "date": "2012-01-01",
-      "precision": "year"
-    },
-    "blob": {
-      "sha256": "fbaf22467bdc345f59dc326f07a140d6e20441719ccd4f70be2d9d496d4dbd50",
-      "path": "levels/sha256/fb/fbaf22467bdc345f59dc326f07a140d6e20441719ccd4f70be2d9d496d4dbd50.rbxlx",
-      "format": "xml",
-      "size_bytes": 47825543,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fb/fbaf22467bdc345f59dc326f07a140d6e20441719ccd4f70be2d9d496d4dbd50.rbxlx"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Kingdom Life™ II (authentic copy, 2012).rbxl"
-      ],
-      "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_492af84a2887890177094ebd9cddd9b5",
     "title": "Build a Plane Challenge (March 24th, 2013)",
     "snapshot": {
