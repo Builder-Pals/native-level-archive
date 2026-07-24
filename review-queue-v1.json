@@ -3983,35 +3983,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_2a51d49db9db1823e553c76e699ca3a7",
-    "title": "792 - Half Life Meteorite",
-    "snapshot": {},
-    "blob": {
-      "sha256": "b07330281ae6ee79979d0b072914e97dc348a45d9cc23e0e9c001826a72cca94",
-      "path": "levels/sha256/b0/b07330281ae6ee79979d0b072914e97dc348a45d9cc23e0e9c001826a72cca94.rbxl",
-      "format": "binary",
-      "size_bytes": 138044,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/b0/b07330281ae6ee79979d0b072914e97dc348a45d9cc23e0e9c001826a72cca94.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/792 - Half Life Meteorite.rbxl"
-      ],
-      "collection": "Meteorite"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_2a5ac30ce9dc0edcc330fb41acb1a491",
     "title": "Sword Fight in the DARK",
     "snapshot": {},
@@ -9372,35 +9343,6 @@
   },
   {
     "schema_version": 1,
-    "id": "nla_74bc62a2c77e7a388199a7d4c106aaa2",
-    "title": "221 - METEORITE PAINTBALL TOURNAMENT",
-    "snapshot": {},
-    "blob": {
-      "sha256": "76dae4611db06987cb8882ce79171a6c8d331075c1f19174e080705083d777eb",
-      "path": "levels/sha256/76/76dae4611db06987cb8882ce79171a6c8d331075c1f19174e080705083d777eb.rbxl",
-      "format": "binary",
-      "size_bytes": 361182,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/76/76dae4611db06987cb8882ce79171a6c8d331075c1f19174e080705083d777eb.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/221 - METEORITE PAINTBALL TOURNAMENT.rbxl"
-      ],
-      "collection": "Meteorite"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
     "id": "nla_75564358a25280fa4157cddde878c1e3",
     "title": "Raining Tacos",
     "snapshot": {},
@@ -9775,35 +9717,6 @@
         "idkSweeper.rbxl"
       ],
       "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
-    "id": "nla_7c841880bf35c57a53cdc313fc875258",
-    "title": "2286 - Meteorite Voicechat",
-    "snapshot": {},
-    "blob": {
-      "sha256": "3a4931cf4a3b68ebe93c83569dc35d7d8555f12aafd7ec509130aa680f48ce1f",
-      "path": "levels/sha256/3a/3a4931cf4a3b68ebe93c83569dc35d7d8555f12aafd7ec509130aa680f48ce1f.rbxl",
-      "format": "binary",
-      "size_bytes": 239974,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/3a/3a4931cf4a3b68ebe93c83569dc35d7d8555f12aafd7ec509130aa680f48ce1f.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/2286 - Meteorite Voicechat.rbxl"
-      ],
-      "collection": "Meteorite"
     },
     "discovery": {},
     "match": {
@@ -18220,39 +18133,6 @@
         "can u escape the killer barneys.rbxl"
       ],
       "collection": "root"
-    },
-    "discovery": {},
-    "match": {
-      "status": "unresolved",
-      "confidence": "none",
-      "reviewed": false
-    },
-    "preferred": false
-  },
-  {
-    "schema_version": 1,
-    "id": "nla_d59557ba9f14eb9e2ead94b7d3a0a2a9",
-    "title": "2806 - Speed Run XVII (2020) (UNFINISHEDTESTING)",
-    "snapshot": {
-      "label": "UNFINISHEDTESTING",
-      "date": "2020-01-01",
-      "precision": "year"
-    },
-    "blob": {
-      "sha256": "af55a418f587e6a0382bb4469e0ae3ddc27746da1c08cb41844d24f43c826dd2",
-      "path": "levels/sha256/af/af55a418f587e6a0382bb4469e0ae3ddc27746da1c08cb41844d24f43c826dd2.rbxl",
-      "format": "binary",
-      "size_bytes": 1088824,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/af/af55a418f587e6a0382bb4469e0ae3ddc27746da1c08cb41844d24f43c826dd2.rbxl"
-    },
-    "validation": {
-      "status": "valid"
-    },
-    "provenance": {
-      "original_paths": [
-        "Meteorite/2806 - Speed Run XVII (2020) (UNFINISHEDTESTING).rbxl"
-      ],
-      "collection": "Meteorite"
     },
     "discovery": {},
     "match": {

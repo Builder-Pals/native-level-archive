@@ -20,6 +20,12 @@
     "collection": "Meteorite"
   },
   "discovery": {},
+  "source": {
+    "root_place_id": 31500456,
+    "universe_id": 21419273,
+    "name": "Terror in Bikini Bottom",
+    "roblox_url": "https://www.roblox.com/games/31500456"
+  },
   "match": {
     "status": "verified",
     "confidence": "high",
@@ -32,11 +38,5 @@
       }
     ]
   },
-  "preferred": false,
-  "source": {
-    "root_place_id": 31500456,
-    "universe_id": 21419273,
-    "name": "Terror in Bikini Bottom",
-    "roblox_url": "https://www.roblox.com/games/31500456"
-  }
+  "preferred": false
 }

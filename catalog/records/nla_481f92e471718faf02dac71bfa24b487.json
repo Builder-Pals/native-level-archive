@@ -24,6 +24,12 @@
     "collection": "root"
   },
   "discovery": {},
+  "source": {
+    "root_place_id": 9583639,
+    "universe_id": 16706304,
+    "name": "Kingdom Life™ II (authentic copy, 2012)",
+    "roblox_url": "https://www.roblox.com/games/9583639"
+  },
   "match": {
     "status": "verified",
     "confidence": "high",
@@ -36,11 +42,5 @@
       }
     ]
   },
-  "preferred": true,
-  "source": {
-    "root_place_id": 9583639,
-    "universe_id": 16706304,
-    "name": "Kingdom Life™ II (authentic copy, 2012)",
-    "roblox_url": "https://www.roblox.com/games/9583639"
-  }
+  "preferred": true
 }
