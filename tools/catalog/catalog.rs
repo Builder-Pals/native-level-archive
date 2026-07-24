@@ -1,35 +1,29 @@
 use std::{
     collections::{BTreeMap, BTreeSet, HashMap},
     fs,
-    path::{Path, PathBuf},
+    path::Path,
     time::Duration,
 };
 
 use anyhow::{bail, Context, Result};
 use chrono::NaiveDate;
 use futures_util::{stream, StreamExt};
-use quick_xml::{events::Event, Reader};
 use regex::Regex;
 use reqwest::{Client, StatusCode};
 use serde::Deserialize;
-use sha2::{Digest, Sha256};
 use tokio::time::sleep;
 
 use crate::{
-    git,
+    git, level,
     model::{
-        ArchiveRecord, BadgeRef, BlobRef, Catalog, Creator, Discovery, Evidence, MatchInfo,
-        OrphanMetadata, PlaceIndex, PlaceLookup, Provenance, Repository, RobloxSource, Snapshot,
-        Validation, Variant, RAW_BASE_URL, SCHEMA_VERSION,
+        ArchiveRecord, BadgeRef, BlobRef, Creator, Discovery, Evidence, MatchInfo, OrphanMetadata,
+        Provenance, RobloxSource, Snapshot, RAW_BASE_URL, SCHEMA_VERSION,
     },
+    storage::{load_records, record_path, sha256_hex, write_json, ORPHANS_PATH},
+    verify,
 };
 
-const RECORDS_DIR: &str = "catalog/records";
-const ORPHANS_PATH: &str = "catalog/orphan-metadata.json";
 const LEGACY_RECORDS: usize = 665;
-const BASELINE_BLOBS: usize = 642;
-const BASELINE_DUPLICATE_GROUPS: usize = 23;
-const BASELINE_INVALID: usize = 2;
 
 #[derive(Clone, Debug)]
 struct LegacyMetadata {
@@ -94,7 +88,7 @@ pub fn import(root: &Path, revision: &str) -> Result<()> {
             bail!("Git reported the wrong size for {}", entry.path);
         }
         let sha256 = sha256_hex(&bytes);
-        let (format, validation) = inspect_level(&bytes);
+        let (format, validation) = level::inspect(&bytes);
         let extension = match format.as_str() {
             "xml" => "rbxlx",
             "binary" => "rbxl",
@@ -176,7 +170,7 @@ pub fn import(root: &Path, revision: &str) -> Result<()> {
 }
 
 pub fn clean_legacy(root: &Path, revision: &str, apply: bool) -> Result<()> {
-    verify(root)?;
+    verify::verify(root)?;
     let entries = git::list_tree(root, revision)?;
     let targets: Vec<_> = entries
         .iter()
@@ -336,84 +330,6 @@ fn write_blob_once(path: &Path, bytes: &[u8], sha256: &str) -> Result<()> {
         fs::create_dir_all(parent)?;
     }
     fs::write(path, bytes).with_context(|| format!("failed to write {}", path.display()))
-}
-
-fn inspect_level(bytes: &[u8]) -> (String, Validation) {
-    if bytes.is_empty() {
-        return (
-            "invalid".into(),
-            Validation {
-                status: "invalid".into(),
-                reason: Some("empty file".into()),
-            },
-        );
-    }
-    if bytes.iter().all(|byte| *byte == 0) {
-        return (
-            "invalid".into(),
-            Validation {
-                status: "invalid".into(),
-                reason: Some("file contains only zero bytes".into()),
-            },
-        );
-    }
-    let trimmed = trim_prefix(bytes);
-    if trimmed.starts_with(b"<roblox!") {
-        return (
-            "binary".into(),
-            Validation {
-                status: "valid".into(),
-                reason: None,
-            },
-        );
-    }
-    if trimmed.starts_with(b"<roblox") || trimmed.starts_with(b"<?xml") {
-        return match validate_xml(trimmed) {
-            Ok(()) => (
-                "xml".into(),
-                Validation {
-                    status: "valid".into(),
-                    reason: None,
-                },
-            ),
-            Err(error) => (
-                "invalid".into(),
-                Validation {
-                    status: "invalid".into(),
-                    reason: Some(format!("malformed XML: {error}")),
-                },
-            ),
-        };
-    }
-    (
-        "invalid".into(),
-        Validation {
-            status: "invalid".into(),
-            reason: Some("unrecognized Roblox place encoding".into()),
-        },
-    )
-}
-
-fn trim_prefix(mut bytes: &[u8]) -> &[u8] {
-    if bytes.starts_with(&[0xef, 0xbb, 0xbf]) {
-        bytes = &bytes[3..];
-    }
-    let offset = bytes
-        .iter()
-        .position(|byte| !byte.is_ascii_whitespace())
-        .unwrap_or(0);
-    &bytes[offset..]
-}
-
-fn validate_xml(bytes: &[u8]) -> Result<()> {
-    let mut reader = Reader::from_reader(bytes);
-    let mut buffer = Vec::new();
-    loop {
-        match reader.read_event_into(&mut buffer)? {
-            Event::Eof => return Ok(()),
-            _ => buffer.clear(),
-        }
-    }
 }
 
 pub fn discover(root: &Path) -> Result<()> {
@@ -766,97 +682,6 @@ async fn fetch_games(
     Ok(games)
 }
 
-pub fn build(root: &Path) -> Result<()> {
-    let mut records = load_records(root)?;
-    records.sort_by(|a, b| a.id.cmp(&b.id));
-    let mut blobs = BTreeMap::new();
-    for record in &records {
-        blobs
-            .entry(record.blob.sha256.clone())
-            .or_insert_with(|| record.blob.clone());
-    }
-    let orphans: Vec<OrphanMetadata> = if root.join(ORPHANS_PATH).exists() {
-        serde_json::from_slice(&fs::read(root.join(ORPHANS_PATH))?)?
-    } else {
-        Vec::new()
-    };
-    let catalog = Catalog {
-        schema_version: SCHEMA_VERSION,
-        repository: Repository {
-            name: "Builder-Pals/native-level-archive".into(),
-            raw_base_url: RAW_BASE_URL.into(),
-        },
-        blobs,
-        records: records.clone(),
-        orphan_metadata: orphans,
-    };
-
-    let mut grouped: BTreeMap<u64, Vec<&ArchiveRecord>> = BTreeMap::new();
-    for record in &records {
-        let publishable = record.validation.status == "valid"
-            && record.source.is_some()
-            && ((record.match_info.status == "verified" && record.match_info.confidence == "high")
-                || record.match_info.reviewed);
-        if publishable {
-            grouped
-                .entry(record.source.as_ref().unwrap().root_place_id)
-                .or_default()
-                .push(record);
-        }
-    }
-
-    let mut places = BTreeMap::new();
-    for (place_id, mut group) in grouped {
-        group.sort_by(|a, b| {
-            b.snapshot
-                .date
-                .cmp(&a.snapshot.date)
-                .then_with(|| a.id.cmp(&b.id))
-        });
-        let preferred: Vec<_> = group.iter().filter(|record| record.preferred).collect();
-        if preferred.len() != 1 {
-            bail!(
-                "place {place_id} has {} variants but {} preferred records; curate exactly one",
-                group.len(),
-                preferred.len()
-            );
-        }
-        let source = preferred[0].source.as_ref().unwrap();
-        places.insert(
-            place_id.to_string(),
-            PlaceLookup {
-                universe_id: source.universe_id,
-                preferred: Variant::from(*preferred[0]),
-                variants: group.into_iter().map(Variant::from).collect(),
-            },
-        );
-    }
-    let index = PlaceIndex {
-        schema_version: SCHEMA_VERSION,
-        places,
-    };
-    let review: Vec<_> = records
-        .iter()
-        .filter(|record| {
-            record.match_info.status != "verified"
-                || record.match_info.confidence != "high"
-                || record.source.is_none()
-                || record.validation.status != "valid"
-        })
-        .cloned()
-        .collect();
-    write_json(&root.join("catalog-v1.json"), &catalog)?;
-    write_json(&root.join("place-index-v1.json"), &index)?;
-    write_json(&root.join("review-queue-v1.json"), &review)?;
-    eprintln!(
-        "built catalog with {} records, {} blobs, and {} indexed places",
-        catalog.records.len(),
-        catalog.blobs.len(),
-        index.places.len()
-    );
-    Ok(())
-}
-
 pub fn prefer(root: &Path, record_id: &str) -> Result<()> {
     let mut records = load_records(root)?;
     let target = records
@@ -879,169 +704,6 @@ pub fn prefer(root: &Path, record_id: &str) -> Result<()> {
     }
     eprintln!("preferred {record_id} for place {place_id}");
     Ok(())
-}
-
-pub fn verify(root: &Path) -> Result<()> {
-    let records = load_records(root)?;
-    // These baseline checks catch accidental loss of the imported archive while still allowing
-    // maintainers to add newly recovered records and blobs after the legacy import.
-    if records.len() < LEGACY_RECORDS {
-        bail!(
-            "expected at least {LEGACY_RECORDS} records, found {}",
-            records.len()
-        );
-    }
-    let mut hashes: BTreeMap<&str, usize> = BTreeMap::new();
-    let mut invalid = 0;
-    let mut record_ids = BTreeSet::new();
-    let mut referenced_paths = BTreeSet::new();
-    for record in &records {
-        if record.schema_version != SCHEMA_VERSION {
-            bail!("record {} has unsupported schema version", record.id);
-        }
-        if !record_ids.insert(record.id.as_str()) {
-            bail!("duplicate record ID {}", record.id);
-        }
-        *hashes.entry(&record.blob.sha256).or_default() += 1;
-        referenced_paths.insert(record.blob.path.replace('\\', "/"));
-        if record.validation.status != "valid" {
-            invalid += 1;
-        }
-        verify_blob(root, record)?;
-    }
-    if hashes.len() < BASELINE_BLOBS {
-        bail!(
-            "expected at least {BASELINE_BLOBS} unique blobs, found {}",
-            hashes.len()
-        );
-    }
-    let duplicate_groups = hashes.values().filter(|count| **count > 1).count();
-    if duplicate_groups < BASELINE_DUPLICATE_GROUPS {
-        bail!(
-            "expected at least {BASELINE_DUPLICATE_GROUPS} duplicate groups, found {duplicate_groups}"
-        );
-    }
-    if invalid < BASELINE_INVALID {
-        bail!("expected at least {BASELINE_INVALID} invalid records, found {invalid}");
-    }
-    let on_disk: BTreeSet<_> = [root.join("levels"), root.join("quarantine")]
-        .into_iter()
-        .filter(|path| path.exists())
-        .flat_map(walk_files)
-        .map(|path| {
-            path.strip_prefix(root)
-                .unwrap()
-                .to_string_lossy()
-                .replace('\\', "/")
-        })
-        .collect();
-    if on_disk != referenced_paths {
-        let unreferenced: Vec<_> = on_disk.difference(&referenced_paths).collect();
-        let missing: Vec<_> = referenced_paths.difference(&on_disk).collect();
-        bail!("blob inventory mismatch; unreferenced={unreferenced:?}, missing={missing:?}");
-    }
-
-    if root.join("catalog-v1.json").exists() {
-        let catalog: Catalog = serde_json::from_slice(&fs::read(root.join("catalog-v1.json"))?)?;
-        if catalog.records.len() != records.len() || catalog.blobs.len() != hashes.len() {
-            bail!("catalog-v1.json is stale; run build");
-        }
-    }
-    if root.join("place-index-v1.json").exists() {
-        let index: PlaceIndex =
-            serde_json::from_slice(&fs::read(root.join("place-index-v1.json"))?)?;
-        for (place_id, lookup) in &index.places {
-            if lookup.variants.is_empty()
-                || !lookup
-                    .variants
-                    .iter()
-                    .any(|variant| variant.record_id == lookup.preferred.record_id)
-            {
-                bail!("place index entry {place_id} has an invalid preferred variant");
-            }
-        }
-    }
-    eprintln!(
-        "verified {} records, {} unique blobs, {} duplicate groups, and {} invalid records",
-        records.len(),
-        hashes.len(),
-        duplicate_groups,
-        invalid
-    );
-    Ok(())
-}
-
-fn verify_blob(root: &Path, record: &ArchiveRecord) -> Result<()> {
-    if record.blob.path.contains("..") || Path::new(&record.blob.path).is_absolute() {
-        bail!("record {} has an unsafe blob path", record.id);
-    }
-    let path = root.join(&record.blob.path);
-    let bytes = fs::read(&path).with_context(|| format!("missing blob {}", path.display()))?;
-    if bytes.len() as u64 != record.blob.size_bytes {
-        bail!("size mismatch for {}", record.blob.path);
-    }
-    if sha256_hex(&bytes) != record.blob.sha256 {
-        bail!("SHA-256 mismatch for {}", record.blob.path);
-    }
-    let (format, validation) = inspect_level(&bytes);
-    if format != record.blob.format || validation.status != record.validation.status {
-        bail!("format/validation mismatch for {}", record.blob.path);
-    }
-    if record.blob.download_url != format!("{RAW_BASE_URL}{}", record.blob.path) {
-        bail!("download URL mismatch for {}", record.id);
-    }
-    Ok(())
-}
-
-fn walk_files(root: PathBuf) -> Vec<PathBuf> {
-    let mut output = Vec::new();
-    let mut pending = vec![root];
-    while let Some(path) = pending.pop() {
-        let Ok(entries) = fs::read_dir(path) else {
-            continue;
-        };
-        for entry in entries.flatten() {
-            let path = entry.path();
-            if path.is_dir() {
-                pending.push(path);
-            } else {
-                output.push(path);
-            }
-        }
-    }
-    output
-}
-
-fn load_records(root: &Path) -> Result<Vec<ArchiveRecord>> {
-    let directory = root.join(RECORDS_DIR);
-    if !directory.exists() {
-        bail!("{} does not exist; run import first", directory.display());
-    }
-    let mut paths: Vec<_> = fs::read_dir(directory)?
-        .filter_map(|entry| entry.ok().map(|entry| entry.path()))
-        .filter(|path| path.extension().and_then(|value| value.to_str()) == Some("json"))
-        .collect();
-    paths.sort();
-    paths
-        .into_iter()
-        .map(|path| {
-            serde_json::from_slice(&fs::read(&path)?)
-                .with_context(|| format!("invalid record {}", path.display()))
-        })
-        .collect()
-}
-
-fn write_json<T: serde::Serialize>(path: &Path, value: &T) -> Result<()> {
-    if let Some(parent) = path.parent() {
-        fs::create_dir_all(parent)?;
-    }
-    let mut bytes = serde_json::to_vec_pretty(value)?;
-    bytes.push(b'\n');
-    fs::write(path, bytes).with_context(|| format!("failed to write {}", path.display()))
-}
-
-fn record_path(root: &Path, id: &str) -> PathBuf {
-    root.join(RECORDS_DIR).join(format!("{id}.json"))
 }
 
 fn is_level_path(path: &str) -> bool {
@@ -1162,22 +824,9 @@ fn parse_snapshot(title: &str) -> Snapshot {
     }
 }
 
-fn sha256_hex(bytes: &[u8]) -> String {
-    let digest = Sha256::digest(bytes);
-    digest.iter().map(|byte| format!("{byte:02x}")).collect()
-}
-
 #[cfg(test)]
 mod tests {
     use super::*;
-
-    #[test]
-    fn detects_place_formats_and_corruption() {
-        assert_eq!(inspect_level(b"<roblox version=\"4\"></roblox>").0, "xml");
-        assert_eq!(inspect_level(b"<roblox!binary").0, "binary");
-        assert_eq!(inspect_level(b"").1.status, "invalid");
-        assert_eq!(inspect_level(&[0, 0, 0]).1.status, "invalid");
-    }
 
     #[test]
     fn parses_snapshot_precision() {

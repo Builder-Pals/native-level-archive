@@ -7,6 +7,7 @@ pub const RAW_BASE_URL: &str =
     "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/";
 
 #[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct ArchiveRecord {
     pub schema_version: u32,
     pub id: String,
@@ -30,6 +31,7 @@ pub struct ArchiveRecord {
 }
 
 #[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Snapshot {
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub label: Option<String>,
@@ -39,7 +41,8 @@ pub struct Snapshot {
     pub precision: Option<String>,
 }
 
-#[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[derive(Clone, Debug, Default, Deserialize, Serialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
 pub struct BlobRef {
     pub sha256: String,
     pub path: String,
@@ -49,6 +52,7 @@ pub struct BlobRef {
 }
 
 #[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Validation {
     pub status: String,
     #[serde(default, skip_serializing_if = "Option::is_none")]
@@ -56,6 +60,7 @@ pub struct Validation {
 }
 
 #[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Provenance {
     pub original_paths: Vec<String>,
     pub collection: String,
@@ -68,6 +73,7 @@ pub struct Provenance {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct BadgeRef {
     pub id: u64,
     #[serde(default, skip_serializing_if = "Option::is_none")]
@@ -76,6 +82,7 @@ pub struct BadgeRef {
 }
 
 #[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Discovery {
     #[serde(default, skip_serializing_if = "Vec::is_empty")]
     pub badge_ids: Vec<u64>,
@@ -86,6 +93,7 @@ pub struct Discovery {
 }
 
 #[derive(Clone, Debug, Default, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct RobloxSource {
     pub root_place_id: u64,
     pub universe_id: u64,
@@ -102,6 +110,7 @@ pub struct RobloxSource {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Creator {
     pub id: u64,
     pub name: String,
@@ -110,6 +119,7 @@ pub struct Creator {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct MatchInfo {
     pub status: String,
     pub confidence: String,
@@ -131,6 +141,7 @@ impl Default for MatchInfo {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Evidence {
     pub kind: String,
     pub value: String,
@@ -138,6 +149,7 @@ pub struct Evidence {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct OrphanMetadata {
     pub path: String,
     #[serde(default, skip_serializing_if = "Option::is_none")]
@@ -147,6 +159,7 @@ pub struct OrphanMetadata {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Catalog {
     pub schema_version: u32,
     pub repository: Repository,
@@ -156,18 +169,21 @@ pub struct Catalog {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Repository {
     pub name: String,
     pub raw_base_url: String,
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct PlaceIndex {
     pub schema_version: u32,
     pub places: BTreeMap<String, PlaceLookup>,
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct PlaceLookup {
     pub universe_id: u64,
     pub preferred: Variant,
@@ -175,6 +191,7 @@ pub struct PlaceLookup {
 }
 
 #[derive(Clone, Debug, Deserialize, Serialize)]
+#[serde(deny_unknown_fields)]
 pub struct Variant {
     pub record_id: String,
     pub title: String,

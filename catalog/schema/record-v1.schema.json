@@ -3,19 +3,64 @@
   "$id": "https://github.com/Builder-Pals/native-level-archive/catalog/schema/record-v1.schema.json",
   "title": "Native Level Archive record v1",
   "type": "object",
-  "required": ["schema_version", "id", "title", "snapshot", "blob", "validation", "provenance", "discovery", "match", "preferred"],
+  "required": [
+    "schema_version",
+    "id",
+    "title",
+    "snapshot",
+    "blob",
+    "validation",
+    "provenance",
+    "discovery",
+    "match",
+    "preferred"
+  ],
   "properties": {
     "schema_version": { "const": 1 },
     "id": { "type": "string", "pattern": "^nla_[0-9a-f]{32}$" },
     "title": { "type": "string", "minLength": 1 },
-    "aliases": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
-    "snapshot": { "type": "object" },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "snapshot": { "$ref": "#/$defs/snapshot" },
+    "blob": { "$ref": "#/$defs/blob" },
+    "validation": { "$ref": "#/$defs/validation" },
+    "provenance": { "$ref": "#/$defs/provenance" },
+    "badges": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/badge" },
+      "uniqueItems": true
+    },
+    "discovery": { "$ref": "#/$defs/discovery" },
+    "source": { "$ref": "#/$defs/source" },
+    "match": { "$ref": "#/$defs/match" },
+    "preferred": { "type": "boolean" }
+  },
+  "$defs": {
+    "snapshot": {
+      "type": "object",
+      "properties": {
+        "label": { "type": "string" },
+        "date": { "type": "string", "format": "date" },
+        "precision": { "enum": ["day", "month", "year"] }
+      },
+      "dependentRequired": {
+        "date": ["precision"],
+        "precision": ["date"]
+      },
+      "additionalProperties": false
+    },
     "blob": {
       "type": "object",
       "required": ["sha256", "path", "format", "size_bytes", "download_url"],
       "properties": {
         "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
-        "path": { "type": "string", "pattern": "^(levels|quarantine)/sha256/[0-9a-f]{2}/[0-9a-f]{64}\\.(rbxl|rbxlx|bin)$" },
+        "path": {
+          "type": "string",
+          "pattern": "^(levels|quarantine)/sha256/[0-9a-f]{2}/[0-9a-f]{64}\\.(rbxl|rbxlx|bin)$"
+        },
         "format": { "enum": ["xml", "binary", "invalid"] },
         "size_bytes": { "type": "integer", "minimum": 0 },
         "download_url": { "type": "string", "format": "uri" }
@@ -27,16 +72,122 @@
       "required": ["status"],
       "properties": {
         "status": { "enum": ["valid", "invalid"] },
-        "reason": { "type": "string" }
+        "reason": { "type": "string", "minLength": 1 }
       },
       "additionalProperties": false
     },
-    "provenance": { "type": "object" },
-    "badges": { "type": "array" },
-    "discovery": { "type": "object" },
-    "source": { "type": "object" },
-    "match": { "type": "object" },
-    "preferred": { "type": "boolean" }
+    "provenance": {
+      "type": "object",
+      "required": ["original_paths", "collection"],
+      "properties": {
+        "original_paths": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+        "collection": { "type": "string", "minLength": 1 },
+        "legacy_metadata_path": { "type": "string", "minLength": 1 },
+        "legacy_creator": { "type": "string" },
+        "notes": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "badge": {
+      "type": "object",
+      "required": ["id", "origin"],
+      "properties": {
+        "id": { "type": "integer", "minimum": 1 },
+        "name": { "type": "string" },
+        "origin": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "positive_id_array": {
+      "type": "array",
+      "items": { "type": "integer", "minimum": 1 },
+      "uniqueItems": true
+    },
+    "discovery": {
+      "type": "object",
+      "properties": {
+        "badge_ids": { "$ref": "#/$defs/positive_id_array" },
+        "place_ids": { "$ref": "#/$defs/positive_id_array" },
+        "teleport_place_ids": { "$ref": "#/$defs/positive_id_array" }
+      },
+      "additionalProperties": false
+    },
+    "creator": {
+      "type": "object",
+      "required": ["id", "name", "type"],
+      "properties": {
+        "id": { "type": "integer", "minimum": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "type": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "required": ["root_place_id", "universe_id", "name", "roblox_url"],
+      "properties": {
+        "root_place_id": { "type": "integer", "minimum": 1 },
+        "universe_id": { "type": "integer", "minimum": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "roblox_url": {
+          "type": "string",
+          "pattern": "^https://www\\.roblox\\.com/games/[1-9][0-9]*$"
+        },
+        "description": { "type": "string" },
+        "creator": { "$ref": "#/$defs/creator" },
+        "created_at": { "type": "string", "format": "date-time" },
+        "updated_at": { "type": "string", "format": "date-time" }
+      },
+      "additionalProperties": false
+    },
+    "evidence": {
+      "type": "object",
+      "required": ["kind", "value", "detail"],
+      "properties": {
+        "kind": { "type": "string", "minLength": 1 },
+        "value": { "type": "string", "minLength": 1 },
+        "detail": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "match": {
+      "type": "object",
+      "required": ["status", "confidence", "reviewed"],
+      "properties": {
+        "status": { "enum": ["unresolved", "candidate", "conflict", "verified"] },
+        "confidence": { "enum": ["none", "medium", "high"] },
+        "reviewed": { "type": "boolean" },
+        "evidence": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/evidence" },
+          "uniqueItems": true
+        }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "status": { "const": "verified" } } },
+          "then": { "properties": { "confidence": { "const": "high" } } }
+        },
+        {
+          "if": { "properties": { "status": { "const": "candidate" } } },
+          "then": { "properties": { "confidence": { "const": "medium" } } }
+        },
+        {
+          "if": {
+            "properties": {
+              "status": { "enum": ["unresolved", "conflict"] }
+            }
+          },
+          "then": { "properties": { "confidence": { "const": "none" } } }
+        }
+      ],
+      "additionalProperties": false
+    }
   },
   "additionalProperties": false
 }
