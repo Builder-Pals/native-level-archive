@@ -8,11 +8,11 @@
     "precision": "day"
   },
   "blob": {
-    "sha256": "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239",
-    "path": "levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx",
+    "sha256": "cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f",
+    "path": "levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx",
     "format": "xml",
-    "size_bytes": 25774144,
-    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx"
+    "size_bytes": 25711591,
+    "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx"
   },
   "validation": {
     "status": "valid"

@@ -2,6 +2,8 @@
 
 const assert = require("node:assert/strict");
 const { webcrypto } = require("node:crypto");
+const fs = require("node:fs");
+const path = require("node:path");
 
 if (!globalThis.crypto) {
   globalThis.crypto = webcrypto;
@@ -262,6 +264,29 @@ async function run() {
     utils.validateRecord(invalidSource).filter((error) => error.includes("positive integer"))
       .length >= 2,
   );
+
+  const invalidContract = JSON.parse(JSON.stringify(record));
+  invalidContract.blob.path = "levels/example.rbxl";
+  invalidContract.blob.format = "other";
+  invalidContract.match.status = "approved";
+  invalidContract.extra = true;
+  const contractErrors = utils.validateRecord(invalidContract);
+  assert.ok(contractErrors.some((error) => error.includes("canonical content-addressed")));
+  assert.ok(contractErrors.some((error) => error.includes("xml, binary, or invalid")));
+  assert.ok(contractErrors.some((error) => error.includes("match.status")));
+  assert.ok(contractErrors.some((error) => error.includes("unknown properties")));
+
+  const recordsDirectory = path.resolve(__dirname, "../../catalog/records");
+  const sourceRecordFiles = fs
+    .readdirSync(recordsDirectory)
+    .filter((filename) => filename.endsWith(".json"));
+  assert.ok(sourceRecordFiles.length > 0);
+  for (const filename of sourceRecordFiles) {
+    const sourceRecord = JSON.parse(
+      fs.readFileSync(path.join(recordsDirectory, filename), "utf8"),
+    );
+    assert.deepEqual(utils.validateRecord(sourceRecord), [], filename);
+  }
 
   console.log("record-utils tests passed");
 }

@@ -5,3 +5,6 @@ An index of historical Roblox places. This fork maps Roblox place IDs to metadat
 ## [Open Editor](https://builder-pals.github.io/native-level-archive/)
 
 Requires you to have a local clone of the repository!
+
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the source-of-truth boundaries, catalog data flow, and
+integrity guarantees.

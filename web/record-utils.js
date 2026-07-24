@@ -10,6 +10,8 @@
   const SCHEMA_VERSION = 1;
   const RAW_BASE_URL =
     "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/";
+  const BLOB_PATH_PATTERN =
+    /^(levels|quarantine)\/sha256\/([a-f0-9]{2})\/([a-f0-9]{64})\.(rbxl|rbxlx|bin)$/;
   const MONTHS = new Map([
     ["january", 1],
     ["february", 2],
@@ -222,6 +224,30 @@
 
   function isSafeInteger(value) {
     return Number.isSafeInteger(value) && value >= 0;
+  }
+
+  function isPositiveInteger(value) {
+    return Number.isSafeInteger(value) && value > 0;
+  }
+
+  function rejectUnknownProperties(value, allowed, label, errors) {
+    if (!isObject(value)) {
+      return;
+    }
+    const unknown = Object.keys(value).filter((key) => !allowed.includes(key));
+    if (unknown.length > 0) {
+      errors.push(`${label} contains unknown properties: ${unknown.join(", ")}.`);
+    }
+  }
+
+  function validatePositiveIdArray(value, label, errors) {
+    if (
+      !Array.isArray(value) ||
+      value.some((item) => !isPositiveInteger(item)) ||
+      new Set(value).size !== value.length
+    ) {
+      errors.push(`${label} must contain unique positive integers.`);
+    }
   }
 
   function isPublishableRecord(record) {
@@ -483,6 +509,26 @@
     if (!isObject(record)) {
       return ["The record must be a JSON object."];
     }
+    rejectUnknownProperties(
+      record,
+      [
+        "schema_version",
+        "id",
+        "title",
+        "aliases",
+        "snapshot",
+        "blob",
+        "validation",
+        "provenance",
+        "badges",
+        "discovery",
+        "source",
+        "match",
+        "preferred",
+      ],
+      "record",
+      errors,
+    );
     if (record.schema_version !== SCHEMA_VERSION) {
       errors.push(`schema_version must be ${SCHEMA_VERSION}.`);
     }
@@ -495,32 +541,67 @@
     if (typeof record.title !== "string" || record.title.trim() === "") {
       errors.push("title must be a non-empty string.");
     }
+    if (
+      record.aliases !== undefined &&
+      (!Array.isArray(record.aliases) ||
+        record.aliases.some((alias) => typeof alias !== "string" || alias === "") ||
+        new Set(record.aliases).size !== record.aliases.length)
+    ) {
+      errors.push("aliases must contain unique non-empty strings when present.");
+    }
     if (!isObject(record.snapshot)) {
       errors.push("snapshot must be an object (use {} when unknown).");
+    } else {
+      rejectUnknownProperties(record.snapshot, ["label", "date", "precision"], "snapshot", errors);
+      if (record.snapshot.label !== undefined && typeof record.snapshot.label !== "string") {
+        errors.push("snapshot.label must be a string when present.");
+      }
+      const hasDate = record.snapshot.date !== undefined;
+      const hasPrecision = record.snapshot.precision !== undefined;
+      if (hasDate !== hasPrecision) {
+        errors.push("snapshot.date and snapshot.precision must be provided together.");
+      }
+      if (
+        hasDate &&
+        (typeof record.snapshot.date !== "string" ||
+          !/^\d{4}-\d{2}-\d{2}$/.test(record.snapshot.date))
+      ) {
+        errors.push("snapshot.date must use YYYY-MM-DD format.");
+      }
+      if (hasPrecision && !["day", "month", "year"].includes(record.snapshot.precision)) {
+        errors.push("snapshot.precision must be day, month, or year.");
+      }
     }
     if (!isObject(record.blob)) {
       errors.push("blob must be an object.");
     } else {
+      rejectUnknownProperties(
+        record.blob,
+        ["sha256", "path", "format", "size_bytes", "download_url"],
+        "blob",
+        errors,
+      );
       if (typeof record.blob.sha256 !== "string" || !/^[a-f0-9]{64}$/.test(record.blob.sha256)) {
         errors.push("blob.sha256 must be 64 lowercase hexadecimal characters.");
       }
-      if (
-        typeof record.blob.path !== "string" ||
-        record.blob.path === "" ||
-        record.blob.path.includes("..") ||
-        record.blob.path.includes("\\") ||
-        record.blob.path.startsWith("/")
+      const pathMatch =
+        typeof record.blob.path === "string" ? BLOB_PATH_PATTERN.exec(record.blob.path) : null;
+      if (!pathMatch) {
+        errors.push("blob.path must be a canonical content-addressed archive path.");
+      } else if (
+        pathMatch[2] !== record.blob.sha256?.slice(0, 2) ||
+        pathMatch[3] !== record.blob.sha256
       ) {
-        errors.push("blob.path must be a safe repository-relative path using forward slashes.");
+        errors.push("blob.path must contain blob.sha256 and its two-character prefix.");
       }
       if (!isSafeInteger(record.blob.size_bytes)) {
         errors.push("blob.size_bytes must be a non-negative safe integer.");
       }
-      if (typeof record.blob.format !== "string" || record.blob.format === "") {
-        errors.push("blob.format must be a non-empty string.");
+      if (!["xml", "binary", "invalid"].includes(record.blob.format)) {
+        errors.push("blob.format must be xml, binary, or invalid.");
       }
-      if (typeof record.blob.download_url !== "string" || record.blob.download_url === "") {
-        errors.push("blob.download_url must be a non-empty string.");
+      if (record.blob.download_url !== `${RAW_BASE_URL}${record.blob.path}`) {
+        errors.push("blob.download_url must be the canonical raw URL for blob.path.");
       }
     }
     if (constraints.expectedBlob && !deepEqual(record.blob, constraints.expectedBlob)) {
@@ -528,12 +609,48 @@
         "The blob reference of an existing record cannot be changed here; archive blobs are immutable.",
       );
     }
-    if (!isObject(record.validation) || typeof record.validation.status !== "string") {
+    if (!isObject(record.validation)) {
       errors.push("validation.status must be present.");
+    } else {
+      rejectUnknownProperties(record.validation, ["status", "reason"], "validation", errors);
+      if (!["valid", "invalid"].includes(record.validation.status)) {
+        errors.push("validation.status must be valid or invalid.");
+      }
+      if (
+        record.validation.reason !== undefined &&
+        (typeof record.validation.reason !== "string" || record.validation.reason === "")
+      ) {
+        errors.push("validation.reason must be a non-empty string when present.");
+      }
+      if (
+        record.validation.status === "valid" &&
+        (!["xml", "binary"].includes(record.blob?.format) ||
+          !record.blob?.path?.startsWith("levels/"))
+      ) {
+        errors.push("Valid records must reference an XML or binary blob beneath levels/.");
+      }
+      if (
+        record.validation.status === "invalid" &&
+        (record.blob?.format !== "invalid" || !record.blob?.path?.startsWith("quarantine/"))
+      ) {
+        errors.push("Invalid records must reference an invalid blob beneath quarantine/.");
+      }
     }
     if (!isObject(record.provenance)) {
       errors.push("provenance must be an object.");
     } else {
+      rejectUnknownProperties(
+        record.provenance,
+        [
+          "original_paths",
+          "collection",
+          "legacy_metadata_path",
+          "legacy_creator",
+          "notes",
+        ],
+        "provenance",
+        errors,
+      );
       if (
         !Array.isArray(record.provenance.original_paths) ||
         record.provenance.original_paths.length === 0 ||
@@ -553,41 +670,117 @@
     if (record.badges !== undefined) {
       if (!Array.isArray(record.badges)) {
         errors.push("badges must be an array when present.");
-      } else if (record.badges.some((badge) => !isObject(badge) || !isSafeInteger(badge.id))) {
-        errors.push("Each badge must be an object with a non-negative integer id.");
+      } else if (
+        record.badges.some(
+          (badge) =>
+            !isObject(badge) ||
+            !isPositiveInteger(badge.id) ||
+            typeof badge.origin !== "string" ||
+            badge.origin === "",
+        )
+      ) {
+        errors.push("Each badge must have a positive integer id and non-empty origin.");
+      } else {
+        for (const badge of record.badges) {
+          rejectUnknownProperties(badge, ["id", "name", "origin"], "badge", errors);
+        }
       }
     }
     if (!isObject(record.discovery)) {
       errors.push("discovery must be an object (use {} when empty).");
+    } else {
+      rejectUnknownProperties(
+        record.discovery,
+        ["badge_ids", "place_ids", "teleport_place_ids"],
+        "discovery",
+        errors,
+      );
+      for (const field of ["badge_ids", "place_ids", "teleport_place_ids"]) {
+        if (record.discovery[field] !== undefined) {
+          validatePositiveIdArray(record.discovery[field], `discovery.${field}`, errors);
+        }
+      }
     }
     if (record.source !== undefined) {
       if (!isObject(record.source)) {
         errors.push("source must be an object when present.");
       } else {
-        if (!Number.isSafeInteger(record.source.root_place_id) || record.source.root_place_id <= 0) {
+        rejectUnknownProperties(
+          record.source,
+          [
+            "root_place_id",
+            "universe_id",
+            "name",
+            "roblox_url",
+            "description",
+            "creator",
+            "created_at",
+            "updated_at",
+          ],
+          "source",
+          errors,
+        );
+        if (!isPositiveInteger(record.source.root_place_id)) {
           errors.push("source.root_place_id must be a positive integer.");
         }
-        if (!Number.isSafeInteger(record.source.universe_id) || record.source.universe_id <= 0) {
+        if (!isPositiveInteger(record.source.universe_id)) {
           errors.push("source.universe_id must be a positive integer.");
         }
         if (typeof record.source.name !== "string" || record.source.name.trim() === "") {
           errors.push("source.name must be a non-empty string.");
         }
         if (
-          typeof record.source.roblox_url !== "string" ||
-          record.source.roblox_url.trim() === ""
+          record.source.roblox_url !==
+          `https://www.roblox.com/games/${record.source.root_place_id}`
         ) {
-          errors.push("source.roblox_url must be a non-empty string.");
+          errors.push("source.roblox_url must be the canonical URL for source.root_place_id.");
         }
       }
     }
-    if (
-      !isObject(record.match) ||
-      typeof record.match.status !== "string" ||
-      typeof record.match.confidence !== "string" ||
-      typeof record.match.reviewed !== "boolean"
-    ) {
+    if (!isObject(record.match)) {
       errors.push("match must contain string status/confidence fields and a boolean reviewed field.");
+    } else {
+      rejectUnknownProperties(
+        record.match,
+        ["status", "confidence", "reviewed", "evidence"],
+        "match",
+        errors,
+      );
+      if (!["unresolved", "candidate", "conflict", "verified"].includes(record.match.status)) {
+        errors.push("match.status is not recognized.");
+      }
+      if (!["none", "medium", "high"].includes(record.match.confidence)) {
+        errors.push("match.confidence is not recognized.");
+      }
+      if (typeof record.match.reviewed !== "boolean") {
+        errors.push("match.reviewed must be a boolean.");
+      }
+      const expectedConfidence = {
+        unresolved: "none",
+        candidate: "medium",
+        conflict: "none",
+        verified: "high",
+      }[record.match.status];
+      if (expectedConfidence && record.match.confidence !== expectedConfidence) {
+        errors.push(`match.confidence must be ${expectedConfidence} for ${record.match.status}.`);
+      }
+      if (
+        record.match.evidence !== undefined &&
+        (!Array.isArray(record.match.evidence) ||
+          record.match.evidence.some(
+            (item) =>
+              !isObject(item) ||
+              ["kind", "value", "detail"].some(
+                (field) => typeof item[field] !== "string" || item[field] === "",
+              ),
+          ))
+      ) {
+        errors.push("match.evidence entries must contain non-empty kind, value, and detail.");
+      } else {
+        for (const item of record.match.evidence || []) {
+          rejectUnknownProperties(item, ["kind", "value", "detail"], "match evidence", errors);
+        }
+      }
     }
     if (typeof record.preferred !== "boolean") {
       errors.push("preferred must be a boolean.");

@@ -845,20 +845,20 @@
         "record_id": "nla_811446b5c14fc3b27e1b200fbe694008",
         "title": "Robloxaville (June 13th, 2010)",
         "snapshot_date": "2010-06-13",
-        "sha256": "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239",
-        "size_bytes": 25774144,
-        "path": "levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx",
-        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx"
+        "sha256": "cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f",
+        "size_bytes": 25711591,
+        "path": "levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx",
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx"
       },
       "variants": [
         {
           "record_id": "nla_811446b5c14fc3b27e1b200fbe694008",
           "title": "Robloxaville (June 13th, 2010)",
           "snapshot_date": "2010-06-13",
-          "sha256": "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239",
-          "size_bytes": 25774144,
-          "path": "levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx",
-          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx"
+          "sha256": "cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f",
+          "size_bytes": 25711591,
+          "path": "levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx"
         }
       ]
     },
@@ -1558,19 +1558,19 @@
       "preferred": {
         "record_id": "nla_30880b9499d353a89d92e95ae20da771",
         "title": "Chuck E. Cheese's",
-        "sha256": "695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c",
-        "size_bytes": 7512048,
-        "path": "levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx",
-        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx"
+        "sha256": "fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8",
+        "size_bytes": 7500137,
+        "path": "levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx",
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx"
       },
       "variants": [
         {
           "record_id": "nla_30880b9499d353a89d92e95ae20da771",
           "title": "Chuck E. Cheese's",
-          "sha256": "695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c",
-          "size_bytes": 7512048,
-          "path": "levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx",
-          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx"
+          "sha256": "fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8",
+          "size_bytes": 7500137,
+          "path": "levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx",
+          "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx"
         }
       ]
     },

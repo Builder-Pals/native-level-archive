@@ -656,13 +656,6 @@
       "size_bytes": 64886,
       "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/237f2d5cc2fd2a065e0c0cb7fb738002835927c66b47b612ea3b006b7acdef8b.rbxl"
     },
-    "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239": {
-      "sha256": "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239",
-      "path": "levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx",
-      "format": "xml",
-      "size_bytes": 25774144,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx"
-    },
     "24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f": {
       "sha256": "24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f",
       "path": "levels/sha256/24/24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f.rbxlx",
@@ -1824,13 +1817,6 @@
       "format": "xml",
       "size_bytes": 22412521,
       "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/68/68ef78eaf7e7c3f21d2aa363dc545f41fbbc452b0c41ce357a69df04f89d6cce.rbxlx"
-    },
-    "695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c": {
-      "sha256": "695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c",
-      "path": "levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx",
-      "format": "xml",
-      "size_bytes": 7512048,
-      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx"
     },
     "69d3cfa0fb5d861836900a13411506241bdc3d366654e829c19558b602a9a91c": {
       "sha256": "69d3cfa0fb5d861836900a13411506241bdc3d366654e829c19558b602a9a91c",
@@ -3624,6 +3610,13 @@
       "size_bytes": 647150,
       "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc89f603eb295aa36c155261b305239b09e772f5759ae29adccac2d469228757.rbxl"
     },
+    "cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f": {
+      "sha256": "cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f",
+      "path": "levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx",
+      "format": "xml",
+      "size_bytes": 25711591,
+      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx"
+    },
     "cce1e447e6fe03f364d00ea665a13a08d15ea31721ca6772068e661fd4fdea5a": {
       "sha256": "cce1e447e6fe03f364d00ea665a13a08d15ea31721ca6772068e661fd4fdea5a",
       "path": "levels/sha256/cc/cce1e447e6fe03f364d00ea665a13a08d15ea31721ca6772068e661fd4fdea5a.rbxl",
@@ -4358,6 +4351,13 @@
       "format": "binary",
       "size_bytes": 613058,
       "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fa/fa60ccf2abd86e6cd1cafeb85fdf16a2b8d724f122f2eca5db172c51c611c2a7.rbxl"
+    },
+    "fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8": {
+      "sha256": "fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8",
+      "path": "levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx",
+      "format": "xml",
+      "size_bytes": 7500137,
+      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx"
     },
     "fbaf22467bdc345f59dc326f07a140d6e20441719ccd4f70be2d9d496d4dbd50": {
       "sha256": "fbaf22467bdc345f59dc326f07a140d6e20441719ccd4f70be2d9d496d4dbd50",
@@ -10588,11 +10588,11 @@
       "title": "Chuck E. Cheese's",
       "snapshot": {},
       "blob": {
-        "sha256": "695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c",
-        "path": "levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx",
+        "sha256": "fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8",
+        "path": "levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx",
         "format": "xml",
-        "size_bytes": 7512048,
-        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/69/695ea8d6c7eabe0e9093e696504558344aeb057acdafd863e2c2afc88eb4cb8c.rbxlx"
+        "size_bytes": 7500137,
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/fb/fb2e435ec08df1d19a5dad5d02ae74eade636135b59e079332f66dc059bc47f8.rbxlx"
       },
       "validation": {
         "status": "valid"
@@ -19887,11 +19887,11 @@
         "precision": "day"
       },
       "blob": {
-        "sha256": "239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239",
-        "path": "levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx",
+        "sha256": "cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f",
+        "path": "levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx",
         "format": "xml",
-        "size_bytes": 25774144,
-        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/239cbb70e2ae3ea6eaa36027320a4eb19762a4ba94819c1e0eb5408766b31239.rbxlx"
+        "size_bytes": 25711591,
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/cc/cc963fdb5b5b719476796969527093ff590991ca6bb57b04c2e551421f402a4f.rbxlx"
       },
       "validation": {
         "status": "valid"

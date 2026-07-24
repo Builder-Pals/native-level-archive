@@ -1,6 +1,10 @@
 mod catalog;
 mod git;
+mod level;
 mod model;
+mod projection;
+mod storage;
+mod verify;
 
 use std::path::PathBuf;
 
@@ -61,8 +65,8 @@ async fn main() -> Result<()> {
         }
         Command::Discover => catalog::discover(&root),
         Command::Enrich => catalog::enrich(&root).await,
-        Command::Build => catalog::build(&root),
+        Command::Build => projection::build(&root),
         Command::Prefer { record_id } => catalog::prefer(&root, &record_id),
-        Command::Verify => catalog::verify(&root),
+        Command::Verify => verify::verify(&root),
     }
 }
