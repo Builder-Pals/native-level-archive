@@ -656,6 +656,13 @@
       "size_bytes": 64886,
       "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/23/237f2d5cc2fd2a065e0c0cb7fb738002835927c66b47b612ea3b006b7acdef8b.rbxl"
     },
+    "240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41": {
+      "sha256": "240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41",
+      "path": "levels/sha256/24/240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41.rbxl",
+      "format": "binary",
+      "size_bytes": 786751,
+      "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/24/240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41.rbxl"
+    },
     "24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f": {
       "sha256": "24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f",
       "path": "levels/sha256/24/24b38aa3e2faf48f6f44671f7d38927aff17ff95c5816c8b281a6436eda8f83f.rbxlx",
@@ -10033,6 +10040,35 @@
       "provenance": {
         "original_paths": [
           "The Normal City.rbxl"
+        ],
+        "collection": "root"
+      },
+      "discovery": {},
+      "match": {
+        "status": "unresolved",
+        "confidence": "none",
+        "reviewed": false
+      },
+      "preferred": false
+    },
+    {
+      "schema_version": 1,
+      "id": "nla_29dcdcbecd967ac7414c7ad88c64f8c3",
+      "title": "DriveBlox Unlimited",
+      "snapshot": {},
+      "blob": {
+        "sha256": "240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41",
+        "path": "levels/sha256/24/240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41.rbxl",
+        "format": "binary",
+        "size_bytes": 786751,
+        "download_url": "https://raw.githubusercontent.com/Builder-Pals/native-level-archive/main/levels/sha256/24/240a735f851dfe81f9bec65c7bdd388e47a3feeab30605da95eb6a20ba086a41.rbxl"
+      },
+      "validation": {
+        "status": "valid"
+      },
+      "provenance": {
+        "original_paths": [
+          "driveblox.rbxl"
         ],
         "collection": "root"
       },
